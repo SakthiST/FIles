@@ -51,6 +51,8 @@
 <p id="C1P1">In 1972 <url webUrl="https://doi.org/10.25546/101139">https://doi.org/10.25546/101139</url></p>
 </div1>
 
+
+
 <p><displayText id="oso-123456789-chapter-4-displayText-1" class="prosequote">
 <p></p>
 </displayText></p>
@@ -64,13 +66,41 @@
 
 <graphic id="oso-9780198878230-chapter-2-graphic-1" role="display" sysId="Figure_FM_1.gif"/>
 
+<inlineMaths><graphic id="oso-9780198878230-chapter-2-graphic-1" electroniRight="Y" sysId="oso-9780198878230-math-0001.gif" role="inline"/>
+<m:math xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" display="inline" id="oso-1234577899-chapter-1-math-1" overflow="scroll"><m:mrow><m:mi>Z</m:mi><m:mo>&#x2264;</m:mo><m:mn>7</m:mn></m:mrow></m:math>
+</inlineMaths>
+
+<p><displayMaths>
+<graphic id="oso-9780198878230-chapter-2-graphic-1" electroniRight="Y" sysId="oso-9780198878230-math-0001.gif" role="display"/>
+<m:math xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" display="block" id="oso-1234577899-chapter-1-math-1" overflow="scroll"><m:mrow><m:mi>Z</m:mi><m:mo>&#x2264;</m:mo><m:mn>7</m:mn></m:mrow></m:math>
+</displayMaths></p>
+
+
+
+<figreGroup id="oso-123456789-chapter-1-figreGroup-1" doi="10.1093/oso/123456789.003.0001.006.0001" placement="fixed">
+<figre id="oso-123456789-chapter-1-figre-1" electroniRight="Y">
+<caption><p><enumerator>Fig. 1</enumerator> ABC</p></caption>
+<graphic id="oso-9780198878230-miscMatter-2-graphic-1" role="display" sysId=""/>
+<source><p>abcd</p></source>
+</figre>
+</figreGroup>
+
+
+<p><list class="other">
+<list1 id="oso-123456789-chapter-3-list1-1" listType="unstructured">
+<item1 id="oso-123456789-chapter-3-list1-1"><p><enumerator>&#x2022;</enumerator> sdfsdfds</p></item1>
+<item1 id="oso-123456789-chapter-3-list1-2"><p><enumerator>&#x2022;</enumerator> dsfsdaf</p></item1>
+</list1>
+</list></p>
+
 <noteGroup>
 <note id="oso-123456789-chapter-1-note-1" type="footnote"><p><enumerator><sup>1</sup></enumerator> </p></note>
 </noteGroup>
 
 
-<floatGroup id="oso-123456789-chapter-1-floatGroup-1">
 
+
+<floatGroup id="oso-123456789-chapter-1-floatGroup-1">
 
 <tableGroup id="oso-123456789-chapter-1-tableGroup-1" doi="10.1093/oso/123456789.003.0001.007.0001" placement="float">
 <table id="oso-123456789-chapter-1-table-1" frame="topbot">
