@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OXFORD//DTD OXCHAPML//EN" "OxChapML.dtd">
+
+<book id="oso-123456789-book-1" doi="10.1093/oso/123456789.001.0001" OSOsubject="physics">
+
+<bookMeta id="oso-123456789-bookMeta-1">
+<versionInfo>
+<versionDate>2023-05-06</versionDate>
+<versionDesc>Proofs</versionDesc>
+</versionInfo>
+<metaItem about="book">
+<metaItem about="DTD">
+<metaDescribes predicate="DTDname">OxChapML</metaDescribes>
+</metaItem>
+<metaItem about="TCIgroup">
+<metaItem about="TCI">
+<metaDescribes predicate="TCIname">OUP TCI</metaDescribes>
+<metaDescribes predicate="version">20170301.0</metaDescribes>
+</metaItem>
+</metaItem>
+<metaDescribes predicate="product">oso</metaDescribes>
+<metaDescribes predicate="colour-figures-for-online">Yes</metaDescribes>
+<metaDescribes predicate="publishing-group">oso US</metaDescribes>
+<metaDescribes predicate="captured-by">Integra</metaDescribes>
+</metaItem>
+</bookMeta>
+
+<mainText id="oso-123456789-mainText-1">
+<chapter id="oso-123456789-chapter-1" doi="10.1093/oso/123456789.003.0001">
+<metaInfo id="oso-123456789-chapter-1-metaInfo-1">
+<creatorGroup><creator class="author" invertedForm="Barry, Frank"><forenames>Frank</forenames><surname>Barry</surname></creator></creatorGroup>
+
+<abstract><p>Abstract</p></abstract>
+
+<keySubjectWords><keyword>keyword</keyword></keySubjectWords>
+
+<disclaimer><p></p></disclaimer>
+<disclaimer><p><i>The Networked Financier</i>. David R. Meyer, Oxford University Press. &#x00A9; David R. Meyer (2023). DOI: 10.1093/oso/9780192874528.003.0001</p></disclaimer>
+
+<metaItem about="chapter">
+*Top same*
+</metaInfo>
+
+<titleGroup id="oso-123456789-chapter-1-titleGroup-1"><title><p><enumerator>1</enumerator> Vantage Point, 1972</p></title></titleGroup>
+
+<?Page pageId="119"?><milestone id="oso-9780192874528-chapter-5-milestone-119" num="119" unit="page"/>
+
+<textMatter id="oso-123456789-chapter-1-textMatter-1">
+
+<div1 id="oso-123456789-chapter-1-div1-1" doi="10.1093/oso/123456789.003.0001.021.0001" role="prelim">
+<p id="C1P1">In 1972 <url webUrl="https://doi.org/10.25546/101139">https://doi.org/10.25546/101139</url></p>
+</div1>
+
+<p><displayText id="oso-123456789-chapter-4-displayText-1" class="prosequote">
+<p></p>
+</displayText></p>
+
+<p><?Insert-Table ID="oso-123456789-chapter-1-tableGroup-1"?></p>
+<p><?Insert-Figure ID="oso-123456789-chapter-1-figureGroup-1"?></p>
+
+<xrefGrp>Table&#x00A0;<xref ref="oso-123456789-chapter-1-tableGroup-1">1.1</xref></xrefGrp>
+
+<xrefGrp role="footnote"><xref ref="oso-123456789-chapter-1-note-1"><sup>1</sup></xref></xrefGrp>
+
+<graphic id="oso-9780198878230-chapter-2-graphic-1" role="display" sysId="Figure_FM_1.gif"/>
+
+<noteGroup>
+<note id="oso-123456789-chapter-1-note-1" type="footnote"><p><enumerator><sup>1</sup></enumerator> </p></note>
+</noteGroup>
+
+
+<floatGroup id="oso-123456789-chapter-1-floatGroup-1">
+
+
+<tableGroup id="oso-123456789-chapter-1-tableGroup-1" doi="10.1093/oso/123456789.003.0001.007.0001" placement="float">
+<table id="oso-123456789-chapter-1-table-1" frame="topbot">
+<titleGroup id="oso-123456789-chapter-1-titleGroup-3"><title><p><enumerator>Table 1.1</enumerator> 1234</p></title></titleGroup>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<thead>
+<row>
+<entry colname="col2" align="left"><p>Agriculture</p></entry>
+</row>
+</thead>
+
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>1926</p></entry>
+</row>
+</tbody>
+
+</tgroup>
+<source><p></p></source>
+
+</table>
+</tableGroup>
+</floatGroup>
+</textMatter>
+</chapter>
+
+<bibliographyGroup id="oso-9780198878230-bibliographyGroup-1">
+<bibliography id="oso-9780198878230-bibliography-1" doi="10.1093/oso/9780198878230.004.0001">
+<bibList id="oso-123456789-bibliography-1-bibList-1">
+<bibItem id="oso-123456789-bibliography-1-bibItem-168" class="book" author="McAleese, Dermot" date="1977" title="A Profile of Grant-Aided Industry in Ireland" place="Dublin" publisher="Industrial Development Authority" purpose="display"><nameGrp foreNames="Dermot" mainName="Mcaleese" role="author">McAleese, Dermot</nameGrp>. <i>A Profile of Grant-Aided Industry in Ireland.</i> (Dublin: Industrial Development Authority, 1977).</bibItem>
+
+<bibItem id="oso-123456789-bibliography-1-bibItem-169" class="journalArticle" author="McAleese, Dermot" date="1977" journalIssue="1" title="Do Tariffs Matter? Industrial Specialization and Trade in a Small Economy" journalName="Oxford Economic Papers" vol="29" page="117" pageLast="127" purpose="display"><nameGrp foreNames="Dermot" mainName="Mcaleese" role="author">McAleese, Dermot</nameGrp>. &#x2018;Do Tariffs Matter? Industrial Specialization and Trade in a Small Economy&#x2019;. <i>Oxford Economic Papers</i> 29, 1 (1977): 117&#x2013;27.</bibItem>
+
+<bibItem id="oso-123456789-bibliography-1-bibItem-170" class="bookChapter" partAuthor="McAleese, Dermot" partTitle="Anglo-Irish Economic Interdependence: From Excessive Intimacy to a Wider Embrace" editor="Drudy, P. J." date="1986" title="Ireland and Britain since 1922" page="88" pageLast="105" place="Cambridge" publisher="Cambridge University Press" purpose="display"><nameGrp foreNames="Dermot" mainName="Mcaleese" role="partAuthor">McAleese, Dermot</nameGrp>. &#x2018;Anglo-Irish Economic Interdependence: From Excessive Intimacy to a Wider Embrace&#x2019;, in <i>Ireland and Britain since 1922</i>, ed. <nameGrp foreNames="P. J." mainName="Drudy" role="editor">P. J. Drudy</nameGrp> (Cambridge: Cambridge University Press, 1986), 88&#x2013;105.</bibItem>
+
+<bibItem id="oso-123456789-bibliography-1-bibItem-171" class="unclassified" author="McAleese, Dermot|Martin, John" date="1973" title="Irish Manufactured Imports from the UK in the Sixties: The Effects of AIFTA" purpose="display"><nameGrp foreNames="Dermot" mainName="Mcaleese" role="author">McAleese, Dermot</nameGrp>, and <nameGrp foreNames="John" mainName="Martin" role="author">John Martin</nameGrp>. &#x2018;Irish Manufactured Imports from the UK in the Sixties: The Effects of AIFTA&#x2019;. Economic and Social Research Institute (ESRI) Research Series, Paper No. 70, 1973.</bibItem>
+
+</bibList>
+</bibliography>
+</bibliographyGroup>
+
+</mainText>
+</book>
+
+
+
+
+
+<frontMatter id="oso-9780198878230-frontMatter-1">
+<miscMatterGroup id="oso-9780198878230-miscMatterGroup-1">
+<miscMatter id="oso-9780198878230-miscMatter-1" doi="10.1093/oso/9780198878230.002.0001" class="halftitle">
+<metaInfo id="oso-9780198878230-miscMatter-1-metaInfo-1">
+<creatorGroup>
+<creator class="author" invertedForm="Barry, Frank"><forenames>Frank</forenames><surname>Barry</surname></creator>
+</creatorGroup>
+<metaItem about="book">
+<metaItem about="DTD">
+<metaDescribes predicate="DTDname">OxChapML</metaDescribes>
+</metaItem>
+<metaItem about="TCIgroup">
+<metaItem about="TCI">
+<metaDescribes predicate="TCIname">OUP TCI</metaDescribes>
+<metaDescribes predicate="version">20170301.0</metaDescribes>
+</metaItem>
+</metaItem>
+<metaDescribes predicate="product">oso</metaDescribes>
+<metaDescribes predicate="colour-figures-for-online">Yes</metaDescribes>
+<metaDescribes predicate="publishing-group">oso US</metaDescribes>
+<metaDescribes predicate="captured-by">Integra</metaDescribes>
+</metaItem>
+</metaInfo>
+<titleGroup id="oso-9780198878230-miscMatter-1-titleGroup-1"><title><p><?Page pageId="i"?><milestone id="oso-9780198784692-miscMatter-1-milestone-1" num="i" unit="page"/>Industry and Policy in Independent Ireland, 1922&#x2013;1972<?Page pageId="ii"?><milestone id="oso-9780198784692-miscMatter-1-milestone-2" num="ii" unit="page"/></p></title></titleGroup>
+<textMatter id="oso-9780198878230-miscMatter-1-textMatter-1"/>
+</miscMatter>
+
+<miscMatter id="oso-9780198878230-miscMatter-2" doi="10.1093/oso/9780198878230.002.0002" class="titlepage">
+<titleGroup id="oso-9780198878230-miscMatter-2-titleGroup-2"><title><p><?Page pageId="iii"?><milestone id="oso-9780198784692-miscMatter-2-milestone-3" num="iii" unit="page"/>Industry and Policy in Independent Ireland, 1922&#x2013;1972</p></title>
+<creatorInfo>
+<p><nameGrp role="author" foreNames="Frank" mainName="Barry">Frank Barry</nameGrp></p>
+</creatorInfo></titleGroup>
+<textMatter id="oso-9780198878230-miscMatter-2-textMatter-2"><p><graphic id="oso-9780198878230-miscMatter-2-graphic-1" role="display" sysId="Figure_FM_1.gif"/></p>
+</textMatter>
+</miscMatter>
+
+<miscMatter id="oso-9780198878230-miscMatter-3" doi="10.1093/oso/9780198878230.002.0003" class="titleverso">
+<titleGroup id="oso-9780198878230-miscMatter-3-titleGroup-3"><title><p display="online"><?Page pageId="iv"?><milestone id="oso-9780198784692-miscMatter-3-milestone-4" num="iv" unit="page"/>Copyright Page</p></title></titleGroup>
+<textMatter id="oso-9780198878230-miscMatter-3-textMatter-3">
+<p><graphic id="oso-9780198878230-miscMatter-3-graphic-2" role="display" sysId="Figure_FM_2.gif"/></p>
+<p><displayText id="oso-9780198878230-miscMatter-3-displayText-1" class="other">
+<lineGroup>
+<line>Great Clarendon Street, Oxford, OX2 6DP,</line>
+<line>United Kingdom</line>
+</lineGroup>
+</displayText></p>
+</textMatter>
+</miscMatter>
+
+<miscMatter id="oso-9780198878230-miscMatter-4" doi="10.1093/oso/9780198878230.002.0004" class="dedication">
+<titleGroup id="oso-9780198878230-miscMatter-4-titleGroup-4"><title><p display="online"><?Page pageId="v"?><milestone id="oso-9780198784692-miscMatter-4-milestone-5" num="v" unit="page"/>Dedication</p></title></titleGroup>
+<textMatter id="oso-9780198878230-miscMatter-4-textMatter-4">
+<div1 id="oso-9780198878230-miscMatter-4-div1-1" doi="10.1093/oso/9780198878230.002.0004.021.0001">
+<p>To Ciara, to the Barrys of Currow and Mallow, the Feigherys of Banagher, and the ghosts of Gardiner Place.</p>
+</div1>
+</textMatter>
+</miscMatter>
+
+<miscMatter id="oso-9780198878230-miscMatter-5" doi="10.1093/oso/9780198878230.002.0005" class="preface">
+<titleGroup id="oso-9780198878230-miscMatter-5-titleGroup-5"><title><p><?Page pageId="vi"?><milestone id="oso-9780198784692-miscMatter-5-milestone-6" num="vi" unit="page"/>Preface</p></title></titleGroup>
+<textMatter id="oso-9780198878230-miscMatter-5-textMatter-5">
+<div1 id="oso-9780198878230-miscMatter-5-div1-2" doi="10.1093/oso/9780198878230.002.0005.021.0002">
+<p>Around </p>
+</div1>
+</textMatter>
+</miscMatter>
+
+
+<miscMatter id="oso-9780198878230-miscMatter-6" doi="10.1093/oso/9780198878230.002.0006" class="contents">
+<titleGroup id="oso-9780198878230-miscMatter-6-titleGroup-6"><title><p><?Page pageId="ix"?><milestone id="oso-9780198784692-miscMatter-5-milestone-9" num="ix" unit="page"/>Contents</p></title></titleGroup>
+<textMatter id="oso-9780198878230-miscMatter-6-textMatter-6">
+<p><list class="contents">
+<list1 id="oso-9780198878230-miscMatter-6-list1-1" listType="unstructured">
+<item1 id="oso-9780198878230-miscMatter-6-item1-1" role="frontMatter">
+<list2 id="oso-9780198878230-miscMatter-6-list2-1" listType="unstructured">
+<item2 id="oso-9780198878230-miscMatter-6-item2-1"><p>List of Tables <pageNum pageId="x">x</pageNum></p></item2>
+<item2 id="oso-9780198878230-miscMatter-6-item2-2"><p>List of Abbreviations <pageNum pageId="xiii">xiii</pageNum></p></item2></list2>
+</item1>
+<item1 id="oso-9780198878230-miscMatter-6-item1-2" role="mainText">
+<list2 id="oso-9780198878230-miscMatter-6-list2-2" listType="unstructured">
+<item2 id="oso-9780198878230-miscMatter-6-item2-3">
+<list3 id="oso-9780198878230-miscMatter-6-list3-1" listType="structured">
+<item3 id="oso-9780198878230-miscMatter-6-item3-1"><p><enumerator>1</enumerator> Vantage Point, 1972 <pageNum pageId="1">1</pageNum></p></item3>
+<item3 id="oso-9780198878230-miscMatter-6-item3-2"><p><enumerator>2</enumerator> The Pre-1922 Southern Business Establishment and Its Legacy <pageNum pageId="16">16</pageNum></p></item3>
+<item3 id="oso-9780198878230-miscMatter-6-item3-3"><p><enumerator>3</enumerator> Firms of Note in 1922 <pageNum pageId="37">37</pageNum></p></item3>
+<item3 id="oso-9780198878230-miscMatter-6-item3-4"><p><enumerator>4</enumerator> The Irish Free State of the 1920s <pageNum pageId="67">67</pageNum></p></item3>
+<item3 id="oso-9780198878230-miscMatter-6-item3-5"><p><enumerator>5</enumerator> From the Great Depression to the End of the Emergency <pageNum pageId="93">93</pageNum></p></item3>
+<item3 id="oso-9780198878230-miscMatter-6-item3-6"><p><enumerator>6</enumerator> The Post-War World and Dual-Track Reform <pageNum pageId="118">118</pageNum></p></item3>
+<item3 id="oso-9780198878230-miscMatter-6-item3-7"><p><enumerator>7</enumerator> Trade Liberalization and the Road to Europe <pageNum pageId="150">150</pageNum></p></item3>
+<item3 id="oso-9780198878230-miscMatter-6-item3-8"><p><enumerator>8</enumerator> The Industrial Landscape of 1972 and Beyond <pageNum pageId="176">176</pageNum></p></item3></list3>
+<list3 id="oso-9780198878230-miscMatter-6-list3-2" listType="unstructured">
+<item3 id="oso-9780198878230-miscMatter-6-item3-9"><p>Epilogue <pageNum pageId="198">198</pageNum></p></item3></list3>
+</item2></list2>
+</item1>
+<item1 id="oso-9780198878230-miscMatter-6-item1-3" role="endMatter">
+<list2 id="oso-9780198878230-miscMatter-6-list2-3" listType="unstructured">
+<item2 id="oso-9780198878230-miscMatter-6-item2-4"><p>References <pageNum pageId="203">203</pageNum></p></item2>
+<item2 id="oso-9780198878230-miscMatter-6-item2-5"><p>Index <pageNum pageId="215">215</pageNum></p></item2></list2>
+</item1></list1>
+</list></p>
+</textMatter>
+</miscMatter>
+
+<miscMatter id="oso-9780198878230-miscMatter-7" doi="10.1093/oso/9780198878230.002.0007" class="other">
+<titleGroup id="oso-9780198878230-miscMatter-7-titleGroup-7"><title><p><?Page pageId="x"?><milestone id="oso-9780198784692-miscMatter-6-milestone-10" num="x" unit="page"/>List of Tables</p></title></titleGroup>
+<textMatter id="oso-9780198878230-miscMatter-7-textMatter-7">
+<div1 id="oso-9780198878230-miscMatter-7-div1-3" doi="10.1093/oso/9780198878230.002.0007.021.0003">
+<p><list class="tables">
+<list1 id="oso-9780198878230-miscMatter-7-list1-2" listType="structured">
+<item1 id="oso-9780198878230-miscMatter-7-item1-2"><p><enumerator>1.1</enumerator> Numbers employed in agriculture, industry, and services (thousands), 1926&#x2013;1971 <pageNum pageId="2">2</pageNum></p></item1>
+</list1>
+</list></p>
+</div1>
+</textMatter>
+</miscMatter>
+
+
+<endMatter id="oso-9780198878230-endMatter-1">
+<indexGroup id="oso-9780198878230-indexGroup-1">
+<indexList id="oso-9780198878230-indexList-1" indexListType="subjectIndex">
+<titleGroup id="oso-9780198878230-indexList-1-titleGroup-1"><title><p><page id="215" chapter=""/>Index</p></title></titleGroup>
+<p><i>For the benefit of digital users, indexed terms that span two pages (e.g., 52&#x2013;53) may, on occasion, appear on only one of those pages.</i></p>
+<p>Please note that firm names beginning with initials will be sorted under the main part of the name, e.g. John H. Bennett &#x0026; Co. will be found under &#x2018;Bennett&#x2019;.</p>
+<alphabet/>
+<indexItem1 id="oso-9780198878230-indexList-1-indexItem1-1"><iHeadword>Abbey Clothing</iHeadword> <pageNum pageId="C5P44">109</pageNum></indexItem1>
+</indexList>
+</indexGroup>
+</endMatter>
+
+
+
+<miscMatter id="oso-9780198878230-miscMatter-8" doi="10.1093/oso/9780198878230.002.0008" class="abbrev">
+<titleGroup id="oso-9780198878230-miscMatter-8-titleGroup-8"><title><p><?Page pageId="xiii"?><milestone id="oso-9780198784692 -miscMatter-8-milestone-13" num="xiii" unit="page"/>List of Abbreviations</p></title></titleGroup>
+<textMatter id="oso-9780198878230-miscMatter-8-textMatter-8">
+<div1 id="oso-9780198878230-miscMatter-8-div1-4" doi="10.1093/oso/9780198878230.002.0008.021.0004">
+<p><list class="abbreviations">
+<list1 id="oso-9780198878230-miscMatter-8-list1-3" listType="headed">
+<item1 id="oso-9780198878230-miscMatter-8-item1-71"><title><p><abbrev ref="oso-9780198878230-miscMatter-8-abbrevExpansion-1">AIFTA</abbrev></p></title><p><abbrevExpansion id="oso-9780198878230-miscMatter-8-abbrevExpansion-1">Anglo-Irish Free Trade Area Agreement</abbrevExpansion></p></item1>
+</list1>
+</list></p>
+</div1>
+</textMatter>
+</miscMatter>
+
+</miscMatterGroup>
+</frontMatter>
+
+
+FrontMatter:
+	halftitle
+	titlepage
+	Copyright Page
+	contents
+	List of Tables
+	List of Figues
+	List of Abbreviations
+	
+	Acknowledgements
+	Dedication
+	preface
+	
+MainText:
+	Chapters
+	
+BackMatter:
+	Reference
+	Index
+	
+

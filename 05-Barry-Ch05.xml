@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OXFORD//DTD OXCHAPML//EN" "OxChapML.dtd">
+<book id="oso-9780198878230-book-1" doi="10.1093/oso/9780198878230.001.0001" OSOsubject="physics">
+<bookMeta id="oso-9780198878230-bookMeta-1">
+<versionInfo>
+<versionDate>2023-05-06</versionDate>
+<versionDesc>Proofs</versionDesc>
+</versionInfo>
+<metaItem about="book">
+<metaItem about="DTD">
+<metaDescribes predicate="DTDname">OxChapML</metaDescribes>
+</metaItem>
+<metaItem about="TCIgroup">
+<metaItem about="TCI">
+<metaDescribes predicate="TCIname">OUP TCI</metaDescribes>
+<metaDescribes predicate="version">20170301.0</metaDescribes>
+</metaItem>
+</metaItem>
+<metaDescribes predicate="product">oso</metaDescribes>
+<metaDescribes predicate="colour-figures-for-online">Yes</metaDescribes>
+<metaDescribes predicate="publishing-group">oso US</metaDescribes>
+<metaDescribes predicate="captured-by">Integra</metaDescribes>
+</metaItem>
+</bookMeta>
+<mainText id="oso-9780198878230-mainText-1">
+<chapter id="oso-9780198878230-chapter-5" doi="10.1093/oso/9780198878230.003.0005">
+<metaInfo id="oso-9780198878230-chapter-5-metaInfo-1">
+<versionInfo>
+<versionDate>2023-05-06</versionDate>
+<versionDesc>Proofs</versionDesc>
+</versionInfo>
+<creatorGroup>
+<creator class="author" invertedForm="Barry, Frank"><forenames>Frank</forenames><surname>Barry</surname></creator>
+</creatorGroup>
+<abstract>
+<p>This chapter analyses industrial developments over the four sub-periods into which the decades between the beginning of the Great Depression and the formation of the first Inter-Party government in 1948 can be roughly divided. Irish industry, and the economy more generally, was only modestly affected over the early&#x00A0;years of the Great Depression. The decline in manufacturing employment between 1929 and 1931 was a fraction of the fall recorded in the United Kingdom. The accession of Fianna F&#x00E1;il to power in 1932 brought a major shift in policy, though similar policies were being adopted across the world. While agriculture suffered severely as a consequence of the land annuities dispute with Britain, industrial employment expanded dramatically with the move to full protection. Brewing was one of the few industries to decline over the period to 1938: this was associated with the opening of a Guinness brewery in London. Many of the largest manufacturing employers of later decades emerged over this period. Despite legislation that attempted to restrict foreign control, many were foreign-owned. The performance of industry in neutral Ireland over the Second World War era is examined. The vigorous post-war rebound paralleled developments across the rest of Western Europe. The worsening balance-of-payments position and the austerity policies that it triggered would be met with the transformative policy responses of the mid-to-late 1950s. The largest manufacturing employers of 1948 are identified.</p>
+</abstract>
+<keySubjectWords>
+<keyword>Great Depression</keyword>
+<keyword>full protection</keyword>
+<keyword>protectionism</keyword>
+<keyword>economic war</keyword>
+<keyword>land annuities dispute</keyword>
+<keyword>foreign ownership restrictions</keyword>
+<keyword>wartime economy</keyword>
+<keyword>neutral Ireland</keyword>
+<keyword>the Emergency</keyword>
+<keyword>post-war boom</keyword></keySubjectWords>
+<disclaimer><p><i>Industry and Policy in Independent Ireland, 1922&#x2013;1972</i>. Frank Barry, Oxford University Press. &#x00A9; Frank Barry (2023). DOI: 10.1093/oso/9780198878230.003.0005</p></disclaimer>
+<metaItem about="book">
+<metaItem about="DTD">
+<metaDescribes predicate="DTDname">OxChapML</metaDescribes>
+</metaItem>
+<metaItem about="TCIgroup">
+<metaItem about="TCI">
+<metaDescribes predicate="TCIname">OUP TCI</metaDescribes>
+<metaDescribes predicate="version">20170301.0</metaDescribes>
+</metaItem>
+</metaItem>
+<metaDescribes predicate="product">oso</metaDescribes>
+<metaDescribes predicate="colour-figures-for-online">Yes</metaDescribes>
+<metaDescribes predicate="publishing-group">oso US</metaDescribes>
+<metaDescribes predicate="captured-by">Integra</metaDescribes>
+</metaItem>
+</metaInfo>
+<titleGroup id="oso-9780198878230-chapter-5-titleGroup-1"><title id="C5"><p><page id="93" chapter=""/><enumerator>5</enumerator> From the Great Depression to the End of the Emergency</p></title></titleGroup>
+<textMatter id="oso-9780198878230-chapter-5-textMatter-1">
+<div1 id="oso-9780198878230-chapter-5-div1-1" doi="10.1093/oso/9780198878230.003.0005.021.0001" role="prelim">
+<p id="C5P1">The Great Depression began in 1929 and reached its trough in the Free State&#x2014;as across most of the rest of Western Europe&#x2014;in 1932&#x2013;1933. The decades between the beginning of the depression and the formation of the first Inter-Party government in 1948 can be roughly divided into the four sub-periods for which the data are presented in <xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-5-tableGroup-1">5.1</xref></xrefGrp>. Firms employing 500 or more in or around 1948 are listed towards the end of the chapter.</p>
+<p id="C5P2">Irish industry was only modestly impacted by the global depression even prior to the change in policy that followed Fianna F&#x00E1;il&#x2019;s election victory in early 1932. UK manufacturing employment fell by 13 per cent between 1929 and 1931.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-1"><sup>1</sup></xref></xrefGrp> The decline in the Irish case&#x2014;because of the very different structure of the two economies&#x2014;was of the order of 2 per cent.</p>
+<p id="C5P3">The second sub-period stretches from the last&#x00A0;year of the Cumann na nGaedheal administration to the settlement of the land annuities dispute with Britain. While agriculture suffered severely as a consequence of the economic war, manufacturing boomed with the shift to full protection.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-2"><sup>2</sup></xref></xrefGrp> Employment increased by a dramatic 60 per cent over the&#x00A0;years to 1938, three times the rate recorded in the United Kingdom. Productivity developments however would store up problems for the future. British labour productivity improved as industry recovered; Irish labour productivity declined as entirely new industries were conjured into being.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-3"><sup>3</sup></xref></xrefGrp></p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-5-tableGroup-1"?></p>
+<p id="C5P4">Industrial expansion came to a halt with the onset of the Emergency, as the Second World War era was referred to in neutral Ireland. Production was constrained by shortages of fuel, raw materials, parts, and equipment. <page id="94" chapter=""/>Though agriculture fared better, there was no bonanza for farmers as there had been during the First World War. British prices were strictly controlled and &#x2018;an inadequate supply of fertilisers, feedstuffs, and machinery depressed crop and milk yields&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-4"><sup>4</sup></xref></xrefGrp> Manufacturing fell sharply up to 1942/43 but began to recover with the pick-up in trade from the time of the Normandy landings, and by 1945 the pre-war level of employment had been restored.</p>
+<p id="C5P5">The vigorous rebound of the immediate post-war years paralleled developments elsewhere across Western Europe. The boom in the war-ravaged economies however was driven by reconstruction; the Irish boom owed more to the release of pent-up consumer demand.</p>
+<p id="C5P6">The existential challenge posed by the deterioration in the balance of payments and the austerity policies that it triggered would be met with the transformative policy responses of the mid-to-late 1950s.</p>
+<noteGroup>
+<note id="oso-9780198878230-chapter-5-note-1" type="footnote"><p><enumerator><sup>1</sup></enumerator> <bibItem id="oso-9780198878230-chapter-5-bibItem-1" class="journalArticle" author="Thomas, Ryland|Dimsdale, Nicholas" date="2017" title="A Millennium of Macroeconomic Data for the UK" journalName="Bank of England&#x2019;s Historical Macroeconomic and Financial Statistics: Version" vol="3" purpose="display"><nameGrp foreNames="Ryland" mainName="Thomas" role="author">Ryland Thomas</nameGrp> and <nameGrp foreNames="Nicholas" mainName="Dimsdale" role="author">Nicholas Dimsdale</nameGrp>, &#x2018;A Millennium of Macroeconomic Data for the UK&#x2019;. <i>Bank of England&#x2019;s Historical Macroeconomic and Financial Statistics: Version</i> 3 (2017): table A53.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-2" type="footnote"><p><enumerator><sup>2</sup></enumerator> Daly refutes the claim that much of the recorded employment increase might have been a consequence of a gradual improvement in the coverage of the Census of Industrial Production: <bibItem id="oso-9780198878230-chapter-5-bibItem-2" class="journalArticle" author="Daly, Mary E." date="1988" journalIssue="1" title="The Employment Gains from Industrial Protection in the Irish Free State during the 1930s: A Note" journalName="Irish Economic and Social History" vol="15" page="71" pageLast="75" purpose="display"><nameGrp foreNames="Mary E." mainName="Daly" role="author">Mary E. Daly</nameGrp>, &#x2018;The Employment Gains from Industrial Protection in the Irish Free State during the 1930s: A Note&#x2019;. <i>Irish Economic and Social History</i> 15, 1 (1988): 71&#x2013;75.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-3" type="footnote"><p><enumerator><sup>3</sup></enumerator> Irish manufacturing output grew by 50 per cent over the period, UK output by 45 per cent, and UK employment by 23 per cent (UK output data from <bibItem id="oso-9780198878230-chapter-5-bibItem-3" class="journalArticle" author="Broadberry, Stephen N." date="1993" journalIssue="4" title="Manufacturing and the Convergence Hypothesis: What the Long-Run Data Show" journalName="Journal of Economic History" vol="53" purpose="display"><nameGrp foreNames="Stephen N." mainName="Broadberry" role="author">Stephen N. Broadberry</nameGrp>, &#x2018;Manufacturing and the Convergence Hypothesis: What the Long-Run Data Show&#x2019;. <i>Journal of Economic History</i> 53, 4 (1993)</bibItem>: appendix 1).</p></note>
+<note id="oso-9780198878230-chapter-5-note-4" type="footnote"><p><enumerator><sup>4</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-4" class="bookChapter" partAuthor="Gr&#x00E1;da, Cormac &#x00D3;|O&#x2019;Rourke, Kevin" partTitle="Irish Economic Growth, 1945&#x2013;88" editor="Crafts, Nicholas|Toniolo, Gianni" date="1996" title="Economic Growth in Europe Since 1945" page="388" pageLast="426" place="Cambridge" publisher="Cambridge University Press" purpose="display"><nameGrp foreNames="Cormac &#x00D3;" mainName="Gr&#x00e1;da" role="partAuthor">Cormac &#x00D3; Gr&#x00E1;da</nameGrp> and <nameGrp foreNames="Kevin" mainName="O&#x2019;rourke" role="partAuthor">Kevin O&#x2019;Rourke</nameGrp>, &#x2018;Irish Economic Growth, 1945&#x2013;88&#x2019;, in <i>Economic Growth in Europe Since 1945</i>, ed. <nameGrp foreNames="Nicholas" mainName="Crafts" role="editor">Nicholas Crafts</nameGrp> and <nameGrp foreNames="Gianni" mainName="Toniolo" role="editor">Gianni Toniolo</nameGrp> (Cambridge: Cambridge University Press, 1996), 388&#x2013;426.</bibItem></p></note>
+</noteGroup>
+<floatGroup id="oso-9780198878230-chapter-5-floatGroup-1">
+<tableGroup id="oso-9780198878230-chapter-5-tableGroup-1" doi="10.1093/oso/9780198878230.003.0005.007.0001" placement="float">
+<table id="oso-9780198878230-chapter-5-table-1" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-5-titleGroup-2"><title id="C5T1"><p><enumerator>Table 5.1</enumerator> Developments in manufacturing employment, selected sub-periods, 1929&#x2013;1948</p></title></titleGroup>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<thead>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Employment change</p></entry>
+<entry colname="col3" align="left"><p>Percentage change (rounded)</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>1929&#x2013;1931</p></entry>
+<entry colname="col2" align="left"><p>&#x2212;1,496</p></entry>
+<entry colname="col3" align="left"><p>&#x2212;2</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1931&#x2013;1938</p></entry>
+<entry colname="col2" align="left"><p>36,342</p></entry>
+<entry colname="col3" align="left"><p>60</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1938&#x2013;1945</p></entry>
+<entry colname="col2" align="left"><p>148</p></entry>
+<entry colname="col3" align="left"><p>&#x2248; 0</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1945&#x2013;1948</p></entry>
+<entry colname="col2" align="left"><p>22,229</p></entry>
+<entry colname="col3" align="left"><p>23</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Source</i>: Census of Industrial Production; Statistical Abstract (1952).</p></source>
+</table>
+</tableGroup>
+</floatGroup>
+</div1>
+<div1 id="oso-9780198878230-chapter-5-div1-2" doi="10.1093/oso/9780198878230.003.0005.021.0002">
+<titleGroup id="oso-9780198878230-chapter-5-titleGroup-3"><title id="C5S1"><p><enumerator>5.1</enumerator> From the Great Depression to the Eve of the Emergency</p></title></titleGroup>
+<p id="C5P7">Though Free State exports declined with the onset of the Great Depression, the terms of trade (the ratio of export to import prices) improved up to the outbreak of the economic war in July 1932. The collapse in global grain prices benefited Ireland&#x2019;s beef and dairy export sectors. It also reduced the cost of feeding pigs and poultry, which were staple products on smaller land holdings, and of bread and maize meal, which were particularly <page id="95" chapter=""/>significant items in the diets of poorer households.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-5"><sup>5</sup></xref></xrefGrp> The lack of heavy industry served to protect the economy from the collapse in manufacturing trade.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-6"><sup>6</sup></xref></xrefGrp> As University College Cork (UCC) Professor of Economics John Busteed expressed it in 1931, &#x2018;you cannot &#x201C;fire&#x201D; a small farmer in the same way as you can &#x201C;fire&#x201D; 5,000 Ford workers&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-7"><sup>7</sup></xref></xrefGrp> The decline in manufacturing between 1929 and 1931 corresponded closely to developments in the vehicle construction sector in which Ford was the dominant presence (<xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-5-tableGroup-2">5.2</xref></xrefGrp>). That Ireland entered the depression with low government debt and substantial external assets offered further significant benefits. There were no Irish banking failures.</p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-5-tableGroup-2"?></p>
+<p id="C5P8">Given the prevailing currency board arrangement, the Irish pound had fallen in value along with sterling when Britain left the gold standard in 1931. Depreciation served to cushion the depression and the United Kingdom became the first major country to surpass its pre-depression level of industrial production in 1934.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-8"><sup>8</sup></xref></xrefGrp> The benefits to Ireland were limited by the fact that most of its agricultural competitors on the UK market also devalued. Though Se&#x00E1;n MacEntee, who would succeed Blythe as Finance Minister in the new Fianna F&#x00E1;il administration, described sterling &#x2018;as a millstone round the necks of the people&#x2019;, he did not push the analogy further.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-9"><sup>9</sup></xref></xrefGrp> Devaluing against sterling would have forfeited the savings in transactions costs and other advantages of the interchangeability of the currencies. Blythe warned that few governments <page id="96" chapter=""/>with adjustable exchange rates &#x2018;could withstand the temptation to get out of their difficulties by putting the printing presses to work&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-10"><sup>10</sup></xref></xrefGrp></p>
+<p alignment="centre"></p>
+<p fullOut="Y" id="C5P9">Though clearly dramatic in the Irish context, and viewed with grave disquiet in the United Kingdom, the regime change that followed Fianna F&#x00E1;il&#x2019;s accession to power in 1932 was moderate by international standards. Most of the fledgling democracies of the other new inter-war states had collapsed into autocracy. De Valera would suggest in later life that the founders of Fianna F&#x00E1;il might perhaps with some justification have been described as &#x2018;socialists&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-11"><sup>11</sup></xref></xrefGrp> The social welfare innovations and expansion in government spending over which the party presided were modest however in comparison to Roosevelt&#x2019;s &#x2018;New Deal&#x2019; in America.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-12"><sup>12</sup></xref></xrefGrp> In his St Patrick&#x2019;s Day broadcast to the United States in 1934, de Valera likened Roosevelt&#x2019;s task to &#x2018;a major surgical operation&#x2019; while Fianna F&#x00E1;il&#x2019;s &#x2018;was more that of the physician patiently restoring a much-weakened but otherwise healthy body to full life and vigour&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-13"><sup>13</sup></xref></xrefGrp> The default on land annuity payments was one of many episodes of sovereign default across Europe over the period.</p>
+<p id="C5P10">The shift from &#x2018;selective&#x2019; to &#x2018;full protection&#x2019; was also part of a broader international trend. The United States had raised its tariffs in 1930. Britain, long the leading proponent of free trade, had turned protectionist in 1931. Many others had followed suit in the wake of the competitive devaluations triggered by the United Kingdom&#x2019;s abandonment of the Gold Standard earlier that year. The depression eroded belief in the benefits of free trade and minimal government intervention. The support that the United Kingdom began to offer its farming sector would have disadvantaged Irish agriculture regardless of the economic war. Other UK trading partners intervened to protect their farmers much as Ireland did. Agriculture&#x2019;s veto on industrial protection was weakened.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-14"><sup>14</sup></xref></xrefGrp></p>
+<p id="C5P11"><page id="97" chapter=""/>Nor was the pre-1922 business establishment as hostile to state intervention as had been the case a decade earlier. For J. &#x0026; L.F. Goodbody, expansion of the domestic sugar and peat industries would provide it with a new source of demand for its output of sacks, bags, and twine. It welcomed the protection it received against imports from Calcutta in the lighter types of jute it would soon produce in Waterford. Linen firms, which had been threatened by the erection of a customs frontier with Northern Ireland in 1923, now too lobbied for protection in the goods in which they were in competition with Northern Ireland and which the United Kingdom had recently protected. One representative of the industry stated that &#x2018;he did not want to see an Ireland of thirty-two counties, as twenty-six were quite enough for him and the others engaged in the linen trade&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-15"><sup>15</sup></xref></xrefGrp></p>
+<p id="C5P12">The department stores expanded their manufacturing businesses behind the tariff wall: Arnotts &#x2018;thanked God and the government&#x2019;s economic nationalism of the 1930s for the development of new knitting and making-up industries which became vital during the period of the Emergency and were very useful for&#x00A0;years afterwards&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-16"><sup>16</sup></xref></xrefGrp> The sharp decline in emigration resulting from the global contraction increased the pressure on government to adopt new job-creation policies. Timber firms and other builders&#x2019; providers benefited from the expansion in house construction that ensued. The free trade lobby was further weakened by developments at Ford and Guinness. With excess capacity at its massive new plant in Dagenham and the collapse in the global tractor market, Ford had made the decision to cease production in Cork.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-17"><sup>17</sup></xref></xrefGrp> Guinness&#x2019;s plans to establish a brewery at Old Trafford near Manchester had been shelved at the outbreak of the First World War. It retained ownership of the site but would open at Park Royal in London in 1936 instead.</p>
+<p id="C5P13">Though Cumann na nGaedheal&#x2019;s 1932 election handbook denied that it was a free-trade party, its more cautious economic approach was out of step with the mood of the times. It also shared with other incumbent governments the difficulty of securing re-election during a severe economic downturn. From its foundation, Fianna F&#x00E1;il had been ideologically committed not only to protection but also to as high a degree of self-sufficiency as possible. Its 1932 manifesto committed to &#x2018;make ourselves as independent of foreign imports as possible&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-18"><sup>18</sup></xref></xrefGrp> Friedrich List, the German economist who had been a major influence on Arthur Griffith, had been explicit that his &#x2018;infant-industry <page id="98" chapter=""/>argument&#x2019; did not extend to agriculture. Fianna F&#x00E1;il&#x2019;s agricultural policy was influenced by a separate stand of nineteenth-century thought in the person of Young Irelander James Fintan Lawlor, who had blamed the expansion of cattle at the expense of tillage for the depopulation of the country. Fianna F&#x00E1;il policy would seek to reverse the process whereby, in de Valera&#x2019;s phrase, &#x2018;the bullock replaced the human being&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-19"><sup>19</sup></xref></xrefGrp> The Fianna F&#x00E1;il-aligned minority report of the 1928 Select Committee on Wheat Growing had asserted that since bread had become the staple of the Irish diet, &#x2018;there is therefore a presumption in favour of the opinion that the first function of farming in [the state] should be the production of wheat&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-20"><sup>20</sup></xref></xrefGrp></p>
+<p id="C5P14">Nor was Fianna F&#x00E1;il&#x2019;s advocacy of industrial protection confined to industries that would be expected to become internationally competitive, as List had advocated. The Banking Commission would conclude from its discussions with Leydon, Secretary of Industry &#x0026; Commerce under Lemass, that there were &#x2018;scant prospects of paying for imports by the export of the products of the new industries&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-21"><sup>21</sup></xref></xrefGrp> There was a difference in logic, too, between the import-substituting industrialization of primary producers and the &#x2018;defensive&#x2019; industrial protection of the more advanced industrial economies.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-22"><sup>22</sup></xref></xrefGrp> Industry emerged <i>de novo</i> in the Free State as it did across much of Latin America, which also turned strongly protectionist at this time. Ireland&#x2019;s average tariff level in 1937 was the third highest of the twelve European countries and fifth highest of the twenty countries in total for which Ryan provides data.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-23"><sup>23</sup></xref></xrefGrp></p>
+<p alignment="centre"></p>
+<p fullOut="Y" id="C5P15">Though Keynes and others were arguing strongly for &#x2018;schemes of National Development&#x2019; in the United Kingdom, Fianna F&#x00E1;il showed no great enthusiasm for increased government spending in the lead-up to the 1932 general election. Retention of the land annuities, it was suggested, could be used to de-rate agricultural land, with the remainder &#x2018;available for the relief of <page id="99" chapter=""/>taxation, or for such purposes as the D&#x00E1;il may determine&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-24"><sup>24</sup></xref></xrefGrp> The party&#x2019;s economic programme included a promise to &#x2018;eliminate waste and extravagance in public administration&#x2019; and to reduce the salaries of senior civil servants. Its job creation proposals focused on industrial protection and the expansion of tillage.</p>
+<p id="C5P16">The first Fianna F&#x00E1;il government, however, was reliant on the votes of the Labour Party, whose preconditions for support included a major housing programme, widows&#x2019; and orphans&#x2019; pensions, and measures to provide work or maintenance for the 85,000 men believed to be unemployed at the time.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-25"><sup>25</sup></xref></xrefGrp> While Fianna F&#x00E1;il considered that Irish unemployment was only marginally related to the global depression, Labour&#x2019;s demands strengthened the hand of the left wing of the party.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-26"><sup>26</sup></xref></xrefGrp></p>
+<p id="C5P17">The first Fianna F&#x00E1;il budget was a major break with the parsimony of the past. The control of the Department of Finance had been diminished by the appointment of a Cabinet Committee to adjudicate on budgetary matters.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-27"><sup>27</sup></xref></xrefGrp> Expenditure grew sharply both in absolute terms and as a share of national income.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-28"><sup>28</sup></xref></xrefGrp> Orthodox views on balanced budgets continued to be respected however, as was also the case under Roosevelt in the United States. That British income tax rates were significantly higher than they had been over the previous decade allowed the Irish government to follow suit. The basic rate of income tax was raised from three shillings and sixpence to five shillings in the pound in May 1932. The British rate had been raised to five shillings the previous September.</p>
+<p id="C5P18">Registered unemployment in the early phases of the depression remained low. The announcement in May 1932 of a public works programme that would recruit workers off the live register resulted in the number <i>on</i> the register more than doubling between April and June. By December 1932, it had reached 103,000. A &#x2018;farmers&#x2019; dole&#x2019; was introduced in 1933. By the late 1930s, an average of 78,000 people were in receipt of assistance.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-29"><sup>29</sup></xref></xrefGrp> A new housing programme was initiated by the Department of Local Government.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-30"><sup>30</sup></xref></xrefGrp> Of the <page id="100" chapter=""/>almost 91,000 houses built between 1923 and 1938, over 65,000 were built after 1932.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-31"><sup>31</sup></xref></xrefGrp></p>
+<p alignment="centre"></p>
+<p fullOut="Y" id="C5P19">The first major batch of new import duties was announced in April 1932 under legislation inherited from the previous administration. MacEntee&#x2019;s budget speech in May increased or imposed new tariffs on scores of manufactured items. The Cumann na nGaedheal legislation was superseded later in the&#x00A0;year by a new act which expanded the scope for the imposition of duties by ministerial order. Freed from the oversight of the Department of Finance and the Oireachtas, trade and industry policy from this point &#x2018;became largely discretionary decisions determined by ministers and officials&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-32"><sup>32</sup></xref></xrefGrp> The Banking Commission would complain that this &#x2018;necessarily introduces an element of uncertainty into the business life of the country, which is aggravated when full publicity is not given to the decisions taken&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-33"><sup>33</sup></xref></xrefGrp> The Tariff Commission fell into abeyance. McElligott, Secretary of Finance, protested that &#x2018;the functions of this Department are being reduced to those of a Post Office&#x2019;. Another senior Department of Finance official suggested dryly that the process of imposing duties by executive authority should be extended to cover all taxes.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-34"><sup>34</sup></xref></xrefGrp></p>
+<p id="C5P20">There is little evidence that the measures adopted by the new government were evaluated on the basis of any considered cost&#x2013;benefit analysis, as had been the case under the Tariff Commission. As Lemass put it, he &#x2018;preferred to take the risk of making mistakes in proceeding in the way we are proceeding than to take the risk of producing the same results that the late Government had produced by inactivity&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-35"><sup>35</sup></xref></xrefGrp> Protection was imposed across almost all sectors of industry.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-36"><sup>36</sup></xref></xrefGrp> The imposition of tariffs on intermediate inputs necessitated even higher tariffs on final output. In a study of the effective protection afforded Irish industry in the mid-1960s, McAleese suggested that the disparities found across industries&#x2014;with those at the top of the scale afforded four times the protection accorded those at the bottom&#x2014;&#x2018;appear to reflect the rather haphazard method of awarding tariffs since the 1930s&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-37"><sup>37</sup></xref></xrefGrp> At the end of 1931, fifty-nine articles had been covered by protective tariffs. By the <page id="101" chapter=""/>end of 1937, almost 2,000 articles were subject to duties or to quantitative restrictions.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-38"><sup>38</sup></xref></xrefGrp></p>
+<p id="C5P21">Superimposed on the new government&#x2019;s protectionist agenda was the economic war with Britain which broke out in July 1932. Agrarian unrest in the late nineteenth century had induced the British Treasury to provide cheap loans to Irish tenant farmers to finance the massive land redistribution process then underway. The bonds issued to finance the Free State&#x2019;s 1923 Land Act had also been guaranteed by the British. The Cosgrave government, as part of the deal, had agreed to collect and maintain the flow of land annuity payments to London. These negotiations had been conducted in secrecy however and the agreement had not been ratified by the D&#x00E1;il. De Valera&#x2019;s legal advisors suggested that it need not therefore be regarded as binding.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-39"><sup>39</sup></xref></xrefGrp> Fianna F&#x00E1;il had adopted republican socialist Peadar O&#x2019;Donnell&#x2019;s campaign against repaying the annuities in 1930 and, once in power, refused to forward them to London.</p>
+<p id="C5P22">Britain retaliated with a range of punitive tariffs on Irish agricultural exports, to which the Free State responded by providing subsidies or bounties to many of the adversely affected sectors.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-40"><sup>40</sup></xref></xrefGrp> It also responded with punitive tariffs of its own. There were disagreements within the Cabinet on how aggressively the dispute should be pursued, but a general election in January 1933 saw Fianna F&#x00E1;il returned to office with an overall majority. Annuity obligations on farmers were reduced by half, as had been promised in advance of the election, and the funds that had been retained in a suspense account pending resolution of the dispute were paid into the Irish exchequer, representing a substantial new source of funding for government.</p>
+<p id="C5P23">The fortunes of industry and agriculture diverged sharply over the period of the dispute. There was a massive drop in rural living standards, with livestock farmers particularly adversely affected. Smaller farmers, who lived much closer to the margins of existence, benefited more from the reduction in annuity obligations and the introduction of the means-tested &#x2018;farmers&#x2019; dole&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-41"><sup>41</sup></xref></xrefGrp> The main driver of industry, by contrast, was the shift to full protection. The real wages of industrial workers improved, at least in Dublin, for which the only data are available.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-42"><sup>42</sup></xref></xrefGrp> While Britain&#x2019;s retaliatory duties targeted Free State <page id="102" chapter=""/>agriculture, Guinness&#x2019;s decision to open a brewery in the United Kingdom was reportedly triggered by a warning from the British authorities that a tariff might otherwise be imposed.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-43"><sup>43</sup></xref></xrefGrp> Brewing was among the few manufacturing sectors to record a decline in employment over the period.</p>
+<p id="C5P24">The economic war declined in intensity with the coal&#x2013;cattle pacts of the mid-1930s and was comprehensively settled in 1938. The British government had assumed that trade sanctions would be sufficient to unseat de Valera. By 1938, Fianna F&#x00E1;il was electorally secure, Cosgrave was now too in favour of retaining the annuities, and British attention was increasingly focussed on developments in continental Europe. The terms of the settlement were such that Ireland is considered to have &#x2018;won&#x2019; the economic war.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-44"><sup>44</sup></xref></xrefGrp> The &#x2018;Treaty ports&#x2019; which had been retained by the British in 1922 were handed over, and a capitalized land-annuity liability of &#x00A3;80&#x2013;100 million was written off in exchange for a lump-sum payment of &#x00A3;10 million (the maximum that the British estimated that the Irish state could afford). Trade would henceforth be conducted under the terms of the Ottawa Accords, which governed UK&#x2013;Commonwealth economic relations. Most Irish industrial goods could enter the United Kingdom tariff-free (though numerous quantitative restrictions continued to apply), while British imports would be eligible for a preferential tariff rate&#x2014;generally between one-half and three-quarters of the full rate&#x2014;in Ireland.</p>
+<p id="C5P25">The 1938 Agreement also committed the Irish government to have existing import restrictions replaced by duties that would offer &#x2018;adequate protection&#x2019; to Irish industries while affording UK manufacturers the &#x2018;full opportunity of reasonable competition&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-45"><sup>45</sup></xref></xrefGrp> Though this aspect of the settlement raised fears among some that extensive import competition from Britain might now resume, the outbreak of the Second World War and the vagueness of the language employed meant that little change of consequence occurred.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-46"><sup>46</sup></xref></xrefGrp> As one trade union organizer wryly remarked, &#x2018;if you can give reasonable protection and reasonable competition, well, it is wonderful&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-47"><sup>47</sup></xref></xrefGrp></p>
+<p id="C5P26">The total area under tillage had barely changed over the course of the decade. Tillage farmers had simply switched from unsubsidized to subsidized crops. Sugar manufacturing expanded alongside sugar beet <page id="103" chapter=""/>production. Other spillovers from agriculture were relatively minor. Tobacco manufacturers and flour producers were required to use a certain proportion of home-grown product in their mix, though in neither case did consumers find the taste appealing. There were reports of instances of the home-grown product being dumped or sold onward at a loss. The area under tillage would rise by compulsory order during the Second World War, when the difficulty of sourcing imports provided industries with little choice but to conform to the mixing requirements.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-48"><sup>48</sup></xref></xrefGrp></p>
+<p id="C5P27">The 1938 Agreement marked the end of Fianna F&#x00E1;il radicalism in the agricultural sphere. The primacy of the beef and dairy export trades was reinstated and a new equilibrium established that balanced the forces of export-oriented agriculture and protected industries.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-49"><sup>49</sup></xref></xrefGrp> This equilibrium would come under pressure in the mid-to-late 1950s through a combination of internal and external developments: balance-of-payments-induced crises on the one hand, and pan-European trade liberalization on the other.</p>
+<p alignment="centre"></p>
+<p fullOut="Y" id="C5P28">Another component of Fianna F&#x00E1;il&#x2019;s nationalist economic agenda pertained to the ownership of industry. By the end of the Cumann na nGaedheal era, most of the largest firms in the newly tariffed sectors were British-owned. Among the concerns expressed at the time were that foreign-owned subsidiaries would be unlikely to develop an export trade, that higher executive positions would tend to be filled by foreign staff, that branch plants would disappear rapidly in a downturn, and that foreign-owned companies might come to exercise monopoly positions in the market. Some suggested that foreign firms would impose &#x2018;appalling conditions&#x2019;; others suggested the opposite&#x2014;that they would pay wages that native firms could not afford.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-50"><sup>50</sup></xref></xrefGrp></p>
+<p id="C5P29">The Control of Manufactures Acts of 1932 and 1934 were designed to concentrate control of newly established firms in the hands of Irish citizens. The D&#x00E1;il resisted some of Lemass&#x2019;s more interventionist tendencies, including suggestions that control might also apply to domestic undertakings and to foreign businesses established before the measures were enacted. Companies not fulfilling the criteria could apply for a licence to manufacture, but this could entail burdensome restrictions on location, domestic content, product mix, and the like. Paradoxically, some external firms with strong bargaining power were able to negotiate monopoly positions for themselves in the Irish market.</p>
+<p id="C5P30"><page id="104" chapter=""/>As frequently occurred elsewhere however, restrictions on foreign ownership&#x2014;which pertained to share capital, voting rights, and directorships&#x2014;were largely left to languish on the statute books.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-51"><sup>51</sup></xref></xrefGrp> With the assistance of local law firms, foreign companies found ways of avoiding the necessity of having to apply for a licence. In many cases, &#x2018;finance, and hence control, was derived from loans or extended credit, or by means of an overdraft guaranteed by the English parent company&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-52"><sup>52</sup></xref></xrefGrp> Trademarks and patents were frequently assigned such that effective control remained with the foreign partner.</p>
+<p id="C5P31">The consequences of the acts, furthermore, sat somewhat uneasily with another element of government policy. The establishment by the state of the Industrial Credit Company (ICC) in 1933 &#x2018;was rendered necessary by the inadequate financial facilities available for new industrial undertakings&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-53"><sup>53</sup></xref></xrefGrp> It was, in part, a response to nationalist concerns that Irish industry had been starved of capital.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-54"><sup>54</sup></xref></xrefGrp> Ironically, according to the 1938 Banking Commission, the ICC presided in its early years over a net export of capital as ownership of some UK subsidiaries was transferred into the hands of Irish citizens.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-55"><sup>55</sup></xref></xrefGrp></p>
+<p id="C5P32">That the acts were not rigorously policed was indicative of a belated recognition by government of the value of the employment and expertise that foreign firms could provide. With the passage of time, the authorities came to prefer schemes that did not require licences as applications could lead to objections from local businesses.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-56"><sup>56</sup></xref></xrefGrp> The acts clearly provided the government with some leverage however. They were not fully repealed even with the major shift in policy on foreign direct investment in the 1950s.</p>
+<noteGroup>
+<note id="oso-9780198878230-chapter-5-note-5" type="footnote"><p><enumerator><sup>5</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-5" class="journalArticle" author="Daly, Mary E." date="2011" title="The Irish Free State and the Great Depression of the 1930s: The Interaction of the Global and the Local" journalName="Irish Economic and Social History" vol="38" page="19" pageLast="36" purpose="display"><nameGrp foreNames="Mary E." mainName="Daly" role="author">Mary E. Daly</nameGrp>, &#x2018;The Irish Free State and the Great Depression of the 1930s: The Interaction of the Global and the Local&#x2019;. <i>Irish Economic and Social History</i> 38 (2011): 19&#x2013;36.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-6" type="footnote"><p><enumerator><sup>6</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-6" class="book" author="Commission of Inquiry into Banking, Currency and Credit" date="1938" title="Reports" page="53" pageLast="73" place="Dublin" publisher="Stationery Office" purpose="display"><nameGrp nameType="nonPersonal" mainName="Commission of Inquiry into Banking, Currency and Credit">Commission of Inquiry into Banking, Currency and Credit</nameGrp>, <i>Reports</i> (Dublin: Stationery Office, 1938), 53&#x2013;73.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-7" type="footnote"><p><enumerator><sup>7</sup></enumerator> Cited in <bibItem id="oso-9780198878230-chapter-5-bibItem-7" class="bookChapter" partAuthor="Barry, Frank|Daly, Mary" partTitle="Irish Perceptions of the Great Depression" editor="Psalidopoulos, Michael" date="2012" title="The Great Depression in Europe: Economic Thought and Policy in a National Context" page="395" pageLast="424" place="Athens" publisher="Alpha Bank Historical Archives" purpose="display"><nameGrp foreNames="Frank" mainName="Barry" role="partAuthor">Frank Barry</nameGrp> and <nameGrp foreNames="Mary" mainName="Daly" role="partAuthor">Mary Daly</nameGrp>, &#x2018;Irish Perceptions of the Great Depression&#x2019;, in <i>The Great Depression in Europe: Economic Thought and Policy in a National Context</i>, ed. <nameGrp foreNames="Michael" mainName="Psalidopoulos" role="editor">Michael Psalidopoulos</nameGrp> (Athens: Alpha Bank Historical Archives, 2012), 395&#x2013;424.</bibItem> The massive fluctuations in employment at the Ford plant associated with the on-again, off-again nature of tractor production occurred between the census dates reported in <xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-5-tableGroup-2">5.2</xref></xrefGrp>.</p></note>
+<note id="oso-9780198878230-chapter-5-note-8" type="footnote"><p><enumerator><sup>8</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-8" class="journalArticle" author="Eichengreen, Barry|Sachs, Jeffrey" date="1985" journalIssue="4" title="Exchange Rates and Economic Recovery in the 1930s" journalName="Journal of Economic History" vol="45" page="925" pageLast="946" purpose="display"><nameGrp foreNames="Barry" mainName="Eichengreen" role="author">Barry Eichengreen</nameGrp> and <nameGrp foreNames="Jeffrey" mainName="Sachs" role="author">Jeffrey Sachs</nameGrp>, &#x2018;Exchange Rates and Economic Recovery in the 1930s&#x2019;. <i>Journal of Economic History</i> 45, 4 (1985): 925&#x2013;46.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-9" type="footnote"><p><enumerator><sup>9</sup></enumerator> Cited in Barry and Daly, &#x2018;Irish Perceptions of the Great Depression&#x2019;.</p></note>
+<note id="oso-9780198878230-chapter-5-note-10" type="footnote"><p><enumerator><sup>10</sup></enumerator> Cited in Daly, &#x2018;The Irish Free State and the Great Depression of the 1930s: The Interaction of the Global and the Local&#x2019;.</p></note>
+<note id="oso-9780198878230-chapter-5-note-11" type="footnote"><p><enumerator><sup>11</sup></enumerator><i>Irish Times</i>, 19 May 1976.</p></note>
+<note id="oso-9780198878230-chapter-5-note-12" type="footnote"><p><enumerator><sup>12</sup></enumerator> Data on Irish government spending are provided in the data appendix to <bibItem id="oso-9780198878230-chapter-5-bibItem-9" class="journalArticle" author="FitzGerald, John|Kenny, Se&#x00E1;n" date="2018" title="Managing a Century of Debt" journalName="Journal of the Statistical and Social Inquiry Society of Ireland" vol="48" page="1" pageLast="40" purpose="display"><nameGrp foreNames="John" mainName="Fitzgerald" role="author">John FitzGerald</nameGrp> and <nameGrp foreNames="Se&#x00E1;N" mainName="Kenny" role="author">Se&#x00E1;n Kenny</nameGrp>, &#x2018;Managing a Century of Debt&#x2019;. <i>Journal of the Statistical and Social Inquiry Society of Ireland</i> 48 (2018): 1&#x2013;40</bibItem>. US federal spending is charted in <bibItem id="oso-9780198878230-chapter-5-bibItem-10" class="journalArticle" author="Fishback, Price" date="2010" journalIssue="3" title="US Monetary and Fiscal Policy in the 1930s" journalName="Oxford Review of Economic Policy" vol="26" page="402" purpose="display"><nameGrp foreNames="Price" mainName="Fishback" role="author">Price Fishback</nameGrp>, &#x2018;US Monetary and Fiscal Policy in the 1930s&#x2019;. <i>Oxford Review of Economic Policy</i> 26, 3 (2010): 402, figure 3.</bibItem> Though MacEntee, the first Fianna F&#x00E1;il Minister for Finance, would suggest many&#x00A0;years later that his &#x2018;was the very first Keynesian budget in this island&#x2019; (<i>Irish Times</i>, 24 July 1974), the increase in spending in both Ireland and the United States was largely financed by taxation rather than by borrowing.</p></note>
+<note id="oso-9780198878230-chapter-5-note-13" type="footnote"><p><enumerator><sup>13</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-11" class="journalArticle" date="1934" title="De Valera&#x2019;s New Deal" journalName="Round Table, A Quarterly Review of the Politics of the British Commonwealth" vol="95" page="579" purpose="display">&#x2018;De Valera&#x2019;s New Deal&#x2019;, <i>Round Table, A Quarterly Review of the Politics of the British Commonwealth</i> 95 (June 1934): 579.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-14" type="footnote"><p><enumerator><sup>14</sup></enumerator><i>Weekly Irish Times</i>, 22 March 1930.</p></note>
+<note id="oso-9780198878230-chapter-5-note-15" type="footnote"><p><enumerator><sup>15</sup></enumerator><i>Irish Times</i>, 23 February 1933.</p></note>
+<note id="oso-9780198878230-chapter-5-note-16" type="footnote"><p><enumerator><sup>16</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-12" class="book" author="Nesbitt, Ronald" date="1993" title="At Arnotts of Dublin, 1843&#x2013;1993" page="112" place="Dublin" publisher="A. &#x0026; A. Farmar" purpose="display"><nameGrp foreNames="Ronald" mainName="Nesbitt" role="author">Ronald Nesbitt</nameGrp>, <i>At Arnotts of Dublin, 1843&#x2013;1993</i> (Dublin: A. &#x0026; A. Farmar, 1993), 112.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-17" type="footnote"><p><enumerator><sup>17</sup></enumerator> Thomas Grimes, &#x2018;Starting Ireland on the Road to Industry: Henry Ford in Cork&#x2019;. Unpublished Ph.D. thesis, National University of Ireland, Maynooth, 2008, 168.</p></note>
+<note id="oso-9780198878230-chapter-5-note-18" type="footnote"><p><enumerator><sup>18</sup></enumerator><i>Irish Press</i>, 11 February 1932.</p></note>
+<note id="oso-9780198878230-chapter-5-note-19" type="footnote"><p><enumerator><sup>19</sup></enumerator><i>Irish Times</i>, 19 March 1934.</p></note>
+<note id="oso-9780198878230-chapter-5-note-20" type="footnote"><p><enumerator><sup>20</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-13" class="book" author="Meenan, James" date="1970" title="The Irish Economy since 1922" page="96" place="Liverpool" publisher="Liverpool University Press" purpose="display"><nameGrp foreNames="James" mainName="Meenan" role="author">James Meenan</nameGrp>, <i>The Irish Economy since 1922</i> (Liverpool: Liverpool University Press, 1970), 96.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-21" type="footnote"><p><enumerator><sup>21</sup></enumerator> Commission of Inquiry into Banking, Currency and Credit, <i>Reports,</i> 68.</p></note>
+<note id="oso-9780198878230-chapter-5-note-22" type="footnote"><p><enumerator><sup>22</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-14" class="book" author="Liepmann, Heinrich" date="1938" title="Tariff Levels and the Economic Unity of Europe: An Examination of Tariff Policy, Export Movements and Economic Integration of Europe, 1913&#x2013;1931" place="London" publisher="George Allen and Unwin" purpose="display"><nameGrp foreNames="Heinrich" mainName="Liepmann" role="author">Heinrich Liepmann</nameGrp>, <i>Tariff Levels and the Economic Unity of Europe: An Examination of Tariff Policy, Export Movements and the Economic Integration of Europe, 1913&#x2013;1931</i> (London: George Allen and Unwin, 1938).</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-23" type="footnote"><p><enumerator><sup>23</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-15" class="journalArticle" author="Ryan, Louden" date="1947" title="Measurement of Tariff Levels for Ireland, for 1931, 1936, 1938" journalName="Journal of the Statistical and Social Inquiry Society of Ireland" vol="18" page="109" pageLast="132" purpose="display"><nameGrp foreNames="Louden" mainName="Ryan" role="author">Louden Ryan</nameGrp>, &#x2018;Measurement of Tariff Levels for Ireland, for 1931, 1936, 1938&#x2019;. <i>Journal of the Statistical and Social Inquiry Society of Ireland</i> 18 (1947): 109&#x2013;32</bibItem>. Though O&#x2019;Rourke shows that Ireland was not an outlier in terms of the quantitative restrictions it imposed, countries that devalued early along with Britain tended to adopt lower protectionist barriers. Ireland <i>was</i> an outlier in this regard: <bibItem id="oso-9780198878230-chapter-5-bibItem-16" class="journalArticle" author="O&#x2019;Rourke, Kevin" date="2017" journalIssue="1" title="Independent Ireland in Comparative Perspective" journalName="Irish Economic and Social History" vol="44" page="19" pageLast="45" purpose="display"><nameGrp foreNames="Kevin" mainName="O&#x2019;rourke" role="author">Kevin O&#x2019;Rourke</nameGrp>, &#x2018;Independent Ireland in Comparative Perspective&#x2019;. <i>Irish Economic and Social History</i> 44, 1 (2017): 19&#x2013;45</bibItem>; <bibItem id="oso-9780198878230-chapter-5-bibItem-17" class="journalArticle" author="Eichengreen, Barry|Irwin, Douglas A" date="2010" title="The Slide to Protectionism in the Great Depression: Who Succumbed and Why?" journalName="Journal of Economic History" vol="70" page="4" purpose="display"><nameGrp foreNames="Barry" mainName="Eichengreen" role="author">Barry Eichengreen</nameGrp> and <nameGrp foreNames="Douglas A" mainName="Irwin" role="author">Douglas A Irwin</nameGrp>, &#x2018;The Slide to Protectionism in the Great Depression: Who Succumbed and Why?&#x2019; <i>Journal of Economic History</i> 70, 4 (2010): 871&#x2013;97.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-24" type="footnote"><p><enumerator><sup>24</sup></enumerator><i>Irish Press</i>, 11 February 1932. De Valera had asserted in 1928 that &#x2018;the country had already been taxed beyond its capacity&#x2019;: Irish Times, 11 July 1928.
+</p></note>
+<note id="oso-9780198878230-chapter-5-note-25" type="footnote"><p><enumerator><sup>25</sup></enumerator> Daly, &#x2018;The Irish Free State and the Great Depression of the 1930s: The Interaction of the Global and the Local&#x2019;.</p></note>
+<note id="oso-9780198878230-chapter-5-note-26" type="footnote"><p><enumerator><sup>26</sup></enumerator> Barry and Daly, &#x2018;Irish Perceptions of the Great Depression&#x2019;.</p></note>
+<note id="oso-9780198878230-chapter-5-note-27" type="footnote"><p><enumerator><sup>27</sup></enumerator> Daly, &#x2018;The Irish Free State and the Great Depression of the 1930s: The Interaction of the Global and the Local&#x2019;.</p></note>
+<note id="oso-9780198878230-chapter-5-note-28" type="footnote"><p><enumerator><sup>28</sup></enumerator> FitzGerald and Kenny, &#x2018;Managing a Century of Debt&#x2019;.</p></note>
+<note id="oso-9780198878230-chapter-5-note-29" type="footnote"><p><enumerator><sup>29</sup></enumerator> Daly, &#x2018;The Irish Free State and the Great Depression of the 1930s: The Interaction of the Global and the Local&#x2019;.</p></note>
+<note id="oso-9780198878230-chapter-5-note-30" type="footnote"><p><enumerator><sup>30</sup></enumerator> Lemass, PDDE, Vol. 41, 20 April 1932, col 289; <bibItem id="oso-9780198878230-chapter-5-bibItem-18" class="book" author="Daly, Mary E." date="1997" title="The Buffer State: Historical Roots of the Department of the Environment" place="Dublin" publisher="Institute of Public Administration" purpose="display"><nameGrp foreNames="Mary E." mainName="Daly" role="author">Mary E. Daly</nameGrp>, <i>The Buffer State: Historical Roots of the Department of the Environment</i> (Dublin: Institute of Public Administration, 1997).</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-31" type="footnote"><p><enumerator><sup>31</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-19" class="journalArticle" author="Neary, J. Peter|Gr&#x00E1;da, Cormac &#x00D3;" date="1991" journalIssue="107" title="Protection, Economic War and Structural Change: The 1930s in Ireland" journalName="Irish Historical Studies" vol="27" page="250" pageLast="266" purpose="display"><nameGrp foreNames="J. Peter" mainName="Neary" role="author">J. Peter Neary</nameGrp> and <nameGrp foreNames="Cormac &#x00D3;" mainName="Gr&#x00e1;da" role="author">Cormac &#x00D3; Gr&#x00E1;da</nameGrp>, &#x2018;Protection, Economic War and Structural Change: The 1930s in Ireland&#x2019;. <i>Irish Historical Studies</i> 27, 107 (1991): 250&#x2013;66.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-32" type="footnote"><p><enumerator><sup>32</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-20" class="book" author="Daly, Mary E." date="1992" title="Industrial Development and Irish National Identity, 1922&#x2013;1939" page="178" place="New York" publisher="Syracuse University Press" purpose="display"><nameGrp foreNames="Mary E." mainName="Daly" role="author">Mary E. Daly</nameGrp>, <i>Industrial Development and Irish National Identity, 1922&#x2013;1939</i> (New York: Syracuse University Press, 1992), 178.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-33" type="footnote"><p><enumerator><sup>33</sup></enumerator> Commission of Inquiry into Banking, Currency and Credit, <i>Reports,</i> 53&#x2013;73.</p></note>
+<note id="oso-9780198878230-chapter-5-note-34" type="footnote"><p><enumerator><sup>34</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-21" class="journalArticle" author="Devlin, Anna|Barry, Frank" date="2019" journalIssue="1" title="Protection versus Free Trade in the Free State Era: The Finance Attitude" journalName="Irish Economic and Social History" vol="46" page="3" pageLast="21" purpose="display"><nameGrp foreNames="Anna" mainName="Devlin" role="author">Anna Devlin</nameGrp> and <nameGrp foreNames="Frank" mainName="Barry" role="author">Frank Barry</nameGrp>, &#x2018;Protection versus Free Trade in the Free State Era: The Finance Attitude&#x2019;. <i>Irish Economic and Social History</i> 46, 1 (2019): 3&#x2013;21.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-35" type="footnote"><p><enumerator><sup>35</sup></enumerator><i>PDDE</i>, 8 June 1932.</p></note>
+<note id="oso-9780198878230-chapter-5-note-36" type="footnote"><p><enumerator><sup>36</sup></enumerator> Commission of Inquiry into Banking, Currency and Credit, <i>Reports,</i> 53&#x2013;73.</p></note>
+<note id="oso-9780198878230-chapter-5-note-37" type="footnote"><p><enumerator><sup>37</sup></enumerator> Dermot McAleese, &#x2018;Effective Tariffs and the Structure of Industrial Protection in Ireland&#x2019;. Economic and Social Research Institute (ESRI) Research Series, 1971, 6.</p></note>
+<note id="oso-9780198878230-chapter-5-note-38" type="footnote"><p><enumerator><sup>38</sup></enumerator> Meenan, <i>The Irish Economy since 1922</i>, 142.</p></note>
+<note id="oso-9780198878230-chapter-5-note-39" type="footnote"><p><enumerator><sup>39</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-22" class="book" author="Fanning, Ronan" date="1978" title="The Irish Department of Finance, 1922&#x2013;58" page="280" place="Dublin" publisher="Institute of Public Administration" purpose="display"><nameGrp foreNames="Ronan" mainName="Fanning" role="author">Ronan Fanning</nameGrp>, <i>The Irish Department of Finance, 1922&#x2013;58</i> (Dublin: Institute of Public Administration, 1978), 280.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-40" type="footnote"><p><enumerator><sup>40</sup></enumerator> The tariffs on pig products were marginally higher than the export subsidies. The opposite applied in the case of butter. The brunt of the tariffs was borne by live cattle exports: <bibItem id="oso-9780198878230-chapter-5-bibItem-23" class="book" author="O&#x2019;Donoghue, Cathal" date="2022" title="Journal of the Statistical and Social Inquiry Society of Ireland" purpose="display"><nameGrp foreNames="Cathal" mainName="O&#x2019;donoghue" role="author">Cathal O&#x2019;Donoghue</nameGrp>, &#x2018;A Century of Irish Agriculture: A Policy Driven Sector&#x2019;. <i>Journal of the Statistical and Social Inquiry Society of Ireland</i>, LI, (2022): 86&#x2013;127.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-41" type="footnote"><p><enumerator><sup>41</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-24" class="book" author="Gr&#x00E1;da, Cormac &#x00D3;" date="1994" title="Ireland: A New Economic History 1780&#x2013;1939" page="416" place="Oxford" publisher="Clarendon Press" purpose="display"><nameGrp foreNames="Cormac &#x00D3;" mainName="Gr&#x00e1;da" role="author">Cormac &#x00D3; Gr&#x00E1;da</nameGrp>, <i>Ireland: A New Economic History 1780&#x2013;1939</i> (Oxford: Clarendon Press, 1994), 416.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-42" type="footnote"><p><enumerator><sup>42</sup></enumerator> Commission of Inquiry into Banking, Currency and Credit, <i>Reports,</i> 62, 78, 109.</p></note>
+<note id="oso-9780198878230-chapter-5-note-43" type="footnote"><p><enumerator><sup>43</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-25" class="book" author="Dennison, Stanley R.|MacDonagh, Oliver" date="1998" title="Guinness 1886&#x2013;1939: From incorporation to the Second World War" page="249" pageLast="257" place="Cork" publisher="Cork University Press" purpose="display"><nameGrp foreNames="Stanley R." mainName="Dennison" role="author">Stanley R. Dennison</nameGrp> and <nameGrp foreNames="Oliver" mainName="Macdonagh" role="author">Oliver MacDonagh</nameGrp>, <i>Guinness 1886&#x2013;1939: From incorporation to the Second World War</i> (Cork: Cork University Press, 1998), 249&#x2013;57.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-44" type="footnote"><p><enumerator><sup>44</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-26" class="journalArticle" author="O&#x2019;Rourke, Kevin" date="1991" journalIssue="2" title="Burn Everything British But Their Coal: The Anglo-Irish Economic War of the 1930s" journalName="Journal of Economic History" vol="51" page="357" pageLast="366" purpose="display"><nameGrp foreNames="Kevin" mainName="O&#x2019;rourke" role="author">Kevin O&#x2019;Rourke</nameGrp>, &#x2018;Burn Everything British But Their Coal: The Anglo-Irish Economic War of the 1930s&#x2019;. <i>Journal of Economic History</i> 51, 2 (1991): 357&#x2013;66.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-45" type="footnote"><p><enumerator><sup>45</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-27" class="journalArticle" author="Ryan, Louden" date="1954" journalIssue="171" title="Protection and the Efficiency of Irish Industry" journalName="Studies: An Irish Quarterly Review" vol="43" page="317" pageLast="326" purpose="display"><nameGrp foreNames="Louden" mainName="Ryan" role="author">Louden Ryan</nameGrp>, &#x2018;Protection and the Efficiency of Irish Industry&#x2019;. <i>Studies: An Irish Quarterly Review</i> 43, 171 (1954): 317&#x2013;26.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-46" type="footnote"><p><enumerator><sup>46</sup></enumerator> Daly<i>, Industrial Development and Irish National Identity, 1922&#x2013;1939</i>, <xrefGrp>ch. <xref ref="oso-9780198878230-chapter-8">8</xref></xrefGrp>; Ryan, &#x2018;Protection and the Efficiency of Irish Industry&#x2019;, 319.</p></note>
+<note id="oso-9780198878230-chapter-5-note-47" type="footnote"><p><enumerator><sup>47</sup></enumerator> Cited in Neary and &#x00D3; Gr&#x00E1;da, &#x2018;Protection, Economic War and Structural Change: The 1930s in Ireland&#x2019;.</p></note>
+<note id="oso-9780198878230-chapter-5-note-48" type="footnote"><p><enumerator><sup>48</sup></enumerator> Meenan, <i>The Irish Economy since 1922</i>, 117.</p></note>
+<note id="oso-9780198878230-chapter-5-note-49" type="footnote"><p><enumerator><sup>49</sup></enumerator> Daly, <i>Industrial Development and Irish National Identity, 1922&#x2013;1939</i>, 169.</p></note>
+<note id="oso-9780198878230-chapter-5-note-50" type="footnote"><p><enumerator><sup>50</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-28" class="journalArticle" author="Barry, Frank" date="2011" title="Foreign Investment and the Politics of Export Profits Tax Relief 1956" journalName="Irish Economic and Social History" vol="38" page="54" pageLast="73" purpose="display"><nameGrp foreNames="Frank" mainName="Barry" role="author">Frank Barry</nameGrp>, &#x2018;Foreign Investment and the Politics of Export Profits Tax Relief 1956&#x2019;. <i>Irish Economic and Social History</i> 38 (2011): 54&#x2013;73.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-51" type="footnote"><p><enumerator><sup>51</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-29" class="journalArticle" author="Barry, Frank|Barry, Linda|Menton, Aisling" date="2016" journalIssue="4" title="Tariff&#x2010;Jumping Foreign Direct Investment in Protectionist Era Ireland" journalName="Economic History Review" vol="69" page="1285" pageLast="1308" purpose="display"><nameGrp foreNames="Frank" mainName="Barry" role="author">Frank Barry</nameGrp>, <nameGrp foreNames="Linda" mainName="Barry" role="author">Linda Barry</nameGrp>, and <nameGrp foreNames="Aisling" mainName="Menton" role="author">Aisling Menton</nameGrp>, &#x2018;Tariff&#x2010;Jumping Foreign Direct Investment in Protectionist Era Ireland&#x2019;. <i>Economic History Review</i> 69, 4 (2016): 1285&#x2013;308.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-52" type="footnote"><p><enumerator><sup>52</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-30" class="journalArticle" author="Daly, Mary E." date="1984" journalIssue="94" title="An Irish-Ireland for Business?: The Control of Manufactures Acts, 1932 and 1934" journalName="Irish Historical Studies" vol="24" page="263" purpose="display"><nameGrp foreNames="Mary E." mainName="Daly" role="author">Mary E. Daly</nameGrp>, &#x2018;An Irish-Ireland for Business?: The Control of Manufactures Acts, 1932 and 1934&#x2019;. <i>Irish Historical Studies</i> 24, 94 (1984): 263.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-53" type="footnote"><p><enumerator><sup>53</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-31" class="journalArticle" author="O&#x2019;Donovan, John" date="1947" title="State Enterprises" journalName="Journal of the Statistical and Social Inquiry Society of Ireland" vol="18" page="332" purpose="display"><nameGrp foreNames="John" mainName="O&#x2019;donovan" role="author">John O&#x2019;Donovan</nameGrp>, &#x2018;State Enterprises&#x2019;. <i>Journal of the Statistical and Social Inquiry Society of Ireland</i> 18 (1947): 332.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-54" type="footnote"><p><enumerator><sup>54</sup></enumerator> On the scarcity of capital debate, see &#x00D3; Gr&#x00E1;da, <i>Ireland: A New Economic History 1780&#x2013;1939</i>, <xrefGrp>ch. <xref ref="oso-9780198878230-chapter-14">14</xref></xrefGrp>.</p></note>
+<note id="oso-9780198878230-chapter-5-note-55" type="footnote"><p><enumerator><sup>55</sup></enumerator> Commission of Inquiry into Banking, Currency and Credit, <i>Reports,</i> 56.</p></note>
+<note id="oso-9780198878230-chapter-5-note-56" type="footnote"><p><enumerator><sup>56</sup></enumerator> Daly, &#x2018;An Irish-Ireland for Business?: The Control of Manufactures Acts, 1932 and 1934&#x2019;, 267.</p></note>
+</noteGroup>
+<floatGroup id="oso-9780198878230-chapter-5-floatGroup-2">
+<tableGroup id="oso-9780198878230-chapter-5-tableGroup-2" doi="10.1093/oso/9780198878230.003.0005.007.0002" placement="float">
+<table id="oso-9780198878230-chapter-5-table-2" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-5-titleGroup-4"><title id="C5T2"><p><enumerator>Table 5.2</enumerator> Employment in manufacturing and motor vehicle construction, 1929 and 1931</p></title></titleGroup>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<thead>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>1929</p></entry>
+<entry colname="col3" align="left"><p>1931</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>Manufacturing</p></entry>
+<entry colname="col2" align="left"><p>62,439</p></entry>
+<entry colname="col3" align="left"><p>60,943</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Coach, wagon, and motor body building and construction of motor vehicles (including tractors)</p></entry>
+<entry colname="col2" align="left"><p>4,355</p></entry>
+<entry colname="col3" align="left"><p>1,996</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Source</i>: CIP.</p></source>
+</table>
+</tableGroup>
+</floatGroup>
+</div1>
+<div1 id="oso-9780198878230-chapter-5-div1-3" doi="10.1093/oso/9780198878230.003.0005.021.0003">
+<titleGroup id="oso-9780198878230-chapter-5-titleGroup-5"><title id="C5S2"><p><enumerator>5.2</enumerator> Sectoral and Firm-Level Developments from 1931</p></title></titleGroup>
+<p id="C5P33">Employment grew across almost all manufacturing sub-sectors over the sub-period 1931&#x2013;1938, as shown in <xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-5-tableGroup-3">5.3</xref></xrefGrp>. The sectoral groupings that were subject to the least protection&#x2014;Foods Other than Sugar and Sugar Confectionery (Group I) and Drink and Tobacco (Group III)&#x2014;expanded <page id="105" chapter=""/>least. The decline in Drink and Tobacco was concentrated in brewing and was associated with the establishment of the new Guinness brewery in London.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-57"><sup>57</sup></xref></xrefGrp></p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-5-tableGroup-3"?></p>
+<p id="C5P34">Within Group 1, there was little change in the various segments other than grain milling. Butter and bacon had been accorded some protection towards the end of the Cumann na nGaedheal administration. These measures were defensive. The tariff enabled some of the bacon producers that had been on <page id="106" chapter=""/>the verge of liquidation to return to profitability.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-58"><sup>58</sup></xref></xrefGrp> Mitchelstown was granted a monopoly on processed cheese production. Restrictions on flour imports allowed Irish-based producers to form a cartel and divide the local market among themselves: as prices were set at levels that allowed the smaller operators to remain in business, the largest&#x2014;Ranks and Odlums&#x2014;earned substantial profits.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-59"><sup>59</sup></xref></xrefGrp> Employment in grain milling expanded by around 1,000.</p>
+<p id="C5P35">The main growth in food processing was in Sugar and Sugar Confectionery (Group II), as had also been the case under Cumann na nGaedheal. A large component of the expansion reflected the establishment of the state-owned Irish Sugar Company (Comhlucht Si&#x00FA;cra &#x00C9;ireann) in 1933. Lemass had accepted, in a statement in the D&#x00E1;il, that &#x2018;beet sugar cannot possibly compete with cane sugar if we are to regard everything from the accountant&#x2019;s point of view&#x2019; but pointed to the spillover effects which had led other European countries, including Britain, to support the production of sugar beet.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-60"><sup>60</sup></xref></xrefGrp></p>
+<p id="C5P36">Though Daly estimates that the subsidy was a multiple of the amount that Lemass posited in his D&#x00E1;il statement (&#x2018;a cost to the community of an additional halfpenny a pound&#x2019;), it nevertheless compared favourably to what had been paid in the 1920s.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-61"><sup>61</sup></xref></xrefGrp> The industry&#x2019;s establishment under state ownership, she suggests, was a reaction to the embarrassment to government that the experience of the 1920s had caused.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-62"><sup>62</sup></xref></xrefGrp> The Belgian-owned Carlow plant was purchased by compulsory order and three new sugar factories were established at Mallow, Tuam, and Thurles. There were five times as many employed across the four plants at the height of the sugar campaign in 1937 as there had been at the Carlow factory in 1931. By 1948, Irish Sugar was one of the largest manufacturing employers in the state.</p>
+<p id="C5P37">Rowntree and Cadbury were the major British producers of chocolate confectionery. Rowntree had initiated operations in Dublin in the 1920s (as had Mackintosh, with whom it would shortly enter into partnership). When news emerged that a higher tariff on confectionery was in the offing, Cadbury, which was already losing money on its Irish exports, followed suit. The first Fry&#x2013;Cadbury plant opened in East Wall in 1933. A second would be opened several&#x00A0;years later in the recently vacated Gallaher Tobacco premises. Employment at the firm would remain modest until the 1950s however <page id="107" chapter=""/>as a significant share of production was outsourced to Clarnico-Murray in Terenure. Fry&#x2013;Cadbury&#x2019;s Dublin workforce of 200&#x2013;300 in 1948 was similar to that of Urney, the major indigenous producer, and less than half that of Rowntree&#x2013;Mackintosh. By 1971, Cadbury Ireland (as the Irish venture had been renamed) had become a major exporter of confectionery as well as chocolate crumb (the latter from its plant in County Kerry, which dated from the post-war era) and was another of the largest manufacturing employers in the state.</p>
+<p id="C5P38">Three major new firms emerged in the Clay, Glass and Cement sector (Group IV). Several previous attempts to resurrect the Irish Glass Bottle Company had failed. It was successfully revived in 1932 by an Irish&#x2013;Belgian consortium led by the former Cumann na nGaedheal minister Joseph McGrath. It diversified into sheet glass with the opening of a second Ringsend factory in 1936. Arklow Pottery opened in 1934, with early-stage training provided by several dozen workers brought in from Staffordshire Potteries. Cement Limited was established in conjunction with an Anglo-Danish concern attracted by the monopoly the firm had been granted for the production and importation of cement. Cement factories were opened in Drogheda and Limerick in 1938. All three of these firms employed workforces of 400 or so by the end of the decade. Employment at Irish Cement would exceed 500 by 1948. It would merge with Roadstone decades later to form Cement Roadstone Holdings (CRH), one of the major indigenous multinationals of the present era.</p>
+<p id="C5P39">The imposition of quantitative restrictions on imports of fully built-up (FBU) vehicles led Ford to reverse its decision to close its Irish plant, though the employment levels at the height of tractor production in the late 1920s would never again be attained. The factory was now repurposed to assemble primarily for the domestic market. Around a dozen other firms also initiated assembly operations. Ford held at least a half-share of the Irish market in the 1930s and would continue to outsell any of its rivals up to 1972. Morris and Austin, the next most popular marques, were assembled by Dublin car dealerships G. A. Brittain and Lincoln &#x0026; Nolan.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-63"><sup>63</sup></xref></xrefGrp></p>
+<p id="C5P40">Some 3,000&#x2013;4,000 cars had been imported annually prior to the imposition of restrictions in 1933. Eight-and-a-half thousand were assembled in 1938. By 1950, the figure had grown to 17,000, while imports of FBU units had declined to just over 100.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-64"><sup>64</sup></xref></xrefGrp> Ireland was not the only jurisdiction to restrict FBU imports. Some car manufacturers were already producing completely <page id="108" chapter=""/>knocked-down (CKD) kits for assembly elsewhere. In other cases, particularly in the early phase of the new regime, &#x2018;fully built cars were dismantled, put into crates and shipped to Ireland where they were put back together again&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-65"><sup>65</sup></xref></xrefGrp> US army jeeps purchased at the end of the war were dismantled in the United Kingdom by one particular Irish firm, Motor Distributors Ltd, before being imported to Ireland and reassembled by the same firm.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-66"><sup>66</sup></xref></xrefGrp> These cases bear echoes of Keynes&#x2019;s provocative Depression-era suggestion that unemployment could be eradicated were the Treasury to fill old bottles with banknotes, bury them in disused coalmines, and leave it to private enterprise to dig them out. As he went on to point out however, building houses would probably be more sensible.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-67"><sup>67</sup></xref></xrefGrp></p>
+<p id="C5P41">The requirement that the assemblers use certain locally produced components provided part of the motivation for tyre producer Dunlop to establish a plant in Ireland. Its first factory, established in the late Victorian era, had been in Dublin, but the company had relocated to Coventry by the turn of the century and was by now a major British multinational. It was warned by the Irish government in 1933 that if it failed to establish a local operation one of its competitors would be granted a monopoly of the tyre business in the state. Having secured a guarantee that imports would only be allowed in the types of tyres that it did not itself manufacture, it opened a plant on the grounds of the Ford factory in Cork.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-68"><sup>68</sup></xref></xrefGrp> Other early suppliers to the Ford assembly operation included Bray light-bulb producer Solus Teoranta, paint manufacturer Harrington Goodlass-Wall, and Irish Sewing Cotton in Westport.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-69"><sup>69</sup></xref></xrefGrp></p>
+<p id="C5P42">Irish Dunlop was the largest employer in the Chemicals and Miscellaneous segment (Group XI). Besides tyres, it also produced rainwear, wellington boots, and a range of other rubber items. By the late 1930s, it had a workforce of around 800, roughly equal to that of Ford. The two plants would close within a&#x00A0;year of each other in the mid-1980s.</p>
+<p id="C5P43">The largest employer in Group VII, &#x2018;Other Metals, Engineering and Implements&#x2019;, was the Hammond Lane Foundry Company, by then a holding company for the dozen or so firms in the Hammond Lane group. Irish Steel was established by the same proprietor, David Frame, in 1938. Though he had planned to locate the new company at the former Kynochs site in Arklow, he was prevailed upon by Lemass to establish at Haulbowline, which, as the <page id="109" chapter=""/><i>Irish Times</i> suggested, &#x2018;should go far to compensate Cobh [.&#x00A0;.&#x00A0;.] for the losses sustained by the departure of naval and military establishments from Queenstown Harbour&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-70"><sup>70</sup></xref></xrefGrp> With the outbreak of war and the ensuing shortages of coal and other vital raw materials however, the company went into receivership in 1942. It struggled on during the war&#x00A0;years and would eventually be rescued by the state.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-71"><sup>71</sup></xref></xrefGrp></p>
+<p id="C5P44">The largest employment increase was in textiles and clothing. Cork hosiery and knitwear producer Sunbeam, Greenmount &#x0026; Boyne, Convoy Woollen Mills, and Northern Ireland company Abbey Clothing (which had a long-established factory on Dublin&#x2019;s Abbey Street) all expanded significantly in the 1930s. Sunbeam employed a workforce of 900 by the end of the decade.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-72"><sup>72</sup></xref></xrefGrp> Some 200 new textiles and clothing factories also opened over the seven&#x00A0;years to 1938. UK company Polikoff (Ireland) would be, for much of its existence, the largest clothing manufacturer in the state.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-73"><sup>73</sup></xref></xrefGrp> It opened in Dublin in 1933. Salts, a subsidiary of a Yorkshire worsted spinning company, opened in Tullamore in 1937. The workforce at both firms would reach 500 within a few&#x00A0;years of their establishment. J. &#x0026; L. F. Goodbody opened a new jute factory in Waterford in 1936. Cotton fabric producer General Textiles opened in Athlone, also in 1936.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-74"><sup>74</sup></xref></xrefGrp> Dublin department store Arnotts established a number of manufacturing subsidiaries to cater to its in-store needs.</p>
+<p id="C5P45">Halliday had been the only significant British footwear producer to establish in the Free State in the 1920s. Higher duties were now applied and imports other than under licence were prohibited shortly afterwards.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-75"><sup>75</sup></xref></xrefGrp> Twenty-one new boot and shoe factories opened between 1931 and 1938 and employment in the industry expanded by 4,000. Northern Ireland firm Edward Donaghy transferred its operation to Drogheda in 1932. Heavy boot manufacturer J. H. Woodington of Bristol also established in Drogheda. John Rawson and Co. of Leicester set up in Dundalk. Another British producer of high-quality shoes, Padmore &#x0026; Barnes, established in Kilkenny. Rawson had a workforce in excess of 500 by 1935.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-76"><sup>76</sup></xref></xrefGrp> By the end of the decade, half of the <page id="110" chapter=""/>workers in the sector were employed in UK firms, and many indigenous companies had entered into agreements with British manufacturers to produce the latter&#x2019;s brands for the Irish market.</p>
+<p id="C5P46">The Cumann na nGaedheal government had hoped that incentivizing footwear production would be sufficient to revive the shoe leather industry.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-77"><sup>77</sup></xref></xrefGrp> The extension of protection to shoe leather led to the creation of a further 1,000 new jobs, though the price of the home-produced product was 20 per cent higher than its imported counterpart.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-78"><sup>78</sup></xref></xrefGrp> Irish Tanners opened a major plant at Portlaw and a subsidiary operation in New Ross in 1935. Tanneries were opened in Dungarven and Gorey in 1936, the latter in association with British footwear manufacturer J. H. Woodington. The Hitschmann family, whose businesses in the Sudetenland had been expropriated by the Nazis, opened a tannery in Carrick-on-Suir in 1938 under the name Plunder &#x0026; Pollak (Ireland).</p>
+<p id="C5P47">The major development in Paper and Printing (Group X) was the reopening of the Clondalkin paper mills. Some of the other smaller Dublin paper mills were also revived. Employment at Clondalkin expanded from 200 in the late 1930s to 500 a decade later. Today&#x2019;s vast Smurfit packaging business began life as a box-making factory in 1934. The factory was fully acquired in 1938 and renamed Jefferson Smurfit &#x0026; Sons in 1942. The company would remain a minor employer until the 1960s. The Fianna F&#x00E1;il newspaper, the <i>Irish Press</i>, had been established in 1931. It employed more than 300 in 1948; Smurfit employed fewer than 200.</p>
+<p alignment="centre"></p>
+<p fullOut="Y" id="C5P48">Among the functions performed by the ICC were those which, in the case of public issues of established industries, &#x2018;would normally be discharged by private underwriters and would not be attended by undue risk&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-79"><sup>79</sup></xref></xrefGrp> The Department of Industry and Commerce viewed the body as excessively risk-averse and overly constrained by Department of Finance orthodoxy.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-80"><sup>80</sup></xref></xrefGrp> Many of the firms discussed above, including a number of British subsidiaries, were among its most significant clients. Ranks (Ireland) was, next to Irish Sugar, the largest stock issue underwritten in its first&#x00A0;year of operation. Irish Dunlop <page id="111" chapter=""/>was one of the largest in 1935. Salts (Ireland) and Polikoff (Ireland) were the largest in 1937.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-81"><sup>81</sup></xref></xrefGrp> The former Cumann na nGaedheal minister J. J. Walsh was sharply critical of Fianna F&#x00E1;il policy in this regard, writing in 1944:</p>
+<p><displayText id="oso-9780198878230-chapter-5-displayText-1" class="prosequote">
+<p>Not only did the enemy of their country get almost everything worth taking but the native taxpayer was compelled in many cases to supply him with the necessary finance to do so, through the Industrial Credit Company.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-82"><sup>82</sup></xref></xrefGrp></p>
+</displayText></p>
+<noteGroup>
+<note id="oso-9780198878230-chapter-5-note-57" type="footnote"><p><enumerator><sup>57</sup></enumerator> The decline in beer exports between 1935 and 1938 closely matched the output of the new Guinness brewery which came into operation in 1936: <bibItem id="oso-9780198878230-chapter-5-bibItem-32" class="book" author="Kennedy, Kieran|Giblin, Thomas|McHugh, Deirdre" date="1988" title="The Economic Development of Ireland in the Twentieth Century" page="47" place="London" publisher="Routledge" purpose="display"><nameGrp foreNames="Kieran" mainName="Kennedy" role="author">Kieran Kennedy</nameGrp>, <nameGrp foreNames="Thomas" mainName="Giblin" role="author">Thomas Giblin</nameGrp>, and <nameGrp foreNames="Deirdre" mainName="Mchugh" role="author">Deirdre McHugh</nameGrp>, <i>The Economic Development of Ireland in the Twentieth Century</i> (London: Routledge, 1988), 47.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-58" type="footnote"><p><enumerator><sup>58</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-33" class="book" author="Whelan, Edward" date="2012" title="Ranks Mills: The Industrial Heart of Limerick City" page="49" place="Limerick" publisher="Limerick City Council" purpose="display"><nameGrp foreNames="Edward" mainName="Whelan" role="author">Edward Whelan</nameGrp>, <i>Ranks Mills: The Industrial Heart of Limerick City</i> (Limerick: Limerick City Council, 2012), 49.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-59" type="footnote"><p><enumerator><sup>59</sup></enumerator> Daly, <i>Industrial Development and Irish National Identity, 1922&#x2013;1939</i>, 95; <bibItem id="oso-9780198878230-chapter-5-bibItem-34" class="book" author="Odlum, Stephen" date="2015" title="Flour Power, the Story of the Odlum Flour Milling Families" page="6" place="Dublin" publisher="Zest Publications" purpose="display"><nameGrp foreNames="Stephen" mainName="Odlum" role="author">Stephen Odlum</nameGrp>, <i>Flour Power, the Story of the Odlum Flour Milling Families</i> (Dublin: Zest Publications, 2015), 6.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-60" type="footnote"><p><enumerator><sup>60</sup></enumerator><i>PDDE</i>, 25 July 1933.</p></note>
+<note id="oso-9780198878230-chapter-5-note-61" type="footnote"><p><enumerator><sup>61</sup></enumerator> Daly, <i>Industrial Development and Irish National Identity, 1922&#x2013;1939</i>, 98.</p></note>
+<note id="oso-9780198878230-chapter-5-note-62" type="footnote"><p><enumerator><sup>62</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-35" class="book" author="Odlum, Stephen" date="2015" title="Flour Power, the Story of the Odlum Flour Milling Families" page="6" place="Dublin" publisher="Zest Publications" purpose="display"><xrefGrp><xref ref="oso-9780198878230-chapter-5-bibItem-34">Ibid</xref></xrefGrp></bibItem>.</p></note>
+<note id="oso-9780198878230-chapter-5-note-63" type="footnote"><p><enumerator><sup>63</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-36" class="book" author="Montgomery, Bob" date="2018" title="Motor Assembly in Ireland" page="212" pageLast="230" place="Dublin" publisher="Dreoilin Publications" purpose="display"><nameGrp foreNames="Bob" mainName="Montgomery" role="author">Bob Montgomery</nameGrp>, <i>Motor Assembly in Ireland</i> (Dublin: Dreoilin Publications, 2018), 212&#x2013;30.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-64" type="footnote"><p><enumerator><sup>64</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-37" class="book" author="Montgomery, Bob" date="2018" title="Motor Assembly in Ireland" page="212" pageLast="230" place="Dublin" publisher="Dreoilin Publications" purpose="display"><xrefGrp><xref ref="oso-9780198878230-chapter-5-bibItem-36">Ibid</xref></xrefGrp></bibItem>., 11&#x2013;16; <bibItem id="oso-9780198878230-chapter-5-bibItem-38" class="book" author="Committee on Industrial Organisation" date="1962" title="Report on the Motor Vehicle Assembly Industry" page="24" place="Dublin" publisher="Committee on Industrial Organisation" purpose="display"><nameGrp nameType="nonPersonal" mainName="Committee on Industrial Organisation">Committee on Industrial Organisation</nameGrp>, <i>Report on the Motor Vehicle Assembly Industry</i> (Dublin: Committee on Industrial Organisation, 1962), 24.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-65" type="footnote"><p><enumerator><sup>65</sup></enumerator> Montgomery, <i>Motor Assembly in Ireland</i>, 142.</p></note>
+<note id="oso-9780198878230-chapter-5-note-66" type="footnote"><p><enumerator><sup>66</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-39" class="book" author="Committee on Industrial Organisation" date="1962" title="Report on the Motor Vehicle Assembly Industry" page="24" place="Dublin" publisher="Committee on Industrial Organisation" purpose="display"><xrefGrp><xref ref="oso-9780198878230-chapter-5-bibItem-38">Ibid</xref></xrefGrp></bibItem>., 202.</p></note>
+<note id="oso-9780198878230-chapter-5-note-67" type="footnote"><p><enumerator><sup>67</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-40" class="book" author="Keynes, John Maynard" date="1936" title="The General Theory of Employment, Interest and Money" page="129" place="London" publisher="Macmillan" purpose="display"><nameGrp foreNames="John Maynard" mainName="Keynes" role="author">John Maynard Keynes</nameGrp>, <i>The General Theory of Employment, Interest and Money</i> (London: Macmillan, 1936), 129.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-68" type="footnote"><p><enumerator><sup>68</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-41" class="journalArticle" author="Jones, Geoffrey" date="1984" journalIssue="1" title="The Growth and Performance of British Multinational Firms before 1939: The Case of Dunlop" journalName="Economic History Review" vol="37" page="35" pageLast="53" purpose="display"><nameGrp foreNames="Geoffrey" mainName="Jones" role="author">Geoffrey Jones</nameGrp>, &#x2018;The Growth and Performance of British Multinational Firms before 1939: The Case of Dunlop&#x2019;. <i>Economic History Review</i> 37, 1 (1984): 35&#x2013;53.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-69" type="footnote"><p><enumerator><sup>69</sup></enumerator> Display advertisement for Ford, <i>Irish Times</i>, 3 January 1938.</p></note>
+<note id="oso-9780198878230-chapter-5-note-70" type="footnote"><p><enumerator><sup>70</sup></enumerator><i>Irish Times</i>, 25 August 1939.</p></note>
+<note id="oso-9780198878230-chapter-5-note-71" type="footnote"><p><enumerator><sup>71</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-42" class="journalArticle" author="Barry, Frank|Durkan, Joe" date="1996" title="Team Aer Lingus and Irish Steel: An Application of the Declining High-Wage Industries Literature" journalName="IBAR&#x2014;Irish Business and Administrative Research" vol="17" page="58" pageLast="72" purpose="display"><nameGrp foreNames="Frank" mainName="Barry" role="author">Frank Barry</nameGrp> and <nameGrp foreNames="Joe" mainName="Durkan" role="author">Joe Durkan</nameGrp>, &#x2018;Team Aer Lingus and Irish Steel: An Application of the Declining High-Wage Industries Literature&#x2019;. <i>IBAR&#x2014;Irish Business and Administrative Research</i> 17 (1996): 58&#x2013;72.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-72" type="footnote"><p><enumerator><sup>72</sup></enumerator> UK company Wolsey&#x2019;s stake in Sunbeam, which had been acquired in 1933, had been bought out by the Dwyer family three&#x00A0;years later, though the name Sunbeam&#x2013;Wolsey was retained. A son-in-law of the Dwyers, having worked for Sunbeam, set up Seafield Fabrics in 1946 to produce synthetic fibres from rayon. A clothing subsidiary, Blackwater Cottons, was established several&#x00A0;years later.</p></note>
+<note id="oso-9780198878230-chapter-5-note-73" type="footnote"><p><enumerator><sup>73</sup></enumerator> It would be acquired by Abbey Clothing in 1963 and renamed Kilmaine Clothing.</p></note>
+<note id="oso-9780198878230-chapter-5-note-74" type="footnote"><p><enumerator><sup>74</sup></enumerator> Established by a consortium of Irish and Belgian interests, its long-term managing director&#x2014;the founder of the Lenihan family political dynasty&#x2014;left the civil service at Lemass&#x2019;s instigation to become company secretary in 1937.</p></note>
+<note id="oso-9780198878230-chapter-5-note-75" type="footnote"><p><enumerator><sup>75</sup></enumerator> These paragraphs draw on <bibItem id="oso-9780198878230-chapter-5-bibItem-43" class="journalArticle" author="Press, Jon" date="1986" journalIssue="1" title="Protectionism and the Irish Footwear Industry, 1932&#x2013;39" journalName="Irish Economic and Social History" vol="13" page="74" pageLast="89" purpose="display"><nameGrp foreNames="Jon" mainName="Press" role="author">Jon Press</nameGrp>, &#x2018;Protectionism and the Irish Footwear Industry, 1932&#x2013;39&#x2019;. <i>Irish Economic and Social History</i> 13, 1 (1986): 74&#x2013;89.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-76" type="footnote"><p><enumerator><sup>76</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-44" class="journalArticle" author="Press, Jon" date="1986" journalIssue="1" title="Protectionism and the Irish Footwear Industry, 1932&#x2013;39" journalName="Irish Economic and Social History" vol="13" page="74" pageLast="89" purpose="display"><xrefGrp><xref ref="oso-9780198878230-chapter-5-bibItem-43">Ibid</xref></xrefGrp></bibItem>., 85, fn. 47.</p></note>
+<note id="oso-9780198878230-chapter-5-note-77" type="footnote"><p><enumerator><sup>77</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-45" class="journalArticle" author="Dwyer, D. J." date="1961" journalIssue="3" title="The Leather Industries of the Irish Republic, 1922&#x2013;55: A Study in Industrial Development and Location" journalName="Irish Geography" vol="4" page="176" purpose="display"><nameGrp foreNames="D. J." mainName="Dwyer" role="author">D. J. Dwyer</nameGrp>, &#x2018;The Leather Industries of the Irish Republic, 1922&#x2013;55: A Study in Industrial Development and Location&#x2019;. <i>Irish Geography</i> 4, 3 (1961): 176.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-78" type="footnote"><p><enumerator><sup>78</sup></enumerator> Press, &#x2018;Protectionism and the Irish Footwear Industry, 1932&#x2013;39&#x2019;, 87, fn. 54. The leather sector had not been included in the CIP for 1931 as employment had been minimal at the time. Employment over subsequent decades would not increase much beyond the 2,000 or so recorded in 1948.</p></note>
+<note id="oso-9780198878230-chapter-5-note-79" type="footnote"><p><enumerator><sup>79</sup></enumerator> O&#x2019;Donovan, &#x2018;State Enterprises&#x2019;, 332.</p></note>
+<note id="oso-9780198878230-chapter-5-note-80" type="footnote"><p><enumerator><sup>80</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-46" class="journalArticle" author="Daly, Mary E." date="1984" journalIssue="1" title="Government Finance for Industry in the Irish Free State: The Trade Loans (Guarantee) Acts" journalName="Irish Economic and Social History" vol="11" page="92" purpose="display"><nameGrp foreNames="Mary E." mainName="Daly" role="author">Mary E. Daly</nameGrp>, &#x2018;Government Finance for Industry in the Irish Free State: The Trade Loans (Guarantee) Acts&#x2019;. <i>Irish Economic and Social History</i> 11, 1 (1984): 92.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-81" type="footnote"><p><enumerator><sup>81</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-47" class="book" author="Industrial Credit Company Ltd" date="1954" title="Twenty-One Years of Industrial Financing, 1933 to 1954" page="17" pageLast="22" place="Dublin" publisher="Industrial Credit Company Ltd" purpose="display"><nameGrp nameType="nonPersonal" mainName="Industrial Credit Company Ltd">Industrial Credit Company Ltd</nameGrp>, <i>Twenty-One Years of Industrial Financing, 1933 to 1954</i> (Dublin: Industrial Credit Company Ltd, 1954), 17&#x2013;22.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-82" type="footnote"><p><enumerator><sup>82</sup></enumerator> Cited in Daly, <i>Industrial Development and Irish National Identity, 1922&#x2013;1939</i>, 128.</p></note>
+</noteGroup>
+<floatGroup id="oso-9780198878230-chapter-5-floatGroup-3">
+<tableGroup id="oso-9780198878230-chapter-5-tableGroup-3" doi="10.1093/oso/9780198878230.003.0005.007.0003" placement="float">
+<table id="oso-9780198878230-chapter-5-table-3" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-5-titleGroup-6"><title id="C5T3"><p><enumerator>Table 5.3</enumerator> Sectoral developments, 1931&#x2013;1948</p></title></titleGroup>
+<tgroup cols="6">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<colspec colnum="6" colname="col6"/>
+<thead>
+<row>
+<entry colname="col1" align="left"><p>Group</p></entry>
+<entry colname="col2" align="left"><p>Sector</p></entry>
+<entry colname="col3" align="left"><p>Employment, 1931</p></entry>
+<entry colname="col4" align="left"><p>Employment, 1938</p></entry>
+<entry colname="col5" align="left"><p>Employment change, 1931&#x2013;1938 (%)</p></entry>
+<entry colname="col6" align="left"><p><i>Memo item</i>: <i>Employment,</i></p>
+<p><i>1948</i></p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>I</p></entry>
+<entry colname="col2" align="left"><p>Foods Other Than Sugar and Sugar Confectionery (bacon, butter, grain, bread, biscuits, etc.)</p></entry>
+<entry colname="col3" align="left"><p>16,694</p></entry>
+<entry colname="col4" align="left"><p>18,416</p></entry>
+<entry colname="col5" align="left"><p>10</p></entry>
+<entry colname="col6" align="left"><p><i>19,833</i></p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>II</p></entry>
+<entry colname="col2" align="left"><p>Sugar and Sugar Confectionery</p></entry>
+<entry colname="col3" align="left"><p>2,577</p></entry>
+<entry colname="col4" align="left"><p>4,926</p></entry>
+<entry colname="col5" align="left"><p>91</p></entry>
+<entry colname="col6" align="left"><p><i>7,025</i></p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>III</p></entry>
+<entry colname="col2" align="left"><p>Drink and Tobacco</p></entry>
+<entry colname="col3" align="left"><p>8,736</p></entry>
+<entry colname="col4" align="left"><p>8,331</p></entry>
+<entry colname="col5" align="left"><p>&#x2212;5</p></entry>
+<entry colname="col6" align="left"><p><i>9,932</i></p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>IV</p></entry>
+<entry colname="col2" align="left"><p>Clay, Glass and Cement</p></entry>
+<entry colname="col3" align="left"><p>676</p></entry>
+<entry colname="col4" align="left"><p>3,028</p></entry>
+<entry colname="col5" align="left"><p>348</p></entry>
+<entry colname="col6" align="left"><p><i>3,708</i></p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>V</p></entry>
+<entry colname="col2" align="left"><p>Timber, Furniture etc.</p></entry>
+<entry colname="col3" align="left"><p>4,368</p></entry>
+<entry colname="col4" align="left"><p>6,854</p></entry>
+<entry colname="col5" align="left"><p>57</p></entry>
+<entry colname="col6" align="left"><p><i>7,346</i></p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>VI</p></entry>
+<entry colname="col2" align="left"><p>Motor Vehicles</p></entry>
+<entry colname="col3" align="left"><p>1,996</p></entry>
+<entry colname="col4" align="left"><p>3,921</p></entry>
+<entry colname="col5" align="left"><p>96</p></entry>
+<entry colname="col6" align="left"><p><i>6,318</i></p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>VII</p></entry>
+<entry colname="col2" align="left"><p>Other Metals, Engineering and Implements</p></entry>
+<entry colname="col3" align="left"><p>2,665</p></entry>
+<entry colname="col4" align="left"><p>7,605</p></entry>
+<entry colname="col5" align="left"><p>185</p></entry>
+<entry colname="col6" align="left"><p><i>9,025</i></p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>VIII</p></entry>
+<entry colname="col2" align="left"><p>Textiles and Clothing</p></entry>
+<entry colname="col3" align="left"><p>10,970</p></entry>
+<entry colname="col4" align="left"><p>21,417</p></entry>
+<entry colname="col5" align="left"><p>95</p></entry>
+<entry colname="col6" align="left"><p><i>27,354</i></p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>IX</p></entry>
+<entry colname="col2" align="left"><p>Footwear and Leather</p></entry>
+<entry colname="col3" align="left"><p>1,195</p></entry>
+<entry colname="col4" align="left"><p>6,547</p></entry>
+<entry colname="col5" align="left"><p>448</p></entry>
+<entry colname="col6" align="left"><p><i>8,046</i></p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>X</p></entry>
+<entry colname="col2" align="left"><p>Paper and Printing</p></entry>
+<entry colname="col3" align="left"><p>6,399</p></entry>
+<entry colname="col4" align="left"><p>9,315</p></entry>
+<entry colname="col5" align="left"><p>46</p></entry>
+<entry colname="col6" align="left"><p><i>10,939</i></p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>XI</p></entry>
+<entry colname="col2" align="left"><p>Chemicals and Miscellaneous</p></entry>
+<entry colname="col3" align="left"><p>4,667</p></entry>
+<entry colname="col4" align="left"><p>6,925</p></entry>
+<entry colname="col5" align="left"><p>48</p></entry>
+<entry colname="col6" align="left"><p><i>10,136</i></p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Total</p></entry>
+<entry colname="col3" align="left"><p>60,943</p></entry>
+<entry colname="col4" align="left"><p>97,285</p></entry>
+<entry colname="col5" align="left"><p>60</p></entry>
+<entry colname="col6" align="left"><p><i>119,662</i></p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Source</i>: CIP.</p></source>
+</table>
+</tableGroup>
+</floatGroup>
+</div1>
+<div1 id="oso-9780198878230-chapter-5-div1-4" doi="10.1093/oso/9780198878230.003.0005.021.0004">
+<titleGroup id="oso-9780198878230-chapter-5-titleGroup-7"><title id="C5S3"><p><enumerator>5.3</enumerator> The Emergency and Immediate Post-War Recovery</p></title></titleGroup>
+<p id="C5P49">The industrial expansion of the post-1932 period came to a halt with the outbreak of war in 1939. Around 9,000 manufacturing jobs were lost over the following three years. Output fell more substantially than employment as production processes became more labour-intensive and efforts were made to keep people in work.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-83"><sup>83</sup></xref></xrefGrp> There was a decline also in the quality of the products available, as referred to earlier in the cases of flour and tobacco. The era can be seen as an enforced example of what has come to be referred to today as &#x2018;the circular economy&#x2019;. Goods were repaired and reused in ways that remain familiar across much of the developing world. Dunlop harvested scrap rubber, Irish Steel harvested scrap metal, paper was made from straw and rags, and blankets were made from the clippings formerly discarded by clothing manufacturers.</p>
+<p id="C5P50">The most significant contraction over the war&#x00A0;years was in vehicle construction. Petrol became unavailable to most private motorists in January 1941. The Ford factory was reduced to operating at 4 per cent capacity. Used car parts were reconditioned, axle parts were made from old tram axles purchased from the railway companies, salvaged packing crates were used to produce clogs and other wooden items, and the nails removed from the crates were straightened for reuse. The Ford foundry was put to use producing cast-iron lavatory cisterns, gutters, and drainpipes. Some of the company&#x2019;s employees farmed the factory land; others harvested turf.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-84"><sup>84</sup></xref></xrefGrp></p>
+<p id="C5P51">The employment gains in the &#x2018;miscellaneous industries&#x2019; category in the Census of Industrial Production (CIP) more than offset the job losses in <page id="112" chapter=""/>vehicle construction however. Employment numbers were not reported for individual sub-sectors, but among those which grew strongly in volume and value terms were coal and peat briquettes, &#x2018;canned goods, meat extract, etc.&#x2019; and ship and boat building and repair. Though the many thousands employed in turf cutting were not included in the CIP, those employed in briquette production were. The tonnage of briquettes produced grew tenfold. The Turf Development Board produced peat briquettes at a factory adjacent to the Lullymore bog in County Kildare, which was accessed by the Grand Canal, and Great Southern Railways (GSR) produced coal briquettes at Inchicore, Broadstone, and Cork. The GSR briquettes, made from low-quality coal mixed with pitch, produced an unexpectedly satisfactory fuel. Within&#x00A0;months of their appearance in 1942, &#x2018;the crisis in train punctuality ended&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-85"><sup>85</sup></xref></xrefGrp></p>
+<p id="C5P52">Beef canning was initiated by processors Clover Meats and Roscrea Meat Products. Canned beef exports grew more than twenty-fold in value over the war years.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-86"><sup>86</sup></xref></xrefGrp> Clover also did a significant trade in &#x2018;erinox cubes&#x2019;, which were marketed as a tasty and nutritional substitute for tea, which was in extremely short supply. Employment at both Clover and Roscrea increased from pre-war levels of around 100 to wartime levels of around 350. Clover would be the second largest meat processor in the state at European Economic Community (EEC) accession.</p>
+<p id="C5P53">The Liffey dockyard reopened under private ownership in 1940. Rushbrooke in Cork reopened the following&#x00A0;year under the auspices of the state company Irish Shipping, which had been established to assist in the importation of essential commodities. Both dockyards employed workforces of 450&#x2013;500 throughout the remainder of the war. There are indications from the UK archives that Irish ships chartered to the British authorities may have been serviced at the Dublin dockyard in exchange for steel.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-87"><sup>87</sup></xref></xrefGrp></p>
+<p id="C5P54">Barter was common in the conduct of wartime trade. British steel was supplied to the Pierce plant in Wexford in exchange for agricultural machinery. British coal was provided to the cement factories in exchange for cement. Britain had imposed restrictions on Irish access to coal in the early&#x00A0;years of the Emergency in an attempt to secure the return of the Treaty ports. Ireland had responded with a cement embargo. The dispute was resolved when cement was needed for airfield construction north of the border.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-88"><sup>88</sup></xref></xrefGrp></p>
+<p id="C5P55"><page id="113" chapter=""/>Though the arrival of large numbers of US troops in Northern Ireland in January 1942 provoked protests from the Irish government, it strengthened its bargaining position. Provisioning the troops from Britain would require the deployment of scarce shipping resources. The alternative was to provision them from the South. A threatened embargo on Guinness exports from St James&#x2019;s Gate led to the British Ministry of Food authorizing an exchange of 30,000 tons of American wheat for a million barrels of beer. The US minister in Dublin looked unfavourably on the deal as shipping was being used to supply a neutral country while the commodity obtained in exchange was &#x2018;at best a luxury and at worst poison&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-89"><sup>89</sup></xref></xrefGrp> &#x2018;The requirements of US troops&#x2019;, as Rigney notes, &#x2018;remained a priority for British civil servants.&#x2019;<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-90"><sup>90</sup></xref></xrefGrp></p>
+<p id="C5P56">Irish Steel&#x2019;s attempts to secure government assistance at the outbreak of the war had been rebuffed twice by McEntee, who had become Minister for Industry and Commerce in 1940 when Lemass moved to the new Department of Supplies. An internal departmental investigation had raised serious concerns about some of Frame&#x2019;s business practices. It concluded that the company had provided a false estimate of the initial cost of the undertaking and that the money loaned to the company by the government had been &#x2018;squandered&#x2019;, that one Frame company had sold the plant to another of his companies at an inflated price, and that the steel plant would be totally dependent on another related company for all of its scrap metal requirements.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-91"><sup>91</sup></xref></xrefGrp> McEntee&#x2019;s &#x2018;unfavourable opinion of the efficiency and creditworthiness of the Board of the Company and its advisers&#x2019; was shared by the new Minister for Finance Se&#x00E1;n T. O&#x2019;Kelly.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-92"><sup>92</sup></xref></xrefGrp> In spite of this, the drying up of steel imports led to the company&#x2019;s remaining in production on a limited basis until finally, in 1946, with its cash resources exhausted, it went into receivership. Lemass argued that some production capacity needed to be maintained in case of a future national emergency. The Minister for Finance remained &#x2018;worried about financing this uneconomic high-cost industry which, even though it enjoys the protection of a 25% duty, has been able to produce only at a very substantial loss&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-93"><sup>93</sup></xref></xrefGrp> Lemass again won the day. Irish Steel Holdings was formed in 1947 and provided with a loan from the Department of Finance to purchase the assets held by the receiver. It would remain a semi-state <page id="114" chapter=""/>company until its sale in 1995 and was loss-making throughout most of its existence.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-94"><sup>94</sup></xref></xrefGrp> Its workforce remained in the low hundreds until the 1950s.</p>
+<p id="C5P57">The immediate post-war years witnessed a strong economic recovery as pent-up consumer demand was released onto the market.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-95"><sup>95</sup></xref></xrefGrp> Employment in each of the industry groups listed in <xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-5-tableGroup-3">5.3</xref></xrefGrp> expanded between 1945 and 1948. The largest increase in percentage terms was in motor vehicle assembly. Across most classes of commodities, the spending boom was reflected in a sharp increase in imports. The deterioration in the balance of payments and the austerity this triggered would lead to the major transformative economic and industrial policy initiatives of the 1950s&#x2014;the Whitaker Report of 1958 and the strategy of &#x2018;industrialisation by invitation&#x2019;.</p>
+<noteGroup>
+<note id="oso-9780198878230-chapter-5-note-83" type="footnote"><p><enumerator><sup>83</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-48" class="journalArticle" author="Geary, R. C." date="1951" journalIssue="160" title="Irish Economic Development since the Treaty" journalName="Studies: An Irish Quarterly Review" vol="40" page="399" pageLast="418" purpose="display"><nameGrp foreNames="R. C." mainName="Geary" role="author">R. C. Geary</nameGrp>, &#x2018;Irish Economic Development since the Treaty&#x2019;. <i>Studies: An Irish Quarterly Review</i> 40, 160 (1951): 399&#x2013;418.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-84" type="footnote"><p><enumerator><sup>84</sup></enumerator> Grimes, &#x2018;Starting Ireland on the Road to Industry: Henry Ford in Cork&#x2019;, 212&#x2013;14; Montgomery, <i>Motor Assembly in Ireland</i>, 80.</p></note>
+<note id="oso-9780198878230-chapter-5-note-85" type="footnote"><p><enumerator><sup>85</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-49" class="book" author="Rigney, Peter" date="2010" title="Trains, Coal and Turf: Transport in Emergency Ireland" page="55" publisher="Irish Academic Press" purpose="display"><nameGrp foreNames="Peter" mainName="Rigney" role="author">Peter Rigney</nameGrp>, <i>Trains, Coal and Turf: Transport in Emergency Ireland</i> (Irish Academic Press, 2010), 55.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-86" type="footnote"><p><enumerator><sup>86</sup></enumerator> Department of Industry and Commerce, <i>Trade and Shipping Statistics</i> (Dublin: Stationery Office), various years.</p></note>
+<note id="oso-9780198878230-chapter-5-note-87" type="footnote"><p><enumerator><sup>87</sup></enumerator> Rigney, <i>Trains, Coal and Turf: Transport in Emergency Ireland</i>&#x2019;, 83.</p></note>
+<note id="oso-9780198878230-chapter-5-note-88" type="footnote"><p><enumerator><sup>88</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-50" class="book" author="Rigney, Peter" date="2010" title="Trains, Coal and Turf: Transport in Emergency Ireland" page="55" publisher="Irish Academic Press" purpose="display"><xrefGrp><xref ref="oso-9780198878230-chapter-5-bibItem-49">Ibid</xref></xrefGrp></bibItem>., 92.</p></note>
+<note id="oso-9780198878230-chapter-5-note-89" type="footnote"><p><enumerator><sup>89</sup></enumerator> Cited in <bibItem id="oso-9780198878230-chapter-5-bibItem-51" class="book" author="Rigney, Peter" date="2010" title="Trains, Coal and Turf: Transport in Emergency Ireland" page="55" publisher="Irish Academic Press" purpose="display"><xrefGrp><xref ref="oso-9780198878230-chapter-5-bibItem-49">ibid</xref></xrefGrp></bibItem>., 86.</p></note>
+<note id="oso-9780198878230-chapter-5-note-90" type="footnote"><p><enumerator><sup>90</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-52" class="book" author="Rigney, Peter" date="2010" title="Trains, Coal and Turf: Transport in Emergency Ireland" page="55" publisher="Irish Academic Press" purpose="display"><xrefGrp><xref ref="oso-9780198878230-chapter-5-bibItem-49">Ibid</xref></xrefGrp></bibItem>., 85.</p></note>
+<note id="oso-9780198878230-chapter-5-note-91" type="footnote"><p><enumerator><sup>91</sup></enumerator> National Archives of Ireland (NAI), TAOIS/S 11603 A: Department of Industry and Commerce Memorandum concerning the present position of Irish Steel, Limited, 16 October 1940.</p></note>
+<note id="oso-9780198878230-chapter-5-note-92" type="footnote"><p><enumerator><sup>92</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-53" class="book" author="Rigney, Peter" date="2010" title="Trains, Coal and Turf: Transport in Emergency Ireland" page="55" publisher="Irish Academic Press" purpose="display"><xrefGrp><xref ref="oso-9780198878230-chapter-5-bibItem-49">Ibid</xref></xrefGrp></bibItem>.</p></note>
+<note id="oso-9780198878230-chapter-5-note-93" type="footnote"><p><enumerator><sup>93</sup></enumerator> Cited in <bibItem id="oso-9780198878230-chapter-5-bibItem-54" class="book" author="Cullinane, Liam" date="2020" title="Working in Cork, Everyday Life in Irish Steel, Sunbeam Wolsey and the Ford Marina Plant, 1917&#x2013;2001" page="59" place="Cork" publisher="Cork University Press" purpose="display"><nameGrp foreNames="Liam" mainName="Cullinane" role="author">Liam Cullinane</nameGrp>, <i>Working in Cork, Everyday Life in Irish Steel, Sunbeam Wolsey and the Ford Marina Plant, 1917&#x2013;2001</i> (Cork: Cork University Press, 2020), 59.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-5-note-94" type="footnote"><p><enumerator><sup>94</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-55" class="book" author="Cullinane, Liam" date="2020" title="Working in Cork, Everyday Life in Irish Steel, Sunbeam Wolsey and the Ford Marina Plant, 1917&#x2013;2001" page="59" place="Cork" publisher="Cork University Press" purpose="display"><xrefGrp><xref ref="oso-9780198878230-chapter-5-bibItem-54">Ibid</xref></xrefGrp></bibItem>., 64.</p></note>
+<note id="oso-9780198878230-chapter-5-note-95" type="footnote"><p><enumerator><sup>95</sup></enumerator> There had been a substantial build-up in personal savings over the war years, both for precautionary reasons and because of the non-availability of goods. This was unwound over the post-war period: <bibItem id="oso-9780198878230-chapter-5-bibItem-56" class="journalArticle" author="Fitzgerald, John|Kenny, Se&#x00E1;n|L. Cerme&#x00F1;o, Alexandra" date="2022" title="Household Behaviour under Rationing" journalName="National Institute Economic Review" page="1" pageLast="21" purpose="display"><nameGrp foreNames="John" mainName="Fitzgerald" role="author">John Fitzgerald</nameGrp>, <nameGrp foreNames="Se&#x00E1;N" mainName="Kenny" role="author">Se&#x00E1;n Kenny</nameGrp>, and <nameGrp foreNames="Alexandra" mainName="L. Cerme&#x00f1;o" role="author">Alexandra L. Cerme&#x00F1;o</nameGrp>, &#x2018;Household Behaviour under Rationing&#x2019;. <i>National Institute Economic Review</i> (2022): 1&#x2013;21.</bibItem></p></note>
+</noteGroup>
+</div1>
+<div1 id="oso-9780198878230-chapter-5-div1-5" doi="10.1093/oso/9780198878230.003.0005.021.0005">
+<titleGroup id="oso-9780198878230-chapter-5-titleGroup-8"><title id="C5S4"><p><enumerator>5.4</enumerator> Industrial Location</p></title></titleGroup>
+<p id="C5P58">Strong localist pressures were brought to bear on both the Cumann na nGaedheal and Fianna F&#x00E1;il governments to try to influence industrial location.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-96"><sup>96</sup></xref></xrefGrp> Most protected industries were reliant on imported inputs however and preferred to site their plants at or close to the major ports. Mary Daly concludes on the basis of the aggregated data provided by the CIP that &#x2018;the more intensive drive for decentralization in the late thirties appears to have been ineffective&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-97"><sup>97</sup></xref></xrefGrp> These data are extended out to 1948 in <xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-5-tableGroup-4">5.4</xref></xrefGrp>. As will be seen in later chapters, there was little change in the regional distribution of industry until the 1960s.</p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-5-tableGroup-4"?></p>
+<p id="C5P59">It should be noted, however, that the cities, particularly Dublin, were expanding as a share of the population, while the shares of both Connacht and Ulster were declining. Industry was counteracting this trend to at least some modest extent. Plant-level characteristics are also of significance, as average earnings are generally positively related to establishment size. The CIP provides no information on regional distribution by establishment size.</p>
+<p id="C5P60">As seen earlier in <xrefGrp>Chapter&#x00A0;<xref ref="oso-9780198878230-chapter-1">1</xref></xrefGrp>, there had been nine establishments with workforces of 500 or more in 1929. Four further factories met the criterion in 1938. Two were in Dublin: the Rowntree chocolate factory in Kilmainham <page id="115" chapter=""/>and the new Hely print works at East Wall. The other two&#x2014;the factories of Sunbeam&#x2013;Wolsey and Irish Dunlop&#x2014;were in Cork. There was, however, some decentralization of establishments with workforces of 100&#x2013;499.</p>
+<p id="C5P61">Nationally, the number of these second-tier establishments increased from 121 to 211. The number in Connacht increased fivefold.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-98"><sup>98</sup></xref></xrefGrp> The only such establishments in Connacht in 1929 had been the woollen mills in Galway and Foxford. By 1938, Mayo also hosted Irish Sewing Cotton and Reliable Shoe. Galway hosted, among others, the Tuam Sugar factory, the French-owned hatmaker Les Modes Modernes, and a McDonagh company, the Galway Foundry, which produced agricultural implements that benefited from tariff protection. Sligo hosted Sligo Shoe.</p>
+<p id="C5P62">Sewing cotton had been declared a &#x2018;reserved commodity&#x2019; in 1935. As Lemass told the D&#x00E1;il, this was to &#x2018;secure the development of the sewing cotton industry in the West of Ireland&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-99"><sup>99</sup></xref></xrefGrp> He was said by one of his senior departmental officials to have &#x2018;compelled&#x2019; a hat factory&#x2014;presumably Les Modes Modernes&#x2014;to locate in Galway.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-100"><sup>100</sup></xref></xrefGrp> The location of the sugar plant was clearly in the government&#x2019;s gift. In these cases, at least, the hand of government is clearly visible.</p>
+<noteGroup>
+<note id="oso-9780198878230-chapter-5-note-96" type="footnote"><p><enumerator><sup>96</sup></enumerator> Daly, <i>Industrial Development and Irish National Identity, 1922&#x2013;1939</i>, 106&#x2013;16.</p></note>
+<note id="oso-9780198878230-chapter-5-note-97" type="footnote"><p><enumerator><sup>97</sup></enumerator><bibItem id="oso-9780198878230-chapter-5-bibItem-57" class="journalArticle" author="Fitzgerald, John|Kenny, Se&#x00E1;n|L. Cerme&#x00F1;o, Alexandra" date="2022" title="Household Behaviour under Rationing" journalName="National Institute Economic Review" page="1" pageLast="21" purpose="display"><xrefGrp><xref ref="oso-9780198878230-chapter-5-bibItem-56">Ibid</xref></xrefGrp></bibItem>., 112.</p></note>
+<note id="oso-9780198878230-chapter-5-note-98" type="footnote"><p><enumerator><sup>98</sup></enumerator> Michael Scholz, &#x2018;Location of Large Manufacturing Establishments in Ireland&#x2019;. M.Sc. Business Analytics dissertation, Trinity Business School, 2022.</p></note>
+<note id="oso-9780198878230-chapter-5-note-99" type="footnote"><p><enumerator><sup>99</sup></enumerator> PDDE, Vol. 58, No. 8, 19 July 1935.</p></note>
+<note id="oso-9780198878230-chapter-5-note-100" type="footnote"><p><enumerator><sup>100</sup></enumerator> Daly, <i>Industrial Development and Irish National Identity, 1922&#x2013;1939</i>, 111.</p></note>
+</noteGroup>
+<floatGroup id="oso-9780198878230-chapter-5-floatGroup-4">
+<tableGroup id="oso-9780198878230-chapter-5-tableGroup-4" doi="10.1093/oso/9780198878230.003.0005.007.0004" placement="float">
+<table id="oso-9780198878230-chapter-5-table-4" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-5-titleGroup-9"><title id="C5T4"><p><enumerator>Table 5.4</enumerator> Regional distribution of industrial employment, 1931&#x2013;1948</p></title></titleGroup>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<thead>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>1931</p></entry>
+<entry colname="col3" align="left"><p>1938</p></entry>
+<entry colname="col4" align="left"><p>1948</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>Dublin City</p></entry>
+<entry colname="col2" align="left"><p>42</p></entry>
+<entry colname="col3" align="left"><p>43</p></entry>
+<entry colname="col4" align="left"><p>42</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Rest of Leinster</p></entry>
+<entry colname="col2" align="left"><p>18</p></entry>
+<entry colname="col3" align="left"><p>19</p></entry>
+<entry colname="col4" align="left"><p>20</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Cork City</p></entry>
+<entry colname="col2" align="left"><p>7</p></entry>
+<entry colname="col3" align="left"><p>7</p></entry>
+<entry colname="col4" align="left"><p>9</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Limerick City</p></entry>
+<entry colname="col2" align="left"><p>3</p></entry>
+<entry colname="col3" align="left"><p>3</p></entry>
+<entry colname="col4" align="left"><p>3</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Waterford City</p></entry>
+<entry colname="col2" align="left"><p>2</p></entry>
+<entry colname="col3" align="left"><p>2</p></entry>
+<entry colname="col4" align="left"><p>2</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Rest of Munster</p></entry>
+<entry colname="col2" align="left"><p>16</p></entry>
+<entry colname="col3" align="left"><p>13</p></entry>
+<entry colname="col4" align="left"><p>13</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Connacht</p></entry>
+<entry colname="col2" align="left"><p>7</p></entry>
+<entry colname="col3" align="left"><p>8</p></entry>
+<entry colname="col4" align="left"><p>7</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Three-county Ulster</p></entry>
+<entry colname="col2" align="left"><p>5</p></entry>
+<entry colname="col3" align="left"><p>5</p></entry>
+<entry colname="col4" align="left"><p>5</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Note</i>: These data include other industries such as building and construction in addition to manufacturing. Columns may not sum to 100 due to rounding.</p>
+<p><i>Source</i>: CIP.</p></source>
+</table>
+</tableGroup>
+</floatGroup>
+</div1>
+<div1 id="oso-9780198878230-chapter-5-div1-6" doi="10.1093/oso/9780198878230.003.0005.021.0006">
+<titleGroup id="oso-9780198878230-chapter-5-titleGroup-10"><title id="C5S5"><p><page id="116" chapter=""/><enumerator>5.5</enumerator> Largest Manufacturing Employers of the Late 1940s</p></title></titleGroup>
+<p id="C5P63"><xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-5-tableGroup-5">5.5</xref></xrefGrp> provides details of the largest manufacturing firms (as distinct from establishments) towards the end of Fianna F&#x00E1;il&#x2019;s first unbroken sixteen-year period in office. There were more than twice as many firms with workforces of 500+ in 1948 as there had been in 1929. Four foreign-owned firms established since 1932&#x2014;Salts, Polikoff, Irish Dunlop, and footwear manufacturer John Rawson &#x0026; Sons&#x2014;appear on the list. Large indigenous employers established over the period include the state-owned Irish Sugar Company, General Textiles, Clondalkin Paper Mills, and Irish Cement. Motor vehicle assembler G. A. Brittain probably briefly employed 500 at this time as a consequence of the demand for cars that had been unleashed at the end of the war.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-5-note-101"><sup>101</sup></xref></xrefGrp> Its workforce would decline to a slightly lower level in the 1950s.</p>
+<p id="C5P64">The others on the list, apart from Mitchelstown Co-operative, were already employing close to or in excess of 500 by the late 1920s. As recently as 1939, Mitchelstown had employed only 162. A large part of its workforce was by now engaged in cheese production, though it would lose its monopoly in 1947 when Golden Vale was allowed to enter the market. By 1948, it also hosted a grain mill, a saw mill, a cattle-breeding station, and a range of other agricultural and services activities. It also ran the largest pig-rearing operation in the country, having entered the sector as an alternative disposal method for the cheese by-products that had been polluting local rivers. Over the coming years, it would become one of the largest bacon producers in the state.</p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-5-tableGroup-5"?></p>
+<noteGroup>
+<note id="oso-9780198878230-chapter-5-note-101" type="footnote"><p><enumerator><sup>101</sup></enumerator> The CIP reports that there were three establishments of this size in the vehicle assembly sector in 1947. Brittain is likely to have been the third, along with Ford and the state transport company CI&#x00C9;.</p></note>
+</noteGroup>
+<floatGroup id="oso-9780198878230-chapter-5-floatGroup-5">
+<tableGroup id="oso-9780198878230-chapter-5-tableGroup-5" doi="10.1093/oso/9780198878230.003.0005.007.0005" placement="float">
+<table id="oso-9780198878230-chapter-5-table-5" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-5-titleGroup-11"><title id="C5T5"><p><enumerator>Table 5.5</enumerator> Firms employing 500+, <i>c</i>. 1948</p></title></titleGroup>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<thead>
+<row>
+<entry colname="col1" align="left"><p>Industry</p></entry>
+<entry colname="col2" align="left"><p>Firm name</p></entry>
+<entry colname="col3" align="left"><p>Employment, late 1940s</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>Meat</p></entry>
+<entry colname="col2" align="left"><p>Denny (UK)</p></entry>
+<entry colname="col3" align="left"><p>500</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Dairy</p></entry>
+<entry colname="col2" align="left"><p>Dairy Disposal Company</p></entry>
+<entry colname="col3" align="left"><p><i>c</i>. 800</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Mitchelstown Co-operative</p></entry>
+<entry colname="col3" align="left"><p>500</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Milling, bread, and biscuits</p></entry>
+<entry colname="col2" align="left"><p>Ranks (UK)</p></entry>
+<entry colname="col3" align="left"><p>&#x2265; 500</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Jacobs</p></entry>
+<entry colname="col3" align="left"><p>2,000</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Bolands</p></entry>
+<entry colname="col3" align="left"><p>600</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Johnston, Mooney &#x0026; O&#x2019;Brien</p></entry>
+<entry colname="col3" align="left"><p>600</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Kennedys</p></entry>
+<entry colname="col3" align="left"><p>540</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p><page id="117" chapter=""/>Chocolate, sugar, and confectionery</p></entry>
+<entry colname="col2" align="left"><p>Irish Sugar</p>
+<p>Crosse &#x0026; Blackwell (UK)</p>
+<p>Rowntree (UK)</p></entry>
+<entry colname="col3" align="left"><p>1,200</p>
+<p>700</p>
+<p>800&#x2013;900</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Brewing</p></entry>
+<entry colname="col2" align="left"><p>Guinness (UK)</p></entry>
+<entry colname="col3" align="left"><p><i>c</i>. 3,000</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Tobacco</p></entry>
+<entry colname="col2" align="left"><p>Players&#x2013;Wills (UK)</p></entry>
+<entry colname="col3" align="left"><p>1,370</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Textiles, clothing, and hosiery</p></entry>
+<entry colname="col2" align="left"><p>Goodbody Jute</p>
+<p>Greenmount &#x0026; Boyne</p></entry>
+<entry colname="col3" align="left"><p>750</p>
+<p>760</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>General Textiles (including subsidiary Naas Cotton Mills)</p></entry>
+<entry colname="col3" align="left"><p>700</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Blarney Woollen Mills</p></entry>
+<entry colname="col3" align="left"><p>700</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Dwyers</p></entry>
+<entry colname="col3" align="left"><p>500 (excluding footwear)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Sunbeam&#x2013;Wolsey (including subsidiaries)</p></entry>
+<entry colname="col3" align="left"><p>1,600</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Salts (UK)</p></entry>
+<entry colname="col3" align="left"><p>500</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Polikoff (UK)</p></entry>
+<entry colname="col3" align="left"><p>530</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Footwear</p></entry>
+<entry colname="col2" align="left"><p>Rawson (UK)</p></entry>
+<entry colname="col3" align="left"><p>625</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Halliday/Clarks (UK)</p></entry>
+<entry colname="col3" align="left"><p>631</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Lee Boot &#x0026; Hanover Shoe</p></entry>
+<entry colname="col3" align="left"><p>550</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Paper and print</p></entry>
+<entry colname="col2" align="left"><p><i>Irish Independent</i></p></entry>
+<entry colname="col3" align="left"><p>800</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Alexander Thom</p></entry>
+<entry colname="col3" align="left"><p>500</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Helys</p></entry>
+<entry colname="col3" align="left"><p>500</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Clondalkin Paper</p></entry>
+<entry colname="col3" align="left"><p>513</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Vehicles</p></entry>
+<entry colname="col2" align="left"><p>Ford (US)</p></entry>
+<entry colname="col3" align="left"><p>1,000</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Brittain</p></entry>
+<entry colname="col3" align="left"><p>500</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Other metals and engineering</p></entry>
+<entry colname="col2" align="left"><p>Hammond Lane Group</p></entry>
+<entry colname="col3" align="left"><p>800</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Clay, glass, and cement</p></entry>
+<entry colname="col2" align="left"><p>Irish Cement Ltd</p></entry>
+<entry colname="col3" align="left"><p>682</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Fertilizer</p></entry>
+<entry colname="col2" align="left"><p>Gouldings</p></entry>
+<entry colname="col3" align="left"><p>600</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Miscellaneous</p></entry>
+<entry colname="col2" align="left"><p>Irish Dunlop (UK)</p></entry>
+<entry colname="col3" align="left"><p>1,200</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Source</i>: author.</p></source>
+</table>
+</tableGroup>
+</floatGroup>
+</div1>
+</textMatter>
+</chapter>
+</mainText>
+</book>

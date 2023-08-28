@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OXFORD//DTD OXCHAPML//EN" "OxChapML.dtd">
+<book id="oso-9780198878230-book-1" doi="10.1093/oso/9780198878230.001.0001" OSOsubject="physics">
+<bookMeta id="oso-9780198878230-bookMeta-1">
+<versionInfo>
+<versionDate>2023-05-08</versionDate>
+<versionDesc>Proofs</versionDesc>
+</versionInfo>
+<abstract>
+<p>This book revisits the history of industry and the evolution of development policy in independent Ireland from the birth of the state to the eve of European Economic Community (EEC) accession. The Irish Free State was predominantly agricultural at its establishment in 1922. Industrial development was high on the nationalist agenda of all of the newly established European states of the inter-war period, as would later be the case across the entire developing world. Despite decades of protection, Ireland remained under-industrialized when it joined the EEC in 1973. Over the previous decade-and-a-half however the foundations of later convergence had been laid. Ireland was an early adopter of what would come to be known as dual-track reform. The policy of attracting outward-oriented foreign direct investment (FDI) was initiated before substantial trade liberalization began. By 1972 there had been a significant diversification in exports and export destinations and in the nationality of ownership of the leading companies. In these and other respects, the foundations of the economic progress that would be made over the course of EEC membership were already discernible, notwithstanding the post-accession collapse of most protectionist-era businesses. The analysis is supplemented by a unique firm-level database that allows for the identification of the leading manufacturing employers throughout the decades and extends by some fifty&#x00A0;years the period for which estimates of the significance of foreign-owned industry can be provided.</p>
+</abstract>
+<keySubjectWords>
+<keyword>industrial development</keyword>
+<keyword>Ireland</keyword>
+<keyword>Irish Free State</keyword>
+<keyword>protectionism</keyword>
+<keyword>dual-track reform</keyword>
+<keyword>industrialisation by invitation</keyword>
+<keyword>foreign direct investment</keyword>
+<keyword>Celtic Tiger</keyword>
+<keyword>EEC accession</keyword>
+<keyword>European Union Accession</keyword></keySubjectWords>
+<metaItem about="book">
+<metaItem about="DTD">
+<metaDescribes predicate="DTDname">OxChapML</metaDescribes>
+</metaItem>
+<metaItem about="TCIgroup">
+<metaItem about="TCI">
+<metaDescribes predicate="TCIname">OUP TCI</metaDescribes>
+<metaDescribes predicate="version">20170301.0</metaDescribes>
+</metaItem>
+</metaItem>
+<metaDescribes predicate="product">oso</metaDescribes>
+<metaDescribes predicate="colour-figures-for-online">Yes</metaDescribes>
+<metaDescribes predicate="publishing-group">oso US</metaDescribes>
+<metaDescribes predicate="captured-by">Integra</metaDescribes>
+</metaItem>
+</bookMeta>
+<frontMatter id="oso-9780198878230-frontMatter-1">
+<miscMatterGroup id="oso-9780198878230-miscMatterGroup-1">
+<miscMatter id="oso-9780198878230-miscMatter-1" doi="10.1093/oso/9780198878230.002.0001" class="halftitle">
+<metaInfo id="oso-9780198878230-miscMatter-1-metaInfo-1">
+<creatorGroup>
+<creator class="author" invertedForm="Barry, Frank"><forenames>Frank</forenames><surname>Barry</surname></creator>
+</creatorGroup>
+<metaItem about="book">
+<metaItem about="DTD">
+<metaDescribes predicate="DTDname">OxChapML</metaDescribes>
+</metaItem>
+<metaItem about="TCIgroup">
+<metaItem about="TCI">
+<metaDescribes predicate="TCIname">OUP TCI</metaDescribes>
+<metaDescribes predicate="version">20170301.0</metaDescribes>
+</metaItem>
+</metaItem>
+<metaDescribes predicate="product">oso</metaDescribes>
+<metaDescribes predicate="colour-figures-for-online">Yes</metaDescribes>
+<metaDescribes predicate="publishing-group">oso US</metaDescribes>
+<metaDescribes predicate="captured-by">Integra</metaDescribes>
+</metaItem>
+</metaInfo>
+<titleGroup id="oso-9780198878230-miscMatter-1-titleGroup-1"><title><p><?Page pageId="i"?><milestone id="oso-9780198784692-miscMatter-1-milestone-1" num="i" unit="page"/>Industry and Policy in Independent Ireland, 1922&#x2013;1972<?Page pageId="ii"?><milestone id="oso-9780198784692-miscMatter-1-milestone-2" num="ii" unit="page"/></p></title></titleGroup>
+<textMatter id="oso-9780198878230-miscMatter-1-textMatter-1"/>
+</miscMatter>
+<miscMatter id="oso-9780198878230-miscMatter-2" doi="10.1093/oso/9780198878230.002.0002" class="titlepage">
+<metaInfo id="oso-9780198878230-miscMatter-2-metaInfo-2">
+<creatorGroup>
+<creator class="author" invertedForm="Barry, Frank"><forenames>Frank</forenames><surname>Barry</surname></creator>
+</creatorGroup>
+<metaItem about="book">
+<metaItem about="DTD">
+<metaDescribes predicate="DTDname">OxChapML</metaDescribes>
+</metaItem>
+<metaItem about="TCIgroup">
+<metaItem about="TCI">
+<metaDescribes predicate="TCIname">OUP TCI</metaDescribes>
+<metaDescribes predicate="version">20170301.0</metaDescribes>
+</metaItem>
+</metaItem>
+<metaDescribes predicate="product">oso</metaDescribes>
+<metaDescribes predicate="colour-figures-for-online">Yes</metaDescribes>
+<metaDescribes predicate="publishing-group">oso US</metaDescribes>
+<metaDescribes predicate="captured-by">Integra</metaDescribes>
+</metaItem>
+</metaInfo>
+<titleGroup id="oso-9780198878230-miscMatter-2-titleGroup-2"><title><p><?Page pageId="iii"?><milestone id="oso-9780198784692-miscMatter-2-milestone-3" num="iii" unit="page"/>Industry and Policy in Independent Ireland, 1922&#x2013;1972</p></title>
+<creatorInfo>
+<p><nameGrp role="author" foreNames="Frank" mainName="Barry">Frank Barry</nameGrp></p>
+</creatorInfo></titleGroup>
+<textMatter id="oso-9780198878230-miscMatter-2-textMatter-2"><p><graphic id="oso-9780198878230-miscMatter-2-graphic-1" role="display" sysId="Figure_FM_1.gif"/></p>
+</textMatter>
+</miscMatter>
+<miscMatter id="oso-9780198878230-miscMatter-3" doi="10.1093/oso/9780198878230.002.0003" class="titleverso">
+<metaInfo id="oso-9780198878230-miscMatter-3-metaInfo-3">
+<creatorGroup>
+<creator class="author" invertedForm="Barry, Frank"><forenames>Frank</forenames><surname>Barry</surname></creator>
+</creatorGroup>
+<metaItem about="book">
+<metaItem about="DTD">
+<metaDescribes predicate="DTDname">OxChapML</metaDescribes>
+</metaItem>
+<metaItem about="TCIgroup">
+<metaItem about="TCI">
+<metaDescribes predicate="TCIname">OUP TCI</metaDescribes>
+<metaDescribes predicate="version">20170301.0</metaDescribes>
+</metaItem>
+</metaItem>
+<metaDescribes predicate="product">oso</metaDescribes>
+<metaDescribes predicate="colour-figures-for-online">Yes</metaDescribes>
+<metaDescribes predicate="publishing-group">oso US</metaDescribes>
+<metaDescribes predicate="captured-by">Integra</metaDescribes>
+</metaItem>
+</metaInfo>
+<titleGroup id="oso-9780198878230-miscMatter-3-titleGroup-3"><title><p display="online"><?Page pageId="iv"?><milestone id="oso-9780198784692-miscMatter-3-milestone-4" num="iv" unit="page"/>Copyright Page</p></title></titleGroup>
+<textMatter id="oso-9780198878230-miscMatter-3-textMatter-3">
+<p><graphic id="oso-9780198878230-miscMatter-3-graphic-2" role="display" sysId="Figure_FM_2.gif"/></p>
+<p><displayText id="oso-9780198878230-miscMatter-3-displayText-1" class="other">
+<lineGroup>
+<line>Great Clarendon Street, Oxford, OX2 6DP,</line>
+<line>United Kingdom</line>
+</lineGroup>
+<lineGroup>
+<line>Oxford University Press is a department of the University of Oxford.</line>
+<line>It furthers the University&#x2019;s objective of excellence in research, scholarship,</line>
+<line>and education by publishing worldwide. Oxford is a registered trade mark of</line>
+<line>Oxford University Press in the UK and in certain other countries</line>
+</lineGroup>
+<lineGroup>
+<line>&#x00A9; Frank Barry 2023</line>
+</lineGroup>
+<lineGroup>
+<line>The moral rights of the author have been asserted</line>
+</lineGroup>
+<lineGroup>
+<line>All rights reserved. No part of this publication may be reproduced, stored in</line>
+<line>a retrieval system, or transmitted, in any form or by any means, without the</line>
+<line>prior permission in writing of Oxford University Press, or as expressly permitted</line>
+<line>by law, by licence or under terms agreed with the appropriate reprographics</line>
+<line>rights organization. Enquiries concerning reproduction outside the scope of the</line>
+<line>above should be sent to the Rights Department, Oxford University Press, at the</line>
+<line>address above</line>
+</lineGroup>
+<lineGroup>
+<line>You must not circulate this work in any other form</line>
+<line>and you must impose this same condition on any acquirer</line>
+</lineGroup>
+<lineGroup>
+<line>Published in the United States of America by Oxford University Press</line>
+<line>198 Madison Avenue, New York, NY 10016, United States of America</line>
+</lineGroup>
+<lineGroup>
+<line>British Library Cataloguing in Publication Data</line>
+</lineGroup>
+<lineGroup>
+<line>Data available</line>
+</lineGroup>
+<lineGroup>
+<line>Library of Congress Control Number: 2023902252</line>
+</lineGroup>
+<lineGroup>
+<line>ISBN 978&#x2013;0&#x2013;19&#x2013;887823&#x2013;0</line>
+</lineGroup>
+<lineGroup>
+<line>DOI: 10.1093/oso/9780198878230.001.0001</line>
+</lineGroup>
+<lineGroup>
+<line>Printed and bound in the UK by</line>
+<line>Clays Ltd, Elcograf S.p.A.</line>
+</lineGroup>
+<lineGroup>
+<line>Links to third party websites are provided by Oxford in good faith and</line>
+<line>for information only. Oxford disclaims any responsibility for the materials</line>
+<line>contained in any third party website referenced in this work.</line>
+</lineGroup>
+</displayText></p>
+</textMatter>
+</miscMatter>
+<miscMatter id="oso-9780198878230-miscMatter-4" doi="10.1093/oso/9780198878230.002.0004" class="dedication">
+<metaInfo id="oso-9780198878230-miscMatter-4-metaInfo-4">
+<creatorGroup>
+<creator class="author" invertedForm="Barry, Frank"><forenames>Frank</forenames><surname>Barry</surname></creator>
+</creatorGroup>
+<metaItem about="book">
+<metaItem about="DTD">
+<metaDescribes predicate="DTDname">OxChapML</metaDescribes>
+</metaItem>
+<metaItem about="TCIgroup">
+<metaItem about="TCI">
+<metaDescribes predicate="TCIname">OUP TCI</metaDescribes>
+<metaDescribes predicate="version">20170301.0</metaDescribes>
+</metaItem>
+</metaItem>
+<metaDescribes predicate="product">oso</metaDescribes>
+<metaDescribes predicate="colour-figures-for-online">Yes</metaDescribes>
+<metaDescribes predicate="publishing-group">oso US</metaDescribes>
+<metaDescribes predicate="captured-by">Integra</metaDescribes>
+</metaItem>
+</metaInfo>
+<titleGroup id="oso-9780198878230-miscMatter-4-titleGroup-4"><title><p display="online"><?Page pageId="v"?><milestone id="oso-9780198784692-miscMatter-4-milestone-5" num="v" unit="page"/>Dedication</p></title></titleGroup>
+<textMatter id="oso-9780198878230-miscMatter-4-textMatter-4">
+<div1 id="oso-9780198878230-miscMatter-4-div1-1" doi="10.1093/oso/9780198878230.002.0004.021.0001">
+<p>To Ciara, to the Barrys of Currow and Mallow, the Feigherys of Banagher, and the ghosts of Gardiner Place.</p>
+</div1>
+</textMatter>
+</miscMatter>
+<miscMatter id="oso-9780198878230-miscMatter-5" doi="10.1093/oso/9780198878230.002.0005" class="preface">
+<metaInfo id="oso-9780198878230-miscMatter-5-metaInfo-5">
+<creatorGroup>
+<creator class="author" invertedForm="Barry, Frank"><forenames>Frank</forenames><surname>Barry</surname></creator>
+</creatorGroup>
+<metaItem about="book">
+<metaItem about="DTD">
+<metaDescribes predicate="DTDname">OxChapML</metaDescribes>
+</metaItem>
+<metaItem about="TCIgroup">
+<metaItem about="TCI">
+<metaDescribes predicate="TCIname">OUP TCI</metaDescribes>
+<metaDescribes predicate="version">20170301.0</metaDescribes>
+</metaItem>
+</metaItem>
+<metaDescribes predicate="product">oso</metaDescribes>
+<metaDescribes predicate="colour-figures-for-online">Yes</metaDescribes>
+<metaDescribes predicate="publishing-group">oso US</metaDescribes>
+<metaDescribes predicate="captured-by">Integra</metaDescribes>
+</metaItem>
+</metaInfo>
+<titleGroup id="oso-9780198878230-miscMatter-5-titleGroup-5"><title><p><?Page pageId="vi"?><milestone id="oso-9780198784692-miscMatter-5-milestone-6" num="vi" unit="page"/>Preface</p></title></titleGroup>
+<textMatter id="oso-9780198878230-miscMatter-5-textMatter-5">
+<div1 id="oso-9780198878230-miscMatter-5-div1-2" doi="10.1093/oso/9780198878230.002.0005.021.0002">
+<p>Around twenty&#x00A0;years ago, when I was lecturing in economics at University College Dublin and specializing in the role of foreign direct investment (FDI) in the modern Irish economy, I became engrossed in historian Mary Daly&#x2019;s work on industrial development in the early&#x00A0;years of the Irish Free State. By the early 2000s, foreign-owned firms accounted for close to 50 per cent of manufacturing employment. For most of them, Ireland served as an export platform from which to produce for the European Union and other neighbouring markets. I had not considered until then the role that FDI had played in the industrial economy of earlier times. Mary Daly&#x2019;s work was replete with references to British firms&#x2014;and some of other nationalities&#x2014;that had avoided the tariff barriers of the era by establishing in Ireland to service the protected local market.</p>
+<p>The anonymized database currently maintained by the Department of Enterprise, Trade and Employment contains the longest time series on the nationality of ownership of Irish industry. Its coverage extends back only to 1972. It should be possible, I thought, to work out reasonably precisely how extensive this older type of FDI had been if the nationality of ownership of the largest manufacturing firms of the earlier protectionist era could be identified.</p>
+<p>Naively, I guessed that it might take only a few&#x00A0;months to complete this task. I would soon discover that there were no comprehensive lists of the largest firms in operation in Ireland over the period. (This proved also to have been the case for the United Kingdom, though much research had already gone into doing for the United Kingdom what is done here for Ireland.) The few lists that surfaced on occasion in newspapers and magazines focused almost exclusively on companies traded on the Dublin stock exchange. Privately owned firms, semi-state companies, creamery cooperatives and the like were not included. Nor were most of the foreign-owned firms that I knew to have been in operation at the time.</p>
+<p>The earliest research publication to emerge from this project finally saw the light of day in 2016. It focused on the sectors surveyed by the Committee on Industrial Organisation in the early 1960s. The names of the firms that the Committee had surveyed were listed in its reports, though firm-specific <?Page pageId="vii"?><milestone id="oso-9780198784692-miscMatter-5-milestone-7" num="vii" unit="page"/>employment numbers had to be pieced together from other sources, and certain major industries were underrepresented or not included.</p>
+<p>I continued to work to identify the largest firms in operation over earlier and later time periods and across the entire manufacturing sector. Nationality of ownership was no longer the characteristic of sole or even of primary interest. <xrefGrp>Chapter&#x00A0;<xref ref="oso-9780198878230-chapter-2">2</xref></xrefGrp>, which extends the analysis back to the decades prior to the establishment of the state in 1922, reveals the extent of Protestant and unionist control of the leading businesses of the time.</p>
+<p>The search for the largest firms involved drawing on official reports, industry and academic studies, books, magazines, and newspaper articles to construct &#x2018;long lists&#x2019; of candidate firms by time period and by industrial sector and then seeking to unearth employment numbers for these firms. I could not have competed the mammoth task of narrowing down these long lists without the assistance of my students at Trinity Business School, where I was appointed to the chair of International Business and Economic Development in 2007. (Many reported that their research assignments for a final-year undergraduate course on Economic Policy and Business History that I had been invited to develop proved a popular discussion topic at subsequent job interviews.)</p>
+<p>I owe a debt of gratitude to them and to my research assistants Michael Scholz and Benn Hogan who organized all of the results accumulated over the&#x00A0;years into a comprehensive firm-level database. The data reported here have been extensively cleaned and cross-checked for consistency. To provide a sense of the variety of sources from which they have been derived, those pertaining to the decades prior to 1922 are reported in <xrefGrp>Chapter&#x00A0;<xref ref="oso-9780198878230-chapter-2">2</xref></xrefGrp>. Primary sources for later periods are available at: <url webUrl="https://doi.org/10.25546/101139">https://doi.org/10.25546/101139</url> (Barry Project: Firm-Level Data on Irish Industrial History). It is planned to make the entire database of several thousand firms available to the public at some stage in the future, though many of my notes are written in a shorthand that may be difficult to decipher.</p>
+<p>The other element of the research on which the book is based pertains to economic and industrial policy and the policy formation process. Former Taoiseach Garret FitzGerald once observed that even democratically elected governments are subject to such strong pressures from vested interests that many of the policies they adopt are detrimental to society as a whole. This research seeks to identify the combination of political beliefs, electoral and interest-group pressures and other constraints that lead to the adoption of particular policy stances. It also tracks the origins of some of the policy innovations that have proved of major significance to the economic well-being and development of the country.</p>
+<p><?Page pageId="viii"?><milestone id="oso-9780198784692-miscMatter-5-milestone-8" num="viii" unit="page"/>Much of my knowledge of Irish economic history was picked up by osmosis from my then colleagues in the University College Dublin economics department, Cormac &#x00D3; Gr&#x00E1;da and Kevin O&#x2019;Rourke, and from Mary Daly in the nearby history department. The interest that leading British economic historian Nick Crafts took in my work from an early stage provided huge encouragement. These have all continued to be major sources of inspiration.</p>
+<p>Random conversations with friends and colleagues, and sometimes even simple questions raised at particularly opportune moments, contributed significantly to the development of my thinking on these matters. I took note over the&#x00A0;years of insights that emerged from interactions of these types with John Bradley, Louis Cullen, Tommy Graham, Finola Kennedy, Frances Ruane, and Brendan Walsh. The business history element of the research builds on the work of Andy Bielenberg of University College Cork. I have benefited too from the infectious enthusiasm of local historians, particularly James Madigan of the Liberties Cultural Association and Matthew Potter and Sharon Slater in Limerick. Joe Durkan first drew my attention to the potential value of the reports of the Committee on Industrial Organisation. Jim Quinn was responsible for my developing the Trinity Business School undergraduate course referred to earlier. Robin Adams, John FitzGerald, Patrick Honohan, Se&#x00E1;n Kenny, Eoin McLaughlin, Cormac &#x00D3; Gr&#x00E1;da, and Frances Ruane kindly read and commented on various draft chapters.</p>
+<p>I am indebted also to Eunan O&#x2019;Halpin for his invariable willingness to accommodate my requests to present early drafts of my work to the Trinity Research Seminar in Contemporary Irish History. The comments and feedback of the participants at these and other seminars are gratefully acknowledged.</p>
+</div1>
+</textMatter>
+</miscMatter>
+<miscMatter id="oso-9780198878230-miscMatter-6" doi="10.1093/oso/9780198878230.002.0006" class="contents">
+<metaInfo id="oso-9780198878230-miscMatter-6-metaInfo-6">
+<creatorGroup>
+<creator class="author" invertedForm="Barry, Frank"><forenames>Frank</forenames><surname>Barry</surname></creator>
+</creatorGroup>
+<metaItem about="book">
+<metaItem about="DTD">
+<metaDescribes predicate="DTDname">OxChapML</metaDescribes>
+</metaItem>
+<metaItem about="TCIgroup">
+<metaItem about="TCI">
+<metaDescribes predicate="TCIname">OUP TCI</metaDescribes>
+<metaDescribes predicate="version">20170301.0</metaDescribes>
+</metaItem>
+</metaItem>
+<metaDescribes predicate="product">oso</metaDescribes>
+<metaDescribes predicate="colour-figures-for-online">Yes</metaDescribes>
+<metaDescribes predicate="publishing-group">oso US</metaDescribes>
+<metaDescribes predicate="captured-by">Integra</metaDescribes>
+</metaItem>
+</metaInfo>
+<titleGroup id="oso-9780198878230-miscMatter-6-titleGroup-6"><title><p><?Page pageId="ix"?><milestone id="oso-9780198784692-miscMatter-5-milestone-9" num="ix" unit="page"/>Contents</p></title></titleGroup>
+<textMatter id="oso-9780198878230-miscMatter-6-textMatter-6">
+<p><list class="contents">
+<list1 id="oso-9780198878230-miscMatter-6-list1-1" listType="unstructured">
+<item1 id="oso-9780198878230-miscMatter-6-item1-1" role="frontMatter">
+<list2 id="oso-9780198878230-miscMatter-6-list2-1" listType="unstructured">
+<item2 id="oso-9780198878230-miscMatter-6-item2-1"><p>List of Tables <pageNum pageId="x">x</pageNum></p></item2>
+<item2 id="oso-9780198878230-miscMatter-6-item2-2"><p>List of Abbreviations <pageNum pageId="xiii">xiii</pageNum></p></item2></list2>
+</item1>
+<item1 id="oso-9780198878230-miscMatter-6-item1-2" role="mainText">
+<list2 id="oso-9780198878230-miscMatter-6-list2-2" listType="unstructured">
+<item2 id="oso-9780198878230-miscMatter-6-item2-3">
+<list3 id="oso-9780198878230-miscMatter-6-list3-1" listType="structured">
+<item3 id="oso-9780198878230-miscMatter-6-item3-1"><p><enumerator>1</enumerator> Vantage Point, 1972 <pageNum pageId="1">1</pageNum></p></item3>
+<item3 id="oso-9780198878230-miscMatter-6-item3-2"><p><enumerator>2</enumerator> The Pre-1922 Southern Business Establishment and Its Legacy <pageNum pageId="16">16</pageNum></p></item3>
+<item3 id="oso-9780198878230-miscMatter-6-item3-3"><p><enumerator>3</enumerator> Firms of Note in 1922 <pageNum pageId="37">37</pageNum></p></item3>
+<item3 id="oso-9780198878230-miscMatter-6-item3-4"><p><enumerator>4</enumerator> The Irish Free State of the 1920s <pageNum pageId="67">67</pageNum></p></item3>
+<item3 id="oso-9780198878230-miscMatter-6-item3-5"><p><enumerator>5</enumerator> From the Great Depression to the End of the Emergency <pageNum pageId="93">93</pageNum></p></item3>
+<item3 id="oso-9780198878230-miscMatter-6-item3-6"><p><enumerator>6</enumerator> The Post-War World and Dual-Track Reform <pageNum pageId="118">118</pageNum></p></item3>
+<item3 id="oso-9780198878230-miscMatter-6-item3-7"><p><enumerator>7</enumerator> Trade Liberalization and the Road to Europe <pageNum pageId="150">150</pageNum></p></item3>
+<item3 id="oso-9780198878230-miscMatter-6-item3-8"><p><enumerator>8</enumerator> The Industrial Landscape of 1972 and Beyond <pageNum pageId="176">176</pageNum></p></item3></list3>
+<list3 id="oso-9780198878230-miscMatter-6-list3-2" listType="unstructured">
+<item3 id="oso-9780198878230-miscMatter-6-item3-9"><p>Epilogue <pageNum pageId="198">198</pageNum></p></item3></list3>
+</item2></list2>
+</item1>
+<item1 id="oso-9780198878230-miscMatter-6-item1-3" role="endMatter">
+<list2 id="oso-9780198878230-miscMatter-6-list2-3" listType="unstructured">
+<item2 id="oso-9780198878230-miscMatter-6-item2-4"><p>References <pageNum pageId="203">203</pageNum></p></item2>
+<item2 id="oso-9780198878230-miscMatter-6-item2-5"><p>Index <pageNum pageId="215">215</pageNum></p></item2></list2>
+</item1></list1>
+</list></p>
+</textMatter>
+</miscMatter>
+<miscMatter id="oso-9780198878230-miscMatter-7" doi="10.1093/oso/9780198878230.002.0007" class="other">
+<metaInfo id="oso-9780198878230-miscMatter-7-metaInfo-7">
+<creatorGroup>
+<creator class="author" invertedForm="Barry, Frank"><forenames>Frank</forenames><surname>Barry</surname></creator>
+</creatorGroup>
+<metaItem about="book">
+<metaItem about="DTD">
+<metaDescribes predicate="DTDname">OxChapML</metaDescribes>
+</metaItem>
+<metaItem about="TCIgroup">
+<metaItem about="TCI">
+<metaDescribes predicate="TCIname">OUP TCI</metaDescribes>
+<metaDescribes predicate="version">20170301.0</metaDescribes>
+</metaItem>
+</metaItem>
+<metaDescribes predicate="product">oso</metaDescribes>
+<metaDescribes predicate="colour-figures-for-online">Yes</metaDescribes>
+<metaDescribes predicate="publishing-group">oso US</metaDescribes>
+<metaDescribes predicate="captured-by">Integra</metaDescribes>
+</metaItem>
+</metaInfo>
+<titleGroup id="oso-9780198878230-miscMatter-7-titleGroup-7"><title><p><?Page pageId="x"?><milestone id="oso-9780198784692-miscMatter-6-milestone-10" num="x" unit="page"/>List of Tables</p></title></titleGroup>
+<textMatter id="oso-9780198878230-miscMatter-7-textMatter-7">
+<div1 id="oso-9780198878230-miscMatter-7-div1-3" doi="10.1093/oso/9780198878230.002.0007.021.0003">
+<p><list class="tables">
+<list1 id="oso-9780198878230-miscMatter-7-list1-2" listType="structured">
+<item1 id="oso-9780198878230-miscMatter-7-item1-2"><p><enumerator>1.1</enumerator> Numbers employed in agriculture, industry, and services (thousands), 1926&#x2013;1971 <pageNum pageId="2">2</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-3"><p><enumerator>1.2</enumerator> Growth rates of manufacturing employment and labour productivity, 1926&#x2013;1973 <pageNum pageId="3">3</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-4"><p><enumerator>1.3</enumerator> Industrial and manufacturing employment as a share of the labour force, Western Europe and Ireland, 1920s and 1970s <pageNum pageId="4">4</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-6"><p><enumerator>1.4</enumerator> Share of foreign firms in manufacturing employment, selected European countries, early-to-mid 1970s <pageNum pageId="7">7</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-8"><p><enumerator>1.5</enumerator> Manufacturing employment as recorded in CIP, 1926&#x2013;1972 <pageNum pageId="9">9</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-9"><p><enumerator>1.6</enumerator> Sectoral breakdown of manufacturing employment, 1926 and 1972 <pageNum pageId="10">10</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-10"><p><enumerator>1.7</enumerator> Number of establishments employing 500 or more, 1929&#x2013;1975 <pageNum pageId="11">11</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-11"><p><enumerator>1.8</enumerator> Female share of wage earners in manufacturing industries, 1926 and 1972 <pageNum pageId="11">11</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-12"><p><enumerator>1.9</enumerator> Manufacturing firms employing 500 or more in Ireland in 1972 <pageNum pageId="13">13</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-13"><p><enumerator>2.1</enumerator> Manufacturing firms in southern Ireland employing 500 or more in the decades to independence <pageNum pageId="24">24</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-14"><p><enumerator>2.2</enumerator> Non-manufacturing firms in southern Ireland employing 500 or more in the decades to independence <pageNum pageId="26">26</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-15"><p><enumerator>2.3</enumerator> Selected sources on unionist affiliations <pageNum pageId="35">35</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-16"><p><enumerator>3.1</enumerator> Free State Census of Industrial Production (CIP), 1926: Food, Drink, and Tobacco <pageNum pageId="38">38</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-17"><p><enumerator>3.2</enumerator> Employment in major bacon-curing firms <pageNum pageId="39">39</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-18"><p><enumerator>3.3</enumerator> Employment in selected firms in the dairy sector <pageNum pageId="42">42</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-19"><p><enumerator>3.4</enumerator> Employment in selected firms in bread, biscuits, and grain milling <pageNum pageId="44">44</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-20"><p><enumerator>3.5</enumerator> Employment in selected firms in sugar confectionery <pageNum pageId="45">45</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-21"><p><enumerator>3.6</enumerator> Free State breweries in operation in 1922 <pageNum pageId="47">47</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-22"><p><enumerator>3.7</enumerator> Free State area distilleries in operation in 1920 <pageNum pageId="50">50</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-23"><p><enumerator>3.8</enumerator> Largest tobacco manufacturers in the Free State in 1922 <pageNum pageId="52">52</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-24"><p><enumerator>3.9</enumerator> Free State CIP, 1926: Textiles, clothing, and footwear <pageNum pageId="54">54</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-25"><p><enumerator>3.10</enumerator> Leading firms in non-woollen textiles <pageNum pageId="54">54</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-26"><p><enumerator>3.11</enumerator> Leading firm in woollens and worsteds: Blarney Woollen Mills <pageNum pageId="55">55</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-27"><p><enumerator>3.12</enumerator> Leading firms in clothing, hosiery, and knitwear <pageNum pageId="56">56</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-28"><p><enumerator>3.13</enumerator> Selected Dublin department stores in operation in 1922 <pageNum pageId="58">58</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-29"><p><enumerator>3.14</enumerator> Free State CIP, 1926: Other manufacturing industries <pageNum pageId="60">60</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-30"><p><?Page pageId="xi"?><milestone id="oso-9780198784692-miscMatter-6-milestone-11" num="xi" unit="page"/><enumerator>3.15</enumerator> Railway engineering works <pageNum pageId="60">60</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-31"><p><enumerator>3.16</enumerator> Ship and boat building and repair <pageNum pageId="61">61</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-32"><p><enumerator>3.17</enumerator> Metals and engineering other than rail, ships, and boats <pageNum pageId="63">63</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-33"><p><enumerator>3.18</enumerator> Selected building materials firms <pageNum pageId="64">64</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-34"><p><enumerator>3.19</enumerator> Selected printing, stationery, and packaging firms <pageNum pageId="65">65</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-35"><p><enumerator>3.20</enumerator> Leading chemicals firm: Goulding Fertilizers <pageNum pageId="66">66</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-36"><p><enumerator>4.1</enumerator> Employment in 1926 and 1930 in sectors tariffed by 1926 <pageNum pageId="85">85</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-37"><p><enumerator>4.2</enumerator> Selected firms established/acquired as a result of the tariffs of 1923&#x2013;1926 <pageNum pageId="87">87</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-38"><p><enumerator>4.3</enumerator> Firms employing <i>c</i>. 400 or more in 1929 <pageNum pageId="92">92</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-39"><p><enumerator>5.1</enumerator> Developments in manufacturing employment, selected sub-periods, 1929&#x2013;1948 <pageNum pageId="94">94</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-40"><p><enumerator>5.2</enumerator> Employment in manufacturing and motor vehicle construction, 1929 and 1931 <pageNum pageId="95">95</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-41"><p><enumerator>5.3</enumerator> Sectoral developments, 1931&#x2013;1948 <pageNum pageId="105">105</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-42"><p><enumerator>5.4</enumerator> Regional distribution of industrial employment, 1931&#x2013;1948 <pageNum pageId="115">115</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-43"><p><enumerator>5.5</enumerator> Firms employing 500+, <i>c</i>. 1948 <pageNum pageId="116">116</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-44"><p><enumerator>6.1</enumerator> Employment in selected appliance and equipment producers <pageNum pageId="123">123</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-45"><p><enumerator>6.2</enumerator> Employment in selected confectionery and chocolate crumb producers <pageNum pageId="125">125</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-46"><p><enumerator>6.3</enumerator> Employment in selected cooperative creameries <pageNum pageId="126">126</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-47"><p><enumerator>6.4</enumerator> Employment in major carpet producers <pageNum pageId="127">127</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-48"><p><enumerator>6.5</enumerator> Carcase and boneless beef exports (tons), 1950&#x2013;1970 <pageNum pageId="129">129</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-49"><p><enumerator>6.6</enumerator> Employment in major meat-processing firms <pageNum pageId="129">129</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-50"><p><enumerator>6.7</enumerator> Major &#x2018;new foreign industry&#x2019; employers, <i>c</i>. 1961 <pageNum pageId="145">145</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-51"><p><enumerator>6.8</enumerator> Manufactured exports (excluding Shannon), 1956&#x2013;1972 <pageNum pageId="146">146</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-52"><p><enumerator>6.9</enumerator> Firms employing 500+ in the early 1960s <pageNum pageId="147">147</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-53"><p><enumerator>6.10</enumerator> Employment in Verolme, Irish Steel, and Dundalk Industrial Engineering <pageNum pageId="149">149</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-54"><p><enumerator>7.1</enumerator> Shannon and &#x2018;new foreign industry&#x2019;, 1962 and 1972 <pageNum pageId="165">165</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-55"><p><enumerator>7.2</enumerator> Regional distribution of manufacturing and &#x2018;new industry&#x2019; employment, 1974 <pageNum pageId="167">167</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-56"><p><enumerator>7.3</enumerator> Selected Brownfield FDI acquisitions, 1960&#x2013;1972 <pageNum pageId="170">170</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-57"><p><enumerator>7.4</enumerator> Selected mergers and acquisitions (M/A) in indigenous industry, 1960&#x2013;1972 <pageNum pageId="171">171</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-58"><p><enumerator>8.1</enumerator> Major employers, meat and dairy, 1972 <pageNum pageId="178">178</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-59"><p><enumerator>8.2</enumerator> Major employers, other foods, 1972 <pageNum pageId="180">180</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-60"><p><enumerator>8.3</enumerator> Major employers, drink and tobacco, 1972 <pageNum pageId="181">181</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-61"><p><enumerator>8.4</enumerator> Major employers, textiles and clothing, 1972 <pageNum pageId="182">182</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-62"><p><enumerator>8.5</enumerator> Major employers, footwear and leather, 1972 <pageNum pageId="184">184</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-63"><p><enumerator>8.6</enumerator> Major employers, clay, glass, cement, and other building materials, 1972 <pageNum pageId="185">185</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-64"><p><?Page pageId="xii"?><milestone id="oso-9780198784692-miscMatter-6-milestone-12" num="xii" unit="page"/><enumerator>8.7</enumerator> Major employers, vehicle assembly, 1972 <pageNum pageId="186">186</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-65"><p><enumerator>8.8</enumerator> Major employers, other metals and engineering (&#x2018;traditional&#x2019;), 1972 <pageNum pageId="187">187</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-66"><p><enumerator>8.9</enumerator> Major employers, &#x2018;new&#x2019; export-oriented metals and engineering, 1972 <pageNum pageId="188">188</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-67"><p><enumerator>8.10</enumerator> Major employers, paper and printing, 1972 <pageNum pageId="189">189</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-68"><p><enumerator>8.11</enumerator> Major employers, chemicals and miscellaneous (&#x2018;traditional&#x2019;), 1972 <pageNum pageId="190">190</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-69"><p><enumerator>8.12</enumerator> Major employers, &#x2018;new&#x2019; export-oriented chemicals and miscellaneous, 1972 <pageNum pageId="190">190</pageNum></p></item1>
+<item1 id="oso-9780198878230-miscMatter-7-item1-70"><p><enumerator>8.13</enumerator> Manufacturing establishments employing workforces of 500+ in 1972 <pageNum pageId="196">196</pageNum></p></item1></list1>
+</list></p>
+</div1>
+</textMatter>
+</miscMatter>
+<miscMatter id="oso-9780198878230-miscMatter-8" doi="10.1093/oso/9780198878230.002.0008" class="abbrev">
+<metaInfo id="oso-9780198878230-miscMatter-8-metaInfo-8">
+<creatorGroup>
+<creator class="author" invertedForm="Barry, Frank"><forenames>Frank</forenames><surname>Barry</surname></creator>
+</creatorGroup>
+<metaItem about="book">
+<metaItem about="DTD">
+<metaDescribes predicate="DTDname">OxChapML</metaDescribes>
+</metaItem>
+<metaItem about="TCIgroup">
+<metaItem about="TCI">
+<metaDescribes predicate="TCIname">OUP TCI</metaDescribes>
+<metaDescribes predicate="version">20170301.0</metaDescribes>
+</metaItem>
+</metaItem>
+<metaDescribes predicate="product">oso</metaDescribes>
+<metaDescribes predicate="colour-figures-for-online">Yes</metaDescribes>
+<metaDescribes predicate="publishing-group">oso US</metaDescribes>
+<metaDescribes predicate="captured-by">Integra</metaDescribes>
+</metaItem>
+</metaInfo>
+<titleGroup id="oso-9780198878230-miscMatter-8-titleGroup-8"><title><p><?Page pageId="xiii"?><milestone id="oso-9780198784692-miscMatter-8-milestone-13" num="xiii" unit="page"/>List of Abbreviations</p></title></titleGroup>
+<textMatter id="oso-9780198878230-miscMatter-8-textMatter-8">
+<div1 id="oso-9780198878230-miscMatter-8-div1-4" doi="10.1093/oso/9780198878230.002.0008.021.0004">
+<p><list class="abbreviations">
+<list1 id="oso-9780198878230-miscMatter-8-list1-3" listType="headed">
+<item1 id="oso-9780198878230-miscMatter-8-item1-71"><title><p><abbrev ref="oso-9780198878230-miscMatter-8-abbrevExpansion-1">AIFTA</abbrev></p></title><p><abbrevExpansion id="oso-9780198878230-miscMatter-8-abbrevExpansion-1">Anglo-Irish Free Trade Area Agreement</abbrevExpansion></p></item1>
+<item1 id="oso-9780198878230-miscMatter-8-item1-72"><title><p><abbrev ref="oso-9780198878230-miscMatter-8-abbrevExpansion-2">CIO</abbrev></p></title><p><abbrevExpansion id="oso-9780198878230-miscMatter-8-abbrevExpansion-2">Committee on Industrial Organisation</abbrevExpansion></p></item1>
+<item1 id="oso-9780198878230-miscMatter-8-item1-73"><title><p><abbrev ref="oso-9780198878230-miscMatter-8-abbrevExpansion-3">CIP</abbrev></p></title><p><abbrevExpansion id="oso-9780198878230-miscMatter-8-abbrevExpansion-3">Census of Industrial Production</abbrevExpansion></p></item1>
+<item1 id="oso-9780198878230-miscMatter-8-item1-74"><title><p><abbrev ref="oso-9780198878230-miscMatter-8-abbrevExpansion-4">CKD</abbrev></p></title><p><abbrevExpansion id="oso-9780198878230-miscMatter-8-abbrevExpansion-4">completely knocked down (motor vehicles)</abbrevExpansion></p></item1>
+<item1 id="oso-9780198878230-miscMatter-8-item1-75"><title><p><abbrev ref="oso-9780198878230-miscMatter-8-abbrevExpansion-5">CRH</abbrev></p></title><p><abbrevExpansion id="oso-9780198878230-miscMatter-8-abbrevExpansion-5">Cement Roadstone Holdings</abbrevExpansion></p></item1>
+<item1 id="oso-9780198878230-miscMatter-8-item1-76"><title><p><abbrev ref="oso-9780198878230-miscMatter-8-abbrevExpansion-6">DDC</abbrev></p></title><p><abbrevExpansion id="oso-9780198878230-miscMatter-8-abbrevExpansion-6">Dairy Disposal Company</abbrevExpansion></p></item1>
+<item1 id="oso-9780198878230-miscMatter-8-item1-77"><title><p><abbrev ref="oso-9780198878230-miscMatter-8-abbrevExpansion-7">DETE</abbrev></p></title><p><abbrevExpansion id="oso-9780198878230-miscMatter-8-abbrevExpansion-7">Department of Enterprise, Trade and Employment</abbrevExpansion></p></item1>
+<item1 id="oso-9780198878230-miscMatter-8-item1-78"><title><p><abbrev ref="oso-9780198878230-miscMatter-8-abbrevExpansion-8">DUTC</abbrev></p></title><p><abbrevExpansion id="oso-9780198878230-miscMatter-8-abbrevExpansion-8">Dublin United Tramways Company (later Dublin United Transport Company)</abbrevExpansion></p></item1>
+<item1 id="oso-9780198878230-miscMatter-8-item1-79"><title><p><abbrev ref="oso-9780198878230-miscMatter-8-abbrevExpansion-9">EEC</abbrev></p></title><p><abbrevExpansion id="oso-9780198878230-miscMatter-8-abbrevExpansion-9">European Economic Community</abbrevExpansion></p></item1>
+<item1 id="oso-9780198878230-miscMatter-8-item1-80"><title><p><abbrev ref="oso-9780198878230-miscMatter-8-abbrevExpansion-10">EFTA</abbrev></p></title><p><abbrevExpansion id="oso-9780198878230-miscMatter-8-abbrevExpansion-10">European Free Trade Association</abbrevExpansion></p></item1>
+<item1 id="oso-9780198878230-miscMatter-8-item1-81"><title><p><abbrev ref="oso-9780198878230-miscMatter-8-abbrevExpansion-11">ESB</abbrev></p></title><p><abbrevExpansion id="oso-9780198878230-miscMatter-8-abbrevExpansion-11">Electricity Supply Board</abbrevExpansion></p></item1>
+<item1 id="oso-9780198878230-miscMatter-8-item1-82"><title><p><abbrev ref="oso-9780198878230-miscMatter-8-abbrevExpansion-12">FBU</abbrev></p></title><p><abbrevExpansion id="oso-9780198878230-miscMatter-8-abbrevExpansion-12">fully built up (motor vehicles)</abbrevExpansion></p></item1>
+<item1 id="oso-9780198878230-miscMatter-8-item1-83"><title><p><abbrev ref="oso-9780198878230-miscMatter-8-abbrevExpansion-13">FDI</abbrev></p></title><p><abbrevExpansion id="oso-9780198878230-miscMatter-8-abbrevExpansion-13">foreign direct investment</abbrevExpansion></p></item1>
+<item1 id="oso-9780198878230-miscMatter-8-item1-84"><title><p><abbrev ref="oso-9780198878230-miscMatter-8-abbrevExpansion-14">GSR</abbrev></p></title><p><abbrevExpansion id="oso-9780198878230-miscMatter-8-abbrevExpansion-14">Great Southern Railways</abbrevExpansion></p></item1>
+<item1 id="oso-9780198878230-miscMatter-8-item1-85"><title><p><abbrev ref="oso-9780198878230-miscMatter-8-abbrevExpansion-15">IAOS</abbrev></p></title><p><abbrevExpansion id="oso-9780198878230-miscMatter-8-abbrevExpansion-15">Irish Agricultural Organisation Society</abbrevExpansion></p></item1>
+<item1 id="oso-9780198878230-miscMatter-8-item1-86"><title><p><abbrev ref="oso-9780198878230-miscMatter-8-abbrevExpansion-16">ICC</abbrev></p></title><p><abbrevExpansion id="oso-9780198878230-miscMatter-8-abbrevExpansion-16">Industrial Credit Company</abbrevExpansion></p></item1>
+<item1 id="oso-9780198878230-miscMatter-8-item1-87"><title><p><abbrev ref="oso-9780198878230-miscMatter-8-abbrevExpansion-17">IDA</abbrev></p></title><p><abbrevExpansion id="oso-9780198878230-miscMatter-8-abbrevExpansion-17">Industrial Development Authority</abbrevExpansion></p></item1>
+<item1 id="oso-9780198878230-miscMatter-8-item1-88"><title><p><abbrev ref="oso-9780198878230-miscMatter-8-abbrevExpansion-18">MNC</abbrev></p></title><p><abbrevExpansion id="oso-9780198878230-miscMatter-8-abbrevExpansion-18">multinational corporation</abbrevExpansion></p></item1>
+<item1 id="oso-9780198878230-miscMatter-8-item1-89"><title><p><abbrev ref="oso-9780198878230-miscMatter-8-abbrevExpansion-19">NAI</abbrev></p></title><p><abbrevExpansion id="oso-9780198878230-miscMatter-8-abbrevExpansion-19">National Archives of Ireland</abbrevExpansion></p></item1>
+<item1 id="oso-9780198878230-miscMatter-8-item1-90"><title><p><abbrev ref="oso-9780198878230-miscMatter-8-abbrevExpansion-20">NATO</abbrev></p></title><p><abbrevExpansion id="oso-9780198878230-miscMatter-8-abbrevExpansion-20">North Atlantic Treaty Organization</abbrevExpansion></p></item1>
+<item1 id="oso-9780198878230-miscMatter-8-item1-91"><title><p><abbrev ref="oso-9780198878230-miscMatter-8-abbrevExpansion-21">NESC</abbrev></p></title><p><abbrevExpansion id="oso-9780198878230-miscMatter-8-abbrevExpansion-21">National Economic and Social Council</abbrevExpansion></p></item1>
+<item1 id="oso-9780198878230-miscMatter-8-item1-92"><title><p><abbrev ref="oso-9780198878230-miscMatter-8-abbrevExpansion-22">NIEC</abbrev></p></title><p><abbrevExpansion id="oso-9780198878230-miscMatter-8-abbrevExpansion-22">National Industrial Economic Council</abbrevExpansion></p></item1>
+<item1 id="oso-9780198878230-miscMatter-8-item1-93"><title><p><abbrev ref="oso-9780198878230-miscMatter-8-abbrevExpansion-23">OECD</abbrev></p></title><p><abbrevExpansion id="oso-9780198878230-miscMatter-8-abbrevExpansion-23">Organisation for Economic Co-operation and Development</abbrevExpansion></p></item1>
+<item1 id="oso-9780198878230-miscMatter-8-item1-94"><title><p><abbrev ref="oso-9780198878230-miscMatter-8-abbrevExpansion-24">OEEC</abbrev></p></title><p><abbrevExpansion id="oso-9780198878230-miscMatter-8-abbrevExpansion-24">Organisation for European Economic Co-operation</abbrevExpansion></p></item1>
+<item1 id="oso-9780198878230-miscMatter-8-item1-95"><title><p><abbrev ref="oso-9780198878230-miscMatter-8-abbrevExpansion-25">PDDE</abbrev></p></title><p><abbrevExpansion id="oso-9780198878230-miscMatter-8-abbrevExpansion-25">Parliamentary debates, D&#x00E1;il &#x00C9;ireann (lower house)</abbrevExpansion></p></item1>
+<item1 id="oso-9780198878230-miscMatter-8-item1-96"><title><p><abbrev ref="oso-9780198878230-miscMatter-8-abbrevExpansion-26">PDSE</abbrev></p></title><p><abbrevExpansion id="oso-9780198878230-miscMatter-8-abbrevExpansion-26">Parliamentary debates, Seanad &#x00C9;ireann (upper house)</abbrevExpansion></p></item1>
+<item1 id="oso-9780198878230-miscMatter-8-item1-97"><title><p><abbrev ref="oso-9780198878230-miscMatter-8-abbrevExpansion-27">PRONI</abbrev></p></title><p><abbrevExpansion id="oso-9780198878230-miscMatter-8-abbrevExpansion-27">Public Records Office of Northern Ireland</abbrevExpansion></p></item1>
+<item1 id="oso-9780198878230-miscMatter-8-item1-98"><title><p><abbrev ref="oso-9780198878230-miscMatter-8-abbrevExpansion-28">SFADCo</abbrev></p></title><p><abbrevExpansion id="oso-9780198878230-miscMatter-8-abbrevExpansion-28">Shannon Free Airport Development Company Ltd</abbrevExpansion></p></item1>
+<item1 id="oso-9780198878230-miscMatter-8-item1-99"><title><p><abbrev ref="oso-9780198878230-miscMatter-8-abbrevExpansion-29">TD</abbrev></p></title><p><abbrevExpansion id="oso-9780198878230-miscMatter-8-abbrevExpansion-29">Teachta D&#x00E1;la (member of lower house of the Irish parliament)</abbrevExpansion></p></item1>
+<item1 id="oso-9780198878230-miscMatter-8-item1-100"><title><p><abbrev ref="oso-9780198878230-miscMatter-8-abbrevExpansion-30">UCDA</abbrev></p></title><p><abbrevExpansion id="oso-9780198878230-miscMatter-8-abbrevExpansion-30">University College Dublin Archives</abbrevExpansion></p></item1>
+</list1>
+</list></p>
+</div1>
+</textMatter>
+</miscMatter>
+<miscMatter id="oso-9780198878230-miscMatter-9" doi="10.1093/oso/9780198878230.002.0009" class="other">
+<metaInfo id="oso-9780198878230-miscMatter-9-metaInfo-9">
+<creatorGroup>
+<creator class="author" invertedForm="Barry, Frank"><forenames>Frank</forenames><surname>Barry</surname></creator>
+</creatorGroup>
+<metaItem about="book">
+<metaItem about="DTD">
+<metaDescribes predicate="DTDname">OxChapML</metaDescribes>
+</metaItem>
+<metaItem about="TCIgroup">
+<metaItem about="TCI">
+<metaDescribes predicate="TCIname">OUP TCI</metaDescribes>
+<metaDescribes predicate="version">20170301.0</metaDescribes>
+</metaItem>
+</metaItem>
+<metaDescribes predicate="product">oso</metaDescribes>
+<metaDescribes predicate="colour-figures-for-online">Yes</metaDescribes>
+<metaDescribes predicate="publishing-group">oso US</metaDescribes>
+<metaDescribes predicate="captured-by">Integra</metaDescribes>
+</metaItem>
+</metaInfo>
+<titleGroup id="oso-9780198878230-miscMatter-9-titleGroup-4"><title><p display="online"><?Page pageId="xiv"?><milestone id="oso-9780198784692-miscMatter-9-milestone-14" num="xiv" unit="page"/>Epigraph</p></title></titleGroup>
+<textMatter id="oso-9780198878230-miscMatter-9-textMatter-4">
+<div1 id="oso-9780198878230-miscMatter-9-div1-1" doi="10.1093/oso/9780198878230.002.0009.021.0001">
+<p>Two canals head westward out of Dublin. The Grand Canal hugs the city&#x2019;s arteries, the Royal Canal bisects them. For those unfamiliar with the route, walking the Royal Canal can be disorientating. Neighbourhoods that one might have thought some distance apart huddle close together. This book is about history more than geography, though the two are inextricably linked. My hope is that it might track the mind map of the Royal Canal.</p>
+</div1>
+</textMatter>
+</miscMatter>
+</miscMatterGroup>
+</frontMatter>
+</book>

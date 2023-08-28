@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OXFORD//DTD OXCHAPML//EN" "OxChapML.dtd">
+<book id="oso-9780198878230-book-1" doi="10.1093/oso/9780198878230.001.0001" OSOsubject="physics">
+<bookMeta id="oso-9780198878230-bookMeta-1">
+<versionInfo>
+<versionDate>2023-05-08</versionDate>
+<versionDesc>Proofs</versionDesc>
+</versionInfo>
+<metaItem about="book">
+<metaItem about="DTD">
+<metaDescribes predicate="DTDname">OxChapML</metaDescribes>
+</metaItem>
+<metaItem about="TCIgroup">
+<metaItem about="TCI">
+<metaDescribes predicate="TCIname">OUP TCI</metaDescribes>
+<metaDescribes predicate="version">20170301.0</metaDescribes>
+</metaItem>
+</metaItem>
+<metaDescribes predicate="product">oso</metaDescribes>
+<metaDescribes predicate="colour-figures-for-online">Yes</metaDescribes>
+<metaDescribes predicate="publishing-group">oso US</metaDescribes>
+<metaDescribes predicate="captured-by">Integra</metaDescribes>
+</metaItem>
+</bookMeta>
+<mainText id="oso-9780198878230-mainText-1">
+<chapter id="oso-9780198878230-chapter-2" doi="10.1093/oso/9780198878230.003.0002">
+<metaInfo id="oso-9780198878230-chapter-2-metaInfo-1">
+<versionInfo>
+<versionDate>2023-05-08</versionDate>
+<versionDesc>Proofs</versionDesc>
+</versionInfo>
+<creatorGroup>
+<creator class="author" invertedForm="Barry, Frank"><forenames>Frank</forenames><surname>Barry</surname></creator>
+</creatorGroup>
+<abstract>
+<p>This chapter identifies the leading businesses in operation in the Irish Free State area in the decades prior to 1922 and explores the religious and political affiliations of their proprietors. The vast bulk of Irish industry was located in the future Northern Ireland. The two parts of the country differed also in religion and political orientation. Even in the Free State area, where the population was predominantly Catholic and nationalist, almost all of the significant businesses were under local Protestant unionist control. The chapter goes on to explore the concerns of the southern business elite as to the economic implications and policy consequences of Home Rule and secession. That the most substantial business proprietors were out of sympathy with the new state would constrain economic policymaking for decades into the future. The sectarian divisions then evident in Irish business life would persist into the 1960s.</p>
+</abstract>
+<keySubjectWords>
+<keyword>exit from the United Kingdom</keyword>
+<keyword>secession</keyword>
+<keyword>Irish business establishment</keyword>
+<keyword>business elite</keyword>
+<keyword>business ownership</keyword>
+<keyword>religion</keyword>
+<keyword>unionism and nationalism</keyword>
+<keyword>sectarian divisions</keyword></keySubjectWords>
+<disclaimer><p><i>Industry and Policy in Independent Ireland, 1922&#x2013;1972</i>. Frank Barry, Oxford University Press. &#x00A9; Frank Barry (2023). DOI: 10.1093/oso/9780198878230.003.0002</p></disclaimer>
+<metaItem about="book">
+<metaItem about="DTD">
+<metaDescribes predicate="DTDname">OxChapML</metaDescribes>
+</metaItem>
+<metaItem about="TCIgroup">
+<metaItem about="TCI">
+<metaDescribes predicate="TCIname">OUP TCI</metaDescribes>
+<metaDescribes predicate="version">20170301.0</metaDescribes>
+</metaItem>
+</metaItem>
+<metaDescribes predicate="product">oso</metaDescribes>
+<metaDescribes predicate="colour-figures-for-online">Yes</metaDescribes>
+<metaDescribes predicate="publishing-group">oso US</metaDescribes>
+<metaDescribes predicate="captured-by">Integra</metaDescribes>
+</metaItem>
+</metaInfo>
+<titleGroup id="oso-9780198878230-chapter-2-titleGroup-1"><title id="C2"><p><page id="16" chapter=""/><enumerator>2</enumerator> The Pre-1922 Southern Business Establishment and Its Legacy</p></title></titleGroup>
+<textMatter id="oso-9780198878230-chapter-2-textMatter-1">
+<div1 id="oso-9780198878230-chapter-2-div1-1" doi="10.1093/oso/9780198878230.003.0002.021.0001" role="prelim">
+<p id="C2P1">The vast bulk of industry on the island of Ireland in the early twentieth century was located north of the future border. The experiences of the two parts of the country had differed sharply over the course of the previous century. Strong export-oriented linen and shipbuilding industries had emerged in North-East Ulster alongside a substantial engineering sector, while the rest of the country had deindustrialized and become specialized as a supplier of largely unprocessed agricultural output to the British market.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-1"><sup>1</sup></xref></xrefGrp></p>
+<p id="C2P2">Belfast had seven manufacturing establishments with workforces of 3,000 or more in 1907 compared to only St James&#x2019;s Gate in Dublin.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-2"><sup>2</sup></xref></xrefGrp> Though two other Dublin-based companies&#x2014;the Irish Lace Depot and the Hibernian Lace Company&#x2014;are occasionally referred to as employing thousands at this time, they are identified as wholesale agencies in a contemporary publication which points out that &#x2018;lace making can form the occupation only of leisure&#x00A0;hours or of those members of a family who are unfit for more strenuous work&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-3"><sup>3</sup></xref></xrefGrp> The female patron of the Tyrconnel Hand-Embroidery Industry described in the 1920s how &#x2018;the peasant women&#x2019; sit on the hills &#x2018;minding the cows and doing this fine embroidery&#x2019;; they had a thousand such women on their books, she reported, &#x2018;but, unfortunately, we have not enough work to keep them busy&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-4"><sup>4</sup></xref></xrefGrp> Such textile industry &#x2018;out-work&#x2019; continued into the 1960s, particularly in Donegal. Pay was low and outworkers, who were almost exclusively women, were not generally recorded in the Census of Industrial Production. Regular employment in linen alone in the <page id="17" chapter=""/>future Northern Ireland exceeded the entire Free State area manufacturing workforce in 1912.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-5"><sup>5</sup></xref></xrefGrp></p>
+<p id="C2P3">The North differed also from the rest of the country in its ethno-religious identity and its politics. As a 1926 publication of the Northern Ireland Ministry of Finance explains, the displacement of the native population by English and Scottish settlers from the 1600s had &#x2018;undoubtedly operated to introduce bitter animosities, since the incoming colonists differed both in religion and nationality from the original inhabitants, and, in addition, were regarded with all the odium attaching to supplanters&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-6"><sup>6</sup></xref></xrefGrp> Protestants across the country were, for the most part, strongly committed to the status quo. The Irish business establishment&#x2014;disproportionately concentrated in Ulster&#x2014;was also predominantly Protestant and unionist.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-7"><sup>7</sup></xref></xrefGrp> The largely Catholic population of the island, by contrast, had long favoured a form of devolved government known as Home Rule but would be radicalized by a series of missteps by government in the aftermath of the 1916 Rising.</p>
+<p id="C2P4">The focus here is on the specifically <i>Free State area</i> business elite. As was the case in the North, it too is found to have been predominantly Protestant and unionist. That the business establishment inherited by the new state differed from the majority of the population in these respects would impact on economic policymaking well beyond the formation of the first Fianna F&#x00E1;il government in 1932. There was a danger that taxable income could be driven overseas and business contacts and experience lost. There would have been an understandable desire too for any new government to demonstrate that the scepticism that had been expressed as to the fiscal competence of nationalists was unwarranted. The sectarian divisions in Irish business life would persist for many decades into the future.</p>
+<noteGroup>
+<note id="oso-9780198878230-chapter-2-note-1" type="footnote"><p><enumerator><sup>1</sup></enumerator> Free State income per head stood at around 50&#x2013;55 per cent of the UK level in the mid-1920s: <bibItem id="oso-9780198878230-chapter-2-bibItem-1" class="book" author="Kennedy, Kieran|Giblin, Thomas|McHugh, Deirdre" date="1988" title="The Economic Development of Ireland in the Twentieth Century" place="London" publisher="Routledge" purpose="display"><nameGrp foreNames="Kieran" mainName="Kennedy" role="author">Kieran Kennedy</nameGrp>, <nameGrp foreNames="Thomas" mainName="Giblin" role="author">Thomas Giblin</nameGrp>, and <nameGrp foreNames="Deirdre" mainName="Mchugh" role="author">Deirdre McHugh</nameGrp>, <i>The Economic Development of Ireland in the Twentieth Century</i> (London: Routledge, 1988)</bibItem>, Table 6.2, 124. Northern Irish income per head was significantly higher, though Northern Ireland would long remain the poorest of the UK regions: <bibItem id="oso-9780198878230-chapter-2-bibItem-2" class="bookChapter" partAuthor="Geary, Frank|Stark, Tom|Ros&#x00E9;s, Joan Ram&#x00F3;n|Wolf, Nikolaus" partTitle="150 Years of Regional GDP: United Kingdom and Ireland" title="The Economic Development of Europe&#x2019;s Regions" date="2018" page="330" pageLast="362" place="Abingdon" publisher="Routledge" purpose="display"><nameGrp foreNames="Frank" mainName="Geary" role="partAuthor">Frank Geary</nameGrp> and <nameGrp foreNames="Tom" mainName="Stark" role="partAuthor">Tom Stark</nameGrp>, &#x2018;150 Years of Regional GDP: United Kingdom and Ireland&#x2019;, in <i>The Economic Development of Europe&#x2019;s Regions</i>, ed. <nameGrp foreNames="Joan Ram&#x00F3;N" mainName="Ros&#x00e9;s" role="partAuthor">Joan Ram&#x00F3;n Ros&#x00E9;s</nameGrp> and <nameGrp foreNames="Nikolaus" mainName="Wolf" role="partAuthor">Nikolaus Wolf</nameGrp> (Abingdon: Routledge, 2018), 330&#x2013;62.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-2-note-2" type="footnote"><p><enumerator><sup>2</sup></enumerator> <bibItem id="oso-9780198878230-chapter-2-bibItem-3" class="journalArticle" author="Barry, Frank" date="2018" journalIssue="162" title="The Leading Manufacturing Firms in the Irish Free State in 1929" journalName="Irish Historical Studies" vol="42" page="293" pageLast="316" purpose="display"><nameGrp foreNames="Frank" mainName="Barry" role="author">Frank Barry</nameGrp>, &#x2018;The Leading Manufacturing Firms in the Irish Free State in 1929&#x2019;. <i>Irish Historical Studies</i> 42, 162 (2018): 293&#x2013;316.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-2-note-3" type="footnote"><p><enumerator><sup>3</sup></enumerator> <bibItem id="oso-9780198878230-chapter-2-bibItem-4" class="book" author="Macartney-Filgate, William Townley" date="1907" title="Irish Rural Life and Industry" place="Dublin" publisher="Hely&#x2019;s" purpose="display"><nameGrp foreNames="William Townley" mainName="Macartney-filgate" role="author">William Townley Macartney-Filgate</nameGrp>, <i>Irish Rural Life and Industry</i> (Dublin: Hely&#x2019;s 1907), 128&#x2013;129.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-2-note-4" type="footnote"><p><enumerator><sup>4</sup></enumerator> <i>Irish Times</i>, 18 October 1927, 6.</p></note>
+<note id="oso-9780198878230-chapter-2-note-5" type="footnote"><p><enumerator><sup>5</sup></enumerator> <bibItem id="oso-9780198878230-chapter-2-bibItem-5" class="journalArticle" author="Barry, Frank" date="2021" title="Business Establishment Opposition to Southern Ireland&#x2019;s Exit from the United Kingdom" journalName="Enterprise &#x0026; Society" page="1" pageLast="35" purpose="display"><nameGrp foreNames="Frank" mainName="Barry" role="author">Frank Barry</nameGrp>, &#x2018;Business Establishment Opposition to Southern Ireland&#x2019;s Exit from the United Kingdom&#x2019;. <i>Enterprise &#x0026; Society</i> (2022), 23, 4, 984&#x2013;1018</bibItem>. Though Northern Ireland had a significantly smaller population, it had more than twice as many manufacturing workers as the Free State according to the censuses of production produced for the two jurisdictions in the mid-1920s.</p></note>
+<note id="oso-9780198878230-chapter-2-note-6" type="footnote"><p><enumerator><sup>6</sup></enumerator> <i>Ulster Year Book</i> (Belfast: H.M. Stationery Office, 1926), x.</p></note>
+<note id="oso-9780198878230-chapter-2-note-7" type="footnote"><p><enumerator><sup>7</sup></enumerator> <bibItem id="oso-9780198878230-chapter-2-bibItem-6" class="book" author="Campbell, Fergus" date="2009" title="The Irish Establishment, 1879&#x2013;1914" place="Oxford" publisher="Oxford University Press" purpose="display"><nameGrp foreNames="Fergus" mainName="Campbell" role="author">Fergus Campbell</nameGrp>, <i>The Irish Establishment, 1879&#x2013;1914</i> (Oxford: Oxford University Press, 2009)</bibItem>, <xrefGrp>ch. <xref ref="oso-9780198878230-chapter-5">5</xref></xrefGrp>.</p></note>
+</noteGroup>
+</div1>
+<div1 id="oso-9780198878230-chapter-2-div1-2" doi="10.1093/oso/9780198878230.003.0002.021.0002">
+<titleGroup id="oso-9780198878230-chapter-2-titleGroup-2"><title id="C2S1"><p><enumerator>2.1</enumerator> The Free State Area Business Elite</p></title></titleGroup>
+<p id="C2P5">The criterion used here to determine the composition of the business elite is the size of the workforce under a proprietor&#x2019;s control. The chapter first seeks to identify the largest manufacturing employers of the decades prior to independence, as well as the most significant firms in individual industrial <page id="18" chapter=""/>segments.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-8"><sup>8</sup></xref></xrefGrp> The list of the largest non-manufacturing employers is unlikely to be as comprehensive, as these categories are less well codified. Evidence as to the unionist allegiances of proprietors is provided in an appendix. Religious affiliation is generally determined by reference to the online population censuses of 1901 and 1911.</p>
+<p alignment="centre"></p>
+<p fullOut="Y" id="C2P6">By the early twentieth century, the industrial elite was converging in wealth and influence on the traditional ascendancy class, as reflected in the leadership of southern unionism, whose principal spokesmen were Lord Midleton and the Presbyterian businessman Andrew Jameson, and in the history of the Guinness family, two of whose members&#x2014;Lords Ardilaun and Iveagh&#x2014;had been raised to the peerage.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-9"><sup>9</sup></xref></xrefGrp></p>
+<p id="C2P7">Guinness was by far the most substantial manufacturer outside Ulster. Lords Ardilaun and Iveagh were conservative unionists, and two of Iveagh&#x2019;s sons sat on the Tory benches at Westminster. The Guinness brewery at St James&#x2019;s Gate employed more than 3,500 in 1912. Around half of the other breweries, all tiny in comparison, were also under Protestant unionist ownership. These included Beamish &#x0026; Crawford in Cork; Watkins, Jameson &#x0026; Pim in Dublin; the Great Northern Brewery in Dundalk, and the Cairnes breweries at Castlebellingham and Drogheda in County Louth.</p>
+<p id="C2P8">Irish whiskey had been outcompeted by Scotch by the early 1900s and the distilling industry would remain in the doldrums for many decades. Given the capital-intensive nature of the sector and the debilitated condition it was in at the time, none of the distillery companies were major employers. Of the four largest indigenous southern producers, the Dublin Distillers Company&#x2014;an amalgamation of firms of diverse origins&#x2014;was ailing and would largely cease production in the 1920s. Of the other three, only Cork Distilleries was in Catholic nationalist ownership. The chairman of the Jameson distillery, Andrew Jameson, also served as governor and director of the Bank of Ireland. Powers was owned by a Catholic unionist family, the Talbot Powers.</p>
+<p id="C2P9"><page id="19" chapter=""/>Quaker biscuit company W. &#x0026; R. Jacob had a 1914 workforce of around 3,000 in Dublin and a further several hundred at its recently established branch plant near Liverpool. The chairman and managing director, George Newson Jacob, was a member of the Dublin Unionist Association and one of a group of businessmen to issue a critique of the economics of Home Rule in 1913.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-10"><sup>10</sup></xref></xrefGrp> Through the success of another Quaker firm, J. and L. F. Goodbody, the midlands town of Clara had emerged as a jute-processing centre in the mid-nineteenth century. The Clara plant employed close to 1,000 in 1920. Goodbody family members were prominent across a range of professional and business sectors and served on most of the unionist committees of the era.</p>
+<p id="C2P10">Other large exporting firms included the Condensed Milk Company of Ireland, chemicals and explosives manufacturer Kynochs, bacon curer Henry Denny &#x0026; Sons, and fertilizer producer W. &#x0026; H. M. Goulding.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-11"><sup>11</sup></xref></xrefGrp> The Condensed Milk Company, by far the largest of the private creameries to survive the emergence and expansion of the cooperative creameries from the 1890s, was estimated by the early 1920s to process one-thirtieth of the entire dairy produce of southern Ireland.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-12"><sup>12</sup></xref></xrefGrp> With a workforce of 2,000 across Munster in 1898 and an estimated 3,000 in 1922, it was controlled from its Lansdowne base in Limerick city by the Canadian-born Church of Ireland businessman, the &#x2018;strongly unionist&#x2019; Sir Thomas Henry Cleeve.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-13"><sup>13</sup></xref></xrefGrp> Birmingham firm Kynochs was owned by Arthur Chamberlain, brother of the prominent British Liberal Unionist MP who had split with Gladstone upon the latter&#x2019;s conversion to Home Rule. Some 3,000 jobs were lost when its cordite, explosives, and chemicals plant at Arklow closed in 1918.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-14"><sup>14</sup></xref></xrefGrp></p>
+<p id="C2P11">Denny &#x0026; Sons was one of the most significant firms in the UK bacon trade. It employed around 500 in peacetime and perhaps substantially more in 1914&#x2013;1918 when it was a major supplier to the wartime British military.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-15"><sup>15</sup></xref></xrefGrp> The chairman, Charles Edmond Denny, served on the General Council of the Irish Unionist Alliance. W. and H. M. Goulding, by far the largest fertilizer producer, employed some 1,200 workers across the nine Irish operations <page id="20" chapter=""/>under its control in 1912, six of which were south of the future border. Sir William Goulding was a leading southern unionist and his brother, Lord Wargrave, sat as a unionist member of the House of Commons until raised to a peerage in 1922.</p>
+<p id="C2P12">Most of the substantial export-oriented textile and clothing companies were also under Protestant unionist control. Limerick Clothing had developed an international reputation as a producer of military uniforms under its founder, Scottish expatriate Peter Tait. It was taken over in the 1890s by a group of Limerick businessmen, the most prominent of whom was the unionist milling magnate J. F. G. Bannatyne. Though much diminished in size since its peak, it continued to employ a workforce of more than 600 during the First World War.</p>
+<p id="C2P13">Another firm with a substantial international reputation was Balbriggan hosiery manufacturer Smyth &#x0026; Co. By the early twentieth century, it was owned by local Church of Ireland unionist family, the Whytes. Balbriggan also hosted the &#x2018;Sea Banks&#x2019; hosiery factory of English firm Deeds, Templar &#x0026; Co., which was burnt down when the town was ransacked by British forces during the War of Independence.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-16"><sup>16</sup></xref></xrefGrp> The hosiery firms each employed around 400, the majority of whom were out-workers.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-17"><sup>17</sup></xref></xrefGrp> Balbriggan hosiery was in high demand, however, and excess work had occasionally to be outsourced to Donegal.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-18"><sup>18</sup></xref></xrefGrp></p>
+<p id="C2P14">Though linen production was concentrated in North-East Ulster, there were several large linen firms elsewhere in the country. The largest, Cork Spinning &#x0026; Weaving, employed around 1,000 and was owned by a local Presbyterian unionist family, the Ogilvies. Greenmount Weaving of Harold&#x2019;s Cross in Dublin and Boyne Weaving of Drogheda were the largest in Leinster. Greenmount was owned by the Quaker unionist family the Pims (owners of Pim Brothers department store), Boyne Weaving by an Ulster Presbyterian who may have been among a small group of Protestant Home Rulers.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-19"><sup>19</sup></xref></xrefGrp> Smaller linen producers on the coastline north of Dublin, some under Catholic ownership, were fearful of the disruption of the linen supply chain that partition would entail and viewed the establishment of the Free State with disquiet.</p>
+<p id="C2P15">Domestically oriented sectors hosted a number of significant Catholic nationalist firms, including the wholesale drapery, furnishings, and footwear operations of the Cork firm, Dwyer &#x0026; Co. The only manufacturing segments <page id="21" chapter=""/>in which the largest firms were in Catholic nationalist ownership, however, were bread production (in which their dominance was marginal), woollen and worsted textiles (in which Blarney Woollen Mills was the only firm with a workforce of 500 or more), and the tiny leather tanning industry.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-20"><sup>20</sup></xref></xrefGrp></p>
+<p id="C2P16">Flour milling was dominated by the Bannatyne group, which came under the control of the Goodbodys from the 1890s. Employment in Bannatyne and its various subsidiaries is likely to have exceeded 700 in the decades prior to independence.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-21"><sup>21</sup></xref></xrefGrp> Other Church of Ireland unionist flour millers included the Odlums and the Pollexfens.</p>
+<p id="C2P17">There were four industrial-scale bread bakery chains, of which Dublin firms Bolands and Johnston, Mooney &#x0026; O&#x2019;Brien were the largest.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-22"><sup>22</sup></xref></xrefGrp> John Mooney, principal of the latter, was a leading local unionist politician, the largest shareholder was Sir Robert Gardner (one of the partners of accountancy firm Craig Gardner), and the long-term chairman was a member of the Pim family. Cork firm F. H. Thompson was also in Protestant unionist ownership. The proprietors of Bolands and the third major Dublin firm, Kennedys, were Catholic nationalists.</p>
+<p id="C2P18">Most of the jam and confectionery producers of the time were Protestant-owned, as was the case also in sectors cognate to brewing, where the influence of Guinness loomed large. One of the most significant maltsters was John H. Bennett &#x0026; Co. of Ballinacurra, Co. Cork, with which Guinness worked closely in developing new strains of barley. The Bennetts, like the Guinnesses, were Church of Ireland unionists. E. &#x0026; J. Burke had been established in business in the 1840s as export bottlers for their Guinness cousins, and by 1892 their Liverpool house, under the management of Sir John Nutting, was said to be the most important bottling establishment in the world.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-23"><sup>23</sup></xref></xrefGrp> Nutting, who would become sole proprietor, was a prominent unionist, as was Sir Henry Cochrane, proprietor of Cantrell &#x0026; Cochrane, the largest mineral water producer. Other than the industrial bakers, these all employed fewer than 500, as did the leading local tobacco manufacturers, T. P. &#x0026; R. Goodbody and the Catholic nationalist firm P. J. Carroll of Dundalk.</p>
+<p id="C2P19"><page id="22" chapter=""/>Footwear and bulk paper were largely imported prior to the establishment of the Free State. Customized service was important in the cases of printing and paper products, in which there were two firms&#x2014;Helys and Alexander Thom &#x0026; Co.&#x2014;with workforces of 500 or more. There is evidence of the Hely family&#x2019;s support of conservative unionist causes. Thom&#x2019;s was chaired by a member of the Pim family.</p>
+<p id="C2P20">The largest engineering firm in 1920 was Henry Ford &#x0026; Son. Ford&#x2019;s business interests would be affected adversely by the establishment of the Free State as the United Kingdom&#x2019;s &#x2018;McKenna tariffs&#x2019; became applicable to trade in vehicles and car parts between the two jurisdictions. The largest engineering firm after Ford was the Dublin Dockyard Co., which employed around 1,000 in 1919, shortly before its closure.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-24"><sup>24</sup></xref></xrefGrp> Phillip Pierce &#x0026; Co. of Wexford was the largest Catholic nationalist firm. Its agricultural machinery factory, the Mill Road Ironworks, employed 300&#x2013;400 in 1911.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-25"><sup>25</sup></xref></xrefGrp></p>
+<p id="C2P21">Two advanced engineering firms of the era are also deserving of mention. Though neither were major employers (Grubb had a workforce of 200 in 1919), both had significant international reputations. The Rathmines Observatory Works of father and son Thomas and Howard Grubb had designed and built telescopes for leading observatories in the UK and further afield and were engaged in the design and production of submarine periscopes for the Royal Navy during the First World War. Howard, a Church of Ireland unionist, was knighted in 1887. The Grubb operation relocated to England in 1919.</p>
+<p id="C2P22">Edmundson Engineering, too, had largely relocated to England by 1922, where it was reborn as Edmundson&#x2019;s Electricity Corp. Its reputation derived from the gas-lit safety buoys and lighthouse beacons invented by its Scottish-born proprietor, John Wigham, who served as President of the Dublin Chamber of Commerce in the 1890s. These were produced in Dublin and exported across the world. Wigham&#x2019;s Quaker faith led him to turn down the offer of a knighthood for his services to maritime safety. (Thomas Grubb too had been a Quaker.) Wigham was described by the <i>Irish Times</i> at his death in 1906 as a &#x2018;strong and uncompromising Unionist&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-26"><sup>26</sup></xref></xrefGrp></p>
+<p id="C2P23">The Dockyard Company case, however, warns of the danger of assuming an exact overlap between religion and political allegiance. Its principal, Scottish Presbyterian John Smellie, was among a group of Protestant Home Rulers within the business community. Others included various members of the Quaker flour-milling family the Shackletons (though the proprietor <page id="23" chapter=""/>of the Anna Liffey mill, George Shackleton, was a committee member of the Irish Unionist Alliance); the Unitarian proprietors of the largest brush making firm I. S. Varian &#x0026; Co.; bacon curer Alexander Shaw of Limerick; and Robert Woods, proprietor of the largest southern jam and confectionery manufacturer Williams &#x0026; Woods.</p>
+<p id="C2P24">Families other than the Shackletons also displayed evidence of political divisions within their ranks. Though the Smithwicks of Kilkenny were a well-known nationalist family (one had been a leading Repealer with Daniel O&#x2019;Connell, another a Home Rule MP), John Smithwick, principal of the brewing company, was a signatory to the 1893 Catholic petition against Home Rule.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-27"><sup>27</sup></xref></xrefGrp> Another signatory was O&#x2019;Connell&#x2019;s younger son, owner of the Phoenix Brewery in Dublin, who stated in a letter to the <i>Irish Times</i> that he was sure that if his father were alive, he would not consent &#x2018;to hand over Ireland to the tender mercies of the so-called Nationalist leaders&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-28"><sup>28</sup></xref></xrefGrp></p>
+<p id="C2P25">Table 2.1 lists the largest manufacturing employers of the decades prior to independence. Greater reliance is placed on stock-market listings in the construction of Table 2.2, which seeks to identify the largest firms in non-manufacturing sectors. The railway companies and the banks accounted for the vast bulk of Irish stock market capital. The Great Southern &#x0026; Western Railway Company was the largest private-sector employer south of the future border: its workforce of some 9,000 in 1913 was more than twice that of Guinness. Its long-term chairman was Sir William Goulding. The Gouldings would be criticized by Presbyterian bookseller J. C. M. Eason for the reticence that they and the Arnotts (owners of the <i>Irish Times</i> newspaper) displayed in reconciling to the new political dispensation.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-29"><sup>29</sup></xref></xrefGrp></p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-2-tableGroup-1"?></p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-2-tableGroup-2"?></p>
+<p id="C2P26">The rail transport sector had long been accused of anti-Catholic bias, though a group calling itself the &#x2018;Society for the Protection of Protestant Interests&#x2019; had argued that the sectarian wage disparities then in evidence were ascribable to differences in educational attainment rather than discrimination.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-30"><sup>30</sup></xref></xrefGrp> The second largest rail company was the Great Northern, whose lines ran from Dublin to Belfast and across the future Northern Ireland. It <page id="24" chapter=""/><page id="25" chapter=""/>employed over 5,000 in 1913 and almost 3,000 in the Free State alone in 1925. Its long-term chairman, Fane Vernon, was a member of the executive committee of the Irish Unionist Alliance. The other large railway companies prior to the amalgamations of the early Free State era were the Midland Great Western (MGW) and the Dublin &#x0026; South Eastern, both of which were also chaired by unionists.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-31"><sup>31</sup></xref></xrefGrp> Frank Brooke, chairman and managing director of the Dublin &#x0026; South Eastern, was assassinated during the War of Independence on suspicion of passing information to the military authorities.</p>
+<p id="C2P27">Six of the nine banks operating in the Free State area&#x2014;the Bank of Ireland, the Provincial, the Royal, and the three Belfast-headquartered institutions&#x2014;were also unionist in ethos. The other three&#x2014;the National, the Hibernian, and the Munster &#x0026; Leinster&#x2014;were broadly nationalist.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-32"><sup>32</sup></xref></xrefGrp> A historian of the <page id="26" chapter=""/><page id="27" chapter=""/>Bank of Ireland points out that &#x2018;even in the Catholic south, there were fair-sized branches where, as late as the 1890s, the entire staff belonged to the Church of Ireland&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-33"><sup>33</sup></xref></xrefGrp> The directors of the bank in the pre-independence era &#x2018;were unionists to a man, and the great majority of staff would have regarded themselves as &#x201C;loyalists&#x201D;&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-34"><sup>34</sup></xref></xrefGrp> A similar situation prevailed across the rest of the financial sector. Both the president and secretary of the Institute of Chartered Accountants were Protestant, as were most of the council and all of the partners of the dominant firms, Craig Gardner and Stokes Brothers &#x0026; Pim.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-35"><sup>35</sup></xref></xrefGrp> Robert Stokes and Sir Robert Gardner were among the 150 southern business leaders to criticize the Home Rule bill in 1913.</p>
+<p id="C2P28">Of the seven major Dublin department stores of the period, only Clerys was under Catholic nationalist control, though Brown Thomas was purchased in 1919 by the London-based US entrepreneur Harry Gordon Selfridge.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-36"><sup>36</sup></xref></xrefGrp> Pim Brothers&#x2019; drapery and furniture store on South Great George&#x2019;s Street, which had a workforce of 600 in 1894, appears to have been the largest among the group.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-37"><sup>37</sup></xref></xrefGrp> Easons, a major wholesaler and retailer of printed materials, had a Free State area workforce of 500 or so in 1915. Though Presbyterian, the Easons were nationalist in their sympathies.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-38"><sup>38</sup></xref></xrefGrp></p>
+<p id="C2P29">The builders&#x2019; suppliers sector would remain Protestant-dominated until at least the 1960s. By the end of the nineteenth century, Brooks Thomas and Dockrells had emerged as the leading incumbents. Maurice Brooks, founder of the former, was described at his death in 1905 as having been a Liberal MP in the days before Home Rule became the defining political issue. He was succeeded as chairman by his son-in-law, Richard Gamble, a member of the City of Dublin Unionist Association. Sir Maurice Dockrell, Brooks&#x2019;s nephew, would serve as one of the few unionist MPs elected for a southern Irish constituency in 1918. Leading firms in cognate sectors included the Dublin timber firm T. &#x0026; C. Martin, whose proprietors were Catholic unionists. The principals of J. &#x0026; P. Good, one of the largest building contractors, and of Heitons and Tedcastle McCormick, the largest coal-distribution companies, were prominent unionists, as were the Findlaters, proprietors of a well-known <page id="28" chapter=""/>chain of retail stores and other businesses. The Findlaters, Tedcastles, Heitons, and Hewats (who controlled Heitons from the time of the founder&#x2019;s death) were of Scottish Presbyterian stock.</p>
+<p id="C2P30">The Alliance &#x0026; Dublin Consumers Gas Company and the Dublin United Tramways Company were among the few large businesses not to conform to this general pattern. The gas company was a quasi-regulated monopoly provider of public lighting whose origins as an 1866 amalgamation of existing gas companies left a legacy of political diversity on its board. It was chaired until 1914 by William F. Cotton, a Home Rule MP. Cotton was succeeded in the role by John Murphy, a member of a leading Catholic unionist shipping family.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-39"><sup>39</sup></xref></xrefGrp> The Gas Company employed at least 750 and perhaps substantially more in 1917. The Dublin United Tramways Company (DUTC) was part of the business empire of the leading Catholic nationalist industrialist, William Martin Murphy. Murphy was also proprietor of the best-selling newspaper, the <i>Irish Independent</i>, and part-owner of Dublin department store Clerys. His various enterprises are likely to have employed at least 1,500 in the late 1910s.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-40"><sup>40</sup></xref></xrefGrp></p>
+<p id="C2P31"><xrefGrp>Tables&#x00A0;<xref ref="oso-9780198878230-chapter-2-tableGroup-1">2.1</xref></xrefGrp> and <xrefGrp><xref ref="oso-9780198878230-chapter-2-tableGroup-2">2.2</xref></xrefGrp> show, in summary, that of the 44,000 workers employed in the large firms identified, more than three-quarters were in businesses under Protestant and unionist control. The claim made by an anti-Home Rule writer in 1912 that few among the large employers &#x2018;are in a position to help the Unionist cause effectively, for they have to deal with strike makers and possible boycotters&#x2019; would appear to have been without foundation.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-41"><sup>41</sup></xref></xrefGrp> The political sympathies of the large business owners were well known, and even smaller unionist employers made little if any effort to hide their politics. The first strike in the Guinness brewery&#x2019;s history was in 1974, and though Jacobs was centrally involved in the bitter industrial relations dispute of 1913, union leader James Larkin&#x2019;s main antagonist was the nationalist industrialist William Martin Murphy.</p>
+<p id="C2P32">That most of the firms, and all of the larger ones, would have had predominantly Catholic nationalist workforces would have shielded them from political or religiously motivated boycotts. Attacks on Goodbody properties ceased when the family warned that their operations might be closed down. Boycotts could be more effectively directed against retailers and distributors, and fear <page id="29" chapter=""/>of antagonizing nationalist customers is understood to have conditioned the behaviour of the retail banks. In the case of manufacturing, the boycott was a blunter instrument. It proved impossible, for example, to discriminate other than by geography in the 1920&#x2013;1922 nationalist boycott of Belfast goods, and though the Prime Minister of the new Northern Ireland administration believed that &#x2018;a boycott of stout would be impossible&#x2019;, handbills advocating a counter-boycott urged the local population to &#x2018;cease purchasing all southern goods&#x2019; including stout, whiskey, and biscuits, even though these were produced almost exclusively by firms in southern unionist ownership.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-42"><sup>42</sup></xref></xrefGrp></p>
+<p id="C2P33">The data in <xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-2-tableGroup-1">2.1</xref></xrefGrp> also tell us something about the degree of concentration in southern manufacturing, and, by extension, the degree of power in local labour markets these firms would have possessed. The top twenty employers accounted for some 35 per cent of manufacturing employment in the Free State area. In Britain, the top 100&#x2014;though of vastly greater average size&#x2014;accounted for only 13 per cent of the equivalent workforce.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-43"><sup>43</sup></xref></xrefGrp></p>
+<noteGroup>
+<note id="oso-9780198878230-chapter-2-note-8" type="footnote"><p><enumerator><sup>8</sup></enumerator> Some large employers might nevertheless be overlooked if their business interests were spread across a range of relatively small operations. The various enterprises of distiller D. E. Williams of Tullamore, for example, were said to employ 700&#x2013;800 workers in total in 1921 (<i>Freeman&#x2019;s Journal</i>, 11 July 1921). The McDonagh family, similarly, had interests in a range of ventures across the west of Ireland (<i>Irish Times</i>, 26 November 1934). This pattern was not confined to Catholic proprietors.</p></note>
+<note id="oso-9780198878230-chapter-2-note-9" type="footnote"><p><enumerator><sup>9</sup></enumerator> Rigid class distinctions continued to persist within the establishment, as attested to by W. B. Yeats, who noted of his maternal family in Sligo that &#x2018;we were merchant people of the town. No matter how rich we grew, no matter how many thousands a&#x00A0;year our mills or our ships brought in, we could never be &#x201C;county&#x201D;.&#x2019; (<i>W. B. Yeats Memoirs</i>, ed. Denis Donoghue (New York: Macmillan) 1973, 77&#x2013;8.)</p></note>
+<note id="oso-9780198878230-chapter-2-note-10" type="footnote"><p><enumerator><sup>10</sup></enumerator> <i>Irish Independent</i>, 11 November 1913.</p></note>
+<note id="oso-9780198878230-chapter-2-note-11" type="footnote"><p><enumerator><sup>11</sup></enumerator> Gouldings exported in excess of 50 per cent of its output in the 1890s but would later become almost exclusively home-market oriented.</p></note>
+<note id="oso-9780198878230-chapter-2-note-12" type="footnote"><p><enumerator><sup>12</sup></enumerator> <i>Cork Examiner</i>, 9 January 1924.</p></note>
+<note id="oso-9780198878230-chapter-2-note-13" type="footnote"><p><enumerator><sup>13</sup></enumerator> <bibItem id="oso-9780198878230-chapter-2-bibItem-7" class="book" date="1898" title="The Condensed Milk Co. of Ireland (Cleeve Bros.): A Monster Irish Industry Reviewed" place="Limerick" publisher="McKerns Printers" purpose="display"><i>The Condensed Milk Co. of Ireland (Cleeve Bros.): A Monster Irish Industry Reviewed</i> (Limerick: McKerns Printers, 1898)</bibItem>; <i>Cork Examiner</i>, 13 May 1922; <bibItem id="oso-9780198878230-chapter-2-bibItem-8" class="bookChapter" partAuthor="Boylan, Shaun" partTitle="Cleeve, Sir Thomas Henry" date="2009" title="Dictionary of Irish Biography" place="Cambridge" publisher="Cambridge University Press" url="https://www.dib.ie/" purpose="display"><nameGrp foreNames="Shaun" mainName="Boylan" role="author">Shaun Boylan</nameGrp>, &#x2018;Cleeve, Sir Thomas Henry&#x2019;, in <i>Dictionary of Irish Biography</i>, <url webUrl="https://www.dib.ie/">https://www.dib.ie/</url> (Cambridge: Cambridge University Press, 2009).</bibItem></p></note>
+<note id="oso-9780198878230-chapter-2-note-14" type="footnote"><p><enumerator><sup>14</sup></enumerator> Kynochs had also recently disposed of the paper mills at Inchicore and Clondalkin that it had operated for a number of years.</p></note>
+<note id="oso-9780198878230-chapter-2-note-15" type="footnote"><p><enumerator><sup>15</sup></enumerator> There were 350 employed at two of its several Irish factories in Waterford and Limerick in 1895 (<i>Cork Examiner</i>, 12 October 1895). Employment at its Cork plant stood at &#x2018;well over 100&#x2019; in 1909 (<i>Weekly Irish Times</i>, 10 July 1909).</p></note>
+<note id="oso-9780198878230-chapter-2-note-16" type="footnote"><p><enumerator><sup>16</sup></enumerator> <i>Irish Times</i>, 1 February 1921.</p></note>
+<note id="oso-9780198878230-chapter-2-note-17" type="footnote"><p><enumerator><sup>17</sup></enumerator> Barry, &#x2018;The Leading Manufacturing Firms in the Irish Free State in 1929&#x2019;.</p></note>
+<note id="oso-9780198878230-chapter-2-note-18" type="footnote"><p><enumerator><sup>18</sup></enumerator> <i>Irish Times</i>, 27 September 1898.</p></note>
+<note id="oso-9780198878230-chapter-2-note-19" type="footnote"><p><enumerator><sup>19</sup></enumerator> Barry, &#x2018;Business Establishment Opposition to Southern Ireland&#x2019;s Exit from the United Kingdom&#x2019;.</p></note>
+<note id="oso-9780198878230-chapter-2-note-20" type="footnote"><p><enumerator><sup>20</sup></enumerator> On the leather industry, see <bibItem id="oso-9780198878230-chapter-2-bibItem-9" class="book" author="Riordan, Edward J." date="1920" title="Modern Irish Trade and Industry" page="178" place="London, New York" publisher="Metheuen, E. P. Dutton" purpose="display"><nameGrp foreNames="Edward J." mainName="Riordan" role="author">Edward J. Riordan</nameGrp>, <i>Modern Irish Trade and Industry</i> (London, New York: Metheuen, E. P. Dutton, 1920), 178</bibItem>; <bibItem id="oso-9780198878230-chapter-2-bibItem-10" class="book" author="Bielenberg, Andy" date="1991" title="Cork&#x2019;s Industrial Revolution 1780&#x2013;1880" page="82" place="Cork" publisher="Cork University Press" purpose="display"><nameGrp foreNames="Andy" mainName="Bielenberg" role="author">Andy Bielenberg</nameGrp>, <i>Cork&#x2019;s Industrial Revolution 1780&#x2013;1880</i> (Cork: Cork University Press, 1991), 82.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-2-note-21" type="footnote"><p><enumerator><sup>21</sup></enumerator> Barry, &#x2018;The Leading Manufacturing Firms in the Irish Free State in 1929&#x2019;; <i>Irish Times</i>, 23 January 1923.</p></note>
+<note id="oso-9780198878230-chapter-2-note-22" type="footnote"><p><enumerator><sup>22</sup></enumerator> Daly reports an employment level of 800 for Bolands in 1888: <bibItem id="oso-9780198878230-chapter-2-bibItem-11" class="book" author="Daly, Mary E." date="1984" title="Dublin: The Deposed Capital, 1860&#x2013;1914" page="32" place="Cork" publisher="Cork University Press" purpose="display"><nameGrp foreNames="Mary E." mainName="Daly" role="author">Mary E. Daly</nameGrp>, <i>Dublin: The Deposed Capital, 1860&#x2013;1914</i> (Cork: Cork University Press, 1984), 32.</bibItem> By 1925, this had declined to 420 (<i>Irish Times</i>, 22 May 1925). Johnston, Mooney &#x0026; O&#x2019;Brien employed around 600 in 1904 (<i>Freemans Journal</i>, 16 May 1904).</p></note>
+<note id="oso-9780198878230-chapter-2-note-23" type="footnote"><p><enumerator><sup>23</sup></enumerator> <bibItem id="oso-9780198878230-chapter-2-bibItem-12" class="book" date="1892" title="Strattens&#x2019; Dublin, Cork and South of Ireland: A Literary, Commercial and Social Review, with a Description of Leading Mercantile Houses and Commercial Enterprises" page="36" place="London" publisher="Stratten &#x0026; Stratten" purpose="display"><i>Strattens&#x2019; Dublin, Cork and South of Ireland: A Literary, Commercial and Social Review, with a Description of Leading Mercantile Houses and Commercial Enterprises</i> (London: Stratten &#x0026; Stratten, 1892), 36.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-2-note-24" type="footnote"><p><enumerator><sup>24</sup></enumerator> Employment at the Rushbrooke and Passage West dockyards in Cork, purchased in 1917 by British firm Furness &#x0026; Withy, occasionally exceeded 500 but fluctuated with the number of ships under repair.</p></note>
+<note id="oso-9780198878230-chapter-2-note-25" type="footnote"><p><enumerator><sup>25</sup></enumerator> <i>Irish Times</i>, 28 August 1911.</p></note>
+<note id="oso-9780198878230-chapter-2-note-26" type="footnote"><p><enumerator><sup>26</sup></enumerator> <i>Irish Times</i>, 17 November 1906.</p></note>
+<note id="oso-9780198878230-chapter-2-note-27" type="footnote"><p><enumerator><sup>27</sup></enumerator> <i>Irish Times</i>, 24 March 1893, 28 March 1893.</p></note>
+<note id="oso-9780198878230-chapter-2-note-28" type="footnote"><p><enumerator><sup>28</sup></enumerator> <i>Irish Times</i>, 31 March 1893.</p></note>
+<note id="oso-9780198878230-chapter-2-note-29" type="footnote"><p><enumerator><sup>29</sup></enumerator> <bibItem id="oso-9780198878230-chapter-2-bibItem-13" class="book" author="Cullen, Louis M." date="1989" title="Eason &#x0026; Son: A History" page="390" place="Dublin" publisher="Eason &#x0026; Son" purpose="display"><nameGrp foreNames="Louis M." mainName="Cullen" role="author">Louis M. Cullen</nameGrp>, <i>Eason &#x0026; Son: A History</i> (Dublin: Eason &#x0026; Son, 1989), 390.</bibItem> The <i>Irish Times</i>, by contrast, described Sir John A. Arnott at his death in 1940 as &#x2018;one of the first of his class to accept the new dispensation, and to give the Irish government his whole-hearted support&#x2019;: <i>Irish Times</i>, 27 July 1940. Goulding, Arnott, and Sir Harold Nutting had been prominent supporters, along with Lord Iveagh, of Midleton&#x2019;s Unionist Anti-Partition League, which split with the more hard-line Irish Unionist Alliance in 1919: <bibItem id="oso-9780198878230-chapter-2-bibItem-14" class="book" author="McDowell, R. B." date="1997" title="Crisis and Decline: The Fate of the Southern Unionists" page="65" place="Dublin" publisher="Lilliput Press" purpose="display"><nameGrp foreNames="R. B." mainName="Mcdowell" role="author">R. B. McDowell</nameGrp>, <i>Crisis and Decline: The Fate of the Southern Unionists</i> (Dublin: Lilliput Press, 1997), 65.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-2-note-30" type="footnote"><p><enumerator><sup>30</sup></enumerator> <bibItem id="oso-9780198878230-chapter-2-bibItem-15" class="bookChapter" partTitle="Reply to the Catholic Association and Its Allies" date="1903" title="the Leader&#x2019; and &#x2018;The Irish Rosary" page="6" pageLast="8" place="Dublin" publisher="Society for the Protection of Protestant Interests" purpose="display"><nameGrp nameType="nonPersonal" mainName="Society for the Protection of Protestant Interests">Society for the Protection of Protestant Interests</nameGrp>, <i>Reply to the Catholic Association and Its Allies</i>, <i>&#x2018;the Leader&#x2019; and &#x2018;The Irish Rosary</i><i>&#x2019;</i>, (Dublin: Society for the Protection of Protestant Interests, 1903), 6&#x2013;8.</bibItem> Unsurprisingly, given their higher average incomes, Protestants continued to have a much higher rate of participation in education post-independence: <i>Investment in Education: Report of the Survey Team appointed by the Minister for Education in October, 1962</i> (Dublin: Stationery Office, 1965), para. 6.116.</p></note>
+<note id="oso-9780198878230-chapter-2-note-31" type="footnote"><p><enumerator><sup>31</sup></enumerator> The MGW was chaired for almost forty&#x00A0;years by Sir Ralph Cusack, upon whose death the position passed to his son-in-law (<i>Irish Times</i>, 4 March 1910).</p></note>
+<note id="oso-9780198878230-chapter-2-note-32" type="footnote"><p><enumerator><sup>32</sup></enumerator> Campbell, <i>The Irish Establishment, 1879&#x2013;1914</i>, 195. The Bank of Ireland had a complement of 550 officials in 1914: <bibItem id="oso-9780198878230-chapter-2-bibItem-16" class="bookChapter" partAuthor="MacDonagh, Oliver" partTitle="The Victorian Bank, 1824&#x2013;1914" editor="Lyons, F. S. L." date="1983" title="Bank of Ireland, 1783&#x2013;1983: Bicentenary Essays" page="41" place="Dublin" publisher="Gill and Macmillan" purpose="display"><nameGrp foreNames="Oliver" mainName="Macdonagh" role="partAuthor">Oliver MacDonagh</nameGrp>, &#x2018;The Victorian Bank, 1824&#x2013;1914&#x2019;, in <i>Bank of Ireland, 1783&#x2013;1983: Bicentenary Essays</i>, ed. <nameGrp foreNames="F. S. L." mainName="Lyons" role="editor">F. S. L. Lyons</nameGrp> (Dublin: Gill and Macmillan, 1983), 41.</bibItem> The National had a more extensive branch network and employed around 600 in 1919: <bibItem id="oso-9780198878230-chapter-2-bibItem-17" class="journalArticle" author="Oliver, Emmet" date="2018" journalIssue="2" title="The Business of Dublin in the Early 20th Century: An Overview of the Retail and Financial Sectors" journalName="Dublin Historical Record" vol="71" page="236" pageLast="250" purpose="display"><nameGrp foreNames="Emmet" mainName="Oliver" role="author">Emmet Oliver</nameGrp>, &#x2018;The Business of Dublin in the Early 20th Century: An Overview of the Retail and Financial Sectors&#x2019;, <i>Dublin Historical Record</i> 71, 2 (2018): 236&#x2013;50.</bibItem> The National Bank also had a number of branches in Britain.</p></note>
+<note id="oso-9780198878230-chapter-2-note-33" type="footnote"><p><enumerator><sup>33</sup></enumerator> <span role="replace-ibid">MacDonagh, &#x2018;The Victorian Bank, 1824&#x2013;1914&#x2019;</span>, 44.</p></note>
+<note id="oso-9780198878230-chapter-2-note-34" type="footnote"><p><enumerator><sup>34</sup></enumerator> <bibItem id="oso-9780198878230-chapter-2-bibItem-18" class="journalArticle" author="Oliver, Emmet" date="2018" journalIssue="2" title="The Business of Dublin in the Early 20th Century: An Overview of the Retail and Financial Sectors" journalName="Dublin Historical Record" vol="71" page="236" pageLast="250" purpose="display"><xrefGrp><xref ref="oso-9780198878230-chapter-2-bibItem-17">Ibid</xref></xrefGrp></bibItem>., 44.</p></note>
+<note id="oso-9780198878230-chapter-2-note-35" type="footnote"><p><enumerator><sup>35</sup></enumerator> <bibItem id="oso-9780198878230-chapter-2-bibItem-19" class="book" author="Farmar, Tony" date="2013" title="The Versatile Profession: A History of Accountancy in Ireland since 1850" page="65" place="Dublin" publisher="Chartered Accountants Ireland" purpose="display"><nameGrp foreNames="Tony" mainName="Farmar" role="author">Tony Farmar</nameGrp>, <i>The Versatile Profession: A History of Accountancy in Ireland since 1850</i> (Dublin: Chartered Accountants Ireland, 2013), 65.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-2-note-36" type="footnote"><p><enumerator><sup>36</sup></enumerator> <bibItem id="oso-9780198878230-chapter-2-bibItem-20" class="bookChapter" partAuthor="Barry, Frank|d&#x2019;Alton, Ian|Milne, Ida" date="2019" partTitle="The Life and Death of Protestant Businesses in Independent Ireland" title="Protestant and Irish: The Minority&#x2019;s Accommodation with Independent Ireland" page="155" pageLast="170" place="Cork" publisher="Cork University Press" purpose="display"><nameGrp foreNames="Frank" mainName="Barry" role="partAuthor">Frank Barry</nameGrp>, &#x2018;The Life and Death of Protestant Businesses in Independent Ireland&#x2019;, in <i>Protestant and Irish: The Minority&#x2019;s Accommodation with Independent Ireland</i>, ed. <nameGrp foreNames="Ian" mainName="D&#x2019;alton" role="partAuthor">Ian d&#x2019;Alton</nameGrp> and <nameGrp foreNames="Ida" mainName="Milne" role="partAuthor">Ida Milne</nameGrp> (Cork: Cork University Press, 2019), 155&#x2013;70.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-2-note-37" type="footnote"><p><enumerator><sup>37</sup></enumerator> Its nominal capital was bigger than both Arnott&#x2019;s and Clery&#x2019;s (Oliver, &#x2018;The Business of Dublin in the Early 20th Century: An Overview of the Retail and Financial Sectors&#x2019;). Arnott&#x2019;s employed around 200 at the time: <bibItem id="oso-9780198878230-chapter-2-bibItem-21" class="book" author="Nesbitt, Ronald" date="1993" title="At Arnotts of Dublin, 1843&#x2013;1993" page="37" place="Dublin" publisher="A. &#x0026; A. Farmar" purpose="display"><nameGrp foreNames="Ronald" mainName="Nesbitt" role="author">Ronald Nesbitt</nameGrp>, <i>At Arnotts of Dublin, 1843&#x2013;1993</i> (Dublin: A. &#x0026; A. Farmar, 1993), 37.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-2-note-38" type="footnote"><p><enumerator><sup>38</sup></enumerator> Cullen, <i>Eason &#x0026; Son: A History</i>, 138&#x2013;39.</p></note>
+<note id="oso-9780198878230-chapter-2-note-39" type="footnote"><p><enumerator><sup>39</sup></enumerator> <bibItem id="oso-9780198878230-chapter-2-bibItem-22" class="book" author="Smith, Cornelius F." date="2004" title="The Shipping Murphys: The Palgrave Murphy Shipping Line 1850&#x2013;1926" page="117" place="Dublin" publisher="Albany Press" purpose="display"><nameGrp foreNames="Cornelius F." mainName="Smith" role="author">Cornelius F. Smith</nameGrp>, <i>The Shipping Murphys: The Palgrave Murphy Shipping Line 1850&#x2013;1926</i> (Dublin: Albany Press, 2004), 117.</bibItem> John Murphy&#x2019;s father, Michael, had attended the Dublin Unionist Convention of 1892 and was a signatory to the 1893 Catholic petition against Home Rule.</p></note>
+<note id="oso-9780198878230-chapter-2-note-40" type="footnote"><p><enumerator><sup>40</sup></enumerator> The DUTC employed close to 2,000 in 1929, by which time it operated bus as well as tram services (<i>Weekly Irish Times</i>, 24 August 1929). Its workforce numbered at least 750 in 1913 (<i>Weekly Irish Times</i>, 30 August 1913).</p></note>
+<note id="oso-9780198878230-chapter-2-note-41" type="footnote"><p><enumerator><sup>41</sup></enumerator> <bibItem id="oso-9780198878230-chapter-2-bibItem-23" class="book" editor="Rosenbaum, Simon" date="1912" title="Against Home Rule: The Case for the Union" page="186" place="London" publisher="F. Warne" purpose="display"><nameGrp foreNames="Simon" mainName="Rosenbaum" role="editor">Simon Rosenbaum</nameGrp>, ed., <i>Against Home Rule: The Case for the Union</i> (London: F. Warne, 1912), 186.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-2-note-42" type="footnote"><p><enumerator><sup>42</sup></enumerator> <bibItem id="oso-9780198878230-chapter-2-bibItem-24" class="bookChapter" partAuthor="Johnson, David S." partTitle="The Belfast Boycott, 1920&#x2013;1922" editor="Goldstrom, J. M.|Clarkson, L. A." date="1981" title="Irish Population, Economy, and Society: Essays in Honour of the Late K. H. Connell" page="294" pageLast="297" place="Oxford" publisher="Clarendon Press" purpose="display"><nameGrp foreNames="David S." mainName="Johnson" role="partAuthor">David S. Johnson</nameGrp>, &#x2018;The Belfast Boycott, 1920&#x2013;1922&#x2019;, in <i>Irish Population, Economy, and Society: Essays in Honour of the Late K. H. Connell</i>, ed. <nameGrp foreNames="J. M." mainName="Goldstrom" role="editor">J. M. Goldstrom</nameGrp> and <nameGrp foreNames="L. A." mainName="Clarkson" role="editor">L. A. Clarkson</nameGrp> (Oxford: Clarendon Press, 1981), 294&#x2013;97.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-2-note-43" type="footnote"><p><enumerator><sup>43</sup></enumerator> Barry, &#x2018;Business Establishment Opposition to Southern Ireland&#x2019;s Exit from the United Kingdom&#x2019;.</p></note>
+</noteGroup>
+<floatGroup id="oso-9780198878230-chapter-2-floatGroup-1">
+<tableGroup id="oso-9780198878230-chapter-2-tableGroup-1" doi="10.1093/oso/9780198878230.003.0002.007.0001" placement="float">
+<table id="oso-9780198878230-chapter-2-table-1" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-2-titleGroup-3"><title id="C2T1"><p><enumerator>Table 2.1</enumerator> Manufacturing firms in southern Ireland employing 500 or more in the decades to independence</p></title></titleGroup>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<thead>
+<row>
+<entry colname="col1" align="left"><p>Firm</p></entry>
+<entry colname="col2" align="left"><p>Sector</p></entry>
+<entry colname="col3" align="left"><p>Religion and political allegiance</p>
+<p>(or overseas company)</p></entry>
+<entry colname="col4" align="left"><p>Employment in Free State area</p></entry>
+<entry colname="col5" align="left"><p>Employment: source</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>Guinness</p></entry>
+<entry colname="col2" align="left"><p>Brewing</p></entry>
+<entry colname="col3" align="left"><p>Protestant unionist (formally foreign-owned)</p></entry>
+<entry colname="col4" align="left"><p>3,550 (1912)</p></entry>
+<entry colname="col5" align="left"><p><i>Whitaker&#x2019;s Red Book of Commerce</i> (1912)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>W. &#x0026; R. Jacob</p></entry>
+<entry colname="col2" align="left"><p>Biscuits</p></entry>
+<entry colname="col3" align="left"><p>Protestant unionist</p></entry>
+<entry colname="col4" align="left"><p>3,000 (1914)</p></entry>
+<entry colname="col5" align="left"><p><i>Weekly Irish Times</i>, 1 August 1914</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Condensed Milk Company of Ireland</p></entry>
+<entry colname="col2" align="left"><p>Dairy produce</p></entry>
+<entry colname="col3" align="left"><p>Protestant unionist</p></entry>
+<entry colname="col4" align="left"><p>2,000 (1898)</p>
+<p>3,000 (1922)</p></entry>
+<entry colname="col5" align="left"><p>See references in text</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>J. &#x0026; L. F. Goodbody</p></entry>
+<entry colname="col2" align="left"><p>Jute textiles</p></entry>
+<entry colname="col3" align="left"><p>Protestant unionist</p></entry>
+<entry colname="col4" align="left"><p>800 (1920)</p></entry>
+<entry colname="col5" align="left"><p>Riordan, <i>Modern Irish Trade</i> (1920), 140</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Kynochs</p></entry>
+<entry colname="col2" align="left"><p>Chemicals</p></entry>
+<entry colname="col3" align="left"><p>(British)</p></entry>
+<entry colname="col4" align="left"><p>2,500 (1918)</p></entry>
+<entry colname="col5" align="left"><p><i>Irish Times</i>, 16 February 1918</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Denny</p></entry>
+<entry colname="col2" align="left"><p>Bacon</p></entry>
+<entry colname="col3" align="left"><p>Protestant unionist</p></entry>
+<entry colname="col4" align="left"><p><i>c</i>. 500 (1900)</p></entry>
+<entry colname="col5" align="left"><p>See references in text</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Bolands</p></entry>
+<entry colname="col2" align="left"><p>Bread</p></entry>
+<entry colname="col3" align="left"><p>Catholic nationalist</p></entry>
+<entry colname="col4" align="left"><p><i>c</i>. 500 (1900)</p></entry>
+<entry colname="col5" align="left"><p>See references in text</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Johnston, Mooney &#x0026; O&#x2019;Brien</p></entry>
+<entry colname="col2" align="left"><p>Bread</p></entry>
+<entry colname="col3" align="left"><p>Protestant unionist</p></entry>
+<entry colname="col4" align="left"><p><i>c</i>. 600 (1904)</p></entry>
+<entry colname="col5" align="left"><p>See references in text</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>W. and H. M. Goulding</p></entry>
+<entry colname="col2" align="left"><p>Fertilizer</p></entry>
+<entry colname="col3" align="left"><p>Protestant unionist</p></entry>
+<entry colname="col4" align="left"><p><i>c</i>. 800 (1912)</p></entry>
+<entry colname="col5" align="left"><p><i>Whitaker&#x2019;s Red Book of Commerce</i> (1912)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Dwyer &#x0026; Co.</p></entry>
+<entry colname="col2" align="left"><p>Clothing, footwear, furnishings</p></entry>
+<entry colname="col3" align="left"><p>Catholic nationalist</p></entry>
+<entry colname="col4" align="left"><p>700 (1918)</p></entry>
+<entry colname="col5" align="left"><p><i>Weekly Irish Times</i>, 7 December 1918</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Bannatyne</p></entry>
+<entry colname="col2" align="left"><p>Grain Milling</p></entry>
+<entry colname="col3" align="left"><p>Protestant unionist</p></entry>
+<entry colname="col4" align="left"><p><i>c</i>. 700 (1920)</p></entry>
+<entry colname="col5" align="left"><p>See references in text</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Blarney Woollen Mills</p></entry>
+<entry colname="col2" align="left"><p>Woollen textiles</p></entry>
+<entry colname="col3" align="left"><p>Catholic nationalist</p></entry>
+<entry colname="col4" align="left"><p>750 (1892)</p></entry>
+<entry colname="col5" align="left"><p><i>Strattens&#x2019; South of Ireland</i> (1892), 199;</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"/>
+<entry colname="col4" align="left"><p>600 (1919)</p></entry>
+<entry colname="col5" align="left"><p><i>Cork: Its Trade and Commerce</i> (1919), 171</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Limerick Clothing Factory</p></entry>
+<entry colname="col2" align="left"><p>Clothing</p></entry>
+<entry colname="col3" align="left"><p>Protestant unionist</p></entry>
+<entry colname="col4" align="left"><p>600 (1914)</p></entry>
+<entry colname="col5" align="left"><p><i>Evening Herald</i>, 23 September 1914</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Cork Spinning &#x0026; Weaving</p></entry>
+<entry colname="col2" align="left"><p>Linen</p></entry>
+<entry colname="col3" align="left"><p>Protestant unionist</p></entry>
+<entry colname="col4" align="left"><p>1,000 (1919)</p></entry>
+<entry colname="col5" align="left"><p><i>Cork: Its Trade and Commerce</i> (1919), 173</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Greenmount Spinning &#x0026; Weaving</p></entry>
+<entry colname="col2" align="left"><p>Linen</p></entry>
+<entry colname="col3" align="left"><p>Protestant unionist</p></entry>
+<entry colname="col4" align="left"><p>550 (1922)</p></entry>
+<entry colname="col5" align="left"><p><i>Irish Times</i>, 7 October 1922</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Boyne Weaving</p></entry>
+<entry colname="col2" align="left"><p>Linen</p></entry>
+<entry colname="col3" align="left"><p>Protestant, possibly Home Ruler</p></entry>
+<entry colname="col4" align="left"><p>900 (1910)</p></entry>
+<entry colname="col5" align="left"><p><i>Freemans Journal</i>, 19 May 1910</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Hely</p></entry>
+<entry colname="col2" align="left"><p>Paper products and printing</p></entry>
+<entry colname="col3" align="left"><p>Protestant unionist</p></entry>
+<entry colname="col4" align="left"><p>500 (1916)</p></entry>
+<entry colname="col5" align="left"><p><i>Irish Times</i>, 10 May 1916</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Alexander Thom</p></entry>
+<entry colname="col2" align="left"><p>Paper products and printing</p></entry>
+<entry colname="col3" align="left"><p>Protestant unionist</p></entry>
+<entry colname="col4" align="left"><p>500 (1912)</p></entry>
+<entry colname="col5" align="left"><p><i>Whitaker&#x2019;s Red Book of Commerce</i> (1912)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Ford</p></entry>
+<entry colname="col2" align="left"><p>Tractors</p></entry>
+<entry colname="col3" align="left"><p>(US)</p></entry>
+<entry colname="col4" align="left"><p>1,429 (1920)</p></entry>
+<entry colname="col5" align="left"><p>Grimes, <i>Ford in Cork</i>, Vol. 1 (2008), 184</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Dublin Dockyard Company</p></entry>
+<entry colname="col2" align="left"><p>Shipbuilding and repair</p></entry>
+<entry colname="col3" align="left"><p>Protestant Home Ruler</p></entry>
+<entry colname="col4" align="left"><p>1,000 (1919)</p></entry>
+<entry colname="col5" align="left"><p>Riordan, <i>Modern Irish Trade</i> (1920), 99</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Source</i>: author.</p></source>
+</table>
+</tableGroup>
+<tableGroup id="oso-9780198878230-chapter-2-tableGroup-2" doi="10.1093/oso/9780198878230.003.0002.007.0002" placement="float">
+<table id="oso-9780198878230-chapter-2-table-2" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-2-titleGroup-4"><title id="C2T2"><p><enumerator>Table 2.2</enumerator> Non-manufacturing firms in southern Ireland employing 500 or more in the decades to independence</p></title></titleGroup>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<thead>
+<row>
+<entry colname="col1" align="left"><p>Firm</p></entry>
+<entry colname="col2" align="left"><p>Sector</p></entry>
+<entry colname="col3" align="left"><p>Religion and political allegiance</p>
+<p>(or overseas company)</p></entry>
+<entry colname="col4" align="left"><p>Employment in Free State area</p></entry>
+<entry colname="col5" align="left"><p>Employment: source</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>Great Southern &#x0026; Western Railway Company</p></entry>
+<entry colname="col2" align="left"><p>Rail</p></entry>
+<entry colname="col3" align="left"><p>Protestant unionist</p></entry>
+<entry colname="col4" align="left"><p>8,893 (1913)</p></entry>
+<entry colname="col5" align="left"><p><i>Railway Companies: Staff and Wages</i> (London, 1913)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Great Northern Railway Company</p></entry>
+<entry colname="col2" align="left"><p>Rail</p></entry>
+<entry colname="col3" align="left"><p>Protestant unionist</p></entry>
+<entry colname="col4" align="left"><p>5,460 in Ireland (1913)</p></entry>
+<entry colname="col5" align="left"><p><i>Railway Companies: Staff and Wages</i> (London, 1913);</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"/>
+<entry colname="col4" align="left"><p>3,000 in Free State alone</p>
+<p>(1925)</p></entry>
+<entry colname="col5" align="left"><p><i>Returns of Railway Companies</i> (Dublin, 1926), 61</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Midland Great Western</p></entry>
+<entry colname="col2" align="left"><p>Rail</p></entry>
+<entry colname="col3" align="left"><p>Protestant unionist</p></entry>
+<entry colname="col4" align="left"><p>3,451 (1913)</p></entry>
+<entry colname="col5" align="left"><p><i>Railway Companies: Staff and Wages</i> (London, 1913)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Dublin &#x0026; South Eastern</p></entry>
+<entry colname="col2" align="left"><p>Rail</p></entry>
+<entry colname="col3" align="left"><p>Protestant unionist, (Catholic nationalist from 1921)</p></entry>
+<entry colname="col4" align="left"><p>1,373 (1913)</p></entry>
+<entry colname="col5" align="left"><p><i>Railway Companies: Staff and Wages</i> (London, 1913)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Bank of Ireland</p></entry>
+<entry colname="col2" align="left"><p>Banking</p></entry>
+<entry colname="col3" align="left"><p>Protestant unionist</p></entry>
+<entry colname="col4" align="left"><p>550 (1914)</p></entry>
+<entry colname="col5" align="left"><p>See references in text</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>National Bank</p></entry>
+<entry colname="col2" align="left"><p>Banking</p></entry>
+<entry colname="col3" align="left"><p>Catholic nationalist</p></entry>
+<entry colname="col4" align="left"><p><i>c</i>. 600 (1919)</p></entry>
+<entry colname="col5" align="left"><p>See references in text</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Pim Brothers</p></entry>
+<entry colname="col2" align="left"><p>Retail</p></entry>
+<entry colname="col3" align="left"><p>Protestant unionist</p></entry>
+<entry colname="col4" align="left"><p>600 (1894)</p></entry>
+<entry colname="col5" align="left"><p><i>Irish Times</i>, 14 November 1894</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Eason &#x0026; Son</p></entry>
+<entry colname="col2" align="left"><p>Printing, retail, and wholesale</p></entry>
+<entry colname="col3" align="left"><p>Protestant nationalist</p></entry>
+<entry colname="col4" align="left"><p><i>c</i>. 500 (1915)</p></entry>
+<entry colname="col5" align="left"><p>Cullen, <i>Eason &#x0026; Son</i> (1989), 283</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Alliance and Dublin Consumers Gas Company</p></entry>
+<entry colname="col2" align="left"><p>Gas</p></entry>
+<entry colname="col3" align="left"><p>Mixed unionist and nationalist</p></entry>
+<entry colname="col4" align="left"><p>&#x2265; 750 (1917)</p></entry>
+<entry colname="col5" align="left"><p><i>Freemans Journal</i>, 7 November 1917</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Dublin United Tramways Company</p></entry>
+<entry colname="col2" align="left"><p>Tramways</p></entry>
+<entry colname="col3" align="left"><p>Catholic nationalist</p></entry>
+<entry colname="col4" align="left"><p>750&#x2013;2,000 (1913)</p></entry>
+<entry colname="col5" align="left"><p>See references in text</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Source</i>: author.</p></source>
+</table>
+</tableGroup>
+</floatGroup>
+</div1>
+<div1 id="oso-9780198878230-chapter-2-div1-3" doi="10.1093/oso/9780198878230.003.0002.021.0003">
+<titleGroup id="oso-9780198878230-chapter-2-titleGroup-5"><title id="C2S2"><p><enumerator>2.2</enumerator> Political and Economic Perspectives on the Union, Home Rule, and Secession</p></title></titleGroup>
+<p id="C2P34">The ethno-religious divide was clearly the major determinant of the overwhelmingly unionist disposition of the business establishment of the time. One future Northern Ireland Finance Minister observed in 1911 that &#x2018;the feeling against Home Rule is more religious than economic&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-44"><sup>44</sup></xref></xrefGrp> Unionism and Protestantism were intertwined with a sense of class and cultural superiority. One prominent southern unionist described the residences of the landed elite as &#x2018;oases of culture, of uprightness and of fair dealing, in what will otherwise be a desert of dead uniformity [where] lofty ideals, whether of social or imperial interest, will be smothered in an atmosphere of superstition, greed and chicanery&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-45"><sup>45</sup></xref></xrefGrp></p>
+<p id="C2P35">Southern Protestants were fearful of the hostile environment they might face under a new political dispensation. Sir William Goulding was part of a Church of Ireland delegation that met with Michael Collins and William T. Cosgrave in May 1922 to inquire whether &#x2018;the Government was desirous <page id="30" chapter=""/>of retaining them or whether, in the alternative, it was desired that they should leave the country&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-46"><sup>46</sup></xref></xrefGrp> A changing of the guard would obviously hold little appeal for any class that faced displacement: the middle-class Catholic nationalists who were readying themselves for power in a Home Rule administration felt similarly aggrieved when they perceived their position to be usurped by the interlopers of Sinn F&#x00E9;in after the 1918 general election.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-47"><sup>47</sup></xref></xrefGrp></p>
+<p id="C2P36">The 1893 Catholic petition against Home Rule demonstrates, however, that there was a more general economic and business dimension to the political divide. Though Catholic merchants had played an important role in the Limerick Chamber of Commerce since its foundation, a history of the organization notes that its ethos was fundamentally unionist until the 1920s.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-48"><sup>48</sup></xref></xrefGrp> Similarly, the Dublin Chamber of Commerce, while noting that &#x2018;as a corporate body we have no politics&#x2019;, described itself in 1892 as &#x2018;essentially a unionist chamber [.&#x00A0;.&#x00A0;.] solely and simply because in defending the union we are defending the commercial interests with which we are identified&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-49"><sup>49</sup></xref></xrefGrp></p>
+<p id="C2P37">Nationalists and unionists differed in their assessments of the economic consequences of the Union. Nationalists had come to blame southern deindustrialization on the economic integration that followed the passage of the Act of Union, while the inadequate response to the Great Famine of the 1840s was ascribed to a distant and uncaring government. Though some unionists accepted that the arrangement may not have worked perfectly in the past, they pointed to the benefits that had been delivered since the 1890s, by far the most significant of which was the extensive land redistribution that had been funded by loans from the British Treasury. None of the other constituent parts of the United Kingdom had benefited from such a policy, much to the chagrin of politicians in Scotland and Wales.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-50"><sup>50</sup></xref></xrefGrp> Democratic local government had also been established, as had bodies such as the Congested Districts Board and an Irish Department of Agriculture and Technical Instruction. Educational provision had been improved and subsidies granted to the post office, housing, and other areas.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-51"><sup>51</sup></xref></xrefGrp></p>
+<p id="C2P38">Though the UK Pensions Act of 1908 had been designed with the industrial population of Great Britain in mind, the same rates were payable across the United Kingdom under the unified system of administration. As Ireland was <page id="31" chapter=""/>substantially poorer than Britain, pension payments accounted for a much higher share of Irish national income.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-52"><sup>52</sup></xref></xrefGrp> Such financial support, unionists argued, rested on the fiscal capacity of the British state, which Ireland on its own could never hope to match. The Irish stock market, furthermore, had fallen on occasion with news of progress towards the enactment of Home Rule, lending credence to the 1913 warning by 150 &#x2018;Tory business leaders&#x2019; that it would raise the cost of finance and drive capital and industry from the country.</p>
+<p id="C2P39">The costs and benefits of prospective trade protection were a further major point of divergence between the two sides. Edward Carson, the Dublin-born leader of northern unionism, warned in 1921 that concerns over the potential industrial consequences of fiscal autonomy, which it was presumed would lead inexorably to trade barriers between Ireland and Britain, meant that Ulster &#x2018;would not agree to it&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-53"><sup>53</sup></xref></xrefGrp> Southern unionists had expressed similar fears at a meeting chaired by Lord Ardilaun in 1911.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-54"><sup>54</sup></xref></xrefGrp> Horace Plunkett, chairman of the Irish Convention, the body established by the British in 1917 to try to secure agreement on an all-Ireland Home Rule solution, stated that the difficulties encountered &#x2018;may be summed up in two words: Ulster and Customs&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-55"><sup>55</sup></xref></xrefGrp> Britain too wished to retain control of trade policy and conceded fiscal autonomy only towards the end of the Anglo-Irish Treaty negotiations of 1921.</p>
+<p id="C2P40">Unionists differed from the majority of nationalists in their commitment to the imperial project. They argued, furthermore, that &#x2018;to ignore imperial security [.&#x00A0;.&#x00A0;.] is to prejudice Irish as well as imperial interests&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-56"><sup>56</sup></xref></xrefGrp> Southern unionists proposed at the Irish Convention that customs revenue be retained by Westminster as a contribution to war debt and defence. This would have achieved other of their aims as well, however, including ensuring continued representation in the imperial parliament. In an apparent conciliatory response to nationalists, they made the unorthodox suggestion that control of excise be separated from customs and delegated to any prospective new Irish parliament. By a happy coincidence, this would have protected the Irish brewing and distilling industries from the temperance-oriented British parliamentarians of the era.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-57"><sup>57</sup></xref></xrefGrp></p>
+<p id="C2P41"><page id="32" chapter=""/>Southern unionists were fearful of possible expropriation by a radical, vengeful, or sectarian Dublin parliament. They also feared the enactment of &#x2018;hasty legislative proposals at the expense of the 350,000 loyalists who will be practically unrepresented but who pay most of the taxes&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-58"><sup>58</sup></xref></xrefGrp> They professed themselves sceptical of nationalist competence on fiscal matters. Southern unionist business leaders had argued in 1893 that Home Rule would place businessmen at the mercy of &#x2018;professional politicians without [.&#x00A0;.&#x00A0;.] any experience of affairs except what may be acquired in the constant practice of sending round the hat&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-59"><sup>59</sup></xref></xrefGrp> Lord Midleton complained to Churchill in 1922 that</p>
+<p><displayText id="oso-9780198878230-chapter-2-displayText-1" class="other">
+<p>The people are exceedingly ignorant [and] morally cowards [.&#x00A0;.&#x00A0;.] Greatest extravagancies will probably be proposed and the proceedings in the Dail Eireann [sic] show you how the government are likely to have their hands forced.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-60"><sup>60</sup></xref></xrefGrp></p>
+</displayText></p>
+<p fullOut="Y" id="C2P42">That Ireland was overtaxed had long been an article of nationalist faith. Though supported by the findings of a British parliamentary committee in the 1890s, a follow-up report of 1912 found that the balance between expenditures and revenues had since been reversed. The old-age pension was the subject of particular comment. The 1912 report regarded it as &#x2018;absolutely certain&#x2019; that a pensions act designed by an Irish Parliament &#x2018;would not have been of such a costly character as to absorb at one stroke nearly one-third of the total revenue of the country&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-61"><sup>61</sup></xref></xrefGrp></p>
+<p id="C2P43">Many, or most, on the nationalist side appear to have assumed that self-government would rapidly bring prosperity. Tom Kettle, one-time Home Rule MP and first professor of national economics at University College Dublin, argued that much of the fiscal burden was the result of past misgovernment. Arthur Griffith, founder of Sinn F&#x00E9;in, saw no reason why the island could not provide a living for a population of 15 million. Erskine Childers was one of the few to acknowledge publicly the financial difficulties that would have to be faced, particularly with regard to pensions.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-62"><sup>62</sup></xref></xrefGrp></p>
+<p id="C2P44">Southern unionists also raised economic concerns over partition when it emerged onto the policy agenda. A customs frontier between the two parts of Ireland would undoubtedly cause disruption. A report from Belfast <page id="33" chapter=""/>to London immediately prior to its establishment noted that &#x2018;Dublin sends large consignments of Guinness&#x2019;s stout and porter, as well as spirits, mineral waters, tobacco, matches, biscuits, confectionary and provisions into Northern Ireland.&#x2019;<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-63"><sup>63</sup></xref></xrefGrp> The southern linen supply chain was particularly vulnerable, as noted in a newspaper report from 1923, which pointed out that the linen trade in the South</p>
+<p><displayText id="oso-9780198878230-chapter-2-displayText-2" class="other">
+<p>is almost entirely dependent on the North for its supplies. Goods are also sent backwards and forwards across the border for dyeing, bleaching, etc., and if these movements are to be made more difficult and expensive it will certainly mean that an already hard-hit industry cannot be carried on.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-64"><sup>64</sup></xref></xrefGrp></p>
+</displayText></p>
+<p fullOut="Y" id="C2P45">The Dublin Chamber of Commerce had warned that partition would exacerbate the lack of economic expertise by depriving the prospective southern parliament &#x2018;of the steadying influence and business training of the men of Ulster&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-65"><sup>65</sup></xref></xrefGrp> It also expressed concern at the costliness of the further duplication of administrative machinery that partition would entail.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-66"><sup>66</sup></xref></xrefGrp></p>
+<p id="C2P46">Business leaders proved, towards the end, to be among the more pragmatic within the southern unionist community. Midleton informed the British cabinet in 1921 that &#x2018;almost all the most influential businessmen and the largest landowners in the south&#x2019; were now &#x2018;willing to concede their financial interest to an Irish parliament rather than face the continuance of the chaos of the last 15 years&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-67"><sup>67</sup></xref></xrefGrp> Walter Guinness pronounced in parliament that the only alternative to the Treaty was chaos: &#x2018;In accepting it they might be embarking on a slippery slope, but a slippery slope was preferable to a precipice.&#x2019;<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-68"><sup>68</sup></xref></xrefGrp></p>
+<noteGroup>
+<note id="oso-9780198878230-chapter-2-note-44" type="footnote"><p><enumerator><sup>44</sup></enumerator> <bibItem id="oso-9780198878230-chapter-2-bibItem-25" class="book" author="Kennedy, Liam" date="1996" title="Colonialism, Religion and Nationalism in Ireland" page="xiii" place="Belfast" publisher="Institute of Irish Studies" purpose="display"><nameGrp foreNames="Liam" mainName="Kennedy" role="author">Liam Kennedy</nameGrp>, <i>Colonialism, Religion and Nationalism in Ireland</i> (Belfast: Institute of Irish Studies, 1996), xiii.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-2-note-45" type="footnote"><p><enumerator><sup>45</sup></enumerator> J. M. Wilson, cited in <bibItem id="oso-9780198878230-chapter-2-bibItem-26" class="book" editor="Buckland, Patrick" date="1972" title="Irish Unionism 1: The Anglo-Irish and the New Ireland, 1885&#x2013;1922" page="xxi" place="Dublin" publisher="Gill and Macmillan" purpose="display"><nameGrp foreNames="Patrick" mainName="Buckland" role="editor">Patrick Buckland</nameGrp>, <i>Irish Unionism 1: The Anglo-Irish and the New Ireland, 1885&#x2013;1922</i> (Dublin: Gill and Macmillan, 1972), xxi.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-2-note-46" type="footnote"><p><enumerator><sup>46</sup></enumerator> <i>Weekly Irish Times</i>, 20 May 1922.</p></note>
+<note id="oso-9780198878230-chapter-2-note-47" type="footnote"><p><enumerator><sup>47</sup></enumerator> <bibItem id="oso-9780198878230-chapter-2-bibItem-27" class="book" author="Regan, John M." date="2001" title="The Irish Counter-Revolution, 1921&#x2013;1936: Treatyite Politics and Settlement in Independent Ireland" page="245" place="Dublin" publisher="Gill and Macmillan" purpose="display"><nameGrp foreNames="John M." mainName="Regan" role="author">John M. Regan</nameGrp>, <i>The Irish Counter-Revolution, 1921&#x2013;1936: Treatyite Politics and Settlement in Independent Ireland</i> (Dublin: Gill and Macmillan, 2001), 245.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-2-note-48" type="footnote"><p><enumerator><sup>48</sup></enumerator> <bibItem id="oso-9780198878230-chapter-2-bibItem-28" class="book" author="Potter, Matthew" date="2015" title="Limerick&#x2019;s Merchants: Traders and Shakers" page="76" place="Limerick" publisher="Limerick Chamber" purpose="display"><nameGrp foreNames="Matthew" mainName="Potter" role="author">Matthew Potter</nameGrp>, <i>Limerick&#x2019;s Merchants: Traders and Shakers</i> (Limerick: Limerick Chamber, 2015), 76.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-2-note-49" type="footnote"><p><enumerator><sup>49</sup></enumerator> Cited in <bibItem id="oso-9780198878230-chapter-2-bibItem-29" class="book" author="MacMahon, Enda" date="2014" title="A Most Respectable Meeting of Merchants, Dublin Chamber of Commerce: A History" page="140" place="Dublin" publisher="Londubh Books" purpose="display"><nameGrp foreNames="Enda" mainName="Macmahon" role="author">Enda MacMahon</nameGrp>, <i>A Most Respectable Meeting of Merchants, Dublin Chamber of Commerce: A History</i> (Dublin: Londubh Books, 2014), 140.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-2-note-50" type="footnote"><p><enumerator><sup>50</sup></enumerator> Se&#x00E1;n Kenny and Eoin McLaughlin, &#x2018;The Political Economy of Secession: Lessons from the Early&#x00A0;Years of the Irish Free State&#x2019;. <i>National Institute Economic Review</i>, 261, 1 (2022): 48&#x2013;78</p></note>
+<note id="oso-9780198878230-chapter-2-note-51" type="footnote"><p><enumerator><sup>51</sup></enumerator> Kennedy, <i>Colonialism, Religion and Nationalism in Ireland</i>, 58&#x2013;59. These arguments are presented in detail in the 1912 publication, Rosenbaum, <i>Against Home Rule: The Case for the Union</i>.</p></note>
+<note id="oso-9780198878230-chapter-2-note-52" type="footnote"><p><enumerator><sup>52</sup></enumerator> <bibItem id="oso-9780198878230-chapter-2-bibItem-30" class="journalArticle" author="Gr&#x00E1;da, Cormac &#x00D3;" date="2002" journalIssue="1" title="The Greatest Blessing of All&#x201D;: The Old Age Pension in Ireland" journalName="Past &#x0026; Present" vol="175" page="124" pageLast="161" purpose="display"><nameGrp foreNames="Cormac &#x00D3;" mainName="Gr&#x00e1;da" role="author">Cormac &#x00D3; Gr&#x00E1;da</nameGrp>, &#x2018;&#x201C;The Greatest Blessing of All&#x201D;: The Old Age Pension in Ireland&#x2019;. <i>Past &#x0026; Present</i> 175, 1 (2002): 124&#x2013;61.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-2-note-53" type="footnote"><p><enumerator><sup>53</sup></enumerator> Cited in Barry, &#x2018;Business Establishment Opposition to Southern Ireland&#x2019;s Exit from the United Kingdom&#x2019;. On the resistance of Ulster industry, see also <bibItem id="oso-9780198878230-chapter-2-bibItem-31" class="book" author="Plunkett, Horace" date="1918" title="Report of the Proceedings of the Irish Convention" place="Dublin" publisher="HM Stationery Office" purpose="display"><nameGrp foreNames="Horace" mainName="Plunkett" role="author">Horace Plunkett</nameGrp>, <i>Report of the Proceedings of the Irish Convention</i> (Dublin: HM Stationery Office 1918).</bibItem></p></note>
+<note id="oso-9780198878230-chapter-2-note-54" type="footnote"><p><enumerator><sup>54</sup></enumerator> McDowell, <i>Crisis and Decline: The Fate of the Southern Unionists</i>, 46. See also Buckland, <i>Irish Unionism 1: The Anglo-Irish and the New Ireland</i>, 326.</p></note>
+<note id="oso-9780198878230-chapter-2-note-55" type="footnote"><p><enumerator><sup>55</sup></enumerator> Plunkett, <i>Report of the Proceedings of the Irish Convention</i>, 5.</p></note>
+<note id="oso-9780198878230-chapter-2-note-56" type="footnote"><p><enumerator><sup>56</sup></enumerator> Buckland, <i>Irish Unionism 1: The Anglo-Irish and the New Ireland, 1885&#x2013;1922</i>, 106.</p></note>
+<note id="oso-9780198878230-chapter-2-note-57" type="footnote"><p><enumerator><sup>57</sup></enumerator> <bibItem id="oso-9780198878230-chapter-2-bibItem-32" class="book" author="Plunkett, Horace" date="1918" title="Report of the Proceedings of the Irish Convention" place="Dublin" publisher="HM Stationery Office" purpose="display"><xrefGrp><xref ref="oso-9780198878230-chapter-2-bibItem-31">Ibid</xref></xrefGrp></bibItem>., 109&#x2013;18. Buckland reports that unionists at the Convention &#x2018;talked over fiscal problems with the Guinnesses&#x2019; (99).</p></note>
+<note id="oso-9780198878230-chapter-2-note-58" type="footnote"><p><enumerator><sup>58</sup></enumerator> <bibItem id="oso-9780198878230-chapter-2-bibItem-33" class="book" author="Plunkett, Horace" date="1918" title="Report of the Proceedings of the Irish Convention" place="Dublin" publisher="HM Stationery Office" purpose="display"><xrefGrp><xref ref="oso-9780198878230-chapter-2-bibItem-31">Ibid</xref></xrefGrp></bibItem>., 266. The Guinness brewery alone was said to pay &#x2018;something like four millions to the revenue&#x2019;: <bibItem id="oso-9780198878230-chapter-2-bibItem-34" class="book" author="Plunkett, Horace" date="1918" title="Report of the Proceedings of the Irish Convention" place="Dublin" publisher="HM Stationery Office" purpose="display"><xrefGrp><xref ref="oso-9780198878230-chapter-2-bibItem-31">ibid</xref></xrefGrp></bibItem>., 218. It was claimed in 1923 to pay in income tax and excise duties &#x2018;about ten millions a&#x00A0;year to the revenues of the Free State Government&#x2019; (<i>Roscommon Herald</i>, 1 December 1923).</p></note>
+<note id="oso-9780198878230-chapter-2-note-59" type="footnote"><p><enumerator><sup>59</sup></enumerator> <bibItem id="oso-9780198878230-chapter-2-bibItem-35" class="journalArticle" author="Ollerenshaw, Philip" date="2000" journalIssue="1" title="Businessmen and the Development of Ulster Unionism, 1886&#x2013;1921" journalName="Journal of Imperial and Commonwealth History" vol="28" page="47" purpose="display"><nameGrp foreNames="Philip" mainName="Ollerenshaw" role="author">Philip Ollerenshaw</nameGrp>, &#x2018;Businessmen and the Development of Ulster Unionism, 1886&#x2013;1921&#x2019;. <i>Journal of Imperial and Commonwealth History</i> 28, 1 (2000): 47.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-2-note-60" type="footnote"><p><enumerator><sup>60</sup></enumerator> Buckland, <i>Irish Unionism 1: The Anglo-Irish and the New Ireland, 1885&#x2013;1922</i>, 267.</p></note>
+<note id="oso-9780198878230-chapter-2-note-61" type="footnote"><p><enumerator><sup>61</sup></enumerator> <i>Irish Times</i>, 20 April 1912.</p></note>
+<note id="oso-9780198878230-chapter-2-note-62" type="footnote"><p><enumerator><sup>62</sup></enumerator> <bibItem id="oso-9780198878230-chapter-2-bibItem-36" class="book" author="Childers, Erskine" date="1911" title="The Framework of Home Rule" place="London" publisher="Edward Arnold" purpose="display"><nameGrp foreNames="Erskine" mainName="Childers" role="author">Erskine Childers</nameGrp>, <i>The Framework of Home Rule</i> (London: Edward Arnold, 1911).</bibItem></p></note>
+<note id="oso-9780198878230-chapter-2-note-63" type="footnote"><p><enumerator><sup>63</sup></enumerator> Cited in <bibItem id="oso-9780198878230-chapter-2-bibItem-37" class="journalArticle" author="Nash, Catherine|Dennis, Lorraine|Graham, Brian" date="2010" journalIssue="4" title="Putting the Border in Place: Customs Regulation in the Making of the Irish Border, 1921&#x2013;1945" journalName="Journal of Historical Geography" vol="36" page="421" pageLast="431" purpose="display"><nameGrp foreNames="Catherine" mainName="Nash" role="author">Catherine Nash</nameGrp>, <nameGrp foreNames="Lorraine" mainName="Dennis" role="author">Lorraine Dennis</nameGrp>, and <nameGrp foreNames="Brian" mainName="Graham" role="author">Brian Graham</nameGrp>, &#x2018;Putting the Border in Place: Customs Regulation in the Making of the Irish Border, 1921&#x2013;1945&#x2019;. <i>Journal of Historical Geography</i> 36, 4 (2010): 421&#x2013;31.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-2-note-64" type="footnote"><p><enumerator><sup>64</sup></enumerator> <i>Irish Times</i>, 3 March 1923.</p></note>
+<note id="oso-9780198878230-chapter-2-note-65" type="footnote"><p><enumerator><sup>65</sup></enumerator> <i>Irish Times</i>, 1 June 1920.</p></note>
+<note id="oso-9780198878230-chapter-2-note-66" type="footnote"><p><enumerator><sup>66</sup></enumerator> <bibItem id="oso-9780198878230-chapter-2-bibItem-38" class="book" author="Cullen, Louis M." date="1983" title="Princes &#x0026; Pirates: The Dublin Chamber of Commerce, 1783&#x2013;1983" page="93" place="Dublin" publisher="Dublin Chamber of Commerce" purpose="display"><nameGrp foreNames="Louis M." mainName="Cullen" role="author">Louis M. Cullen</nameGrp>, <i>Princes &#x0026; Pirates: The Dublin Chamber of Commerce, 1783&#x2013;1983</i> (Dublin: Dublin Chamber of Commerce, 1983), 93.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-2-note-67" type="footnote"><p><enumerator><sup>67</sup></enumerator> Buckland, <i>Irish Unionism 1: The Anglo-Irish and the New Ireland, 1885&#x2013;1922</i>, 218.</p></note>
+<note id="oso-9780198878230-chapter-2-note-68" type="footnote"><p><enumerator><sup>68</sup></enumerator> McDowell, <i>Crisis and Decline: The Fate of the Southern Unionists</i>, 112.</p></note>
+</noteGroup>
+</div1>
+<div1 id="oso-9780198878230-chapter-2-div1-4" doi="10.1093/oso/9780198878230.003.0002.021.0004">
+<titleGroup id="oso-9780198878230-chapter-2-titleGroup-6"><title id="C2S3"><p><enumerator>2.3</enumerator> Vestiges of Pre-1922 Divisions in Irish Business Life</p></title></titleGroup>
+<p id="C2P47">That the business establishment inherited by the new state had been predominantly unionist would constrain economic policymaking, particularly in the 1920s but also further into the future. It would take many more decades for <page id="34" chapter=""/>the sectarian divisions in Irish business life to be eroded. Though recruitment of a predominantly Catholic staff became inevitable in many companies due to the decline of the Protestant population south of the border, it has been suggested that &#x2018;until the 1960s at least, the Catholic and Protestant communities essentially lived apart [.&#x00A0;.&#x00A0;.] in a kind of mutually agreed apartheid&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-69"><sup>69</sup></xref></xrefGrp> A survey of South Dublin Protestants conducted in the 1980s revealed that most who had entered the labour market prior to 1955 had found their first jobs in workplaces where the majority of their co-workers were Protestant.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-70"><sup>70</sup></xref></xrefGrp> When the <i>Irish Times</i> asked a group of several dozen young Protestants in 1965 if there was any discrimination that might influence their choice of career, no one could think of any. Their response had been that &#x2018;there are plenty of Protestant employers&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-71"><sup>71</sup></xref></xrefGrp></p>
+<p id="C2P48">The extent to which this &#x2018;apartheid&#x2019; was &#x2018;mutually agreed&#x2019; can be exaggerated: the situation undoubtedly caused resentment. Businessman Michael Smurfit recalls in his autobiography that there were many companies, even in the 1960s, where Catholics could never join the management team, &#x2018;no matter how good they were at their job&#x2019;, while Catholic firms such as his found it difficult to make sales to Protestant companies.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-72"><sup>72</sup></xref></xrefGrp> Catholic blame was frequently directed towards the Masonic Order, which had seen an upsurge in membership in the 1920s. Though there were suspicions of discrimination on the Catholic side as well, the Knights of Columbanus, which had been established as a counterweight to the Freemasons and moved its headquarters south of the border in the 1920s, are not considered to have gained as much of a foothold in business life.</p>
+<p id="C2P49">&#x2018;Empire loyalists&#x2019; continued to find favour in Guinness&#x2019;s recruitment to management positions, and oral history accounts of working life in Jacobs refer to a strong Masonic influence in recruitment and promotion.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-73"><sup>73</sup></xref></xrefGrp> Even in services sectors, which might have been expected to have been more sensitive to consumer sentiment, change was slow. Though the proportion of Catholics to Protestants among the directors of the Bank of Ireland is estimated to have increased from one-third in the late 1930s to approximately two-thirds some thirty&#x00A0;years later, Catholics made up more than 95 per cent of the population of the state at the latter date.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-74"><sup>74</sup></xref></xrefGrp> Craig Gardner, the <page id="35" chapter=""/>largest accountancy firm, appointed its first Catholic partner in 1944. The first appointment of a Catholic to the board of Easons came in 1947: economist and statistician R. C. Geary would later recall that he had been &#x2018;particularly struck by [the appointment of] a young Catholic graduate friend of mine to executive rank and later to a directorship [.&#x00A0;.&#x00A0;.] That would occasion no comment now. It did then.&#x2019;<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-2-note-75"><sup>75</sup></xref></xrefGrp> The last vestiges of these divisions disappeared with the opening up of the economy in the 1960s and 1970s, as will be discussed in a later chapter.</p>
+<noteGroup>
+<note id="oso-9780198878230-chapter-2-note-69" type="footnote"><p><enumerator><sup>69</sup></enumerator> <bibItem id="oso-9780198878230-chapter-2-bibItem-39" class="book" author="Brown, Terence" date="2015" title="The Irish Times: 150&#x00A0;Years of Influence" page="293" place="London" publisher="Bloomsbury" purpose="display"><nameGrp foreNames="Terence" mainName="Brown" role="author">Terence Brown</nameGrp>, <i>The Irish Times: 150&#x00A0;Years of Influence</i> (London: Bloomsbury, 2015), 293.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-2-note-70" type="footnote"><p><enumerator><sup>70</sup></enumerator> <bibItem id="oso-9780198878230-chapter-2-bibItem-40" class="book" author="Bowen, Kurt" date="1983" title="Protestants in a Catholic State: Ireland&#x2019;s Privileged Minority" page="95" place="Dublin" publisher="Gill and Macmillan" purpose="display"><nameGrp foreNames="Kurt" mainName="Bowen" role="author">Kurt Bowen</nameGrp>, <i>Protestants in a Catholic State: Ireland&#x2019;s Privileged Minority</i> (Dublin: Gill and Macmillan, 1983), 95.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-2-note-71" type="footnote"><p><enumerator><sup>71</sup></enumerator> <i>Irish Times</i>, 23 March 1965.</p></note>
+<note id="oso-9780198878230-chapter-2-note-72" type="footnote"><p><enumerator><sup>72</sup></enumerator> <bibItem id="oso-9780198878230-chapter-2-bibItem-41" class="book" author="Smurfit, Michael" date="2014" title="A Life Worth Living: Michael Smurfit&#x2019;s Autobiography" page="79" pageLast="80" place="Dublin" publisher="Oak Tree Press" purpose="display"><nameGrp foreNames="Michael" mainName="Smurfit" role="author">Michael Smurfit</nameGrp>, <i>A Life Worth Living: Michael Smurfit&#x2019;s Autobiography</i> (Dublin: Oak Tree Press, 2014), 79&#x2013;80.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-2-note-73" type="footnote"><p><enumerator><sup>73</sup></enumerator> On Guinness, see <bibItem id="oso-9780198878230-chapter-2-bibItem-42" class="book" author="Flood, Finbarr" date="2006" title="In Full Flood: A Memoir" page="74" place="Dublin" publisher="Liberties Press" purpose="display"><nameGrp foreNames="Finbarr" mainName="Flood" role="author">Finbarr Flood</nameGrp>, <i>In Full Flood: A Memoir</i> (Dublin: Liberties Press, 2006), 74</bibItem>; W. &#x0026; R. Jacob &#x0026; Co. Oral History Collection, South Dublin Libraries.</p></note>
+<note id="oso-9780198878230-chapter-2-note-74" type="footnote"><p><enumerator><sup>74</sup></enumerator> <bibItem id="oso-9780198878230-chapter-2-bibItem-43" class="bookChapter" partAuthor="Lyons, Francis Stewart Leland" partTitle="Reflections on a Bicentenary" title="Bank of Ireland 1783&#x2013;1983, Bicentenary Essays" page="207" pageLast="208" purpose="display"><nameGrp foreNames="Francis Stewart Leland" mainName="Lyons" role="partAuthor">Francis Stewart Leland Lyons</nameGrp>, &#x2018;Reflections on a Bicentenary&#x2019;, in <i>Bank of Ireland 1783&#x2013;1983, Bicentenary Essays</i>, ed. Lyons, 207&#x2013;208.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-2-note-75" type="footnote"><p><enumerator><sup>75</sup></enumerator> Cited in Cullen, <i>Eason &#x0026; Son: A History</i>, 385.</p></note>
+</noteGroup>
+</div1>
+</textMatter>
+<appendixGroup id="oso-9780198878230-chapter-2-appendixGroup-1">
+<appendix id="oso-9780198878230-chapter-2-appendix-1" doi="10.1093/oso/9780198878230.003.0002.005.0001">
+<textMatter id="oso-9780198878230-chapter-2-textMatter-2">
+<div1 id="oso-9780198878230-chapter-2-div1-5" doi="10.1093/oso/9780198878230.003.0002.021.0005">
+<titleGroup id="oso-9780198878230-chapter-2-titleGroup-7"><title><p><enumerator>Appendix 2.1</enumerator> Business Establishment Unionist Affiliations</p></title></titleGroup>
+<p>It was suggested in the text that the political sympathies of most business leaders would have been well known. Table 2.3 provides evidence on the unionist affiliations of leading business proprietors.</p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-2-tableGroup-3"?></p>
+<floatGroup id="oso-9780198878230-chapter-2-floatGroup-2">
+<tableGroup id="oso-9780198878230-chapter-2-tableGroup-3" doi="10.1093/oso/9780198878230.003.0002.007.0003" placement="float">
+<table id="oso-9780198878230-chapter-2-table-3" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-2-titleGroup-8"><title id="C2T3"><p><enumerator>Table 2.3</enumerator> Selected sources on unionist affiliations</p></title></titleGroup>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<thead>
+<row>
+<entry colname="col1" align="left"><p>Source</p></entry>
+<entry colname="col2" align="left"><p>Business leaders</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>Great Unionist Demonstration, Dublin (1887)</p></entry>
+<entry colname="col2" align="left"><p>Lord Ardilaun, James Talbot Power, John Jameson, Sir John Arnott, T. P. Cairnes, Maurice Dockrell, Robert Tedcastle, Pim (various), Goodbody (various)<xrefGrp role="tableNote"><xref ref="oso-9780198878230-chapter-2-note-76"><sup>a</sup></xref></xrefGrp></p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Unionist Convention for the Provinces of Leinster, Munster and Connaught, Dublin (1892)</p></entry>
+<entry colname="col2" align="left"><p>J. F. G. Bannatyne, Pim (various), T. P. Cairnes, Maurice E. Dockrell, George Pollexfen, Sir Richard Martin, Lord Ardilaun, Sir John Arnott, Goodbody (various), W. J. Goulding, Lord Iveagh, John Jameson, Whyte family of Balbriggan (various), Beamish (various), George Pollexfen, Sir John Power, F. H. Thompson, T. H. Cleeve, Sir Ralph Cusack<xrefGrp role="tableNote"><xref ref="oso-9780198878230-chapter-2-note-77"><sup>b</sup></xref></xrefGrp></p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Others listed as unionist in the 1890s</p></entry>
+<entry colname="col2" align="left"><p>Sir Henry Cochrane<xrefGrp role="tableNote"><xref ref="oso-9780198878230-chapter-2-note-78"><sup>c</sup></xref></xrefGrp>, Frank Brooke<xrefGrp role="tableNote"><xref ref="oso-9780198878230-chapter-2-note-79"><sup>d</sup></xref></xrefGrp>, Michael Murphy<xrefGrp role="tableNote"><xref ref="oso-9780198878230-chapter-2-note-80"><sup>e</sup></xref></xrefGrp>, James Ogilvie<xrefGrp role="tableNote"><xref ref="oso-9780198878230-chapter-2-note-81"><sup>f</sup></xref></xrefGrp></p>
+<p>Howard Grubb<xrefGrp role="tableNote"><xref ref="oso-9780198878230-chapter-2-note-82"><sup>g</sup></xref></xrefGrp></p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Catholic Petition against Home Rule (1893)</p></entry>
+<entry colname="col2" align="left"><p>Charles and Richard Martin, James and John Talbot Power, John Smithwick, Michael Murphy<xrefGrp role="tableNote"><xref ref="oso-9780198878230-chapter-2-note-83"><sup>h</sup></xref></xrefGrp></p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Irish Unionist Alliance (1913)</p></entry>
+<entry colname="col2" align="left"><p>Sir John Arnott, Cairnes (various), Sir Maurice Dockrell, Sir Robert Gardner, Sir William Goulding, Goodbody (various), Guinness (various), William Hewat, G. N. Jacob, Jameson (various), F. V. Martin, J. Mooney, Sir John Nutting, Pim (various), J. F. Stokes, Fane Vernon<xrefGrp role="tableNote"><xref ref="oso-9780198878230-chapter-2-note-84"><sup>i</sup></xref></xrefGrp></p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>South County Dublin Unionist Registration Association (1915)</p></entry>
+<entry colname="col2" align="left"><p>Viscount Iveagh, Sir Maurice Dockrell, Sir Stanley Cochrane, Andrew Jameson, Frank V. Martin, Sir John Nutting, James Talbot Power<xrefGrp role="tableNote"><xref ref="oso-9780198878230-chapter-2-note-85"><sup>j</sup></xref></xrefGrp></p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p><page id="36" chapter=""/>Irish Unionist Alliance (1919&#x2013;1920)</p></entry>
+<entry colname="col2" align="left"><p>Sir John Arnott, Guinness (various), Odlum (various), W. P. Cairnes, C. E. Denny, George Shackleton,<xrefGrp role="tableNote"><xref ref="oso-9780198878230-chapter-2-note-86"><sup>k</sup></xref></xrefGrp> Sharman Crawford<xrefGrp role="tableNote"><xref ref="oso-9780198878230-chapter-2-note-87"><sup>l</sup></xref></xrefGrp></p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Unionist Anti-Partition League (1919)</p></entry>
+<entry colname="col2" align="left"><p>Sir John Arnott, John Good, Sir William Goulding, Guinness (various), Viscount Iveagh, Andrew Jameson, John Mooney, Sir Harold Nutting<xrefGrp role="tableNote"><xref ref="oso-9780198878230-chapter-2-note-88"><sup>m</sup></xref></xrefGrp></p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Note</i>: In the vast majority of cases, these were delegates or officials rather than ordinary members of the various associations.</p>
+<p><i>Source</i>: author.</p></source>
+<note id="oso-9780198878230-chapter-2-note-76" type="tableNote"><p><enumerator><sup>a</sup></enumerator> <i>Irish Times</i>, 3 December 1887.</p></note>
+<note id="oso-9780198878230-chapter-2-note-77" type="tableNote"><p><enumerator><sup>b</sup></enumerator> Unionist Convention for Provinces of Leinster, Munster and Connaught. &#x2018;Report of Proceedings, Lists of Committees, Delegates&#x2019;, Irish Unionist Alliance, 1892.</p></note>
+<note id="oso-9780198878230-chapter-2-note-78" type="tableNote"><p><enumerator><sup>c</sup></enumerator> <i>Irish Times</i>, 18 June 1892.</p></note>
+<note id="oso-9780198878230-chapter-2-note-79" type="tableNote"><p><enumerator><sup>d</sup></enumerator> <i>Irish Times</i>, 18 April 1896.</p></note>
+<note id="oso-9780198878230-chapter-2-note-80" type="tableNote"><p><enumerator><sup>e</sup></enumerator> MacMahon, <i>A Most Respectable Meeting of Merchants, Dublin Chamber of Commerce: A History</i>, 139.</p></note>
+<note id="oso-9780198878230-chapter-2-note-81" type="tableNote"><p><enumerator><sup>f</sup></enumerator> <i>Freemans Journal</i>, 29 November 1897.</p></note>
+<note id="oso-9780198878230-chapter-2-note-82" type="tableNote"><p><enumerator><sup>g</sup></enumerator> <i>Irish Times</i>, 18 November 1893.</p></note>
+<note id="oso-9780198878230-chapter-2-note-83" type="tableNote"><p><enumerator><sup>h</sup></enumerator> <i>Irish Times</i>, 15 and 24 March 1893.</p></note>
+<note id="oso-9780198878230-chapter-2-note-84" type="tableNote"><p><enumerator><sup>i</sup></enumerator> <i>Irish Independent</i>, 17 November 1913.</p></note>
+<note id="oso-9780198878230-chapter-2-note-85" type="tableNote"><p><enumerator><sup>j</sup></enumerator> <i>Irish Independent</i>, 4 June 1915.</p></note>
+<note id="oso-9780198878230-chapter-2-note-86" type="tableNote"><p><enumerator><sup>k</sup></enumerator> <i>30th Annual Report, 1919&#x2013;1920</i> (Dublin: Irish Unionist Alliance, 1920).</p></note>
+<note id="oso-9780198878230-chapter-2-note-87" type="tableNote"><p><enumerator><sup>l</sup></enumerator> <i>Irish Independent</i>, 22 January 1921.</p></note>
+<note id="oso-9780198878230-chapter-2-note-88" type="tableNote"><p><enumerator><sup>m</sup></enumerator> <i>Irish Times</i>, 28 January 1919.</p></note>
+</table>
+</tableGroup>
+</floatGroup>
+</div1>
+</textMatter>
+</appendix>
+</appendixGroup>
+</chapter>
+</mainText>
+</book>

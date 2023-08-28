@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OXFORD//DTD OXCHAPML//EN" "OxChapML.dtd">
+<book id="oso-9780198878230-book-1" doi="10.1093/oso/9780198878230.001.0001" OSOsubject="physics">
+<bookMeta id="oso-9780198878230-bookMeta-1">
+<versionInfo>
+<versionDate>2023-05-06</versionDate>
+<versionDesc>Proofs</versionDesc>
+</versionInfo>
+<metaItem about="book">
+<metaItem about="DTD">
+<metaDescribes predicate="DTDname">OxChapML</metaDescribes>
+</metaItem>
+<metaItem about="TCIgroup">
+<metaItem about="TCI">
+<metaDescribes predicate="TCIname">OUP TCI</metaDescribes>
+<metaDescribes predicate="version">20170301.0</metaDescribes>
+</metaItem>
+</metaItem>
+<metaDescribes predicate="product">oso</metaDescribes>
+<metaDescribes predicate="colour-figures-for-online">Yes</metaDescribes>
+<metaDescribes predicate="publishing-group">oso US</metaDescribes>
+<metaDescribes predicate="captured-by">Integra</metaDescribes>
+</metaItem>
+</bookMeta>
+<mainText id="oso-9780198878230-mainText-1">
+<chapter id="oso-9780198878230-chapter-1" doi="10.1093/oso/9780198878230.003.0001">
+<metaInfo id="oso-9780198878230-chapter-1-metaInfo-1">
+<versionInfo>
+<versionDate>2023-05-06</versionDate>
+<versionDesc>Proofs</versionDesc>
+</versionInfo>
+<creatorGroup>
+<creator class="author" invertedForm="Barry, Frank"><forenames>Frank</forenames><surname>Barry</surname></creator>
+</creatorGroup>
+<abstract><p>Identification of the largest manufacturing employers in operation in Ireland in 1972 provides us with a snapshot of the economy of the time and also of its history. Some of the firms preceded the foundation of the state. Others dated from the moderate protection of the 1920s, still more from the full-scale protection of the 1930s and the various stages of outward reorientation of the post-war era. The dates at which each of the firms emerged into significance serve as an introduction to the economic history of the state. Already by 1972 foreign corporations accounted for a disproportionately high share of manufacturing employment in Ireland. The firm-level database indicates that this was roughly evenly divided between protectionist-era &#x2018;tariff factories&#x2019;, export-oriented foreign firms that had established greenfield operations under the new post-war policy regime, and a heretofore largely ignored class of foreign firms that had acquired existing businesses as trade liberalization loomed. The gender composition of individual sectors is examined. Sectarian divisions in Irish business life that had persisted into the 1960s disappeared alongside the liberalization of the economy.</p>
+</abstract>
+<keySubjectWords>
+<keyword>EEC accession</keyword>
+<keyword>Irish manufacturing</keyword>
+<keyword>Irish businesses</keyword>
+<keyword>foreign direct investment</keyword>
+<keyword>export-platform FDI</keyword>
+<keyword>brownfield FDI</keyword>
+<keyword>gender</keyword>
+<keyword>sectarian divisions</keyword></keySubjectWords>
+<disclaimer><p><i>Industry and Policy in Independent Ireland, 1922&#x2013;1972</i>. Frank Barry, Oxford University Press. &#x00A9; Frank Barry (2023). DOI: 10.1093/oso/9780198878230.003.0001</p></disclaimer>
+<metaItem about="book">
+<metaItem about="DTD">
+<metaDescribes predicate="DTDname">OxChapML</metaDescribes>
+</metaItem>
+<metaItem about="TCIgroup">
+<metaItem about="TCI">
+<metaDescribes predicate="TCIname">OUP TCI</metaDescribes>
+<metaDescribes predicate="version">20170301.0</metaDescribes>
+</metaItem>
+</metaItem>
+<metaDescribes predicate="product">oso</metaDescribes>
+<metaDescribes predicate="colour-figures-for-online">Yes</metaDescribes>
+<metaDescribes predicate="publishing-group">oso US</metaDescribes>
+<metaDescribes predicate="captured-by">Integra</metaDescribes>
+</metaItem>
+</metaInfo>
+<titleGroup id="oso-9780198878230-chapter-1-titleGroup-1"><title id="C1"><p><page id="1" chapter=""/><enumerator>1</enumerator> Vantage Point, 1972</p></title></titleGroup>
+<textMatter id="oso-9780198878230-chapter-1-textMatter-1">
+<div1 id="oso-9780198878230-chapter-1-div1-1" doi="10.1093/oso/9780198878230.003.0001.021.0001" role="prelim">
+<p id="C1P1">In 1972, on the eve of Ireland&#x2019;s accession to the European Economic Community, the Guinness brewery at St James&#x2019;s Gate and the biscuit factory of W. &#x0026; R. Jacob off Aungier Street remained Dublin&#x2019;s largest manufacturing establishments. The more than 200-year-old brewery employed a workforce of 3,500. The biscuit factory, which dated from 1853, still employed around 1,500, though production had already begun to shift to the suburbs. The Jacobs workforce was predominantly female, Guinness&#x2019;s almost exclusively male. The broader Guinness Group was, along with Cement Roadstone Holdings, the largest manufacturing employer in the state.</p>
+<p id="C1P2">Having concentrated almost since its inception on the production of stout and porter, Guinness had responded to the first indications of the emerging &#x2018;lounge bar society&#x2019; by launching a new lager at its bicentenary in 1959. Brewed mainly in Dundalk, <i>Harp</i> had become the best-selling lager brand in Britain and Ireland. In combination with various industry partners, Guinness had gone on to acquire the Smithwicks brewery in Kilkenny, producer of the country&#x2019;s most popular ale, and the former Magners in Clonmel, which held the rights to the Bulmers cider brand in Ireland. The lime cordial with which lager was frequently flavoured was produced by Cantrell &#x0026; Cochrane (C&#x0026;C), in which the brewer held close to a half share. The two companies between them were buying up many of the local soft drinks brands that remained popular throughout the country.</p>
+<p id="C1P3">The Guinness Group&#x2019;s Irish workforce numbered around 5,000. The brewer&#x2014;formally a British company since its incorporation in 1886&#x2014;employed a further 1,500 at Park Royal in London and had recently opened plants in Nigeria and elsewhere for which the &#x2018;concentrated essence&#x2019; was produced at St James&#x2019;s Gate. Cement Roadstone Holdings (CRH) employed several hundred more than the Guinness Group in Ireland. The Jefferson Smurfit Group was somewhat smaller. Though formed only in 1970, CRH&#x2019;s origins&#x2014;like those of Smurfit&#x2014;lay in the Ireland of the 1930s. Both firms remained predominantly domestically oriented in 1972, though one UK acquisition by Smurfit in 1973 would double the size of its workforce and extend its operations into the developing world. At peak production in the <page id="2" chapter=""/>early Free State era, the Ford plant in Cork had been by far the largest manufacturing employer. It would remain in operation into the 1980s. The most significant new export-oriented foreign multinational was US firm General Electric (GE). GE had established the first of its Irish operations at Shannon in the early 1960s and opened another in Dundalk several&#x00A0;years later.</p>
+<p id="C1P4">Identification of the largest employers of the early 1970s provides us with more than just a snapshot of the era. Because the pace of change in industry was much more gradual then than it has since become, all of the major structural and economic changes that had occurred since Ireland&#x2019;s integration into the United Kingdom in the early nineteenth century had left a legacy. Though few sectors would be unaffected by European Economic Community (EEC) membership, the industrial foundations of the expansion of subsequent decades are also in evidence.</p>
+</div1>
+<div1 id="oso-9780198878230-chapter-1-div1-2" doi="10.1093/oso/9780198878230.003.0001.021.0002">
+<titleGroup id="oso-9780198878230-chapter-1-titleGroup-2"><title id="C1S1"><p><enumerator>1.1</enumerator> Industrial History of the Free State Area</p></title></titleGroup>
+<p><?Insert-Table ID="oso-9780198878230-chapter-1-tableGroup-1"?></p>
+<p id="C1P5">Southern Ireland was one of the many regions in Europe and beyond&#x2014;including others in the United Kingdom of the time&#x2014;to deindustrialize in the wake of the British Industrial Revolution. Cottage textile industries in particular were unable to withstand the competition from cheap factory-produced imports. The Irish Free State at its birth in 1922 remained predominantly agricultural, as shown in <xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-1-tableGroup-1">1.1</xref></xrefGrp>. Manufacturing output was far more complex <page id="3" chapter=""/>in structure even then, however, than might be suggested by the &#x2018;4 Bs&#x2019;: beer and biscuits in Dublin, butter and bacon beyond the Pale.</p>
+<p id="C1P6">The economic history of the state up to EEC accession is conventionally divided into three phases. The first comprises what is generally characterized as the laissez-faire era of the Cumann na nGaedheal governments of the 1920s, the second the <i>dirigiste</i> and protectionist policy regime of the Fianna F&#x00E1;il administrations that followed from 1932. The beginning of the third phase is typically dated to the late 1950s when Se&#x00E1;n Lemass took over from Eamon de Valera as Taoiseach and leader of Fianna F&#x00E1;il. Though Lemass had been the chief architect of protectionism, he adopted the broad principles of a plan prepared by the head of the civil service, T. K. Whitaker, who had feared during the severe economic crisis of the mid-1950s that &#x2018;the achievement of independence would prove to have been a futility&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-1-note-1"><sup>1</sup></xref></xrefGrp> Protectionism was abandoned, an application to join the EEC submitted, and a Free Trade Area Agreement (AIFTA) signed with the United Kingdom in 1965. The growth in manufacturing employment and labour productivity over these and several sub-phases is depicted in <xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-1-tableGroup-2">1.2</xref></xrefGrp>.</p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-1-tableGroup-2"?></p>
+<p id="C1P7">Though there had been some convergence in economic structure (as seen in <xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-1-tableGroup-3">1.3</xref></xrefGrp>), Ireland, despite decades of protection, remained under-industrialized by Western European standards when EEC membership was finally achieved in 1973.</p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-1-tableGroup-3"?></p>
+<p id="C1P8">The conventional historical account requires substantial refinement, however. A number of the large manufacturing employers of the early 1970s date from Cumann na nGaedheal-era policy initiatives, including some of the <page id="4" chapter=""/>&#x2018;experimental&#x2019; protectionist measures adopted at the time. The other predominantly agricultural states that newly appeared on the map of Europe in the aftermath of the First World War had adopted a strategy of extensive import substitution as soon as independence had been achieved. It was not simply an attachment to laissez-faire principles that caused the Free State not to follow suit. William Martin Murphy, the leading nationalist industrialist of his day, had noted at the Irish Convention in 1917 that the products of Irish agriculture &#x2018;are exported in normal times to a greater value than the products of all the Ulster industries combined&#x2019; and that &#x2018;Great Britain is at the present time the best and practically the only market.&#x2019; Though a strong advocate of fiscal independence, &#x2018;it would be folly&#x2019;, he concluded, to depart from free trade in &#x2018;articles of home produce&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-1-note-2"><sup>2</sup></xref></xrefGrp> The great British economist, John Maynard Keynes, in a sympathetic lecture delivered in Dublin in 1933, advised that &#x2018;those who seek to disembarrass a country of its entanglements should be very slow and wary. It should not be a matter of tearing up roots but of slowly training a plant to grow in a different direction.&#x2019;<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-1-note-3"><sup>3</sup></xref></xrefGrp></p>
+<p id="C1P9">Economies of all types&#x2014;industrial as well as agricultural&#x2014;turned away from free trade in the 1930s as export markets collapsed. Where Ireland differed from most of the rest of Western Europe was in remaining protectionist into the 1950s and 1960s. Here in particular the conventional account needs to be revisited. Tariff barriers began to be reduced only in 1963, by <page id="5" chapter=""/>which time EEC membership had become the strategic long-term goal of Irish diplomatic and economic policy. Given the surprise nature of the UK application submitted in 1961, this could not have been envisaged at the time of the Whitaker Report. The trade-offs faced in the case of EEC membership were substantially more benign than those that had been on offer in 1958.</p>
+<p id="C1P10">The conventional account, furthermore, conflates the new export-oriented foreign direct investment (FDI) strategy of the 1950s and the trade liberalization of the following decade. The Industrial Development Authority was established by the first Inter-Party government in 1949, the nationwide industrial grants and export profits tax relief regime of the mid-1950s by the second. The Shannon Free Zone, in turn, which <i>was</i> Lemass-sponsored, differed in its aims and outcomes from the Inter-Party initiatives. While the latter achieved early success in attracting British and Continental European firms, Shannon was targeted particularly towards US companies and the North American market. That the new FDI strategy facilitated the trade liberalization of the Whitaker&#x2013;Lemass era&#x2014;by bolstering confidence that the economy could survive the eventual dismantling of protectionism&#x2014;identifies it as an early example of what has come to be known since the Chinese liberalization process of the late 1970s as &#x2018;dual-track reform&#x2019;.</p>
+<p id="C1P11">Existing writing on Irish economic and business history has been criticized as being overly focused on the role of the state. Many of the changes in industrial structure, particularly from 1948 when the new post-war world began to take shape, were not directly ascribable to changes in the trade regime. The first phase of rural electrification began in 1946: the increased demand for electrical equipment and the labour-saving household appliances that it facilitated (and that would transform the lives of Irish women in particular) was reflected in an expansion in the size of the firms that produced them. Growing purchasing power abroad led to the emergence of new export industries producing what would have been considered luxuries or quasi-luxuries at the time: carpets, crystal glass, processed beef, and whiskey liqueur. The rural economy benefited from the demand for raw materials by new foreign-owned operations engaged in the production of infant formula and chocolate confectionery. Youghal Carpets, the most successful Irish carpet producer, dated from 1954: by 1972, it employed 1,500 in Ireland and a further 1,000 overseas. Waterford Glass dated from 1947: on the eve of EEC accession, it employed 2,000 in its Irish manufacturing operations and a further 2,000 overseas and in the Dublin department store (Switzers) that it had acquired to facilitate its retail sales. Beef processing also emerged as a significant export industry only from the late 1940s.</p>
+<p id="C1P12"><page id="6" chapter=""/>Much of the literature on the subsequent transformation of the economy has focused on the contribution of the new foreign-owned export-oriented ventures of the period, of which Liebherr in Killarney and Standard Pressed Steel in Shannon were early examples. The new export-oriented FDI strategy helped to diversify the economy in ways that could not have been imagined in earlier decades. Political independence, as elsewhere, had been associated with a desire for reduced economic dependence on the former dominant power. Though early Fianna F&#x00E1;il had striven for increased self-sufficiency, the United Kingdom accounted for the same share of Irish exports in the mid-1950s as it had when Fianna F&#x00E1;il first came to power, while British multinationals accounted for a higher share of manufacturing jobs than at the foundation of the state. The new multinationals of the 1950s and beyond came from a much broader range of countries and exported to more diverse destinations.</p>
+<p id="C1P13">The &#x2018;brownfield&#x2019; FDI of the period, comprising the acquisition and restructuring of existing businesses, has attracted relatively little attention. US firm Grace &#x0026; Co. acquired the leading indigenous confectionery producers H. B. Ice Cream and Urney Chocolates in the 1960s before selling them on to Unilever in 1973. US firm St Joe Paper acquired two of the surviving Irish paper mills. Each of these firms employed more in early-1970s Ireland than pharmaceuticals giant Pfizer, one of the highest-profile greenfield foreign investors of the period. British firms such as Courtaulds, Lyons, and others also entered the ranks of large employers through their acquisitions of the 1960s and early 1970s.</p>
+<p id="C1P14">The share of foreign firms in Irish manufacturing was already high by European standards at the time of EEC accession, as shown in <xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-1-tableGroup-4">1.4</xref></xrefGrp>. This is sometimes interpreted as a reflection of the success of the new export-oriented FDI regime, which had also by this time attracted the likes of Krups, Ferenka, and Killarney Hosiery (&#x2018;Pretty Polly&#x2019;). While this would be true of later decades, the explanation is different for this earlier period. Foreign firms could avoid the tariff barriers of the protectionist era by establishing operations inside the protected market. Major employers among this class of &#x2018;tariff jumpers&#x2019; included Irish Dunlop, Rowntree&#x2013;Mackintosh, Fry&#x2013;Cadbury, Players&#x2013;Wills, and Clarks Shoes. A decision to close the Ford plant in Cork had been reversed when the new Fianna F&#x00E1;il government of the early 1930s prohibited the importation of fully built-up cars. The plant had, from that time, assembled cars and trucks primarily for the domestic market. Most of these firms would exit within ten to fifteen&#x00A0;years of EEC entry. The high share of foreign firms in Ireland seen in <xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-1-tableGroup-4">1.4</xref></xrefGrp> reflects an amalgam of FDI of different types. These include the &#x2018;tariff factories&#x2019; of the protectionist era, the <page id="7" chapter=""/>brownfield acquisitions of the 1950s and 1960s, and the new export-oriented greenfield projects on which most economic analyses of the period have focused.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-1-note-4"><sup>4</sup></xref></xrefGrp> Guinness, whose registered office had been in London since its incorporation, would also have been included within this group.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-1-note-5"><sup>5</sup></xref></xrefGrp></p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-1-tableGroup-4"?></p>
+<p id="C1P15">Mergers and acquisitions form an important part of the process by which economies adjust to the onset of freer trade. Increased scale, enhanced access to capital, and broader management skills are required if firms are to survive in the new more competitive trading environment that ensues. These and other developments associated with the economic liberalization of the era were significant drivers of change in the Irish industrial environment. Protectionism, paradoxically, by providing a safe haven for traditional family business practices, had facilitated the survival of significant elements of the pre-1922 southern business establishment. As will be seen in <xrefGrp>Chapter&#x00A0;<xref ref="oso-9780198878230-chapter-2">2</xref></xrefGrp>, the business elite inherited by the new state was predominantly Protestant in religion and unionist in political orientation. It is not coincidental that the <i>Irish Times</i> would note in 1965&#x2014;as protectionism was being dismantled&#x2014;that &#x2018;the day of the identifiably &#x201C;Protestant&#x201D; or &#x201C;Catholic&#x201D; firm is passing&#x2019;, <page id="8" chapter=""/>a view echoed in an Economic and Social Research Institute survey of the perspectives of contemporary business leaders published several&#x00A0;years later.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-1-note-6"><sup>6</sup></xref></xrefGrp></p>
+<p id="C1P16">Among the other effects of the wave of mergers and acquisitions was an increase in concentration levels, as measured by the share of output accounted for by the largest firms. In the creamery sector, the more innovative cooperatives that had diversified early out of butter expanded both organically and by acquisition. The workforce at Mitchelstown, the largest cooperative of the era, more than trebled to 1,600 in the twenty&#x00A0;years to 1973. By the 1960s, its <i>Galtee</i> brand had become the most popular bacon on the Irish market, outstripping Henry Denny &#x0026; Sons and the other long-established private producers. Ballyclough, with which Mitchelstown would merge to form Dairygold in the 1990s, expanded through contracts to supply UK firms Rowntree and Cow &#x0026; Gate with the raw materials for their export-oriented operations. The second great wave of creamery-sector concentration would occur in the decades following EEC accession; the first occurred in the decades that preceded it.</p>
+<noteGroup>
+<note id="oso-9780198878230-chapter-1-note-1" type="footnote"><p><enumerator><sup>1</sup></enumerator> <bibItem id="oso-9780198878230-chapter-1-bibItem-1" class="book" author="Whitaker, T. K." date="2006" title="Protection or Free Trade: The Final Battle" page="8" place="Dublin" publisher="Institute of Public Administration" purpose="display"><nameGrp foreNames="T. K." mainName="Whitaker" role="author">T. K. Whitaker</nameGrp>, <i>Protection or Free Trade: The Final Battle</i> (Dublin: Institute of Public Administration, 2006), 8.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-1-note-2" type="footnote"><p><enumerator><sup>2</sup></enumerator> <bibItem id="oso-9780198878230-chapter-1-bibItem-2" class="book" author="Plunkett, Horace" date="1918" title="Report of the Proceedings of the Irish Convention" page="39" place="Dublin" publisher="HM Stationery Office" purpose="display"><nameGrp foreNames="Horace" mainName="Plunkett" role="author">Horace Plunkett</nameGrp>, <i>Report of the Proceedings of the Irish Convention</i> (Dublin: HM Stationery Office, 1918), 39</bibItem>, para. 21.</p></note>
+<note id="oso-9780198878230-chapter-1-note-3" type="footnote"><p><enumerator><sup>3</sup></enumerator> <bibItem id="oso-9780198878230-chapter-1-bibItem-3" class="journalArticle" author="Keynes, John Maynard" date="1933" journalIssue="86" title="National Self-Sufficiency" journalName="Studies: An Irish Quarterly Review" vol="22" page="181" purpose="display"><nameGrp foreNames="John Maynard" mainName="Keynes" role="author">John Maynard Keynes</nameGrp>, &#x2018;National Self-Sufficiency&#x2019;. <i>Studies: An Irish Quarterly Review</i> 22, 86 (1933): 181.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-1-note-4" type="footnote"><p><enumerator><sup>4</sup></enumerator> Sweeney was one of the few to draw attention to this point at the time: <bibItem id="oso-9780198878230-chapter-1-bibItem-4" class="journalArticle" author="Sweeney, John" date="1973" title="Foreign Companies in Ireland" journalName="Studies: An Irish Quarterly Review" vol="62" purpose="display"><nameGrp foreNames="John" mainName="Sweeney" role="author">John Sweeney</nameGrp>, &#x2018;Foreign Companies in Ireland&#x2019;. <i>Studies: An Irish Quarterly Review</i> 62, (1973): 273&#x2013;286.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-1-note-5" type="footnote"><p><enumerator><sup>5</sup></enumerator> Its registered office, initially at Birchin Lane and later at Salisbury House, would transfer to the Park Royal brewery after the Second World War.</p></note>
+<note id="oso-9780198878230-chapter-1-note-6" type="footnote"><p><enumerator><sup>6</sup></enumerator> <i>Irish Times</i>, 23 March 1965; <bibItem id="oso-9780198878230-chapter-1-bibItem-5" class="unclassified" author="Fogarty, Michael P." date="1973" purpose="display"><nameGrp foreNames="Michael P." mainName="Fogarty" role="author">Michael P. Fogarty</nameGrp>, &#x2018;Irish Entrepreneurs Speak for Themselves&#x2019;. Economic and Social Research Institute Research Series, ESRI Broadsheet No. 8 (1973)</bibItem>.</p></note>
+</noteGroup>
+<floatGroup id="oso-9780198878230-chapter-1-floatGroup-1">
+<tableGroup id="oso-9780198878230-chapter-1-tableGroup-1" doi="10.1093/oso/9780198878230.003.0001.007.0001" placement="float">
+<table id="oso-9780198878230-chapter-1-table-1" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-1-titleGroup-3"><title id="C1T1"><p><enumerator>Table 1.1</enumerator> Numbers employed in agriculture, industry, and services (thousands), 1926&#x2013;1971</p></title></titleGroup>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<thead>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Agriculture</p></entry>
+<entry colname="col3" align="left"><p>Industry</p></entry>
+<entry colname="col4" align="left"><p>Services</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>1926</p></entry>
+<entry colname="col2" align="left"><p>653</p></entry>
+<entry colname="col3" align="left"><p>162</p></entry>
+<entry colname="col4" align="left"><p>406</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1936</p></entry>
+<entry colname="col2" align="left"><p>614</p></entry>
+<entry colname="col3" align="left"><p>206</p></entry>
+<entry colname="col4" align="left"><p>415</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1946</p></entry>
+<entry colname="col2" align="left"><p>568</p></entry>
+<entry colname="col3" align="left"><p>225</p></entry>
+<entry colname="col4" align="left"><p>432</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1951</p></entry>
+<entry colname="col2" align="left"><p>496</p></entry>
+<entry colname="col3" align="left"><p>282</p></entry>
+<entry colname="col4" align="left"><p>438</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1961</p></entry>
+<entry colname="col2" align="left"><p>370</p></entry>
+<entry colname="col3" align="left"><p>255</p></entry>
+<entry colname="col4" align="left"><p>410</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1971</p></entry>
+<entry colname="col2" align="left"><p>272</p></entry>
+<entry colname="col3" align="left"><p>320</p></entry>
+<entry colname="col4" align="left"><p>457</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Note</i>: Agriculture includes forestry and fishing. Industry comprises mining, manufacturing, construction, and utilities.</p>
+<p><i>Source</i>: Kieran Kennedy, Thomas Giblin, and Deirdre McHugh. <i>The Economic Development of Ireland in the Twentieth Century</i> (London: Routledge, 1988), 143, based on adjusted population census data.</p></source>
+</table>
+</tableGroup>
+<tableGroup id="oso-9780198878230-chapter-1-tableGroup-2" doi="10.1093/oso/9780198878230.003.0001.007.0002" placement="float">
+<table id="oso-9780198878230-chapter-1-table-2" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-1-titleGroup-4"><title id="C1T2"><p><enumerator>Table 1.2</enumerator> Growth rates of manufacturing employment and labour productivity, 1926&#x2013;1973</p></title></titleGroup>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<thead>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Employment</p></entry>
+<entry colname="col3" align="left"><p>Productivity</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>1926&#x2013;1931</p></entry>
+<entry colname="col2" align="left"><p>1.6</p></entry>
+<entry colname="col3" align="left"><p>0.0</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1931&#x2013;1936</p></entry>
+<entry colname="col2" align="left"><p>8.6</p></entry>
+<entry colname="col3" align="left"><p>&#x2212;1.3</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1936&#x2013;1946</p></entry>
+<entry colname="col2" align="left"><p>1.5</p></entry>
+<entry colname="col3" align="left"><p>&#x2212;0.3</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1946&#x2013;1950</p></entry>
+<entry colname="col2" align="left"><p>5.9</p></entry>
+<entry colname="col3" align="left"><p>4.6</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1950&#x2013;1960</p></entry>
+<entry colname="col2" align="left"><p>0.8</p></entry>
+<entry colname="col3" align="left"><p>2.3</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1960&#x2013;1973</p></entry>
+<entry colname="col2" align="left"><p>2.3</p></entry>
+<entry colname="col3" align="left"><p>4.0</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Source</i>: Kennedy et al., <i>Economic Development</i>, 228; data drawn primarily from Census of Industrial Production (CIP).</p></source>
+</table>
+</tableGroup>
+<tableGroup id="oso-9780198878230-chapter-1-tableGroup-3" doi="10.1093/oso/9780198878230.003.0001.007.0003" placement="float">
+<table id="oso-9780198878230-chapter-1-table-3" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-1-titleGroup-5"><title id="C1T3"><p><enumerator>Table 1.3</enumerator> Industrial and manufacturing employment as a share of the labour force, Western Europe and Ireland, 1920s and 1970s</p></title></titleGroup>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<thead>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>Early-to-mid-1920s</p></entry>
+<entry colname="col4" align="left"><p>Early-to-mid-1970s</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>Industry as share of labour force</p></entry>
+<entry colname="col2" align="left"><p>Ireland</p></entry>
+<entry colname="col3" align="left"><p>15</p></entry>
+<entry colname="col4" align="left"><p>32</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Western Europe</p></entry>
+<entry colname="col3" align="left"><p>31</p></entry>
+<entry colname="col4" align="left"><p>41</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Manufacturing as share of labour force</p></entry>
+<entry colname="col2" align="left"><p>Ireland</p></entry>
+<entry colname="col3" align="left"><p>10</p></entry>
+<entry colname="col4" align="left"><p>20</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Western Europe</p></entry>
+<entry colname="col3" align="left"><p>26</p></entry>
+<entry colname="col4" align="left"><p>30</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Note</i>: Western Europe refers to country average for twelve states other than Ireland. Industry is as defined in <xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-1-tableGroup-1">1.1</xref></xrefGrp>.</p>
+<p><i>Source</i>: Peter Flora, Franz Kraus, and Winifried Pfenning. <i>State, Economy and Society in Western Europe, 1815&#x2013;197</i>5: The Growth of Industrial Societies and Capitalist Economies, Vol. 2 (Chicago, IL: St James Press, 1987).</p></source>
+</table>
+</tableGroup>
+<tableGroup id="oso-9780198878230-chapter-1-tableGroup-4" doi="10.1093/oso/9780198878230.003.0001.007.0004" placement="float">
+<table id="oso-9780198878230-chapter-1-table-4" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-1-titleGroup-6"><title id="C1T4"><p><enumerator>Table 1.4</enumerator> Share of foreign firms in manufacturing employment, selected European countries, early-to-mid 1970s</p></title></titleGroup>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<thead>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Early to mid-1970s</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>Austria</p></entry>
+<entry colname="col2" align="left"><p>20 (1973)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Finland</p></entry>
+<entry colname="col2" align="left"><p>3 (1976)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>France</p></entry>
+<entry colname="col2" align="left"><p>15 (1973)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Ireland</p></entry>
+<entry colname="col2" align="left"><p>34 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Norway</p></entry>
+<entry colname="col2" align="left"><p>7 (1975)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Portugal</p></entry>
+<entry colname="col2" align="left"><p>7 (1975)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Sweden</p></entry>
+<entry colname="col2" align="left"><p>6 (1975)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>United Kingdom</p></entry>
+<entry colname="col2" align="left"><p>11 (1973)</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Note</i>: Data pertain to firms with minimum 50&#x2009;per cent foreign ownership.</p>
+<p><i>Sources</i>: OECD (Organisation for Economic Co-operation and Development) Penetration of multinational enterprises in manufacturing industry in member countries. (Paris: OECD, 1977, 1978 update); Irish data from Department of Enterprise, Trade and Employment.</p></source>
+</table>
+</tableGroup>
+</floatGroup>
+</div1>
+<div1 id="oso-9780198878230-chapter-1-div1-3" doi="10.1093/oso/9780198878230.003.0001.021.0003">
+<titleGroup id="oso-9780198878230-chapter-1-titleGroup-7"><title id="C1S2"><p><enumerator>1.2</enumerator> Census of Industrial Production</p></title></titleGroup>
+<p id="C1P17">The data employed in <xrefGrp>Tables&#x00A0;<xref ref="oso-9780198878230-chapter-1-tableGroup-1">1.1</xref></xrefGrp> and <xrefGrp><xref ref="oso-9780198878230-chapter-1-tableGroup-3">1.3</xref></xrefGrp> are derived from the census of population. Population-census data are relatively standardized and widely used in cross-country comparisons. Data from the Census of Industrial Production (CIP) are more useful for the purposes of the present book. The CIP is based on questionnaires relating to enterprises rather than to individuals and provides greater insight into the evolution of industrial structure.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-1-note-7"><sup>7</sup></xref></xrefGrp> The first Free State Census of Industrial Production was conducted for 1926. <xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-1-tableGroup-5">1.5</xref></xrefGrp>, which provides details for 1926 and other selected years, shows a three-to-fourfold increase in manufacturing employment between 1926 and 1972.</p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-1-tableGroup-5"?></p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-1-tableGroup-6"?></p>
+<p id="C1P18"><xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-1-tableGroup-6">1.6</xref></xrefGrp> depicts the change in industrial structure over this period. Food, drink, and tobacco accounted for almost half of manufacturing employment in 1926; by 1972 its share had declined to a little over one-quarter, though the extensive backward linkages of agri-food industries substantially increase their overall significance to the economy. Textiles, clothing, footwear, and <page id="9" chapter=""/>leather expanded to a little under one-quarter, while the share accounted for by the metals and engineering sector&#x2014;which, along with chemicals, includes most of what might be considered &#x2018;modern&#x2019; industry&#x2014;trebled.</p>
+<p id="C1P19">Data on establishment size are reported in the census only intermittently. Establishments&#x2014;though sometimes confusingly referred to as firms&#x2014;are more akin to individual factories, plants, creameries, bakeries, etc. There is no necessary relationship between the number of large establishments and the number of large firms.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-1-note-8"><sup>8</sup></xref></xrefGrp> There were nine establishments with workforces of 500 or more in 1929; by the late 1960s, the number had risen to more than fifty (<xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-1-tableGroup-7">1.7</xref></xrefGrp>).</p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-1-tableGroup-7"?></p>
+<p id="C1P20">The CIP also provides information on the female share of the workforce. Across all of manufacturing, 32 per cent of wage earners in 1926 were female, ranging from a high of 87 per cent in clothing to a low of 2 per cent in clay, glass, and cement. The overall proportion remained unchanged in 1972, as seen in <xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-1-tableGroup-8">1.8</xref></xrefGrp>.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-1-note-9"><sup>9</sup></xref></xrefGrp> The decline in the female share in some sectors was counterbalanced by a strong increase in metals and engineering, within which there was a substantial change in sectoral structure. The electrical machinery <page id="10" chapter=""/>and appliances segment had scarcely existed in 1926: females made up 55 per cent of the workforce in this segment in 1972. The absence of male-dominated heavy engineering in Ireland, and the consequent prominence of food, textiles, and clothing, resulted in the female share across all of manufacturing exceeding that in Britain.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-1-note-10"><sup>10</sup></xref></xrefGrp></p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-1-tableGroup-8"?></p>
+<noteGroup>
+<note id="oso-9780198878230-chapter-1-note-7" type="footnote"><p><enumerator><sup>7</sup></enumerator> The first CIP for 1926 provides a sector-by-sector comparison of the number of industrial workers recorded in the CIP and the population census for that year. As micro businesses and the self-employed are not included in the CIP, the number of industrial workers recorded is substantially lower than that reported in the population census.</p></note>
+<note id="oso-9780198878230-chapter-1-note-8" type="footnote"><p><enumerator><sup>8</sup></enumerator> The term &#x2018;firm&#x2019; is sometimes used here to refer to an enterprise (the smallest separate autonomous legal unit) and sometimes, more broadly, to the totality of activities in common ownership or control. The Irish operations of US firm General Electric referred to earlier for example consisted of two separate enterprises&#x2014;EI at Shannon and Ecco in Dundalk. (Horgan reports that &#x2018;Lemass was so unhappy about the shamrockery&#x2019; implicit in the name Emerald Isle that he succeeded in having it referred to only as EI: John Horgan, <i>Se&#x00E1;n Lemass, the Enigmatic Patriot</i> (Dublin: Gill and Macmillan 1999), 249.)</p></note>
+<note id="oso-9780198878230-chapter-1-note-9" type="footnote"><p><enumerator><sup>9</sup></enumerator> The female share differs between the CIP and the population census. It also depends on the categories of workers focussed upon (e.g. whether administrative and clerical staff are included alongside wage earners).</p></note>
+<note id="oso-9780198878230-chapter-1-note-10" type="footnote"><p><enumerator><sup>10</sup></enumerator> The comparison, which is not completely straightforward because different sectoral categories were employed in the two jurisdictions, was conducted for 1966: <bibItem id="oso-9780198878230-chapter-1-bibItem-6" class="journalArticle" author="Walsh, Brendan M." date="1971" journalIssue="3" title="Aspects of Labour Supply and Demand, with Special Reference to the Employment of Women in Ireland" journalName="Journal of the Statistical and Social Inquiry Society of Ireland" vol="22" purpose="display"><nameGrp foreNames="Brendan M." mainName="Walsh" role="author">Brendan M. Walsh</nameGrp>, &#x2018;Aspects of Labour Supply and Demand, with Special Reference to the Employment of Women in Ireland&#x2019;. <i>Journal of the Statistical and Social Inquiry Society of Ireland</i> 22, 3 (1971): 88&#x2013;123.</bibItem></p></note>
+</noteGroup>
+<floatGroup id="oso-9780198878230-chapter-1-floatGroup-2">
+<tableGroup id="oso-9780198878230-chapter-1-tableGroup-5" doi="10.1093/oso/9780198878230.003.0001.007.0005" placement="float">
+<table id="oso-9780198878230-chapter-1-table-5" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-1-titleGroup-8"><title id="C1T5"><p><enumerator>Table 1.5</enumerator> Manufacturing employment as recorded in CIP, 1926&#x2013;1972</p></title></titleGroup>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<thead>
+<row>
+<entry colname="col1" align="left"><p>Year</p></entry>
+<entry colname="col2" align="left"><p>Manufacturing employment</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>1926</p></entry>
+<entry colname="col2" align="left"><p>56,535</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1929</p></entry>
+<entry colname="col2" align="left"><p>62,439</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1931</p></entry>
+<entry colname="col2" align="left"><p>60,943</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1938</p></entry>
+<entry colname="col2" align="left"><p>97,285</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1939</p></entry>
+<entry colname="col2" align="left"><p>98,822</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1942</p></entry>
+<entry colname="col2" align="left"><p>89,762</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1945</p></entry>
+<entry colname="col2" align="left"><p>97,433</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1948</p></entry>
+<entry colname="col2" align="left"><p>119,662</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1960</p></entry>
+<entry colname="col2" align="left"><p>156,588</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1972</p></entry>
+<entry colname="col2" align="left"><p>197,315</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Note</i>: Includes &#x2018;all other industries&#x2019; (e.g. sector 35 in the 1926 CIP).</p>
+<p><i>Source</i>: CIP.</p></source>
+</table>
+</tableGroup>
+<tableGroup id="oso-9780198878230-chapter-1-tableGroup-6" doi="10.1093/oso/9780198878230.003.0001.007.0006" placement="float">
+<table id="oso-9780198878230-chapter-1-table-6" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-1-titleGroup-9"><title id="C1T6"><p><enumerator>Table 1.6</enumerator> Sectoral breakdown of manufacturing employment, 1926 and 1972</p></title></titleGroup>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2" align="center"/>
+<colspec colnum="3" colname="col3" align="center"/>
+<colspec colnum="4" colname="col4" align="center"/>
+<colspec colnum="5" colname="col5" align="center"/>
+<thead>
+<row>
+<entry colname="col1" align="left"/>
+<entry namest="col2" nameend="col3" rowsep="1" align="center"><p>Numbers employed</p></entry>
+<entry namest="col4" nameend="col5" rowsep="1" align="center"><p>Shares (%)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>1926</p></entry>
+<entry colname="col3" align="left"><p>1972</p></entry>
+<entry colname="col4" align="left"><p>1926</p></entry>
+<entry colname="col5" align="left"><p>1972</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>Food</p></entry>
+<entry colname="col2" align="left"><p>18,399</p></entry>
+<entry colname="col3" align="left"><p>42,760</p></entry>
+<entry colname="col4" align="left"><p>33</p></entry>
+<entry colname="col5" align="left"><p>22</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Drink</p></entry>
+<entry colname="col2" align="left"><p>7,000</p></entry>
+<entry colname="col3" align="left"><p>7,450</p></entry>
+<entry colname="col4" align="left"><p>12</p></entry>
+<entry colname="col5" align="left"><p>4</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Tobacco</p></entry>
+<entry colname="col2" align="left"><p>2,096</p></entry>
+<entry colname="col3" align="left"><p>2,230</p></entry>
+<entry colname="col4" align="left"><p>4</p></entry>
+<entry colname="col5" align="left"><p>1</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Building materials (clay, glass, and cement; wood and furniture)</p></entry>
+<entry colname="col2" align="left"><p>5,113</p></entry>
+<entry colname="col3" align="left"><p>19,090</p></entry>
+<entry colname="col4" align="left"><p>9</p></entry>
+<entry colname="col5" align="left"><p>10</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Metals and engineering</p></entry>
+<entry colname="col2" align="left"><p>3,804</p></entry>
+<entry colname="col3" align="left"><p>41,390</p></entry>
+<entry colname="col4" align="left"><p>7</p></entry>
+<entry colname="col5" align="left"><p>21</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p><i>Of which: motor vehicles</i></p></entry>
+<entry colname="col2" align="left"><p><i>1,447</i></p></entry>
+<entry colname="col3" align="left"><p><i>7,770</i></p></entry>
+<entry colname="col4" align="left"><p>&#x2013;</p></entry>
+<entry colname="col5" align="left"><p>&#x2013;</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p><i>Basic metals</i></p></entry>
+<entry colname="col2" align="left"><p><i>1,276</i></p></entry>
+<entry colname="col3" align="left"><p><i>13,890</i></p></entry>
+<entry colname="col4" align="left"><p>&#x2013;</p></entry>
+<entry colname="col5" align="left"><p>&#x2013;</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p><i>Engineering and implements</i></p></entry>
+<entry colname="col2" align="left"><p><i>1,081</i></p></entry>
+<entry colname="col3" align="left"><p><i>15,700</i></p></entry>
+<entry colname="col4" align="left"><p>&#x2013;</p></entry>
+<entry colname="col5" align="left"><p>&#x2013;</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p><i>Ship and boat building and repairing and railroad equipment</i></p></entry>
+<entry colname="col2" align="left"><p>*</p></entry>
+<entry colname="col3" align="left"><p><i>4,030</i></p></entry>
+<entry colname="col4" align="left"><p>&#x2013;</p></entry>
+<entry colname="col5" align="left"><p>&#x2013;</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Textiles and clothing</p></entry>
+<entry colname="col2" align="left"><p>8,840</p></entry>
+<entry colname="col3" align="left"><p>39,605</p></entry>
+<entry colname="col4" align="left"><p>16</p></entry>
+<entry colname="col5" align="left"><p>20</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p><i>Of which: textiles other than hosiery</i></p></entry>
+<entry colname="col2" align="left"><p><i>3,990</i></p></entry>
+<entry colname="col3" align="left"><p><i>14,415</i></p></entry>
+<entry colname="col4" align="left"><p>&#x2013;</p></entry>
+<entry colname="col5" align="left"><p>&#x2013;</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p><i>Hosiery</i></p></entry>
+<entry colname="col2" align="left"><p><i>849</i></p></entry>
+<entry colname="col3" align="left"><p><i>8,170</i></p></entry>
+<entry colname="col4" align="left"><p>&#x2013;</p></entry>
+<entry colname="col5" align="left"><p>&#x2013;</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p><i>Clothing</i></p></entry>
+<entry colname="col2" align="left"><p><i>4,001</i></p></entry>
+<entry colname="col3" align="left"><p><i>17,020</i></p></entry>
+<entry colname="col4" align="left"><p>&#x2013;</p></entry>
+<entry colname="col5" align="left"><p>&#x2013;</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Footwear and leather</p></entry>
+<entry colname="col2" align="left"><p>967</p></entry>
+<entry colname="col3" align="left"><p>7,370</p></entry>
+<entry colname="col4" align="left"><p>2</p></entry>
+<entry colname="col5" align="left"><p>4</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Paper and printing</p></entry>
+<entry colname="col2" align="left"><p>5,739</p></entry>
+<entry colname="col3" align="left"><p>16,690</p></entry>
+<entry colname="col4" align="left"><p>10</p></entry>
+<entry colname="col5" align="left"><p>8</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Chemicals and miscellaneous</p></entry>
+<entry colname="col2" align="left"><p>4,577</p></entry>
+<entry colname="col3" align="left"><p>20,730</p></entry>
+<entry colname="col4" align="left"><p>8</p></entry>
+<entry colname="col5" align="left"><p>11</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Totals</p></entry>
+<entry colname="col2" align="left"><p>56,535</p></entry>
+<entry colname="col3" align="left"><p>197,315</p></entry>
+<entry colname="col4" align="left"><p>100</p></entry>
+<entry colname="col5" align="left"><p>100</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Note:</i> <sup>*</sup>Separate details not provided for 1926 and not included under &#x2018;Metals and engineering&#x2019;.</p>
+<p><i>Sources</i>: CIP (1926, 1972).</p></source>
+</table>
+</tableGroup>
+<tableGroup id="oso-9780198878230-chapter-1-tableGroup-7" doi="10.1093/oso/9780198878230.003.0001.007.0007" placement="float">
+<table id="oso-9780198878230-chapter-1-table-7" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-1-titleGroup-10"><title id="C1T7"><p><enumerator>Table 1.7</enumerator> Number of establishments employing 500 or more, 1929&#x2013;1975</p></title></titleGroup>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<thead>
+<row>
+<entry colname="col1" align="left"><p>Year</p></entry>
+<entry colname="col2" align="left"><p>No. of establishments</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>1929</p></entry>
+<entry colname="col2" align="left"><p>9</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1931</p></entry>
+<entry colname="col2" align="left"><p>7</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1938</p></entry>
+<entry colname="col2" align="left"><p>13</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1944</p></entry>
+<entry colname="col2" align="left"><p>13</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1947</p></entry>
+<entry colname="col2" align="left"><p>21</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1958</p></entry>
+<entry colname="col2" align="left"><p>31</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1963</p></entry>
+<entry colname="col2" align="left"><p>45</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1968</p></entry>
+<entry colname="col2" align="left"><p>51</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1975</p></entry>
+<entry colname="col2" align="left"><p>52</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Source</i>: CIP.</p></source>
+</table>
+</tableGroup>
+<tableGroup id="oso-9780198878230-chapter-1-tableGroup-8" doi="10.1093/oso/9780198878230.003.0001.007.0008" placement="float">
+<table id="oso-9780198878230-chapter-1-table-8" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-1-titleGroup-11"><title id="C1T8"><p><enumerator>Table 1.8</enumerator> Female share of wage earners in manufacturing industries, 1926 and 1972</p></title></titleGroup>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2" align="center"/>
+<colspec colnum="3" colname="col3"/>
+<thead>
+<row>
+<entry colname="col1" align="left"><p>Industry</p></entry>
+<entry colname="col2" align="left"><p>Irish Free State, 1926</p></entry>
+<entry colname="col3" align="left"><p>Ireland, 1972</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>Food</p></entry>
+<entry colname="col2" align="left"><p>29</p></entry>
+<entry colname="col3" align="left"><p>29</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p><i>Of which: chocolate and sugar confectionery and jams</i></p></entry>
+<entry colname="col2" align="left"><p><i>78</i></p></entry>
+<entry colname="col3" align="left"><p><i>64</i></p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Drinks</p></entry>
+<entry colname="col2" align="left"><p>3</p></entry>
+<entry colname="col3" align="left"><p>8</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Tobacco</p></entry>
+<entry colname="col2" align="left"><p>67</p></entry>
+<entry colname="col3" align="left"><p>55</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Textiles</p></entry>
+<entry colname="col2" align="left"><p>61</p></entry>
+<entry colname="col3" align="left"><p>49</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p><i>Of which: hosiery</i></p></entry>
+<entry colname="col2" align="left"><p><i>85</i></p></entry>
+<entry colname="col3" align="left"><p><i>69</i></p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Clothing</p></entry>
+<entry colname="col2" align="left"><p>87</p></entry>
+<entry colname="col3" align="left"><p>83</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Footwear and leather</p></entry>
+<entry colname="col2" align="left"><p>37</p></entry>
+<entry colname="col3" align="left"><p>46</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Wood and furniture</p></entry>
+<entry colname="col2" align="left"><p>9</p></entry>
+<entry colname="col3" align="left"><p>9</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Paper and printing</p></entry>
+<entry colname="col2" align="left"><p>37</p></entry>
+<entry colname="col3" align="left"><p>27</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Chemicals and miscellaneous</p></entry>
+<entry colname="col2" align="left"><p>27</p></entry>
+<entry colname="col3" align="left"><p>26</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Clay, glass, and cement</p></entry>
+<entry colname="col2" align="left"><p>2</p></entry>
+<entry colname="col3" align="left"><p>12</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Metals and engineering</p></entry>
+<entry colname="col2" align="left"><p>8</p></entry>
+<entry colname="col3" align="left"><p>18</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p><i>Of which: electrical machinery and appliances</i></p></entry>
+<entry colname="col2" align="left"><p>&#x2013;</p></entry>
+<entry colname="col3" align="left"><p><i>55</i></p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Total</p></entry>
+<entry colname="col2" align="left"><p>32</p></entry>
+<entry colname="col3" align="left"><p>32</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Source</i>: CIP.</p></source>
+</table>
+</tableGroup>
+</floatGroup>
+</div1>
+<div1 id="oso-9780198878230-chapter-1-div1-4" doi="10.1093/oso/9780198878230.003.0001.021.0004">
+<titleGroup id="oso-9780198878230-chapter-1-titleGroup-12"><title id="C1S3"><p><page id="11" chapter=""/><enumerator>1.3</enumerator> Firms and Establishments</p></title></titleGroup>
+<p id="C1P21">While there were only nine manufacturing establishments employing 500 or more in 1929, there were almost twice as many manufacturing firms of this size (as many large firms operated more than just one plant or factory). <page id="12" chapter=""/>The number of firms in this size category had risen to seventy or so by the time of EEC accession.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-1-note-11"><sup>11</sup></xref></xrefGrp> These firms are listed in <xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-1-tableGroup-9">1.9</xref></xrefGrp>. In dealing with the early history of the state some attention is paid to department stores, builders&#x2019; providers, and milk distributors as some of their activities were industrial in nature. Many department stores produced clothing, furniture, and furnishings; builders&#x2019; suppliers were major producers of timber; and the Dublin milk distributors began to pasteurize and bottle their milk supplies and produce their own brands of ice cream in the early 1920s. Developments in these sectors are not tracked comprehensively over later decades as the relative significance of their manufacturing activities declined as the economy industrialized. Five of the substantial employers in <xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-1-tableGroup-9">1.9</xref></xrefGrp> were state or largely state-owned enterprises: the Dairy Disposal Company dated from the 1920s, Irish Sugar from the early 1930s, and Irish Steel, Verolme Dockyard, and N&#x00ED;trigin &#x00C9;ireann from later periods.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-1-note-12"><sup>12</sup></xref></xrefGrp> Around half of the remainder of the firms in <xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-1-tableGroup-9">1.9</xref></xrefGrp> were foreign-owned.</p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-1-tableGroup-9"?></p>
+<p id="C1P22">There is an ambiguity, it should be noted, to the dates of establishment appended to many of the firms on the list in <xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-1-tableGroup-9">1.9</xref></xrefGrp> and throughout the book. The Ford plant in Cork is variously dated to 1917, when work on the factory commenced, and 1919, when it came into regular production. Even for Guinness, 1759 may not necessarily be exact: an early official guidebook states that the brewery &#x2018;was founded about the&#x00A0;year 1759 by ancestors of the Guinness family buying the brewing plant of a Mr. Rainsford&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-1-note-13"><sup>13</sup></xref></xrefGrp> Similarly, though Jameson whiskey is conventionally dated to 1780, the distillery came into John Jameson&#x2019;s ownership only in 1810 when he acquired it from his wife&#x2019;s family. Accuracy as to when businesses ceased operating is even more difficult. Many of the smaller local breweries transitioned into bottling or soft drinks production over a period of years, while whiskey might be released from bond long after a distillery had closed. The significance of many of the other dates will become clearer later.</p>
+<p id="C1P23">A substantial number of the largest manufacturing employers of 1972 pre-date the establishment of the state. Guinness, Jacobs, Gouldings, and Ford were already significant employers by 1922. The workforce at metals and engineering company Hammond Lane, cigarette and pipe tobacco manufacturer <page id="13" chapter=""/><page id="14" chapter=""/>Carrolls, grain miller Odlums, and the <i>Irish Independent</i> newspaper group would expand to 500 or more only at a later date. With the demise of the rival <i>Freeman&#x2019;s Journal</i>, the latter would employ 500 by the late 1920s.</p>
+<p id="C1P24">Firms dating from the Cumann na nGaedheal era include the Dairy Disposal Company and the massive indigenous textiles firm Sunbeam. Several British firms avoided the tariffs of the era by establishing operations in the Free State. The constituent firms of Players&#x2013;Wills and Rowntree&#x2013;Mackintosh entered the Irish market separately in the mid-1920s and later amalgamated their local operations. UK firm Crosse &#x0026; Blackwell acquired the major Dublin confectionary and jam producer Williams &#x0026; Woods in 1928 and was itself acquired by the Swiss firm Nestl&#x00E9; in 1960. Ranks took over the large Limerick flour milling operation Bannatyne in 1930, though an Irish subsidiary was formed only several&#x00A0;years later to conform with legislation introduced by the new Fianna F&#x00E1;il government.</p>
+<p id="C1P25">Firms dating from Fianna F&#x00E1;il&#x2019;s first unbroken period in office from 1932 to 1948 include, among many others, the state company Irish Sugar, British tariff jumpers Fry&#x2013;Cadbury and Irish Dunlop, and indigenous firms Smurfit and Clondalkin Paper Mills. Firms dating from the post-war era include the Cork Marts Group, the largest beef processor at the time of EEC accession. Among the largest of the new export-oriented foreign firms was the Dutch company Ferenka, which opened in Limerick in 1972.</p>
+<p id="C1P26">Unsurprisingly, many of the firms diversified their Irish operations over time. Even prior to the establishment of the state, the Dutch and British companies that would later merge to form Unilever had acquired the largest Irish soap, margarine, and candle-making firms. Lever Brothers opened a major <page id="15" chapter=""/>soap factory on Sheriff Street in Dublin in the 1920s, and Unilever&#x2019;s Irish operations were already of substantial size before it acquired much of the formerly indigenous confectionery and ice cream sector from US company W. R. Grace in 1973. The industrial foundations of the expansion of the post-EEC accession era are also to be glimpsed within the list of firms in <xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-1-tableGroup-9">1.9</xref></xrefGrp>. This theme is taken up in the closing chapters of the book.</p>
+<noteGroup>
+<note id="oso-9780198878230-chapter-1-note-11" type="footnote"><p><enumerator><sup>11</sup></enumerator> The industrial holding companies of the era (Braids, Fitzwilliam, Joshua Watson, and the like) are not included unless one or more of the individual manufacturing firms within the group were significant employers.</p></note>
+<note id="oso-9780198878230-chapter-1-note-12" type="footnote"><p><enumerator><sup>12</sup></enumerator> The focus here is on large <i>manufacturing</i> firms. Though Bord na M&#x00F3;na and Gaeltarra &#x00C9;ireann also employed large workforces, Bord na M&#x00F3;na was primarily a resource extraction company, while the industrial developments sponsored by Gaeltarra &#x00C9;ireann were individually all relatively small in scale.</p></note>
+<note id="oso-9780198878230-chapter-1-note-13" type="footnote"><p><enumerator><sup>13</sup></enumerator> <i>Guidebook to Guinness&#x2019;s Brewery</i> (Visit of members of the Irish Convention, 20 September 1917), mss 7357, fols 232&#x2013;99: Hopwood Papers, Bodleian Library, Oxford. I am grateful to Anne Dolan for alerting me to this source.</p></note>
+</noteGroup>
+<floatGroup id="oso-9780198878230-chapter-1-floatGroup-3">
+<tableGroup id="oso-9780198878230-chapter-1-tableGroup-9" doi="10.1093/oso/9780198878230.003.0001.007.0009" placement="float">
+<table id="oso-9780198878230-chapter-1-table-9" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-1-titleGroup-13"><title id="C1T9"><p><enumerator>Table 1.9</enumerator> Manufacturing firms employing 500 or more in Ireland in 1972</p></title></titleGroup>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<thead>
+<row>
+<entry colname="col1" align="left"><p>Sector</p></entry>
+<entry colname="col2" align="left"><p>Workforce</p></entry>
+<entry colname="col3" align="left"><p>Sector</p></entry>
+<entry colname="col4" align="left"><p>Workforce</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>Food, drink, and tobacco</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>Metals and engineering</p></entry>
+<entry colname="col4" align="left"/>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Guinness (1759)</p></entry>
+<entry colname="col2" align="left"><p>2,000+</p></entry>
+<entry colname="col3" align="left"><p>General Electric (1960, 1966)</p></entry>
+<entry colname="col4" align="left"><p>1,000+</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Irish Sugar (1933)</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>Brittain Group (1913, 1932)</p></entry>
+<entry colname="col4" align="left"/>
+</row>
+<row>
+<entry colname="col1" align="left"><p>W. &#x0026; R. Jacob (1851)</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>Ford Motor Company (1919)</p></entry>
+<entry colname="col4" align="left"/>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Fry&#x2013;Cadbury (1932)</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>Hammond Holdings (1902)</p></entry>
+<entry colname="col4" align="left"/>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Cork Marts Group (1967)</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>Unidare (1949, 1957)</p></entry>
+<entry colname="col4" align="left"/>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Clover Meats Group (1936)</p></entry>
+<entry colname="col2" align="left"><p>1,000+</p></entry>
+<entry colname="col3" align="left"><p>Verolme/Cork Dockyard (1959)</p></entry>
+<entry colname="col4" align="left"/>
+</row>
+<row>
+<entry colname="col1" align="left"><p>P. J. Carroll (1824)</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>Ferenka (1972)</p></entry>
+<entry colname="col4" align="left"/>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Mitchelstown Creameries (1919)</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>Becton Dickinson (1963, 1970)</p></entry>
+<entry colname="col4" align="left"><p>500+</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Ranks (1930)</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>Electrical Industries of Ireland (1938, 1966)</p></entry>
+<entry colname="col4" align="left"/>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Grace &#x0026; Co. (1963)</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>Irish Steel (1938, 1947)</p></entry>
+<entry colname="col4" align="left"/>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Dairy Disposal Company (1927)</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>Philips (1957, 1962, 1967)</p></entry>
+<entry colname="col4" align="left"/>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Rowntree&#x2013;Mackintosh (1925, 1926, 1960)</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>Krups (1964)</p></entry>
+<entry colname="col4" align="left"/>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Odlum Group (1845)</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>Solus Teoranta (1935)</p></entry>
+<entry colname="col4" align="left"/>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Waterford Co-op [1964)</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>Masser&#x2013;Waterford (1936, 1955)</p></entry>
+<entry colname="col4" align="left"/>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Irish Distillers (1966)</p></entry>
+<entry colname="col2" align="left"><p>500+</p></entry>
+<entry colname="col3" align="left"><p>Standard Pressed Steel (1960, 1967)</p></entry>
+<entry colname="col4" align="left"/>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Players&#x2013;Wills (1924)</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>Technicon (1966)</p></entry>
+<entry colname="col4" align="left"/>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Bolands (1823)</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>Liebherr (1959)</p></entry>
+<entry colname="col4" align="left"/>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Ballyclough (1908)</p></entry>
+<entry colname="col2" align="left"><p>&#x00A0;</p></entry>
+<entry colname="col3" align="left"><p>Clay, glass, and cement</p></entry>
+<entry colname="col4" align="left"/>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Golden Vale (1948)</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>CRH (1936, 1949, 1970)</p></entry>
+<entry colname="col4" align="left"><p>2,000+</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Cantrell &#x0026; Cochrane (1868)</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>Waterford Glass (1947)</p></entry>
+<entry colname="col4" align="left"/>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Lyons Irish Holdings (1962)</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>Irish Glass Bottle (1932)</p></entry>
+<entry colname="col4" align="left"><p>500+</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Batchelors (1935)</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>Arklow Pottery (1935)</p></entry>
+<entry colname="col4" align="left"/>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Nestl&#x00E9; (1960)/Williams &#x0026; Woods (1856)</p></entry>
+<entry colname="col2" align="left"><p>&#x00A0;</p></entry>
+<entry colname="col3" align="left"><p>Paper and printing</p></entry>
+<entry colname="col4" align="left"><p>&#x00A0;</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Textiles, clothing, footwear &#x0026; leather</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>Smurfit Group (1934)</p></entry>
+<entry colname="col4" align="left"><p>2,000+</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Sunbeam (1928)</p></entry>
+<entry colname="col2" align="left"><p>2,000+</p></entry>
+<entry colname="col3" align="left"><p>Clondalkin Paper Group (1936)</p></entry>
+<entry colname="col4" align="left"><p>1,000+</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Seafield-Gentex (1936, 1946, 1965)</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>Independent Newspapers (1905)</p></entry>
+<entry colname="col4" align="left"/>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Halliday/Clarks (Ireland) Group (1928, 1938)</p></entry>
+<entry colname="col2" align="left"><p>1,000+</p></entry>
+<entry colname="col3" align="left"><p>Irish Press Ltd (1931)</p></entry>
+<entry colname="col4" align="left"/>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Youghal Carpets Group (1954)</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>St Joe Paper (mid-1960s)</p></entry>
+<entry colname="col4" align="left"/>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Irish Leathers (1938, 1972)</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p><i>Irish Times</i> (1859)</p></entry>
+<entry colname="col4" align="left"><p>500+</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>J. &#x0026; L. F. Goodbody (1865)</p></entry>
+<entry colname="col2" align="left"><p>500+</p></entry>
+<entry colname="col3" align="left"><p>Chemicals and miscellaneous</p></entry>
+<entry colname="col4" align="left"/>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Courtaulds (1954)</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>W. &#x0026; H. M. Goulding (1856)</p></entry>
+<entry colname="col4" align="left"><p>1,000+</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Glen Abbey (1939)</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>Irish Dunlop (1934)</p></entry>
+<entry colname="col4" align="left"><p>xxx</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Jonathan Logan (1960, 1968)</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>Unilever (pre-1920s)</p></entry>
+<entry colname="col4" align="left"><p>500+</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Irish Ropes (1933)</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"/>
+<entry colname="col4" align="left"/>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Navan Carpets (1937)</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>Pfizer Group (1971, 1972)</p></entry>
+<entry colname="col4" align="left"/>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Killarney Hosiery (1967)</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>N&#x00ED;trigin &#x00C9;ireann (1961)</p></entry>
+<entry colname="col4" align="left"/>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Doreen (1946)</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>Semperit (1969)</p></entry>
+<entry colname="col4" align="left"/>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Janelle (1952)</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>Snia (1972)</p></entry>
+<entry colname="col4" align="left"/>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Blarney Woollen Mills (1750, 1824)</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>De Beers (1961)</p></entry>
+<entry colname="col4" align="left"/>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Bond Worth (1967)</p></entry>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"/>
+<entry colname="col4" align="left"/>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Note</i>: The employment figures in the table refer generally to a firm&#x2019;s manufacturing operations in Ireland. Details of overseas operations are provided in the text.</p>
+<p><i>Source</i>: author.</p></source>
+</table>
+</tableGroup>
+</floatGroup>
+</div1>
+</textMatter>
+</chapter>
+</mainText>
+</book>

@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OXFORD//DTD OXCHAPML//EN" "OxChapML.dtd">
+<book id="oso-9780198878230-book-1" doi="10.1093/oso/9780198878230.001.0001" OSOsubject="physics">
+<bookMeta id="oso-9780198878230-bookMeta-1">
+<versionInfo>
+<versionDate>2023-05-08</versionDate>
+<versionDesc>Proofs</versionDesc>
+</versionInfo>
+<metaItem about="book">
+<metaItem about="DTD">
+<metaDescribes predicate="DTDname">OxChapML</metaDescribes>
+</metaItem>
+<metaItem about="TCIgroup">
+<metaItem about="TCI">
+<metaDescribes predicate="TCIname">OUP TCI</metaDescribes>
+<metaDescribes predicate="version">20170301.0</metaDescribes>
+</metaItem>
+</metaItem>
+<metaDescribes predicate="product">oso</metaDescribes>
+<metaDescribes predicate="colour-figures-for-online">Yes</metaDescribes>
+<metaDescribes predicate="publishing-group">oso US</metaDescribes>
+<metaDescribes predicate="captured-by">Integra</metaDescribes>
+</metaItem>
+</bookMeta>
+<mainText id="oso-9780198878230-mainText-1">
+<chapter id="oso-9780198878230-chapter-8" doi="10.1093/oso/9780198878230.003.0008">
+<metaInfo id="oso-9780198878230-chapter-8-metaInfo-1">
+<versionInfo>
+<versionDate>2023-05-08</versionDate>
+<versionDesc>Proofs</versionDesc>
+</versionInfo>
+<creatorGroup>
+<creator class="author" invertedForm="Barry, Frank"><forenames>Frank</forenames><surname>Barry</surname></creator>
+</creatorGroup>
+<abstract><p>This chapter provides details of the seventy to eighty manufacturing firms employing a workforce of 500 or more in 1972. They date from each of the various phases of Ireland&#x2019;s economic history since the country&#x2019;s integration into the United Kingdom in the early nineteenth century. Guinness is the oldest, and the Guinness Group is the largest manufacturing employer in Ireland after Cement Roadstone Holdings. The most recent are export-oriented foreign multinationals. Around half of the jobs in foreign-owned firms are in the latter group; the other half are in protectionist-era or older operations, or in relatively recent brownfield acquisitions. Within a decade or two of European Economic Community (EEC) accession, most of the leading protectionist-era employers would have closed or downsized dramatically. Among the leading indigenous firms of the time, several went on to become significant global multinationals. Export-oriented foreign multinational corporations (MNCs) that entered post-1973 were concentrated in what would become the major merchandise export sectors of the &#x2018;Celtic Tiger&#x2019; era and beyond. Each of these sectors was already dominated by high-profile US MNCs on the eve of EEC accession.</p>
+</abstract>
+<keySubjectWords>
+<keyword>EEC accession</keyword>
+<keyword>trade liberalization</keyword>
+<keyword>Guinness</keyword>
+<keyword>Jacobs</keyword>
+<keyword>Cement Roadstone Holdings</keyword>
+<keyword>Smurfit</keyword>
+<keyword>Waterford Glass</keyword>
+<keyword>export-platform FDI</keyword>
+<keyword>US multinationals</keyword>
+<keyword>Celtic Tiger</keyword></keySubjectWords>
+<disclaimer><p><i>Industry and Policy in Independent Ireland, 1922&#x2013;1972</i>. Frank Barry, Oxford University Press. &#x00A9; Frank Barry (2023). DOI: 10.1093/oso/9780198878230.003.0008</p></disclaimer>
+<metaItem about="book">
+<metaItem about="DTD">
+<metaDescribes predicate="DTDname">OxChapML</metaDescribes>
+</metaItem>
+<metaItem about="TCIgroup">
+<metaItem about="TCI">
+<metaDescribes predicate="TCIname">OUP TCI</metaDescribes>
+<metaDescribes predicate="version">20170301.0</metaDescribes>
+</metaItem>
+</metaItem>
+<metaDescribes predicate="product">oso</metaDescribes>
+<metaDescribes predicate="colour-figures-for-online">Yes</metaDescribes>
+<metaDescribes predicate="publishing-group">oso US</metaDescribes>
+<metaDescribes predicate="captured-by">Integra</metaDescribes>
+</metaItem>
+</metaInfo>
+<titleGroup id="oso-9780198878230-chapter-8-titleGroup-1"><title id="C8"><p><page id="176" chapter=""/><enumerator>8</enumerator> The Industrial Landscape of 1972 and Beyond</p></title></titleGroup>
+<textMatter id="oso-9780198878230-chapter-8-textMatter-1">
+<div1 id="oso-9780198878230-chapter-8-div1-1" doi="10.1093/oso/9780198878230.003.0008.021.0001" role="prelim">
+<p id="C8P1">With the overwhelming endorsement of the electorate, as expressed in a constitutional referendum in May 1972, Ireland joined the European Economic Community along with the United Kingdom and Denmark on 1 January 1973. The most important issues pertaining to industry in the final stages of the accession negotiations had been the length of the transition period and the acceptability to the Community of Ireland&#x2019;s export profits tax incentives. The government had hoped for a significantly extended transition period. Motor vehicle assembly was accorded a special dispensation, with safeguard measures to remain in place until January 1985. For all other industrial goods, remaining restrictions on intra-Community trade would be eliminated by mid-1977.</p>
+<p id="C8P2">Article 98 of the Treaty of Rome prohibited the use of export incentives such as Ireland&#x2019;s without the prior approval of EEC member-state governments. The country&#x2019;s economic underdevelopment had been taken into account in how the Organisation for European Economic Co-operation had responded to the introduction of the measure a decade and a half earlier. In a reprise of these earlier developments (and &#x2018;contrary to the Irish Government&#x2019;s fears&#x2019;, as the semi-official account of the negotiations informs us), &#x2018;the law relating to tax relief on export profits would be applied less rigorously than was suggested by the wording of Article 98&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-8-note-1"><sup>1</sup></xref></xrefGrp> The country&#x2019;s entire industrial incentives package would be adjudicated upon by the Commission when a review of state aids had been completed. The export profits tax exemption would survive until 1980, when it was replaced by a new (low) 10 per cent rate of corporation tax on all manufacturing enterprises.</p>
+<p id="C8P3">The government view, as accession approached, was that &#x2018;the main tasks which Irish industry has to tackle are essentially the same in kind, though not in degree, as those identified in the early 1960s&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-8-note-2"><sup>2</sup></xref></xrefGrp> Ongoing developments in cost competitiveness were judged to remain inconsistent <page id="177" chapter=""/>with the requirements of freer trade.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-8-note-3"><sup>3</sup></xref></xrefGrp> In a best possible scenario (i.e. &#x2018;if full advantage is taken by all those engaged in industry of the period of transition&#x2019;), &#x2018;there should be no net redundancy in existing industry&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-8-note-4"><sup>4</sup></xref></xrefGrp> As discussed below, the scenario that emerged was far from the best that might have been hoped for.</p>
+<noteGroup>
+<note id="oso-9780198878230-chapter-8-note-1" type="footnote"><p><enumerator><sup>1</sup></enumerator> <bibItem id="oso-9780198878230-chapter-8-bibItem-1" class="book" author="Maher, Denis J." date="1986" title="The Tortuous Path: The Course of Ireland&#x2019;s Entry into the EEC, 1948&#x2013;73" page="314" place="Dublin" publisher="Institute of Public Administration" purpose="display"><nameGrp foreNames="Denis J." mainName="Maher" role="author">Denis J. Maher</nameGrp>, <i>The Tortuous Path: The Course of Ireland&#x2019;s Entry into the EEC, 1948&#x2013;73</i> (Dublin: Institute of Public Administration, 1986), 314.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-8-note-2" type="footnote"><p><enumerator><sup>2</sup></enumerator> <bibItem id="oso-9780198878230-chapter-8-bibItem-2" class="book" date="1972" title="Accession of Ireland to the European Communities" page="33" pageLast="34" place="Dublin" publisher="Stationery Office" purpose="display"><i>Accession of Ireland to the European Communities</i> (Dublin: Stationery Office, 1972), 33&#x2013;34.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-8-note-3" type="footnote"><p><enumerator><sup>3</sup></enumerator> <bibItem id="oso-9780198878230-chapter-8-bibItem-3" class="book" date="1970" title="Membership of the European Communities: Implications for Ireland" page="25" place="Dublin" publisher="Stationery Office" purpose="display"><i>Membership of the European Communities: Implications for Ireland</i> (Dublin: Stationery Office, 1970),&#x00A0;25.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-8-note-4" type="footnote"><p><enumerator><sup>4</sup></enumerator> 1972 Government of Ireland White Paper, as cited in <bibItem id="oso-9780198878230-chapter-8-bibItem-4" class="book" author="NESC (National Economic and Social Council)" date="1989" title="Ireland in the European Community" page="99" place="Dublin" publisher="National Economic and Social Council" purpose="display"><nameGrp nameType="nonPersonal" mainName="NESC (National Economic and Social Council)">NESC (National Economic and Social Council)</nameGrp>, <i>Ireland in the European Community</i> (Dublin: National Economic and Social Council, 1989), 99.</bibItem></p></note>
+</noteGroup>
+</div1>
+<div1 id="oso-9780198878230-chapter-8-div1-2" doi="10.1093/oso/9780198878230.003.0008.021.0002">
+<titleGroup id="oso-9780198878230-chapter-8-titleGroup-2"><title id="C8S1"><p><enumerator>8.1</enumerator> The Largest Manufacturing Employers of 1972</p></title></titleGroup>
+<div2 id="oso-9780198878230-chapter-8-div2-1" doi="10.1093/oso/9780198878230.003.0008.022.0001">
+<titleGroup id="oso-9780198878230-chapter-8-titleGroup-3"><title id="C8S2"><p>Food</p></title></titleGroup>
+<p id="C8P4">Bacon curing had been the only large-scale meat-processing sector at the foundation of the state. By 1972, the traditional bacon curers had been displaced by larger, more diversified food producers such as Mitchelstown Co-operative and Clover Meats. Denny had moved much of its production to Northern Ireland and employment at the Bacon Company of Ireland (formerly O&#x2019;Maras) had fallen below 300. The beef processors that had emerged over recent decades were by now by far the largest employers in the industry.</p>
+<p id="C8P5">The amalgamation of dairy cooperatives was already well under way. Mitchelstown was the only cooperative with a workforce of 500 or more in 1960. By 1972 it had been joined by Ballyclough, Waterford, and Golden Vale. These had been the earliest to diversify out of butter, and each had benefited from the marketing relationships established with UK partners such as Unigate and Express Dairies. The state-owned Dairy Disposal Company, which had been formed from the remains of the massive Condensed Milk Company of Ireland in the 1920s, has been credited with having integrated West Kerry and County Clare into the province&#x2019;s dairying heartlands. It was the main early-stage supplier of butter to Bord Bainne to be marketed under the Kerrygold brand.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-8-note-5"><sup>5</sup></xref></xrefGrp> The major manufacturing firms in the meat and dairy sectors in 1972 are listed in <xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-8-tableGroup-1">8.1</xref></xrefGrp>. In the cognate milk distribution sector, Premier Dairies employed a workforce of some 1,500.</p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-8-tableGroup-1"?></p>
+<p id="C8P6">The bread and grain milling sectors had integrated over time, as was also the case in the United Kingdom. UK company Ranks&#x2013;Hovis was the largest integrated employer in Ireland, though the Odlums Group&#x2014;which included <page id="178" chapter=""/>W. &#x0026; G. T. Pollexfen, Waterford Flour Mills, National Flour Mills, and Dublin Port Milling among others&#x2014;exceeded it in milling capacity.</p>
+<p id="C8P7">Bread consumption had declined sharply since the 1950s, and the rise of supermarkets&#x2014;many of which produced their own bread brands&#x2014;put further pressure on the long-established bakers. Dublin bakery chain Peter Kennedy Ltd closed in 1971 with a loss of 300&#x2013;400 jobs. Johnston, Mooney &#x0026; O&#x2019;Brien had been acquired by Odlums in 1956. It continued to employ around 500. Other Dublin bakers of significance included Rourkes, which was part of the Ranks group, and Joseph Downes, originator of the Buttercrust brand, which was part-owned by the Dock Milling Company. Bolands, Downes, Cork firm F. H. Thompson, and Johnston, Mooney &#x0026; O&#x2019;Brien would all cease production in the 1980s.</p>
+<p id="C8P8">Bolands had responded to the decline in bread consumption by diversifying into biscuits. Its biscuit division was bought out by Jacobs in 1970. The integrated firm, Irish Biscuits, employed over 2,000 in 1972 across its three plants: the Bolands factory in Deansgrange, the long-established Jacobs factory in inner-city Dublin, and a new factory in Tallaght at which production would be centralized over the coming years. Many other industries were also in the process of moving to the suburbs.</p>
+<p id="C8P9">The acquisition of cake maker Gateaux by UK tea blender Lyons in 1970 brought the Lyons Irish Holdings&#x2019; workforce to more than 500. <page id="179" chapter=""/>Vegetable processor Batchelors, which had been acquired by British Oxygen in 1966, also employed around 500. Its use of a British brand name required that it export under a different label. (Other Irish companies, including W. &#x0026; R. Jacob, which was part-owned by its former British branch plant, were similarly constrained: the Dublin firm sold in Britain under the Irish Biscuits or Bolands labels.)</p>
+<p id="C8P10">Erin Foods, the other main fruit and vegetable processor, had been established as an export marketing subsidiary of the state-owned Irish Sugar in 1958. It initiated processing operations in the 1960s and formed a joint UK marketing venture with US firm Heinz in 1965. Though Erin was a substantial employer, it remained loss-making throughout the period. Irish Sugar&#x2019;s plants were in Mallow, Carlow, Tuam, and Thurles; Erin also had plants in Middleton, Skibbereen, Limerick, and Glencolumbcille. The three main jam producers were the former Northern Ireland company Lamb Brothers and British firms Chivers and R. &#x0026; W. Scott. Each had a year-round workforce of 200&#x2013;300, with substantially higher employment in the high season, as was the case also with Erin Foods and Irish Sugar. Lambs predated the establishment of the state. Scott had initiated production in Dublin in 1927, Chivers in 1932.</p>
+<p id="C8P11">There were several major employers in chocolate and sugar confectionery. Crosse &#x0026; Blackwell had acquired the leading Dublin company Williams &#x0026; Woods in 1928. Its UK parent was taken over by Swiss firm Nestl&#x00E9; in 1960. Williams &#x0026; Woods had since been overtaken by both Cadbury Ireland (formerly Fry&#x2013;Cadbury) and Rowntree&#x2013;Mackintosh. Cadbury, Rowntree, and a number of other British firms had begun to produce chocolate crumb for export in the late 1940s. Cadbury had begun to export confectionery from Ireland around a decade later. Rowntree&#x2013;Mackintosh&#x2019;s confectionery production remained focused on the domestic market. Urney, the sole large indigenous confectionery producer, had been acquired by US firm Grace &#x0026; Co. in 1963 and rebranded as H. B. Chocolates. It would be sold, along with Grace&#x2019;s ice cream interests, to Unilever in 1973.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-8-note-6"><sup>6</sup></xref></xrefGrp> The major employers in food sectors other than meat and dairy in 1972 are listed in <xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-8-tableGroup-2">8.2</xref></xrefGrp>.</p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-8-tableGroup-2"?></p>
+<noteGroup>
+<note id="oso-9780198878230-chapter-8-note-5" type="footnote"><p><enumerator><sup>5</sup></enumerator> <bibItem id="oso-9780198878230-chapter-8-bibItem-5" class="book" author="Fathartaigh, M&#x00ED;che&#x00E1;l &#x00D3;" date="2014" title="Irish Agriculture Nationalised: The Dairy Disposal Company and the Making of the Modern Irish Dairy Industry" place="Dublin" publisher="Institute of Public Administrations" purpose="display"><nameGrp foreNames="M&#x00ED;Che&#x00E1;L &#x00D3;" mainName="Fathartaigh" role="author">M&#x00ED;che&#x00E1;l &#x00D3; Fathartaigh</nameGrp>, <i>Irish Agriculture Nationalised: The Dairy Disposal Company and the Making of the Modern Irish Dairy Industry</i> (Dublin: Institute of Public Administrations, 2014).</bibItem></p></note>
+<note id="oso-9780198878230-chapter-8-note-6" type="footnote"><p><enumerator><sup>6</sup></enumerator> Unilever was already a substantial employer by this time, with 400 employed at its Castleforbes soap factory, 240 in McDonnell&#x2019;s margarine, and 250 in fertilizer company Paul and Vincent.</p></note>
+</noteGroup>
+<floatGroup id="oso-9780198878230-chapter-8-floatGroup-1">
+<tableGroup id="oso-9780198878230-chapter-8-tableGroup-1" doi="10.1093/oso/9780198878230.003.0008.007.0001" placement="float">
+<table id="oso-9780198878230-chapter-8-table-1" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-8-titleGroup-4"><title id="C8T1"><p><enumerator>Table 8.1</enumerator> Major employers, meat and dairy, 1972</p></title></titleGroup>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<thead>
+<row>
+<entry colname="col1" align="left"><p>Company</p></entry>
+<entry colname="col2" align="left"><p>Main activities</p></entry>
+<entry colname="col3" align="left"><p>Key dates</p></entry>
+<entry colname="col4" align="left"><p>Ownership</p></entry>
+<entry colname="col5" align="left"><p>Employment, <i>c</i>. 1972</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>Cork Marts&#x2013;International Meat Packers</p></entry>
+<entry colname="col2" align="left"><p>Meat</p></entry>
+<entry colname="col3" align="left"><p>1967 amalgamation</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>2,000 (1973)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Clover Meats Group</p></entry>
+<entry colname="col2" align="left"><p>Meat</p></entry>
+<entry colname="col3" align="left"><p>Established 1936</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>1,600 (1973)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Mitchelstown Creameries</p></entry>
+<entry colname="col2" align="left"><p>Dairy</p></entry>
+<entry colname="col3" align="left"><p>Established 1919</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>1,600 (1973)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Dairy Disposal Company</p></entry>
+<entry colname="col2" align="left"><p>Dairy</p></entry>
+<entry colname="col3" align="left"><p>Established 1927</p></entry>
+<entry colname="col4" align="left"><p>State</p></entry>
+<entry colname="col5" align="left"><p>1,192 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Waterford Co-op</p></entry>
+<entry colname="col2" align="left"><p>Dairy</p></entry>
+<entry colname="col3" align="left"><p>1964 amalgamation</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>1,000 (1973)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Ballyclough Co-operative</p></entry>
+<entry colname="col2" align="left"><p>Dairy</p></entry>
+<entry colname="col3" align="left"><p>Established 1908</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>700 (1973)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Golden Vale Food Products</p></entry>
+<entry colname="col2" align="left"><p>Dairy</p></entry>
+<entry colname="col3" align="left"><p>Established 1948</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>600 (1971)</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Source</i>: author.</p></source>
+</table>
+</tableGroup>
+<tableGroup id="oso-9780198878230-chapter-8-tableGroup-2" doi="10.1093/oso/9780198878230.003.0008.007.0002" placement="float">
+<table id="oso-9780198878230-chapter-8-table-2" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-8-titleGroup-5"><title id="C8T2"><p><enumerator>Table 8.2</enumerator> Major employers, other foods, 1972</p></title></titleGroup>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<thead>
+<row>
+<entry colname="col1" align="left"><p>Company</p></entry>
+<entry colname="col2" align="left"><p>Main activities</p></entry>
+<entry colname="col3" align="left"><p>Key dates</p></entry>
+<entry colname="col4" align="left"><p>Ownership</p></entry>
+<entry colname="col5" align="left"><p>Employment, <i>c</i>. 1972</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>Irish Sugar Company (including Erin Foods)</p></entry>
+<entry colname="col2" align="left"><p>Sugar; fruit and vegetable processing</p></entry>
+<entry colname="col3" align="left"><p>Established 1933</p></entry>
+<entry colname="col4" align="left"><p>State</p></entry>
+<entry colname="col5" align="left"><p>4,464 (1973), of which: Erin Foods: 1,300</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Irish Biscuits (W. &#x0026; R. Jacob)</p></entry>
+<entry colname="col2" align="left"><p>Biscuits</p></entry>
+<entry colname="col3" align="left"><p>Established 1851</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>2,500 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Cadbury (Ireland)</p></entry>
+<entry colname="col2" align="left"><p>Confectionery and chocolate crumb</p></entry>
+<entry colname="col3" align="left"><p>Established 1932</p></entry>
+<entry colname="col4" align="left"><p>UK</p></entry>
+<entry colname="col5" align="left"><p>2,000 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Nestl&#x00E9;</p></entry>
+<entry colname="col2" align="left"><p>Confectionery and jams</p></entry>
+<entry colname="col3" align="left"><p>Crosse &#x0026; Blackwell (1928); acquired by Nestl&#x00E9; (1960)</p></entry>
+<entry colname="col4" align="left"><p>Switzerland</p></entry>
+<entry colname="col5" align="left"><p>526 (1971)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Ranks&#x2013;Hovis</p></entry>
+<entry colname="col2" align="left"><p>Bread and flour</p></entry>
+<entry colname="col3" align="left"><p>Bannatyne; acquired by Ranks (1930); becomes Ranks&#x2013;Hovis (1962)</p></entry>
+<entry colname="col4" align="left"><p>UK</p></entry>
+<entry colname="col5" align="left"><p>1,500 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Rowntree&#x2013;Mackintosh</p></entry>
+<entry colname="col2" align="left"><p>Confectionery and chocolate crumb</p></entry>
+<entry colname="col3" align="left"><p>1926, 1925; merged 1960</p></entry>
+<entry colname="col4" align="left"><p>UK</p></entry>
+<entry colname="col5" align="left"><p>1,210 (1973)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Odlum Group</p></entry>
+<entry colname="col2" align="left"><p>Bread and flour</p></entry>
+<entry colname="col3" align="left"><p>Established 1845</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>1,200 (1973)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>H. B. (Grace &#x0026; Co.)</p></entry>
+<entry colname="col2" align="left"><p>Chocolate confectionery and ice cream</p></entry>
+<entry colname="col3" align="left"><p>H. B. acquired by Grace (1963)</p></entry>
+<entry colname="col4" align="left"><p>US</p></entry>
+<entry colname="col5" align="left"><p>1,500 (1973)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Lyons Irish Holdings</p></entry>
+<entry colname="col2" align="left"><p>Diversified, including flour confectionery from 1970</p></entry>
+<entry colname="col3" align="left"><p>Established 1962, &#x003E;500 (from 1970)</p></entry>
+<entry colname="col4" align="left"><p>UK</p></entry>
+<entry colname="col5" align="left"><p>810 (1971)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Bolands</p></entry>
+<entry colname="col2" align="left"><p>Bread and flour</p></entry>
+<entry colname="col3" align="left"><p>Established 1823</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>750 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Batchelors</p></entry>
+<entry colname="col2" align="left"><p>Vegetable processing and canning</p></entry>
+<entry colname="col3" align="left"><p>Established 1935</p></entry>
+<entry colname="col4" align="left"><p>UK</p></entry>
+<entry colname="col5" align="left"><p>550 (1973)</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Source</i>: author.</p></source>
+</table>
+</tableGroup>
+</floatGroup>
+</div2>
+<div2 id="oso-9780198878230-chapter-8-div2-2" doi="10.1093/oso/9780198878230.003.0008.022.0002">
+<titleGroup id="oso-9780198878230-chapter-8-titleGroup-6"><title id="C8S3"><p>Drink and Tobacco</p></title></titleGroup>
+<p id="C8P12">Guinness had begun to buy up much of the Irish drinks sector from the late 1950s. New foreign entrants included Canadian Breweries, which acquired <page id="180" chapter=""/>Beamish &#x0026; Crawford in 1962, and UK company Watney Mann, which acquired Murphys in 1967. Guinness acquired and closed a number of smaller breweries and converted the Great Northern Brewery in Dundalk, which it had purchased from Smithwicks, to the production of Harp Lager.</p>
+<p id="C8P13"><page id="181" chapter=""/>Other Guinness acquisitions were in conjunction with UK industry partners. One of the brands produced by Cherry Bros, which Guinness had acquired, was in competition with a British brand produced by Macardle Moore by arrangement with the UK company Ind Coope. As the managing director of Cherrys explained, the formation by Guinness and Ind Coope of the holding company Irish Ale Breweries in 1961 would &#x2018;wipe out the intensive competition of the past&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-8-note-7"><sup>7</sup></xref></xrefGrp> The Smithwicks brewery in Kilkenny came under the Irish Ale Breweries umbrella in 1964.</p>
+<p id="C8P14">After a complex series of transactions, Guinness acquired just under a half share of Cantrell &#x0026; Cochrane (C&#x0026;C), the largest soft drinks producer in the country. Popular brands under its control included Club Orange and Club Lemon, MiWadi, Sl&#x00E1;inte, and Taylor-Keith. Around half of C&#x0026;C&#x2019;s workforce of some 1,200 was located south of the border. Together with Irish Ale Breweries, C&#x0026;C acquired the former Magners/Bulmers cider operation in Clonmel. Cantrell &#x0026; Cochrane, Irish Ale Breweries, and a number of other smaller enterprises are included as part of the Guinness Group in <xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-8-tableGroup-3">8.3</xref></xrefGrp>.</p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-8-tableGroup-3"?></p>
+<p id="C8P15">Irish Distillers was the other major enterprise in the drinks sector. Over the six&#x00A0;years since its formation in 1966, its workforce had trebled to 900 and its export share of output had doubled to 25 per cent. It acquired a quarter-share in the &#x2018;Old Bushmills&#x2019; distillery in Antrim in 1972 and would complete <page id="182" chapter=""/>the acquisition by the end of the decade. Northern Ireland had been the predominant export destination for southern Irish distilleries in 1960. By the early 1970s, its share of export sales had declined from a quarter to less than one-tenth, and it had been overtaken in importance as an export destination by the United States, Britain, and Germany.</p>
+<p id="C8P16">The major tobacco manufacturers in 1972 remained Carrolls of Dundalk and UK company Players&#x2013;Wills, which had been the first major foreign direct investor in the newly established Irish Free State. Their tobacco operations were of a broadly similar size, but recent diversification by Carrolls left it with a substantially larger workforce.</p>
+<noteGroup>
+<note id="oso-9780198878230-chapter-8-note-7" type="footnote"><p><enumerator><sup>7</sup></enumerator> <i>Cork Examiner</i>, 9 January 1961.</p></note>
+</noteGroup>
+<floatGroup id="oso-9780198878230-chapter-8-floatGroup-2">
+<tableGroup id="oso-9780198878230-chapter-8-tableGroup-3" doi="10.1093/oso/9780198878230.003.0008.007.0003" placement="float">
+<table id="oso-9780198878230-chapter-8-table-3" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-8-titleGroup-7"><title id="C8T3"><p><enumerator>Table 8.3</enumerator> Major employers, drink and tobacco, 1972</p></title></titleGroup>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<thead>
+<row>
+<entry colname="col1" align="left"><p>Company</p></entry>
+<entry colname="col2" align="left"><p>Main activities</p></entry>
+<entry colname="col3" align="left"><p>Key dates</p></entry>
+<entry colname="col4" align="left"><p>Ownership</p></entry>
+<entry colname="col5" align="left"><p>Employment, <i>c</i>. 1972</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>Guinness Group, Irish operations</p></entry>
+<entry colname="col2" align="left"><p>Brewing, soft drinks</p></entry>
+<entry colname="col3" align="left"><p>1759</p></entry>
+<entry colname="col4" align="left"><p>UK</p></entry>
+<entry colname="col5" align="left"><p><i>c</i>. 5,000 (1972), of which:</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Stout</p></entry>
+<entry colname="col3" align="left"/>
+<entry colname="col4" align="left"/>
+<entry colname="col5" align="left"><p>St James&#x2019;s Gate Brewery: 3,500 (1971)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Irish Distillers</p></entry>
+<entry colname="col2" align="left"><p>Distilling</p></entry>
+<entry colname="col3" align="left"><p>Amalgamation (1966)</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>900 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>P. J. Carroll</p></entry>
+<entry colname="col2" align="left"><p>Tobacco and miscellaneous</p></entry>
+<entry colname="col3" align="left"><p>Established 1824</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>1,360 (1972)</p><p>&#x003E;500 (since 1950s)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Imperial Tobacco/</p>
+<p>Players&#x2013;Wills</p></entry>
+<entry colname="col2" align="left"><p>Tobacco</p></entry>
+<entry colname="col3" align="left"><p>Established 1924</p></entry>
+<entry colname="col4" align="left"><p>UK</p></entry>
+<entry colname="col5" align="left"><p>800 (1972)</p><p>&#x003E;500 (since 1920s)</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Source</i>: author.</p></source>
+</table>
+</tableGroup>
+</floatGroup>
+</div2>
+<div2 id="oso-9780198878230-chapter-8-div2-3" doi="10.1093/oso/9780198878230.003.0008.022.0003">
+<titleGroup id="oso-9780198878230-chapter-8-titleGroup-8"><title id="C8S4"><p>Textiles and Clothing</p></title></titleGroup>
+<p><?Insert-Table ID="oso-9780198878230-chapter-8-tableGroup-4"?></p>
+<p id="C8P17">The industries in the textiles and clothing sector in 1972 included significant employers from every era of Ireland&#x2019;s industrial history (<xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-8-tableGroup-4">8.4</xref></xrefGrp>). Blarney Woollen Mills predated the establishment of the state, as did J. &#x0026; L. F. Goodbody, whose operations by the early 1970s had transitioned from jute to polypropylene sacking. Sunbeam, Seafield, and Glen Abbey <page id="183" chapter=""/>were protectionist-era indigenous companies, the first two of which had been established by members of the extended Dwyer family. Major carpet producers included Youghal, Navan, and Irish Ropes. UK firms Bond Worth and Courtaulds had entered as part of the wave of mergers and acquisitions of recent decades. Post-1955 export-oriented foreign firms included Killarney Hosiery and US firm Jonathan Logan, owner or part-owner of two significant Shannon enterprises. Indigenous companies Doreen and Janelle had emerged or expanded through their export success in the UK market over recent decades.</p>
+<floatGroup id="oso-9780198878230-chapter-8-floatGroup-3">
+<tableGroup id="oso-9780198878230-chapter-8-tableGroup-4" doi="10.1093/oso/9780198878230.003.0008.007.0004" placement="float">
+<table id="oso-9780198878230-chapter-8-table-4" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-8-titleGroup-9"><title id="C8T4"><p><enumerator>Table 8.4</enumerator> Major employers, textiles and clothing, 1972</p></title></titleGroup>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<thead>
+<row>
+<entry colname="col1" align="left"><p>Company</p></entry>
+<entry colname="col2" align="left"><p>Main activities</p></entry>
+<entry colname="col3" align="left"><p>Key dates</p></entry>
+<entry colname="col4" align="left"><p>Ownership</p></entry>
+<entry colname="col5" align="left"><p>Employment, <i>c</i>. 1972</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>Sunbeam</p></entry>
+<entry colname="col2" align="left"><p>Textiles</p></entry>
+<entry colname="col3" align="left"><p>Established 1928</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>4,000 (1972), <i>c</i>. 3,900 in Ireland</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Youghal Carpets Group</p></entry>
+<entry colname="col2" align="left"><p>Carpets</p></entry>
+<entry colname="col3" align="left"><p>Established 1954</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>2,656 (1972), <i>c</i>. 1,500 in Ireland</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Seafield&#x2013;Gentex</p></entry>
+<entry colname="col2" align="left"><p>Textiles</p></entry>
+<entry colname="col3" align="left"><p>1965 merger of firms dating from 1936 and 1946</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>2,100 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>J. &#x0026; L. F. Goodbody</p></entry>
+<entry colname="col2" align="left"><p>Jute and polypropylene sacking</p></entry>
+<entry colname="col3" align="left"><p>Established 1865</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>975 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Glen Abbey</p></entry>
+<entry colname="col2" align="left"><p>Textiles and clothing</p></entry>
+<entry colname="col3" align="left"><p>Established 1939</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>919 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Courtaulds</p></entry>
+<entry colname="col2" align="left"><p>Towels and related products</p></entry>
+<entry colname="col3" align="left"><p>Established 1954, &#x003E;500 (from 1968)</p></entry>
+<entry colname="col4" align="left"><p>UK</p></entry>
+<entry colname="col5" align="left"><p>950 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Jonathan Logan Ltd</p></entry>
+<entry colname="col2" align="left"><p>Fashion garments</p></entry>
+<entry colname="col3" align="left"><p>Lana Knit, Shannon, established 1960</p></entry>
+<entry colname="col4" align="left"><p>US</p></entry>
+<entry colname="col5" align="left"><p>600 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p>Butte-Knit, Shannon, established 1968</p></entry>
+<entry colname="col4" align="left"/>
+<entry colname="col5" align="left"><p>250 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Irish Ropes</p></entry>
+<entry colname="col2" align="left"><p>Carpets</p></entry>
+<entry colname="col3" align="left"><p>Established 1933</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>812 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Navan Carpets</p></entry>
+<entry colname="col2" align="left"><p>Carpets</p></entry>
+<entry colname="col3" align="left"><p>Established 1937</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>810 (1972), <i>c</i>. 800 in Ireland</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Thomas Tilling Company/Killarney Hosiery</p></entry>
+<entry colname="col2" align="left"><p>&#x2018;Pretty Polly&#x2019; stockings</p></entry>
+<entry colname="col3" align="left"><p>Established 1967</p></entry>
+<entry colname="col4" align="left"><p>UK</p></entry>
+<entry colname="col5" align="left"><p>750 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Doreen</p></entry>
+<entry colname="col2" align="left"><p>Clothing</p></entry>
+<entry colname="col3" align="left"><p>Established 1946, major acquisition 1972</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>650 (1973)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Janelle</p></entry>
+<entry colname="col2" align="left"><p>Clothing</p></entry>
+<entry colname="col3" align="left"><p>Established 1952</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>622 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Blarney Woollen Mills</p></entry>
+<entry colname="col2" align="left"><p>Woollen and worsteds</p></entry>
+<entry colname="col3" align="left"><p>Established 1820s</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>510 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Bond Worth</p></entry>
+<entry colname="col2" align="left"><p>Carpets</p></entry>
+<entry colname="col3" align="left"><p>Acquisitions from 1967</p></entry>
+<entry colname="col4" align="left"><p>UK</p></entry>
+<entry colname="col5" align="left"><p><i>c</i>. 500 (1972)</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Source</i>: author.</p></source>
+</table>
+</tableGroup>
+</floatGroup>
+</div2>
+<div2 id="oso-9780198878230-chapter-8-div2-4" doi="10.1093/oso/9780198878230.003.0008.022.0004">
+<titleGroup id="oso-9780198878230-chapter-8-titleGroup-10"><title id="C8S5"><p>Footwear and Leather</p></title></titleGroup>
+<p id="C8P18">The expansion of the Halliday Group and its acquisition by Clarks Shoes in 1971 have been discussed in previous chapters. Halliday had developed a significant export trade as a consequence of the Anglo-Irish Trade Agreement of 1948. Its main competitors in Ireland over the decades had been other tariff-jumping operations Woodingtons and Rawsons and the Dwyer family firms Lee Boot and Hanover Shoes.</p>
+<p id="C8P19">Woodingtons, too, had shifted into women&#x2019;s footwear in the 1940s when its market for workmen&#x2019;s boots was eroded by the growing popularity of <page id="184" chapter=""/>rubber wellingtons (made by Irish Dunlop in Cork). It had disposed of its interest in Gorey Leather in 1949. Its acquisition of Munster Shoes and the Birr Shoe factory in the late 1960s proved unsuccessful and employment had declined to around 100 by 1972. Rawsons, for many decades the largest footwear operation in the state, was already in decline when its main factory was destroyed by fire in 1967. The company was liquidated shortly afterwards. Lee Footwear, into which the two Dwyer family footwear firms had merged in 1965, retained a workforce of 370 at European Economic Community (EEC) accession.</p>
+<p id="C8P20">Most of the leather tanneries had merged under the umbrella of Plunder &#x0026; Pollock of Carrick-on-Suir by the end of the 1960s. Known for a period as Industrial and Commercial Holdings, the name Irish Leathers was adopted in 1972. Most of its output was exported to the United Kingdom. Details of the largest employers in footwear and leather are provided in <xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-8-tableGroup-5">8.5</xref></xrefGrp>.</p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-8-tableGroup-5"?></p>
+<floatGroup id="oso-9780198878230-chapter-8-floatGroup-4">
+<tableGroup id="oso-9780198878230-chapter-8-tableGroup-5" doi="10.1093/oso/9780198878230.003.0008.007.0005" placement="float">
+<table id="oso-9780198878230-chapter-8-table-5" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-8-titleGroup-11"><title id="C8T5"><p><enumerator>Table 8.5</enumerator> Major employers, footwear and leather, 1972</p></title></titleGroup>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<thead>
+<row>
+<entry colname="col1" align="left"><p>Company</p></entry>
+<entry colname="col2" align="left"><p>Main activities</p></entry>
+<entry colname="col3" align="left"><p>Key dates</p></entry>
+<entry colname="col4" align="left"><p>Ownership</p></entry>
+<entry colname="col5" align="left"><p>Employment, <i>c</i>. 1972</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>Halliday/Clarks (Ireland) Group</p></entry>
+<entry colname="col2" align="left"><p>Footwear</p></entry>
+<entry colname="col3" align="left"><p>Established 1928, 1938</p></entry>
+<entry colname="col4" align="left"><p>UK</p></entry>
+<entry colname="col5" align="left"><p>1,700 (1971)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Irish Leathers</p></entry>
+<entry colname="col2" align="left"><p>Leather</p></entry>
+<entry colname="col3" align="left"><p>Established 1938; becomes Irish Leathers in 1972</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>1,300 (1972)</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Source</i>: author.</p></source>
+</table>
+</tableGroup>
+</floatGroup>
+</div2>
+<div2 id="oso-9780198878230-chapter-8-div2-5" doi="10.1093/oso/9780198878230.003.0008.022.0005">
+<titleGroup id="oso-9780198878230-chapter-8-titleGroup-12"><title id="C8S6"><p>Clay, Glass, and Cement</p></title></titleGroup>
+<p id="C8P21">The largest merger of the era had resulted in the formation of Cement Roadstone Holdings (CRH) in 1970. Irish Cement had been formed in 1936 with the backing of the recently established Industrial Credit Company (ICC) and the participation of British and Danish interests attracted by the monopoly of the cement market that the firm had been granted. Roadstone was a sand and gravel haulage company in which the ICC had also taken a large share in 1950. CRH would expand over the following decades to become one of Ireland&#x2019;s leading indigenous multinationals.</p>
+<p id="C8P22"><page id="185" chapter=""/>More than 90 per cent of CRH&#x2019;s sales were on the home market. The Irish Glass Bottle Company was also largely home market-oriented, with an export-output ratio of less than 20 per cent. Waterford Glass, by contrast, was strongly export-oriented. Its workforce expanded from 500 in 1960 to 4,000 in 1972, around 2,000 of whom were employed in the firm&#x2019;s Irish manufacturing operations and a further 1,000 in the Dublin department store, Switzers, that had been acquired to facilitate the company&#x2019;s retail sales. The firm also had subsidiary companies in the United States and the United Kingdom.</p>
+<p id="C8P23">Arklow Pottery remained almost exclusively home market oriented at this time. The other pottery firms, Carrigaline Pottery in Cork and Royal Tara China Ltd in Galway, were very much smaller. There were a number of significant employers in the cognate builders&#x2019; providers sector, which is not included in <xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-8-tableGroup-6">8.6</xref></xrefGrp>. Heitons, Dockrells, and Concrete Products of Ireland (Chadwicks) each employed around 700 at EEC accession. Brooks Thomas employed over 1,000.</p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-8-tableGroup-6"?></p>
+<floatGroup id="oso-9780198878230-chapter-8-floatGroup-5">
+<tableGroup id="oso-9780198878230-chapter-8-tableGroup-6" doi="10.1093/oso/9780198878230.003.0008.007.0006" placement="float">
+<table id="oso-9780198878230-chapter-8-table-6" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-8-titleGroup-13"><title id="C8T6"><p><enumerator>Table 8.6</enumerator> Major employers, clay, glass, cement, and other building materials, 1972</p></title></titleGroup>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<thead>
+<row>
+<entry colname="col1" align="left"><p>Company</p></entry>
+<entry colname="col2" align="left"><p>Main activities</p></entry>
+<entry colname="col3" align="left"><p>Key dates</p></entry>
+<entry colname="col4" align="left"><p>Ownership</p></entry>
+<entry colname="col5" align="left"><p>Employment, <i>c</i>. 1972</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>Cement Roadstone Holdings</p></entry>
+<entry colname="col2" align="left"><p>Cement and related products</p></entry>
+<entry colname="col3" align="left"><p>1970 merger of firms established 1936 and 1949</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>5,578 (1972), <i>c</i>. 4,850 in Ireland</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Waterford Glass</p></entry>
+<entry colname="col2" align="left"><p>Fine cut glass</p></entry>
+<entry colname="col3" align="left"><p>Established 1947</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>4,000 (1972), <i>c</i>. 2,000 in manufacturing in Ireland</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Irish Glass Bottle Company</p></entry>
+<entry colname="col2" align="left"><p>Glass bottles</p></entry>
+<entry colname="col3" align="left"><p>Re-established 1932</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>823 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Arklow Pottery</p></entry>
+<entry colname="col2" align="left"><p>Pottery, giftware, and ceramic products</p></entry>
+<entry colname="col3" align="left"><p>Established 1935</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>500 (1972)</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Source</i>: author.</p></source>
+</table>
+</tableGroup>
+</floatGroup>
+</div2>
+<div2 id="oso-9780198878230-chapter-8-div2-6" doi="10.1093/oso/9780198878230.003.0008.022.0006">
+<titleGroup id="oso-9780198878230-chapter-8-titleGroup-14"><title id="C8S7"><p>Metals and Engineering</p></title></titleGroup>
+<p id="C8P24">Ford remained by far the most significant vehicle assembler in 1972. The remainder of the Irish market had been serviced by a large number of much smaller assemblers, many of which had merged into the Brittain Group following the formation of British Leyland in the 1960s. The Brittain Group <page id="186" chapter=""/>had substantial engineering, sales, and service divisions and a somewhat larger overall workforce than Ford (<xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-8-tableGroup-7">8.7</xref></xrefGrp>). About 300 of Brittain&#x2019;s total workforce were employed at the Philip Pierce plant in Wexford.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-8-note-8"><sup>8</sup></xref></xrefGrp></p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-8-tableGroup-7"?></p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-8-tableGroup-8"?></p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-8-tableGroup-9"?></p>
+<p id="C8P25">Most of the firms in the other traditional (and largely non-exporting) segments have been discussed already. Railway engineering was included under Other Metals, Engineering and Implements in the Census of Industrial Production (CIP) for 1972, so the large workforce at the CI&#x00C9; engineering works at Inchicore would form part of the total in the CIP for that year.</p>
+<p id="C8P26">Metals and engineering attracted a particularly large share of new export-oriented foreign-owned projects.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-8-note-9"><sup>9</sup></xref></xrefGrp> <xrefGrp>Tables&#x00A0;<xref ref="oso-9780198878230-chapter-8-tableGroup-8">8.8</xref></xrefGrp> and <xrefGrp><xref ref="oso-9780198878230-chapter-8-tableGroup-9">8.9</xref></xrefGrp> provide details of the largest employers in these two segments. German crane manufacturer Liebherr, Shannon-based US firms General Electric and Standard Pressed Steel (SPS), and Dutch firm Philips had been the earliest substantial employers among the latter group. By 1972, General Electric and SPS had established further operations beyond Shannon&#x2014;General Electric in Dundalk, SPS in Galway&#x2014;and had been joined by other substantial employers from Germany, the United States, and the Netherlands.</p>
+<noteGroup>
+<note id="oso-9780198878230-chapter-8-note-8" type="footnote"><p><enumerator><sup>8</sup></enumerator> The Pierce plant had been retained by Brittain when the latter&#x2019;s 1968 merger with the Smith Group was unwound in 1970. Only a small minority of the Cavan-based Smith Group&#x2019;s post-demerger workforce of 1,200 was engaged in production. McCairns Motors, which mainly assembled Vauxhall cars and Bedford trucks for General Motors, also had a workforce in excess of 500 from the mid-1960s, only around half of whom were engaged in production. Neither of these firms, for these reasons, are included among the largest manufacturing employers.</p></note>
+<note id="oso-9780198878230-chapter-8-note-9" type="footnote"><p><enumerator><sup>9</sup></enumerator> <bibItem id="oso-9780198878230-chapter-8-bibItem-6" class="journalArticle" author="Denis, O&#x2019;Hearn" date="1987" journalIssue="3" title="Estimates of New Foreign Manufacturing Employment in Ireland 1956&#x2013;1972" journalName="Economic and Social Review" vol="18" page="173" pageLast="188" purpose="display"><nameGrp foreNames="O&#x2019;Hearn" mainName="Denis" role="author">Denis O&#x2019;Hearn</nameGrp>, &#x2018;Estimates of New Foreign Manufacturing Employment in Ireland 1956&#x2013;1972&#x2019;. <i>Economic and Social Review</i> 18, 3 (1987): 173&#x2013;88.</bibItem></p></note>
+</noteGroup>
+<floatGroup id="oso-9780198878230-chapter-8-floatGroup-6">
+<tableGroup id="oso-9780198878230-chapter-8-tableGroup-7" doi="10.1093/oso/9780198878230.003.0008.007.0007" placement="float">
+<table id="oso-9780198878230-chapter-8-table-7" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-8-titleGroup-15"><title id="C8T7"><p><enumerator>Table 8.7</enumerator> Major employers, vehicle assembly, 1972</p></title></titleGroup>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<thead>
+<row>
+<entry colname="col1" align="left"><p>Company</p></entry>
+<entry colname="col2" align="left"><p>Main activities</p></entry>
+<entry colname="col3" align="left"><p>Key dates</p></entry>
+<entry colname="col4" align="left"><p>Ownership</p></entry>
+<entry colname="col5" align="left"><p>Employment, <i>c</i>. 1972</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>Brittain Group</p></entry>
+<entry colname="col2" align="left"><p>Vehicle assembly, engineering, sales and service</p></entry>
+<entry colname="col3" align="left"><p>Established 1913, &#x003E;500 (continuously from 1960s)</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>1,878 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Ford Motor Company</p></entry>
+<entry colname="col2" align="left"><p>Vehicle assembly</p></entry>
+<entry colname="col3" align="left"><p>Established 1919; vehicle assembly from 1932</p></entry>
+<entry colname="col4" align="left"><p>US</p></entry>
+<entry colname="col5" align="left"><p>1,500 (1973)</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Source</i>: author.</p></source>
+</table>
+</tableGroup>
+<tableGroup id="oso-9780198878230-chapter-8-tableGroup-8" doi="10.1093/oso/9780198878230.003.0008.007.0008" placement="float">
+<table id="oso-9780198878230-chapter-8-table-8" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-8-titleGroup-16"><title id="C8T8"><p><enumerator>Table 8.8</enumerator> Major employers, other metals and engineering (&#x2018;traditional&#x2019;), 1972</p></title></titleGroup>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<thead>
+<row>
+<entry colname="col1" align="left"><p>Company</p></entry>
+<entry colname="col2" align="left"><p>Main activities</p></entry>
+<entry colname="col3" align="left"><p>Key dates</p></entry>
+<entry colname="col4" align="left"><p>Ownership</p></entry>
+<entry colname="col5" align="left"><p>Employment, <i>c</i>. 1972</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>Unidare</p></entry>
+<entry colname="col2" align="left"><p>Electrical equipment</p></entry>
+<entry colname="col3" align="left"><p>Established 1949; name changed to Unidare in 1957</p></entry>
+<entry colname="col4" align="left"><p>Dutch/Irish; acquired by Philips (Ireland) in 1966</p></entry>
+<entry colname="col5" align="left"><p>1,640 (1972), <i>c</i>. 1,300 in Ireland</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Hammond Holdings</p></entry>
+<entry colname="col2" align="left"><p>Metal products</p></entry>
+<entry colname="col3" align="left"><p>Established as Hammond Lane Foundry (1902)</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>1,359 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Verolme, Cork Dockyard</p></entry>
+<entry colname="col2" align="left"><p>Shipbuilding and general engineering</p></entry>
+<entry colname="col3" align="left"><p>Established 1959</p></entry>
+<entry colname="col4" align="left"><p>Originally Dutch; latterly semi-state</p></entry>
+<entry colname="col5" align="left"><p>1,100 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Electrical Industries of Ireland</p></entry>
+<entry colname="col2" align="left"><p>Domestic electrical appliances</p></entry>
+<entry colname="col3" align="left"><p>Established 1938; new name adopted 1966</p></entry>
+<entry colname="col4" align="left"><p>Originally domestic; British from 1959</p></entry>
+<entry colname="col5" align="left"><p>850 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Irish Steel</p></entry>
+<entry colname="col2" align="left"><p>Steel</p></entry>
+<entry colname="col3" align="left"><p>Established 1938; semi-state from 1947</p></entry>
+<entry colname="col4" align="left"><p>State</p></entry>
+<entry colname="col5" align="left"><p>847 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Solus Teoranta</p></entry>
+<entry colname="col2" align="left"><p>Electrical appliances</p></entry>
+<entry colname="col3" align="left"><p>Established 1935</p></entry>
+<entry colname="col4" align="left"><p>Domestic, with substantial British participation from 1957</p></entry>
+<entry colname="col5" align="left"><p>650 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Masser&#x2013;Waterford</p></entry>
+<entry colname="col2" align="left"><p>Domestic appliances and hardware</p></entry>
+<entry colname="col3" align="left"><p>Established as Allied Iron Founders (Ireland) 1936; becomes Masser&#x2013;Waterford 1955</p></entry>
+<entry colname="col4" align="left"><p>Initially UK; later, domestic</p></entry>
+<entry colname="col5" align="left"><p>600 (1972)</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Source</i>: author.</p></source>
+</table>
+</tableGroup>
+<tableGroup id="oso-9780198878230-chapter-8-tableGroup-9" doi="10.1093/oso/9780198878230.003.0008.007.0009" placement="float">
+<table id="oso-9780198878230-chapter-8-table-9" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-8-titleGroup-17"><title id="C8T9"><p><enumerator>Table 8.9</enumerator> Major employers, &#x2018;new&#x2019; export-oriented metals and engineering, 1972</p></title></titleGroup>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<thead>
+<row>
+<entry colname="col1" align="left"><p>Company</p></entry>
+<entry colname="col2" align="left"><p>Main activities</p></entry>
+<entry colname="col3" align="left"><p>Key dates</p></entry>
+<entry colname="col4" align="left"><p>Ownership</p></entry>
+<entry colname="col5" align="left"><p>Employment, <i>c</i>. 1972</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>General Electric Company of America</p></entry>
+<entry colname="col2" align="left"><p>Electronic components</p></entry>
+<entry colname="col3" align="left"><p>E.I. established at Shannon 1960</p>
+<p>Ecco established at Dundalk 1966</p></entry>
+<entry colname="col4" align="left"><p>US</p></entry>
+<entry colname="col5" align="left"><p><i>c</i>. 2,000 (1972), of which: E.I. 900 (1972), Ecco, 900 (1970)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Ferenka</p></entry>
+<entry colname="col2" align="left"><p>Steel cord for automotive industry</p></entry>
+<entry colname="col3" align="left"><p>Established 1972</p></entry>
+<entry colname="col4" align="left"><p>Dutch</p></entry>
+<entry colname="col5" align="left"><p>1,000 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Becton Dickinson</p></entry>
+<entry colname="col2" align="left"><p>Medical equipment</p></entry>
+<entry colname="col3" align="left"><p>Established at Drogheda 1963, Dun Laoghaire, 1970</p></entry>
+<entry colname="col4" align="left"><p>US</p></entry>
+<entry colname="col5" align="left"><p>900 (1972&#x2013;1973), of which: Drogheda, 500 (1973)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Philips</p></entry>
+<entry colname="col2" align="left"><p>Consumer electronics and components</p></entry>
+<entry colname="col3" align="left"><p>Established 1957, 1962; consolidated 1967</p></entry>
+<entry colname="col4" align="left"><p>Dutch</p></entry>
+<entry colname="col5" align="left"><p>820 (1970)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Krups Engineering</p></entry>
+<entry colname="col2" align="left"><p>Domestic electrical appliances</p></entry>
+<entry colname="col3" align="left"><p>Established 1964</p></entry>
+<entry colname="col4" align="left"><p>German</p></entry>
+<entry colname="col5" align="left"><p>700 (1973)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Standard Pressed Steel (SPS)</p></entry>
+<entry colname="col2" align="left"><p>Metal components and precision tools</p></entry>
+<entry colname="col3" align="left"><p>Shannon 1960, Galway 1967</p></entry>
+<entry colname="col4" align="left"><p>US</p></entry>
+<entry colname="col5" align="left"><p>600 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Technicon</p></entry>
+<entry colname="col2" align="left"><p>Medical equipment</p></entry>
+<entry colname="col3" align="left"><p>Established 1966</p></entry>
+<entry colname="col4" align="left"><p>US</p></entry>
+<entry colname="col5" align="left"><p>500 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Liebherr</p></entry>
+<entry colname="col2" align="left"><p>Cranes</p></entry>
+<entry colname="col3" align="left"><p>Established 1959</p></entry>
+<entry colname="col4" align="left"><p>German</p></entry>
+<entry colname="col5" align="left"><p>500 (1972)</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Source</i>: author.</p></source>
+</table>
+</tableGroup>
+</floatGroup>
+</div2>
+<div2 id="oso-9780198878230-chapter-8-div2-7" doi="10.1093/oso/9780198878230.003.0008.022.0007">
+<titleGroup id="oso-9780198878230-chapter-8-titleGroup-18"><title id="C8S8"><p><page id="187" chapter=""/>Paper, Printing, and Packaging</p></title></titleGroup>
+<p id="C8P27">The three major newspaper groups&#x2014;the <i>Independent</i>, the <i>Press</i>, and the <i>Irish Times</i>&#x2014;were among the significant employers in the paper and printing sector in 1972 (<xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-8-tableGroup-10">8.10</xref></xrefGrp>). Florida firm St Joe Paper has been discussed in previous chapters. The largest firms in the sector were the Smurfit and Clondalkin Groups.</p>
+<p id="C8P28">Clondalkin was the largest of the paper mills to have reopened as a consequence of the tariffs of the 1930s. It diversified by acquisition in the 1960s <page id="188" chapter=""/>when it vied with Smurfit for control of the domestic industry. Employment at the Clondalkin Group grew from 500 in 1960 to almost 1,500 by 1972. Its acquisition of the printing firm Gibson, Guy and Smalldridge in 1969 had increased its workforce by almost 1,000.</p>
+<p id="C8P29">Smurfit had originated in the largely non-traded (packaging) segment of the industry.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-8-note-10"><sup>10</sup></xref></xrefGrp> Though the potential for import competition had grown, the company benefited from the packaging demands of the expanding manufacturing sector of the 1960s and the partnerships it established, particularly with its US raw materials supplier, which gave it access to the <page id="189" chapter=""/>most up-to-date processes and equipment. Understanding that trade liberalization would result in the rationalization of the industry, Michael Smurfit had determined at an early stage to try to ensure that his company emerged in a dominant position.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-8-note-11"><sup>11</sup></xref></xrefGrp> Smurfit&#x2019;s workforce expanded from 250 in 1962 to almost 4,000 ten&#x00A0;years later. From 1973, it would begin to make substantial overseas acquisitions.</p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-8-tableGroup-10"?></p>
+<noteGroup>
+<note id="oso-9780198878230-chapter-8-note-10" type="footnote"><p><enumerator><sup>10</sup></enumerator> <bibItem id="oso-9780198878230-chapter-8-bibItem-7" class="book" author="Committee on Industrial Organisation" date="1964" title="Survey Report on the Paper Products Industry" page="12" place="Dublin" publisher="Stationery Office" purpose="display"><nameGrp nameType="nonPersonal" mainName="Committee on Industrial Organisation">Committee on Industrial Organisation</nameGrp>, <i>Survey Report on the Paper Products Industry</i> (Dublin: Stationery Office, 1964), 12.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-8-note-11" type="footnote"><p><enumerator><sup>11</sup></enumerator> <bibItem id="oso-9780198878230-chapter-8-bibItem-8" class="book" author="Smurfit, Michael" date="2014" title="A Life Worth Living" page="47" place="Dublin" publisher="Oaktree Press" purpose="display"><nameGrp foreNames="Michael" mainName="Smurfit" role="author">Michael Smurfit</nameGrp>, <i>A Life Worth Living</i> (Dublin: Oaktree Press, 2014), 47.</bibItem></p></note>
+</noteGroup>
+<floatGroup id="oso-9780198878230-chapter-8-floatGroup-7">
+<tableGroup id="oso-9780198878230-chapter-8-tableGroup-10" doi="10.1093/oso/9780198878230.003.0008.007.0010" placement="float">
+<table id="oso-9780198878230-chapter-8-table-10" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-8-titleGroup-19"><title id="C8T10"><p><enumerator>Table 8.10</enumerator> Major employers, paper and printing, 1972</p></title></titleGroup>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<thead>
+<row>
+<entry colname="col1" align="left"><p>Company</p></entry>
+<entry colname="col2" align="left"><p>Main activities</p></entry>
+<entry colname="col3" align="left"><p>Key dates</p></entry>
+<entry colname="col4" align="left"><p>Ownership</p></entry>
+<entry colname="col5" align="left"><p>Employment, <i>c</i>. 1972</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>Smurfit Group</p></entry>
+<entry colname="col2" align="left"><p>Packaging and printing</p></entry>
+<entry colname="col3" align="left"><p>Established 1934</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>3,884 (1972), of which: <i>c</i>. 3,400 in Ireland</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Clondalkin Paper Group</p></entry>
+<entry colname="col2" align="left"><p>Paper, packaging, and printing</p></entry>
+<entry colname="col3" align="left"><p>Established 1936</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>1,460 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Independent</p>
+<p>Newspapers</p></entry>
+<entry colname="col2" align="left"><p>Newspaper publishing</p></entry>
+<entry colname="col3" align="left"><p>Established 1905</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>1,408 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Irish Press Ltd</p></entry>
+<entry colname="col2" align="left"><p>Newspaper publishing</p></entry>
+<entry colname="col3" align="left"><p>Established 1931</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p><i>c</i>. 1,000</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>St Joe Paper</p></entry>
+<entry colname="col2" align="left"><p>Paper</p></entry>
+<entry colname="col3" align="left"><p>Acquisitions, mid-1960s</p></entry>
+<entry colname="col4" align="left"><p>US</p></entry>
+<entry colname="col5" align="left"><p><i>c</i>. 1,000</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p><i>Irish Times</i></p></entry>
+<entry colname="col2" align="left"><p>Newspaper publishing</p></entry>
+<entry colname="col3" align="left"><p>Established 1859</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p><i>c</i>. 500</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Source</i>: author.</p></source>
+</table>
+</tableGroup>
+</floatGroup>
+</div2>
+<div2 id="oso-9780198878230-chapter-8-div2-8" doi="10.1093/oso/9780198878230.003.0008.022.0008">
+<titleGroup id="oso-9780198878230-chapter-8-titleGroup-20"><title id="C8S9"><p>Chemicals and Miscellaneous</p></title></titleGroup>
+<p><?Insert-Table ID="oso-9780198878230-chapter-8-tableGroup-11"?></p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-8-tableGroup-12"?></p>
+<p id="C8P30">The chemicals and miscellaneous sector is also best considered in terms of traditional and modern segments. Details of the largest firms in these two groups are provided in <xrefGrp>Tables&#x00A0;<xref ref="oso-9780198878230-chapter-8-tableGroup-11">8.11</xref></xrefGrp> and <xrefGrp><xref ref="oso-9780198878230-chapter-8-tableGroup-12">8.12</xref></xrefGrp>. Firms of significance in the traditional segment included the long-established fertilizer company Gouldings, protectionist-era tariff jumper Irish Dunlop, and the state nitrogenous fertilizer company N&#x00ED;trigin &#x00C9;ireann. Unilever, whose workforce would double with the acquisition of the chocolate and ice-cream manufacturer H. B. in <page id="190" chapter=""/><page id="191" chapter=""/>1973, contained divisions that dated from diverse earlier eras. Around half of its 1972 workforce was employed in the soap factory it had established in the 1920s, with the other half divided between its margarine, animal feed, and fertilizer interests.</p>
+<p id="C8P31">The firms in the modern segment were recently established foreign subsidiaries. De Beers Industrial Diamonds was one of the first companies to commence operations at Shannon in the early 1960s. The opening of the Pfizer plant at Ringaskiddy some ten&#x00A0;years later was described by the long-term managing director of the Industrial Development Authority, Padraic White, as a &#x2018;major coup&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-8-note-12"><sup>12</sup></xref></xrefGrp> Pfizer&#x2019;s Ringaskiddy operations employed 550 in 1972.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-8-note-13"><sup>13</sup></xref></xrefGrp> Two other US companies&#x2014;Quigley in Dungarvan and medical devices company Howmedica in Limerick&#x2014;were also part of the Pfizer group at this time.</p>
+<noteGroup>
+<note id="oso-9780198878230-chapter-8-note-12" type="footnote"><p><enumerator><sup>12</sup></enumerator> <bibItem id="oso-9780198878230-chapter-8-bibItem-9" class="book" author="MacSharry, Ray|White, Padraic A." date="2000" title="The Making of the Celtic Tiger: The Inside Story of Ireland&#x2019;s Booming Economy" page="189" place="Cork" publisher="Mercier Press" purpose="display"><nameGrp foreNames="Ray" mainName="Macsharry" role="author">Ray MacSharry</nameGrp> and <nameGrp foreNames="Padraic A." mainName="White" role="author">Padraic A. White</nameGrp>, <i>The Making of the Celtic Tiger: The Inside Story of Ireland&#x2019;s Booming Economy</i> (Cork: Mercier Press, 2000), 189.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-8-note-13" type="footnote"><p><enumerator><sup>13</sup></enumerator> Among the earliest export-oriented pharmaceutical companies to establish operations in Ireland in the early-to-mid 1960s were the Danish company Leo Laboratories and US company Squibb Linson. Both of these operations were much smaller than Pfizer&#x2019;s.</p></note>
+</noteGroup>
+<floatGroup id="oso-9780198878230-chapter-8-floatGroup-8">
+<tableGroup id="oso-9780198878230-chapter-8-tableGroup-11" doi="10.1093/oso/9780198878230.003.0008.007.0011" placement="float">
+<table id="oso-9780198878230-chapter-8-table-11" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-8-titleGroup-21"><title id="C8T11"><p><enumerator>Table 8.11</enumerator> Major employers, chemicals and miscellaneous (&#x2018;traditional&#x2019;), 1972</p></title></titleGroup>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<thead>
+<row>
+<entry colname="col1" align="left"><p>Company</p></entry>
+<entry colname="col2" align="left"><p>Main activities</p></entry>
+<entry colname="col3" align="left"><p>Key dates</p></entry>
+<entry colname="col4" align="left"><p>Ownership</p></entry>
+<entry colname="col5" align="left"><p>Employment, <i>c</i>. 1972</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>W. &#x0026; H. M. Goulding (Group)</p></entry>
+<entry colname="col2" align="left"><p>Fertilizer</p></entry>
+<entry colname="col3" align="left"><p>Established 1856</p></entry>
+<entry colname="col4" align="left"><p>Domestic</p></entry>
+<entry colname="col5" align="left"><p>1,400 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Irish Dunlop</p></entry>
+<entry colname="col2" align="left"><p>Tyres and rubber products</p></entry>
+<entry colname="col3" align="left"><p>Established 1934</p></entry>
+<entry colname="col4" align="left"><p>UK</p></entry>
+<entry colname="col5" align="left"><p>2,000 (1971)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>N&#x00ED;trigin &#x00C9;ireann Teo. (1961)</p></entry>
+<entry colname="col2" align="left"><p>Fertilizer</p></entry>
+<entry colname="col3" align="left"><p>Established 1961</p></entry>
+<entry colname="col4" align="left"><p>State</p></entry>
+<entry colname="col5" align="left"><p><i>c</i>. 800 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Unilever</p></entry>
+<entry colname="col2" align="left"><p>Diversified (margarine, soap, and fertilizer)</p></entry>
+<entry colname="col3" align="left"><p>In operation in Free State area since 1910</p></entry>
+<entry colname="col4" align="left"><p>Anglo-Dutch</p></entry>
+<entry colname="col5" align="left"><p>900 (1972)</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Source</i>: author.</p></source>
+</table>
+</tableGroup>
+<tableGroup id="oso-9780198878230-chapter-8-tableGroup-12" doi="10.1093/oso/9780198878230.003.0008.007.0012" placement="float">
+<table id="oso-9780198878230-chapter-8-table-12" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-8-titleGroup-22"><title id="C8T12"><p><enumerator>Table 8.12</enumerator> Major employers, &#x2018;new&#x2019; export-oriented chemicals and miscellaneous, 1972</p></title></titleGroup>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<thead>
+<row>
+<entry colname="col1" align="left"><p>Company</p></entry>
+<entry colname="col2" align="left"><p>Main activities</p></entry>
+<entry colname="col3" align="left"><p>Key dates</p></entry>
+<entry colname="col4" align="left"><p>Ownership</p></entry>
+<entry colname="col5" align="left"><p>Employment, <i>c</i>. 1972</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>Pfizer Group (including Howmedica and Quigley), chemicals and pharma</p></entry>
+<entry colname="col2" align="left"><p>Pharma</p></entry>
+<entry colname="col3" align="left"><p>Pfizer (1972) Howmedica (1972), Quigley (1971 and 1972)</p></entry>
+<entry colname="col4" align="left"><p>US</p></entry>
+<entry colname="col5" align="left"><p><i>c</i>. 900 (1972), of which: Pfizer, 550 (1972); Howmedica, 200 (1972); Quigley, <i>c</i>. 140 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Semperit</p></entry>
+<entry colname="col2" align="left"><p>Tyre manufacturing</p></entry>
+<entry colname="col3" align="left"><p>Established 1969</p></entry>
+<entry colname="col4" align="left"><p>Austrian</p></entry>
+<entry colname="col5" align="left"><p>700 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Snia</p></entry>
+<entry colname="col2" align="left"><p>Man-made fibres</p></entry>
+<entry colname="col3" align="left"><p>Established 1972</p></entry>
+<entry colname="col4" align="left"><p>Italian</p></entry>
+<entry colname="col5" align="left"><p>550 (1973)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>De Beers Industrial Diamonds/Shannon Diamond and Carbide</p></entry>
+<entry colname="col2" align="left"><p>Industrial diamonds</p></entry>
+<entry colname="col3" align="left"><p>Shannon Diamond established 1961; other group companies over the next few years</p></entry>
+<entry colname="col4" align="left"><p>South African, with Anglo-American participation</p></entry>
+<entry colname="col5" align="left"><p>550 (1972)</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Source</i>: author.</p></source>
+</table>
+</tableGroup>
+</floatGroup>
+</div2>
+</div1>
+<div1 id="oso-9780198878230-chapter-8-div1-3" doi="10.1093/oso/9780198878230.003.0008.021.0003">
+<titleGroup id="oso-9780198878230-chapter-8-titleGroup-23"><title id="C8S10"><p><enumerator>8.2</enumerator> Firm-Level Developments in the Wake of EEC Accession</p></title></titleGroup>
+<div2 id="oso-9780198878230-chapter-8-div2-9" doi="10.1093/oso/9780198878230.003.0008.022.0009" role="prelim">
+<p id="C8P32">The 1972 government White Paper on EEC accession had envisaged a net increase of 50,000 manufacturing jobs between 1970 and 1978, practically all of which were anticipated to come from new foreign industry. The eventual outcome fell far short of this. New foreign industry added only half the number of jobs than had been hoped for, and existing industry contracted significantly.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-8-note-14"><sup>14</sup></xref></xrefGrp></p>
+<p id="C8P33">The world economy had been severely affected by the dramatic oil price increases of the 1970s, and Ireland would perform particularly poorly over the following decade as a consequence of the inappropriate fiscal policies that had been pursued at the time.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-8-note-15"><sup>15</sup></xref></xrefGrp> By 1987, the country was in severe economic crisis. When account is taken of the change in coverage in the CIP (which added an extra 10,000 manufacturing jobs to the number included in 1979), <page id="192" chapter=""/>there was a net decline of more than 30,000&#x2014;some 15 per cent of the total&#x2014;between EEC entry and 1987.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-8-note-16"><sup>16</sup></xref></xrefGrp></p>
+<p id="C8P34">Though the economic crisis was severe, it was no deeper than others that had been experienced since independence.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-8-note-17"><sup>17</sup></xref></xrefGrp> The contrast in terms of the attrition of leading businesses, however, was stark. By the mid-1970s, almost a dozen were in receipt of support from the state rescue agency F&#x00F3;ir Teoranta. These included Electrical Industries of Ireland, Arklow Pottery, Clover Meats, Irish Biscuits, Irish Dunlop, Martin Mahony, Masser-Waterford, Seafield, Semperit, and Verolme.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-8-note-18"><sup>18</sup></xref></xrefGrp> Other than Irish Biscuits and Semperit, all had closed or downsized dramatically by 1987.</p>
+<p id="C8P35">A 1989 report by the National Economic and Social Council categorized industries into three groups in terms of how they had been affected by trade liberalization.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-8-note-19"><sup>19</sup></xref></xrefGrp> Though the analysis paid relatively little attention to the cost competitiveness issues discussed in previous chapters, the classification serves as a useful organizing framework. The first group consisted of the sectors into which Ireland specialized as a consequence of new export-oriented foreign direct investment (FDI) inflows. These included office and data-processing machinery, pharmaceuticals, and medical and optical devices. Some of these sectors were already populated by pre-1972 foreign firms, though the new sectoral classifications only came into use in 1973.</p>
+<p id="C8P36">The second group consisted of industries which benefited from some form of natural protection. Transportation costs or customized service requirements served to protect small-scale manufacturing and segments of paper, print, and packaging and clay, glass, and cement. Proximity to raw material inputs yielded Ireland a comparative advantage in meat and dairy products. Long-established brand loyalty insulated the drink and tobacco sectors.</p>
+<p id="C8P37">Industries other than in these two groups fared particularly poorly. The discussion that follows tracks what became of the leading firms identified above over the first decade or two of European Community membership. Discussion of the &#x2018;new&#x2019; FDI-dominated sectors is left to the end.</p>
+<noteGroup>
+<note id="oso-9780198878230-chapter-8-note-14" type="footnote"><p><enumerator><sup>14</sup></enumerator> On the number of jobs in new foreign industry over the period, see O&#x2019;Hearn, &#x2018;Estimates of New Foreign Manufacturing Employment in Ireland 1956&#x2013;1972&#x2019;.</p></note>
+<note id="oso-9780198878230-chapter-8-note-15" type="footnote"><p><enumerator><sup>15</sup></enumerator> Reprising his arguments of the 1950s, Whitaker&#x2014;by now a Senator&#x2014;complained in the early 1980s of how &#x2018;expansionary budgetary policies [had lost] much of their impact by spilling over into imports, creating huge deficits in the balance of payments and destabilising our public finances rather than raising productive activity at home&#x2019;: cited in <bibItem id="oso-9780198878230-chapter-8-bibItem-10" class="book" author="Gr&#x00E1;da, Cormac &#x00D3;" date="2011" title="Annual T. K. Whitaker lecture" publisher="Central Bank of Ireland" purpose="display"><nameGrp foreNames="Cormac &#x00D3;" mainName="Gr&#x00e1;da" role="author">Cormac &#x00D3; Gr&#x00E1;da</nameGrp>, &#x2018;Five Crises&#x2019;. Annual T. K. Whitaker lecture, Central Bank of Ireland, 2011.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-8-note-16" type="footnote"><p><enumerator><sup>16</sup></enumerator> Though manufacturing was declining as a share of employment across the developed world, Ireland was experiencing particularly high unemployment at this time. Fears of &#x2018;jobless growth&#x2019; would persist into the 1990s: <bibItem id="oso-9780198878230-chapter-8-bibItem-11" class="book" author="NESC" date="1993" title="The Association between Economic Growth and Employment Growth in Ireland" place="Dublin" publisher="National Economic and Social Council" purpose="display"><nameGrp nameType="nonPersonal" mainName="NESC">NESC</nameGrp>, <i>The Association between Economic Growth and Employment Growth in Ireland</i> (Dublin: National Economic and Social Council, 1993).</bibItem></p></note>
+<note id="oso-9780198878230-chapter-8-note-17" type="footnote"><p><enumerator><sup>17</sup></enumerator> &#x00D3; Gr&#x00E1;da, &#x2018;Five Crises&#x2019;.</p></note>
+<note id="oso-9780198878230-chapter-8-note-18" type="footnote"><p><enumerator><sup>18</sup></enumerator> <i>Irish Times</i>, 12 May 1977.</p></note>
+<note id="oso-9780198878230-chapter-8-note-19" type="footnote"><p><enumerator><sup>19</sup></enumerator> NESC, <i>Ireland in the European Community</i>, 76&#x2013;89, 134&#x2013;35.</p></note>
+</noteGroup>
+</div2>
+<div2 id="oso-9780198878230-chapter-8-div2-10" doi="10.1093/oso/9780198878230.003.0008.022.0010">
+<titleGroup id="oso-9780198878230-chapter-8-titleGroup-24"><title id="C8S11"><p><page id="193" chapter=""/>Food, Drink, and Tobacco</p></title></titleGroup>
+<p id="C8P38">O&#x2019;Malley characterizes much of the Irish food industry of the 1980s as &#x2018;low value-added basic processing of local primary products&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-8-note-20"><sup>20</sup></xref></xrefGrp> This provides a reasonably accurate description of the meat-processing segment. Cork Marts&#x2013;IMP would exit the industry in the 1980s and Clover Meats would go into receivership in 1984. The vacuum created would eventually be filled by the Goodman Group, which was still in its infancy in the early 1970s.</p>
+<p id="C8P39">The major creameries of the time, by contrast, would survive and thrive, and a number would evolve into highly sophisticated multinational producers. Mitchelstown and Ballyclough would merge to form Dairygold in 1990; Waterford Co-op and Avonmore would merge to form Glanbia in 1997.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-8-note-21"><sup>21</sup></xref></xrefGrp> The disposal of the assets of the state-owned Dairy Disposal Company in the 1970s would contribute to the emergence of the Kerry Group, into which Golden Vale Foods would ultimately be subsumed.</p>
+<p id="C8P40">There was a diversity of experiences among the &#x2018;other foods&#x2019; categories. Ice cream and chocolate confectionery producer H. B. was sold to Unilever in 1973. The confectionery factory (the former Urneys) would close a decade later. Rowntree&#x2013;Mackintosh&#x2019;s Dublin factory closed in 1986. Two of the four sugar factories also closed in the 1980s, and Erin Foods was wound up over the course of the decade. Irish Sugar would be privatized and renamed Greencore in 1991. Ranks (Ireland) would be liquidated in 1983. The Odlum Group would be partly acquired by Irish Sugar and later fully acquired by Greencore: its workforce had declined to 280 by 1992. The major bakery chains that had survived into the 1960s had all long since closed.</p>
+<p id="C8P41">Cadbury (Ireland) stands out as the only significant &#x2018;tariff jumper&#x2019; to remain in operation to the present day. Its chocolate crumb factory in Kerry had been export-oriented from the start. Confectionery had initially been produced only for the local market but, with the opening of a major new plant in Dublin in the late 1950s, it also began to be produced for export. Both plants remain in operation in 2022. The major drink and tobacco companies of 1972 emerged unscathed into the 1990s.</p>
+<noteGroup>
+<note id="oso-9780198878230-chapter-8-note-20" type="footnote"><p><enumerator><sup>20</sup></enumerator> <bibItem id="oso-9780198878230-chapter-8-bibItem-12" class="book" author="Eoin, O&#x2019;Malley" date="1989" title="Industry and Economic Development: The Challenge for the Latecomer" page="115" place="Dublin" publisher="Gill and Macmillan" purpose="display"><nameGrp foreNames="O&#x2019;Malley" mainName="Eoin" role="author">Eoin O&#x2019;Malley</nameGrp>, <i>Industry and Economic Development: The Challenge for the Latecomer</i> (Dublin: Gill and Macmillan, 1989), 115.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-8-note-21" type="footnote"><p><enumerator><sup>21</sup></enumerator> Established in the 1960s, Avonmore employed a workforce of 300 in 1972.</p></note>
+</noteGroup>
+</div2>
+<div2 id="oso-9780198878230-chapter-8-div2-11" doi="10.1093/oso/9780198878230.003.0008.022.0011">
+<titleGroup id="oso-9780198878230-chapter-8-titleGroup-25"><title id="C8S12"><p>Textiles, Clothing, Footwear, and Leather</p></title></titleGroup>
+<p id="C8P42">Textiles, clothing, footwear, and leather were among the sectors to experience the most dramatic job losses and company closures. Blarney Woollen <page id="194" chapter=""/>Mills ceased production in 1974. The Goodbody jute factories in Clara and Waterford both ceased production around this time, and the firm went out of business in 1984. Doreen and Janelle both closed in the early 1980s. Seafield&#x2013;Gentex ceased manufacturing later that decade. Sunbeam closed in 1990.</p>
+<p id="C8P43">Irish Leathers went into receivership in 1985. The Halliday/Clarks factory in Dundalk also closed in 1985, and the last remaining Clarks (Ireland) footwear operation shut down two&#x00A0;years later. Glen Abbey was broken up and sold off. Irish Ropes exited the carpet industry. Youghal Carpets, having been acquired by the state rescue agency, was sold to a British company in 1987. Both Youghal and Navan had already shed substantial numbers of jobs by then. The foreign-owned companies in the sector fared no better. Bond Worth was liquidated in 1977. Courtauld&#x2019;s Irish operations downsized substantially before closing in 1993. The US fashion garments operations at Shannon&#x2014;Lana Kit and Butte Knit&#x2014;closed in the early 1980s. &#x2018;Pretty Polly&#x2019; closed in 1995. None of the large employers of 1972 survived in anything close to their original form.</p>
+</div2>
+<div2 id="oso-9780198878230-chapter-8-div2-12" doi="10.1093/oso/9780198878230.003.0008.022.0012">
+<titleGroup id="oso-9780198878230-chapter-8-titleGroup-26"><title id="C8S13"><p>Clay, Glass, and Cement</p></title></titleGroup>
+<p id="C8P44">Consistent with the NESC analysis, developments in the clay, glass, and cement sector were generally more benign. Cement Roadstone Holdings would become a major indigenous multinational, and Waterford Glass would prosper for several more decades. The Irish Glass Bottle Company was still a substantial employer when it was acquired in 1992: its main plant in Ringsend would survive for another decade. Arklow Pottery was bought out by a Japanese firm in 1977. Efforts to develop an export trade failed to ensure its survival, however, and it ceased production in 1985.</p>
+</div2>
+<div2 id="oso-9780198878230-chapter-8-div2-13" doi="10.1093/oso/9780198878230.003.0008.022.0013">
+<titleGroup id="oso-9780198878230-chapter-8-titleGroup-27"><title id="C8S14"><p>Vehicle Assembly and &#x2018;Traditional&#x2019; Metals and Engineering</p></title></titleGroup>
+<p id="C8P45">The Ford plant in Cork closed in 1984 as the safeguard measures agreed at EEC accession approached their expiry date. The Philip Pierce plant in Wexford had been sold as a going concern when the Brittain Group went into liquidation in 1977; it closed in 1980. Unidare vacated its massive Finglas campus in 1995; it would survive as a shadow of its former self until liquidated in 2006. Hammond Holdings and Masser-Waterford were both acquired by the Tonge-McGloughlin (TMG) Group in the 1970s. Hammond Lane Foundry closed in 1973; Masser-Waterford went into receivership in <page id="195" chapter=""/>1982. Electrical Industries of Ireland closed in the 1970s, Solus Teoranta and Verolme Dockyard in the 1980s. Irish Steel remained on life support until sold to the Indian multinational Ispat in 1995. It closed six&#x00A0;years later.</p>
+</div2>
+<div2 id="oso-9780198878230-chapter-8-div2-14" doi="10.1093/oso/9780198878230.003.0008.022.0014">
+<titleGroup id="oso-9780198878230-chapter-8-titleGroup-28"><title id="C8S15"><p>Paper and Printing, &#x2018;Traditional&#x2019; Chemicals and Miscellaneous</p></title></titleGroup>
+<p id="C8P46">All three of the newspaper groups survived into the 1990s, though the <i>Irish Press</i> would close in 1995. Even by 1972, Smurfit was on the verge of becoming a significant multinational. St Joe Paper had sold its Irish interests in 1979. Both of its former mills would close by 1982. The Clondalkin paper mills also closed in 1982. Irish Dunlop&#x2019;s Cork factory closed in 1983, as did Unilever&#x2019;s Dublin soap factory. By 1984, the workforce at Goulding Chemicals had fallen below 100. The heavily indebted N&#x00ED;trigin &#x00C9;ireann Teoranta (NET) would become a holding company for Irish Fertilizer Industries, a joint venture with British group ICI, in 1987.</p>
+</div2>
+<div2 id="oso-9780198878230-chapter-8-div2-15" doi="10.1093/oso/9780198878230.003.0008.022.0015">
+<titleGroup id="oso-9780198878230-chapter-8-titleGroup-29"><title id="C8S16"><p>&#x2018;New&#x2019; FDI-Dominated Sectors</p></title></titleGroup>
+<p id="C8P47">Overall outcomes in the &#x2018;new&#x2019; (export-oriented) FDI-dominated sectors were more benign, though there was substantial churn even within this segment. Standard Pressed Steel closed its Galway plant in 1977. Philips closed one of its Dublin plants several&#x00A0;years later. Other of their Irish plants remained in operation. Ferenka and Snia both exited with the closure of their respective plants in 1977 and 1983.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-8-note-22"><sup>22</sup></xref></xrefGrp></p>
+<p id="C8P48">Ecco was sold in 1988, Technicon in 1989, and Krups in 1991. In these cases, the transition to new ownership was relatively seamless and the plants remained in operation. The Technicon plant, subsequently Bayer Diagnostics and now part of Siemens, remains in operation to this day. So, too, do the Irish operations of Pfizer, Liebherr, Becton Dickinson, and De Beers (now Element Six).</p>
+<p fullOut="Y" id="C8P49">Export-oriented foreign MNC <i>entrants</i> post-1973 were concentrated in chemicals and pharmaceuticals; computer, electronic and optical products; <page id="196" chapter=""/>and medical devices. These sectors accounted for almost half of employment in &#x2018;new&#x2019; (post-1955) foreign multinational companies (MNCs) in 1986, up from one-quarter in 1973.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-8-note-23"><sup>23</sup></xref></xrefGrp> They were the major merchandise export sectors of the &#x2018;Celtic Tiger&#x2019; era, and they remain so to this day.</p>
+<p id="C8P50">Each of these segments was already dominated by high-profile US MNCs on the eve of EEC accession. Computer assembly would become a major growth industry over the following decades. Digital Equipment Corporation, which opened in Galway in 1972, was the first computer assembler to commence operations in the country. It would meet the criterion for inclusion on the list of major manufacturing employers within a&#x00A0;year of Ireland&#x2019;s joining the EEC.</p>
+<noteGroup>
+<note id="oso-9780198878230-chapter-8-note-22" type="footnote"><p><enumerator><sup>22</sup></enumerator> Snia was a synthetic fibres producer, as was Ferenka&#x2019;s Dutch parent, Enka. Synthetic fibres had been viewed as a potential growth sector by the Industrial Development Authority but was particularly hard hit by the oil-price shocks of the 1970s. So too was the motor vehicles sector, which was of relevance to Ferenka. Its parent company was restructuring its global operations at the time the Limerick plant&#x2014; which had been bedevilled by industrial relations problems&#x2014;was closed.</p></note>
+<note id="oso-9780198878230-chapter-8-note-23" type="footnote"><p><enumerator><sup>23</sup></enumerator> <bibItem id="oso-9780198878230-chapter-8-bibItem-13" class="journalArticle" author="Barry, Frank" date="2007" journalIssue="3" title="Foreign Direct Investment and Institutional Co-evolution in Ireland" journalName="Scandinavian Economic History Review" vol="55" page="266" purpose="display"><nameGrp foreNames="Frank" mainName="Barry" role="author">Frank Barry</nameGrp>, &#x2018;Foreign Direct Investment and Institutional Co-evolution in Ireland&#x2019;. <i>Scandinavian Economic History Review</i> 55, 3 (2007): 266</bibItem>: table 2.</p></note>
+</noteGroup>
+</div2>
+</div1>
+</textMatter>
+<appendixGroup id="oso-9780198878230-chapter-8-appendixGroup-1">
+<appendix id="oso-9780198878230-chapter-8-appendix-1" doi="10.1093/oso/9780198878230.003.0008.005.0001">
+<textMatter id="oso-9780198878230-chapter-8-textMatter-2">
+<div1 id="oso-9780198878230-chapter-8-div1-4" doi="10.1093/oso/9780198878230.003.0008.021.0004">
+<titleGroup id="oso-9780198878230-chapter-8-titleGroup-30"><title><p><enumerator>Appendix 8.1</enumerator> Largest Manufacturing Establishments of 1972</p></title></titleGroup>
+<p><?Insert-Table ID="oso-9780198878230-chapter-8-tableGroup-13"?></p>
+<p id="C8P51">The primary focus of the book has been on firms rather than establishments. Analysis of the regional distribution of industry, however, depends on where establishments are located. Identifying workforce numbers at this level is generally more difficult than at the level of the firm. <xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-8-tableGroup-13">8.13</xref></xrefGrp> provides what is considered to be a reasonably comprehensive list of the factories or establishments employing 500 or more in 1972. Other than the several in Kerry, none are in the &#x2018;designated areas&#x2019; which were eligible for preferential grant treatment.</p>
+<floatGroup id="oso-9780198878230-chapter-8-floatGroup-9">
+<tableGroup id="oso-9780198878230-chapter-8-tableGroup-13" doi="10.1093/oso/9780198878230.003.0008.007.0013" placement="float">
+<table id="oso-9780198878230-chapter-8-table-13" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-8-titleGroup-31"><title id="C8T13"><p><enumerator>Table 8.13</enumerator> Manufacturing establishments employing workforces of 500+ in 1972</p></title></titleGroup>
+<tgroup cols="6">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<colspec colnum="6" colname="col6"/>
+<thead>
+<row>
+<entry colname="col1" align="left"><p>Establishment</p></entry>
+<entry colname="col2" align="left"><p>Location</p></entry>
+<entry colname="col3" align="left"><p>Establishment</p></entry>
+<entry colname="col4" align="left"><p>Location</p></entry>
+<entry colname="col5" align="left"><p>Establishment</p></entry>
+<entry colname="col6" align="left"><p>Location</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>Arklow Pottery</p></entry>
+<entry colname="col2" align="left"><p>Arklow, County Wicklow</p></entry>
+<entry colname="col3" align="left"><p>Glen Abbey</p></entry>
+<entry colname="col4" align="left"><p>Dublin</p></entry>
+<entry colname="col5" align="left"><p>Navan Carpets</p></entry>
+<entry colname="col6" align="left"><p>Navan, County Meath</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Ballyclough Co-operative Creamery</p></entry>
+<entry colname="col2" align="left"><p>Mallow, County Cork</p></entry>
+<entry colname="col3" align="left"><p>Golden Vale</p></entry>
+<entry colname="col4" align="left"><p>Cork</p></entry>
+<entry colname="col5" align="left"><p>N&#x00ED;trigin &#x00C9;ireann Teo</p></entry>
+<entry colname="col6" align="left"><p>Arklow</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Batchelors</p></entry>
+<entry colname="col2" align="left"><p>Dublin</p></entry>
+<entry colname="col3" align="left"><p>Goodbody</p></entry>
+<entry colname="col4" align="left"><p>Waterford</p></entry>
+<entry colname="col5" align="left"><p>Pfizer</p></entry>
+<entry colname="col6" align="left"><p>Cork</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Becton Dickinson</p></entry>
+<entry colname="col2" align="left"><p>Drogheda, County Louth</p></entry>
+<entry colname="col3" align="left"><p>Guinness brewery</p></entry>
+<entry colname="col4" align="left"><p>Dublin</p></entry>
+<entry colname="col5" align="left"><p>Philips Electrical</p></entry>
+<entry colname="col6" align="left"><p>Dublin</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Blarney Woollen Mills</p></entry>
+<entry colname="col2" align="left"><p>Blarney, County Cork</p></entry>
+<entry colname="col3" align="left"><p>H. B. Ice Cream</p></entry>
+<entry colname="col4" align="left"><p>Rathfarnham, Dublin</p></entry>
+<entry colname="col5" align="left"><p>Players&#x2013;Wills</p></entry>
+<entry colname="col6" align="left"><p>Dublin</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Bolands</p></entry>
+<entry colname="col2" align="left"><p>Dublin</p></entry>
+<entry colname="col3" align="left"><p>Independent Newspapers</p></entry>
+<entry colname="col4" align="left"><p>Dublin</p></entry>
+<entry colname="col5" align="left"><p>Pretty Polly</p></entry>
+<entry colname="col6" align="left"><p>Killarney, County Kerry</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Bush (Smurfit)</p></entry>
+<entry colname="col2" align="left"><p>Dublin</p></entry>
+<entry colname="col3" align="left"><p>Irish Dunlop</p></entry>
+<entry colname="col4" align="left"><p>Cork</p></entry>
+<entry colname="col5" align="left"><p>Roadstone (CRH)</p></entry>
+<entry colname="col6" align="left"><p>Dublin</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p><page id="197" chapter=""/>C&#x0026;C (included under Guinness Group)</p></entry>
+<entry colname="col2" align="left"><p>Dublin</p></entry>
+<entry colname="col3" align="left"><p>Irish Glass Bottle Company</p></entry>
+<entry colname="col4" align="left"><p>Dublin</p></entry>
+<entry colname="col5" align="left"><p>Roscrea Meats</p></entry>
+<entry colname="col6" align="left"><p>Roscrea, County Tipperary</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Cadbury (Ireland)</p></entry>
+<entry colname="col2" align="left"><p>Dublin</p></entry>
+<entry colname="col3" align="left"><p>Irish Meat Packers</p></entry>
+<entry colname="col4" align="left"><p>Leixlip, County Kildare</p></entry>
+<entry colname="col5" align="left"><p>Rowntree&#x2013;Mackintosh</p></entry>
+<entry colname="col6" align="left"><p>Dublin</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Carrolls</p></entry>
+<entry colname="col2" align="left"><p>Dundalk, County Louth</p></entry>
+<entry colname="col3" align="left"><p>Irish Press</p></entry>
+<entry colname="col4" align="left"><p>Dublin</p></entry>
+<entry colname="col5" align="left"><p>Semperit</p></entry>
+<entry colname="col6" align="left"><p>Dublin</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Cement Ltd (CRH)</p></entry>
+<entry colname="col2" align="left"><p>Drogheda, County Louth</p></entry>
+<entry colname="col3" align="left"><p>Irish Ropes</p></entry>
+<entry colname="col4" align="left"><p>Newbridge, County Kildare</p></entry>
+<entry colname="col5" align="left"><p>Smurfit</p></entry>
+<entry colname="col6" align="left"><p>Walkinstown, Dublin</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Clarks Shoes</p></entry>
+<entry colname="col2" align="left"><p>Dundalk, County Louth</p></entry>
+<entry colname="col3" align="left"><p>Irish Steel</p></entry>
+<entry colname="col4" align="left"><p>Cork</p></entry>
+<entry colname="col5" align="left"><p>Snia</p></entry>
+<entry colname="col6" align="left"><p>Sligo</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Clondalkin Paper Mills</p></entry>
+<entry colname="col2" align="left"><p>Dublin</p></entry>
+<entry colname="col3" align="left"><p>Irish Sugar</p></entry>
+<entry colname="col4" align="left"><p>Mallow, County Cork</p></entry>
+<entry colname="col5" align="left"><p>Solus Teo.</p></entry>
+<entry colname="col6" align="left"><p>Bray, County Wicklow</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Clover Meats</p></entry>
+<entry colname="col2" align="left"><p>Waterford</p></entry>
+<entry colname="col3" align="left"><p>Irish Sugar</p></entry>
+<entry colname="col4" align="left"><p>Carlow</p></entry>
+<entry colname="col5" align="left"><p>Sunbeam</p></entry>
+<entry colname="col6" align="left"><p>Cork</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>De Beers</p></entry>
+<entry colname="col2" align="left"><p>Shannon</p></entry>
+<entry colname="col3" align="left"><p><i>Irish Times</i></p></entry>
+<entry colname="col4" align="left"><p>Dublin</p></entry>
+<entry colname="col5" align="left"><p>Sunbeam</p></entry>
+<entry colname="col6" align="left"><p>Tullamore, County Offaly</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Ecco (General Electric)</p></entry>
+<entry colname="col2" align="left"><p>Dundalk, County Louth</p></entry>
+<entry colname="col3" align="left"><p>W. &#x0026; R. Jacob</p></entry>
+<entry colname="col4" align="left"><p>Dublin</p></entry>
+<entry colname="col5" align="left"><p>Technicon</p></entry>
+<entry colname="col6" align="left"><p>Swords, County Dublin</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>EI Electronics (General Electric)</p></entry>
+<entry colname="col2" align="left"><p>Shannon</p></entry>
+<entry colname="col3" align="left"><p>Johnston, Mooney &#x0026; O&#x2019;Brien</p></entry>
+<entry colname="col4" align="left"><p>Dublin</p></entry>
+<entry colname="col5" align="left"><p>Unidare</p></entry>
+<entry colname="col6" align="left"><p>Dublin</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Electrical Industries of Ireland</p></entry>
+<entry colname="col2" align="left"><p>Dunleer, County Louth</p></entry>
+<entry colname="col3" align="left"><p>Killeen Paper Mills (St Joe Paper)</p></entry>
+<entry colname="col4" align="left"><p>Dublin</p></entry>
+<entry colname="col5" align="left"><p>Verolme Dockyard</p></entry>
+<entry colname="col6" align="left"><p>Cork</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Ferenka</p></entry>
+<entry colname="col2" align="left"><p>Limerick</p></entry>
+<entry colname="col3" align="left"><p>Krups</p></entry>
+<entry colname="col4" align="left"><p>Limerick</p></entry>
+<entry colname="col5" align="left"><p>Waterford Crystal</p></entry>
+<entry colname="col6" align="left"><p>Waterford</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Ford</p></entry>
+<entry colname="col2" align="left"><p>Cork</p></entry>
+<entry colname="col3" align="left"><p>Lana Knit</p></entry>
+<entry colname="col4" align="left"><p>Shannon</p></entry>
+<entry colname="col5" align="left"><p>Williams &#x0026; Woods (Nestl&#x00E9;)</p></entry>
+<entry colname="col6" align="left"><p>Dublin</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Galtee Meats</p></entry>
+<entry colname="col2" align="left"><p>Mitchelstown, County Cork</p></entry>
+<entry colname="col3" align="left"><p>Liebherr</p></entry>
+<entry colname="col4" align="left"><p>Killarney, County Kerry</p></entry>
+<entry colname="col5" align="left"><p>John A. Wood (CRH)</p></entry>
+<entry colname="col6" align="left"><p>Cork</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Gateaux</p></entry>
+<entry colname="col2" align="left"><p>Dublin</p></entry>
+<entry colname="col3" align="left"><p>National Board &#x0026; Paper (St Joe Paper)</p></entry>
+<entry colname="col4" align="left"><p>Waterford</p></entry>
+<entry colname="col5" align="left"><p>Youghal Carpets</p></entry>
+<entry colname="col6" align="left"><p>Cork</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Source</i>: author.</p></source>
+</table>
+</tableGroup>
+</floatGroup>
+</div1>
+</textMatter>
+</appendix>
+</appendixGroup>
+</chapter>
+</mainText>
+</book>

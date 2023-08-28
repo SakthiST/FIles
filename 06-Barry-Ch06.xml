@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OXFORD//DTD OXCHAPML//EN" "OxChapML.dtd">
+<book id="oso-9780198878230-book-1" doi="10.1093/oso/9780198878230.001.0001" OSOsubject="physics">
+<bookMeta id="oso-9780198878230-bookMeta-1">
+<versionInfo>
+<versionDate>2023-05-08</versionDate>
+<versionDesc>Proofs</versionDesc>
+</versionInfo>
+<metaItem about="book">
+<metaItem about="DTD">
+<metaDescribes predicate="DTDname">OxChapML</metaDescribes>
+</metaItem>
+<metaItem about="TCIgroup">
+<metaItem about="TCI">
+<metaDescribes predicate="TCIname">OUP TCI</metaDescribes>
+<metaDescribes predicate="version">20170301.0</metaDescribes>
+</metaItem>
+</metaItem>
+<metaDescribes predicate="product">oso</metaDescribes>
+<metaDescribes predicate="colour-figures-for-online">Yes</metaDescribes>
+<metaDescribes predicate="publishing-group">oso US</metaDescribes>
+<metaDescribes predicate="captured-by">Integra</metaDescribes>
+</metaItem>
+</bookMeta>
+<mainText id="oso-9780198878230-mainText-1">
+<chapter id="oso-9780198878230-chapter-6" doi="10.1093/oso/9780198878230.003.0006">
+<metaInfo id="oso-9780198878230-chapter-6-metaInfo-1">
+<versionInfo>
+<versionDate>2023-05-08</versionDate>
+<versionDesc>Proofs</versionDesc>
+</versionInfo>
+<creatorGroup>
+<creator class="author" invertedForm="Barry, Frank"><forenames>Frank</forenames><surname>Barry</surname></creator>
+</creatorGroup>
+<abstract>
+<p>That export-oriented foreign investment was targeted before significant trade liberalization began identifies the Irish outward-reorientation process as an early example of &#x2018;dual-track reform&#x2019;. Post-war balance-of-payments difficulties were intensified by the exhaustion of the &#x2018;easy&#x2019; first phase of the import-substitution strategy. Outward reorientation was politically difficult however because of the large number of jobs that remained dependent on protection for their survival. The Department of Industry and Commerce and the recently established Industrial Development Authority advocated export incentives. By creating a new source of industrial employment without threatening import-substituting interests, this would help to establish the preconditions for the later abandonment of protectionism. That the export profits tax relief announced by the second Inter-Party government in 1956 had been opposed by the Department of Finance distinguishes it clearly from the policy innovations associated with the later partnership of Whitaker and Lemass. The strategy of &#x2018;industrialisation by invitation&#x2019; was particularly suited to Irish circumstances. The response of the US authorities and US consultants casts doubt on the hypothesis that the process was largely scripted in Washington. Other industrial developments over the period included the product diversification of the more innovative creameries and the emergence of new export-oriented indigenous industries producing income-elastic items such as carpets, crystal glass, processed beef, and whiskey liqueur. The Shannon industrial zone might be characterized as Lemass&#x2019;s response to the Inter-Party initiative. The chapter identifies the largest manufacturing employers and the major &#x2018;new foreign industry&#x2019; employers of the early 1960s.</p>
+</abstract>
+<keySubjectWords>
+<keyword>dual-track reform</keyword>
+<keyword>export-oriented FDI</keyword>
+<keyword>industrialization by invitation</keyword>
+<keyword>outward reorientation</keyword>
+<keyword>post-war economy</keyword>
+<keyword>Industrial Development Authority</keyword>
+<keyword>export profits tax relief</keyword>
+<keyword>export sales relief</keyword>
+<keyword>Shannon industrial estate</keyword>
+<keyword>export-processing zone</keyword>
+<keyword>Shannon Free Area Development Company (SFADCo)</keyword></keySubjectWords>
+<disclaimer><p><i>Industry and Policy in Independent Ireland, 1922&#x2013;1972</i>. Frank Barry, Oxford University Press. &#x00A9; Frank Barry (2023). DOI: 10.1093/oso/9780198878230.003.0006</p></disclaimer>
+<metaItem about="book">
+<metaItem about="DTD">
+<metaDescribes predicate="DTDname">OxChapML</metaDescribes>
+</metaItem>
+<metaItem about="TCIgroup">
+<metaItem about="TCI">
+<metaDescribes predicate="TCIname">OUP TCI</metaDescribes>
+<metaDescribes predicate="version">20170301.0</metaDescribes>
+</metaItem>
+</metaItem>
+<metaDescribes predicate="product">oso</metaDescribes>
+<metaDescribes predicate="colour-figures-for-online">Yes</metaDescribes>
+<metaDescribes predicate="publishing-group">oso US</metaDescribes>
+<metaDescribes predicate="captured-by">Integra</metaDescribes>
+</metaItem>
+</metaInfo>
+<titleGroup id="oso-9780198878230-chapter-6-titleGroup-1"><title id="C6"><p><page id="118" chapter=""/><enumerator>6</enumerator> The Post-War World and Dual-Track Reform</p></title></titleGroup>
+<textMatter id="oso-9780198878230-chapter-6-textMatter-1">
+<div1 id="oso-9780198878230-chapter-6-div1-1" doi="10.1093/oso/9780198878230.003.0006.021.0001" role="prelim">
+<p id="C6P1">Ireland&#x2019;s growth performance up to 1939 was close to what might have been expected for an economy at its level of development: it grew slightly more rapidly on average than richer neighbouring countries and slightly less rapidly than poorer ones.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-1"><sup>1</sup></xref></xrefGrp> Irish economic policies had not been substantially different from those pursued elsewhere across Europe in the 1920s and 1930s, and though the justification for protectionism differed between advanced and less advanced economies, the policy itself may not have been inappropriate in either case in the era of the Great Depression. Keynes had begun to reconsider his adherence to free trade in British policy debates, though he considered the decline in the value of sterling following the United Kingdom&#x2019;s departure from the Gold Standard an adequate substitute for tariff protection.</p>
+<p id="C6P2">Statistician R. C. Geary had attended Keynes&#x2019;s lecture in Dublin in 1933 in the company of &#x2018;the two Georges&#x2019;&#x2014;Professors George O&#x2019;Brien of University College Dublin (UCD) and George Duncan of Trinity College Dublin (TCD). On his way to the venue, he would later recount, &#x2018;I heard a remark which influenced me all my life (by Duncan, I think)&#x2019;&#x2014;that a well-known Swedish economist &#x2018;has shown that the classical optimality argument in favour of free trade is valid only when the factors of production are fully engaged&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-2"><sup>2</sup></xref></xrefGrp></p>
+<p id="C6P3">Ireland&#x2019;s subsequent growth performance up to 1973&#x2014;and particularly up to the early 1960s&#x2014;was much less favourable in comparative terms. Its growth record in 1950&#x2013;1958 was the worst in Western Europe and the emigration-fuelled decline in population over these&#x00A0;years was nearly twice as great as over the entire preceding period since independence.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-3"><sup>3</sup></xref></xrefGrp> The delay in abandoning protectionism meant that the country not only missed out on <page id="119" chapter=""/>the post-war European boom but also remained overly dependent on what was now an underperforming UK economy.</p>
+<p id="C6P4">How is the delay to be explained? &#x00D3; Gr&#x00E1;da and O&#x2019;Rourke suggest that &#x2018;policy-makers had simply been slow to learn that [the policy] was mistaken&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-4"><sup>4</sup></xref></xrefGrp> For more advanced economies however, for which the protectionism of the 1930s had been &#x2018;defensive&#x2019;, the coordinated nature of the easing of trade restrictions under the aegis of the Marshall Plan made liberalization easier. For less advanced economies, import substitution remained the cornerstone of their development strategies.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-5"><sup>5</sup></xref></xrefGrp> Most of the other newly established states of the inter-war period were now part of the Eastern bloc. The less developed countries of Western Europe&#x2014;Greece, Spain, Portugal, and Ireland&#x2014;would have to forge their own individual paths towards outward reorientation.</p>
+<p id="C6P5">There were two dimensions to the bind in which such countries found themselves. The most obvious was the massive industrial disruption that liberalization would entail. The Fiscal Inquiry Committee of 1923 had warned that the industrial structure that would emerge under protectionism would make it more difficult to reverse course later. By 1948, as seen in <xrefGrp>Chapter&#x00A0;<xref ref="oso-9780198878230-chapter-5">5</xref></xrefGrp>, almost half of the largest manufacturing operations owed their existence to the import-substitution policy. The Department of Industry and Commerce would suggest, in the internal civil service policy debates of the late 1950s, that up to two-thirds of the country&#x2019;s manufacturing jobs could be lost if trade barriers were completely dismantled.</p>
+<p id="C6P6">The second constraint was more subtle. Protectionism enhances the &#x2018;discretionary interventions, patronage resources and rent-seeking opportunities for politicians in electoral democracies&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-6"><sup>6</sup></xref></xrefGrp> Tom Kettle had written in the pre-independence era of the danger it raised of the &#x2018;profound corruption of [&#x2026;] national political life&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-7"><sup>7</sup></xref></xrefGrp> Cormac &#x00D3; Gr&#x00E1;da observes that the tariff regime created &#x2018;a role for the politician as broker&#x2019;; Mary Daly notes that alternative systems &#x2018;would have deprived the government party of potentially beneficial political support&#x2019;; Tom Garvin surmises that, under the Lemass regime, &#x2018;a lot of well-connected people became rich&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-8"><sup>8</sup></xref></xrefGrp></p>
+<p id="C6P7"><page id="120" chapter=""/>The politics of exiting such an equilibrium are notoriously difficult. The experience of the developing world since the 1970s is illustrative in this regard. The trade liberalization measures adopted when balance-of-payments difficulties are encountered are frequently reversed once the immediate crisis has passed. Reversal is particularly common in the case of externally imposed programmes which pay inadequate attention to local political economy considerations. This casts doubt on the hypothesis advanced by observers such as Denis O&#x2019;Hearn and John Kurt Jacobsen that the Irish process was largely scripted in Washington.</p>
+<p id="C6P8">O&#x2019;Hearn asserts that the Irish regime change was &#x2018;dominated and redirected by a third force: a world capitalist political economy dominated by the institutions of First World capital&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-9"><sup>9</sup></xref></xrefGrp> Jacobsen posits that &#x2018;the state elite, and the new cadre of economic consultants, transmitted economic ideas [which] actually emanated from powerful exogenous actors&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-10"><sup>10</sup></xref></xrefGrp> The archival evidence demonstrates that the policy initiatives of the period emerged largely from within the Irish policymaking system; that significant components of the advice emanating from the United States were rejected; and that the US authorities and other external agencies, in criticizing the Irish process, failed to understand the political economy difficulties it was designed to surmount. Jacobsen&#x2019;s assertion that &#x2018;[not] much inventiveness was displayed in adapting [the US advice] to Irish conditions&#x2019; does not stand up to scrutiny.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-11"><sup>11</sup></xref></xrefGrp></p>
+<p id="C6P9">Development economist Dani Rodrik suggests:</p>
+<p><displayText id="oso-9780198878230-chapter-6-displayText-1" class="prosequote">
+<p>New ideas about what can be done can unlock what otherwise might seem like the iron grip of vested interests [.&#x00A0;.&#x00A0;.] Just as we think of technological ideas as those that relax resource constraints, we can think of political ideas as those that relax political constraints, enabling those in power to make themselves (and possibly the rest of society) better off without undermining their political power.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-12"><sup>12</sup></xref></xrefGrp></p>
+</displayText></p>
+<p fullOut="Y" id="C6P10">Ireland&#x2019;s receptivity to new policy ideas was enhanced by the intensified electoral competition of the post-war years. After an unbroken sixteen-year period in office, Fianna F&#x00E1;il was unseated in the 1948 general election. Each of the next three general elections would institute a further change <page id="121" chapter=""/>of government. Lemass himself would later admit that &#x2018;it was not until our second period in opposition that we really got down to [.&#x00A0;.&#x00A0;.] preparing our minds for a comprehensive approach&#x2019; to the post-war economic problems of the country.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-13"><sup>13</sup></xref></xrefGrp> Policymakers of all political parties inched each other towards the new export-oriented foreign direct investment (FDI) strategy. The Industrial Development Authority was established by the first Fine Gael-led (Inter-Party) government in 1949; Ireland&#x2019;s low corporation-tax regime originated with the measures introduced by the second Inter-Party government in 1956. Fianna F&#x00E1;il would prove particularly adept politically however. It would return to office for a further unbroken sixteen-year period in 1957.</p>
+<p id="C6P11">&#x2018;New states&#x2019;, it has been noted, &#x2018;generally sought to bypass old masters when seeking technical guidance on industrialisation and development.&#x2019;<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-14"><sup>14</sup></xref></xrefGrp> Fianna F&#x00E1;il&#x2019;s value system in particular &#x2018;was more politically reconcilable with an opening to the west than with one to the east&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-15"><sup>15</sup></xref></xrefGrp> That the United States had overtaken the United Kingdom as the major global source of FDI by the late 1940s facilitated a shift in attitudes towards foreign ownership. The Fianna F&#x00E1;il newspaper, the <i>Irish Press</i>, had consistently promoted the Ford enterprise in Cork, and Lemass had explicitly exempted it from his claim in 1929 that much of the foreign capital operating in Ireland was of little value to the nation. As he said in parliament in 1948, suspicions pertaining to British FDI &#x2018;do not necessarily apply to capital from other countries&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-16"><sup>16</sup></xref></xrefGrp> From the opposition benches, he asked the new Minister for Industry and Commerce about reports that the US government&#x2019;s European Recovery Programme planned to encourage US business investments in Europe. Both agreed that US investments were to be encouraged.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-17"><sup>17</sup></xref></xrefGrp> It is not coincidental that all of the external reports on industrial policy from Stacy May in 1952 to Telesis in 1982 were commissioned from US consultancies.</p>
+<p id="C6P12">The strategy of &#x2018;industrialization by invitation&#x2019; was particularly suited to Irish circumstances. It exploited the advantages that Ireland&#x2019;s extensive access to the UK market afforded while minimizing, to the extent possible, the costs of the industrial disruption inevitably associated with the dismantling of protectionist barriers. It also provided a way around the historical difficulty that, because of the ease of emigration, &#x2018;cheaper labour could do little <page id="122" chapter=""/>to compensate for Ireland&#x2019;s relative backwardness and isolation, or to generate the investment necessary for faster economic growth&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-18"><sup>18</sup></xref></xrefGrp> That the new FDI strategy predated the trade liberalization of the Whitaker&#x2013;Lemass era identifies it as an early example of what has come to be known since the Chinese outward-reorientation process of the late 1970s as &#x2018;dual-track reform&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-19"><sup>19</sup></xref></xrefGrp> By creating a new source of industrial employment without threatening existing import-substituting interests, it helped to establish the preconditions for the later abandonment of protectionism.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-20"><sup>20</sup></xref></xrefGrp></p>
+<noteGroup>
+<note id="oso-9780198878230-chapter-6-note-1" type="footnote"><p><enumerator><sup>1</sup></enumerator> That poorer countries can import best-practice technologies developed elsewhere is one reason why some such convergence in income per capita might be expected over the medium term. Ireland&#x2019;s relative growth performance over the various phases since independence is charted in <bibItem id="oso-9780198878230-chapter-6-bibItem-1" class="journalArticle" author="Kevin, O&#x2019;Rourke" date="2017" journalIssue="1" title="Independent Ireland in Comparative Perspective" journalName="Irish Economic and Social History" vol="44" page="19" pageLast="45" purpose="display"><nameGrp foreNames="O&#x2019;Rourke" mainName="Kevin" role="author">Kevin O&#x2019;Rourke</nameGrp>, &#x2018;Independent Ireland in Comparative Perspective&#x2019;. <i>Irish Economic and Social History</i> 44, 1 (2017): 19&#x2013;45.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-2" type="footnote"><p><enumerator><sup>2</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-2" class="journalArticle" author="Geary, R. C." date="1981" journalIssue="2" title="Review of George O&#x2019;Brien: A Biographical Memoir by J. Meenan" journalName="Economic and Social Review" vol="12" page="67" pageLast="70" purpose="display"><nameGrp foreNames="R. C." mainName="Geary" role="author">R. C. Geary</nameGrp>, &#x2018;Review of George O&#x2019;Brien: A Biographical Memoir by J. Meenan&#x2019;. <i>Economic and Social Review</i> 12, 2 (1981): 67&#x2013;70.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-3" type="footnote"><p><enumerator><sup>3</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-3" class="unclassified" author="&#x00D3; Gr&#x00E1;da, Cormac" date="2011" purpose="display"><nameGrp foreNames="Cormac" mainName="&#x00d3; Gr&#x00e1;da" role="author">Cormac &#x00D3; Gr&#x00E1;da</nameGrp>, &#x2018;Five Crises&#x2019;. Annual T. K. Whitaker Lecture, Central Bank of Ireland, 2011.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-4" type="footnote"><p><enumerator><sup>4</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-4" class="bookChapter" partAuthor="Gr&#x00E1;da, Cormac &#x00D3;|Kevin, O&#x2019;Rourke" partTitle="Irish Economic Growth, 1945&#x2013;88" editor="Crafts, Nicholas|Toniolo, Gianni" date="1996" title="Economic Growth in Europe Since 1945" page="414" place="Cambridge" publisher="Cambridge University Press" purpose="display"><nameGrp foreNames="Cormac &#x00D3;" mainName="Gr&#x00e1;da" role="partAuthor">Cormac &#x00D3; Gr&#x00E1;da</nameGrp> and <nameGrp foreNames="O&#x2019;Rourke" mainName="Kevin" role="partAuthor">Kevin O&#x2019;Rourke</nameGrp>, &#x2018;Irish Economic Growth, 1945&#x2013;88&#x2019;. In <i>Economic Growth in Europe Since 1945</i>, ed. <nameGrp foreNames="Nicholas" mainName="Crafts" role="editor">Nicholas Crafts</nameGrp> and <nameGrp foreNames="Gianni" mainName="Toniolo" role="editor">Gianni Toniolo</nameGrp> (Cambridge: Cambridge University Press, 1996), 414.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-5" type="footnote"><p><enumerator><sup>5</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-5" class="book" author="Liepmann, H." date="1938" title="Tariff Levels and the Economic Unity of Europe: An Examination of Tariff Policy, Export Movements and the Economic Integration of Europe, 1913&#x2013;1931" place="London" publisher="George Allen and Unwin" purpose="display"><nameGrp foreNames="H." mainName="Liepmann" role="author">H. Liepmann</nameGrp>, <i>Tariff Levels and the Economic Unity of Europe: An Examination of Tariff Policy, Export Movements and the Economic Integration of Europe, 1913&#x2013;1931</i> (London: George Allen and Unwin, 1938).</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-6" type="footnote"><p><enumerator><sup>6</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-6" class="journalArticle" author="Waterbury, John" date="1999" journalIssue="2" title="The Long Gestation and Brief Triumph of Import-Substituting Industrialization" journalName="World Development" vol="27" page="323" pageLast="341" purpose="display"><nameGrp foreNames="John" mainName="Waterbury" role="author">John Waterbury</nameGrp>, &#x2018;The Long Gestation and Brief Triumph of Import-Substituting Industrialization&#x2019;. <i>World Development</i> 27, 2 (1999): 323&#x2013;41.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-7" type="footnote"><p><enumerator><sup>7</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-7" class="bookChapter" partAuthor="Kettle, Tom" partTitle="The Economics of Nationalism" date="1918" title="The Day&#x2019;s Burden" place="Dublin, London" publisher="Maunsel" purpose="display"><nameGrp foreNames="Tom" mainName="Kettle" role="partAuthor">Tom Kettle</nameGrp>, &#x2018;The Economics of Nationalism&#x2019;, in <i>The Day&#x2019;s Burden</i> (Dublin, London: Maunsel, 1918), 143.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-8" type="footnote"><p><enumerator><sup>8</sup></enumerator> Cited in <bibItem id="oso-9780198878230-chapter-6-bibItem-8" class="journalArticle" author="Devlin, Anna|Barry, Frank" date="2019" journalIssue="1" title="Protection versus Free Trade in the Free State Era: The Finance Attitude" journalName="Irish Economic and Social History" vol="46" page="3" pageLast="21" purpose="display"><nameGrp foreNames="Anna" mainName="Devlin" role="author">Anna Devlin</nameGrp> and <nameGrp foreNames="Frank" mainName="Barry" role="author">Frank Barry</nameGrp>, &#x2018;Protection versus Free Trade in the Free State Era: The Finance Attitude&#x2019;. <i>Irish Economic and Social History</i> 46, 1 (2019): 3&#x2013;21.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-9" type="footnote"><p><enumerator><sup>9</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-9" class="journalArticle" author="Denis, O&#x2019;Hearn" date="1990" journalIssue="1" title="The Road from Import-Substituting to Export-Led Industrialization in Ireland: Who Mixed the Asphalt, Who Drove the Machinery, and Who Kept Making Them Change Directions?" journalName="Politics &#x0026; Society" vol="18" page="1" pageLast="38" purpose="display"><nameGrp foreNames="O&#x2019;Hearn" mainName="Denis" role="author">Denis O&#x2019;Hearn</nameGrp>, &#x2018;The Road from Import-Substituting to Export-Led Industrialization in Ireland: Who Mixed the Asphalt, Who Drove the Machinery, and Who Kept Making Them Change Directions?&#x2019;. <i>Politics &#x0026; Society</i> 18, 1 (1990): 1&#x2013;38.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-10" type="footnote"><p><enumerator><sup>10</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-10" class="book" author="Jacobsen, John Kurt" date="1994" title="Chasing Progress in the Irish Republic" place="Cambridge" publisher="Cambridge University Press" purpose="display"><nameGrp foreNames="John Kurt" mainName="Jacobsen" role="author">John Kurt Jacobsen</nameGrp>, <i>Chasing Progress in the Irish Republic</i> (Cambridge: Cambridge University Press, 1994).</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-11" type="footnote"><p><enumerator><sup>11</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-11" class="book" author="Jacobsen, John Kurt" date="1994" title="Chasing Progress in the Irish Republic" place="Cambridge" publisher="Cambridge University Press" purpose="display"><xrefGrp><xref ref="oso-9780198878230-chapter-6-bibItem-10">Ibid</xref></xrefGrp></bibItem>. Nor did US consultancy firms and the US administration necessarily speak with one voice, as will be seen below.</p></note>
+<note id="oso-9780198878230-chapter-6-note-12" type="footnote"><p><enumerator><sup>12</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-12" class="journalArticle" author="Rodrik, Dani" date="2014" journalIssue="1" title="When Ideas Trump Interests: Preferences, Worldviews, and Policy Innovations" journalName="Journal of Economic Perspectives" vol="28" page="189" pageLast="208" purpose="display"><nameGrp foreNames="Dani" mainName="Rodrik" role="author">Dani Rodrik</nameGrp>, &#x2018;When Ideas Trump Interests: Preferences, Worldviews, and Policy Innovations&#x2019;. <i>Journal of Economic Perspectives</i> 28, 1 (2014): 189&#x2013;208.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-13" type="footnote"><p><enumerator><sup>13</sup></enumerator> Cited in <bibItem id="oso-9780198878230-chapter-6-bibItem-13" class="book" author="Bew, Paul|Patterson, Henry" date="1982" title="Se&#x00E1;n Lemass and the Making of Modern Ireland 1945&#x2013;66" page="86" place="Dublin" publisher="Gill and Macmillan" purpose="display"><nameGrp foreNames="Paul" mainName="Bew" role="author">Paul Bew</nameGrp> and <nameGrp foreNames="Henry" mainName="Patterson" role="author">Henry Patterson</nameGrp>, <i>Se&#x00E1;n Lemass and the Making of Modern Ireland 1945&#x2013;66</i> (Dublin: Gill and Macmillan, 1982), 86.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-14" type="footnote"><p><enumerator><sup>14</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-14" class="bookChapter" partAuthor="Eunan, O&#x2019;Halpin" partTitle="Ireland Looking Outwards, 1880&#x2013;2016" editor="Bartlett, Thomas" date="2018" title="Cambridge History of Ireland Volume IV: 1880&#x2013;2016" page="834" pageLast="835" place="Cambridge" publisher="Cambridge University Press" purpose="display"><nameGrp foreNames="O&#x2019;Halpin" mainName="Eunan" role="partAuthor">Eunan O&#x2019;Halpin</nameGrp>, &#x2018;Ireland Looking Outwards, 1880&#x2013;2016&#x2019;, in <i>Cambridge History of Ireland Volume IV: 1880&#x2013;2016</i>, ed. <nameGrp foreNames="Thomas" mainName="Bartlett" role="editor">Thomas Bartlett</nameGrp> (Cambridge: Cambridge University Press, 2018), 834&#x2013;35.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-15" type="footnote"><p><enumerator><sup>15</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-15" class="book" author="Horgan, John" date="1999" title="Se&#x00E1;n Lemass, The Enigmatic Patriot" page="146" place="Dublin" publisher="Gill and Macmillan" purpose="display"><nameGrp foreNames="John" mainName="Horgan" role="author">John Horgan</nameGrp>, <i>Se&#x00E1;n Lemass, The Enigmatic Patriot</i> (Dublin: Gill and Macmillan 1999), 146.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-16" type="footnote"><p><enumerator><sup>16</sup></enumerator> Cited in <bibItem id="oso-9780198878230-chapter-6-bibItem-16" class="journalArticle" author="Barry, Frank|Clare, O&#x2019;Mahony" date="2017" journalIssue="1" title="Regime Change in 1950s Ireland: The New Export-Oriented Foreign Investment Strategy" journalName="Irish Economic and Social History" vol="44" page="46" pageLast="65" purpose="display"><span role="replace-ibid"><nameGrp foreNames="Frank" mainName="Barry" role="author">Frank Barry</nameGrp> and <nameGrp foreNames="O&#x2019;Mahony" mainName="Clare" role="author">Clare O&#x2019;Mahony</nameGrp>, &#x2018;Regime Change in 1950s Ireland: The New Export-Oriented Foreign Investment Strategy&#x2019;. <i>Irish Economic and Social History</i> 44, 1 (2017): 46&#x2013;65.</span></bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-17" type="footnote"><p><enumerator><sup>17</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-17" class="journalArticle" author="Barry, Frank|Clare, O&#x2019;Mahony" date="2017" journalIssue="1" title="Regime Change in 1950s Ireland: The New Export-Oriented Foreign Investment Strategy" journalName="Irish Economic and Social History" vol="44" page="46" pageLast="65" purpose="display"><xrefGrp><xref ref="oso-9780198878230-chapter-6-bibItem-16">Ibid</xref></xrefGrp></bibItem>.</p></note>
+<note id="oso-9780198878230-chapter-6-note-18" type="footnote"><p><enumerator><sup>18</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-18" class="book" author="Gr&#x00E1;da, Cormac &#x00D3;" date="1997" title="A Rocky Road: The Irish Economy since the 1920s" page="217" place="Manchester" publisher="Manchester University Press" purpose="display"><nameGrp foreNames="Cormac &#x00D3;" mainName="Gr&#x00e1;da" role="author">Cormac &#x00D3; Gr&#x00E1;da</nameGrp>, <i>A Rocky Road: The Irish Economy since the 1920s</i> (Manchester: Manchester University Press, 1997), 217.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-19" type="footnote"><p><enumerator><sup>19</sup></enumerator> See, e.g. <bibItem id="oso-9780198878230-chapter-6-bibItem-19" class="book" author="Lin, Justin Yifu" date="2012" title="Demystifying the Chinese Economy" place="Cambridge" publisher="Cambridge University Press" purpose="display"><nameGrp foreNames="Justin Yifu" mainName="Lin" role="author">Justin Yifu Lin</nameGrp>, <i>Demystifying the Chinese Economy</i> (Cambridge: Cambridge University Press, 2012).</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-20" type="footnote"><p><enumerator><sup>20</sup></enumerator> There are clear parallels with the case of Mauritius as described by Rodrik, who notes that the creation of an export-processing zone &#x2018;generated new opportunities of trade and of employment, without taking protection away from the import-substituting groups. There were no identifiable losers. This in turn paved the way for [later] more substantial liberalizations&#x2019;: <bibItem id="oso-9780198878230-chapter-6-bibItem-20" class="journalArticle" author="Rodrik, Dani" date="2000" journalIssue="3" title="Institutions for High-Quality Growth: What They Are and How to Acquire Them" journalName="Studies in Comparative International Development" vol="35" page="3" pageLast="31" purpose="display"><nameGrp foreNames="Dani" mainName="Rodrik" role="author">Dani Rodrik</nameGrp>, &#x2018;Institutions for High-Quality Growth: What They Are and How to Acquire Them&#x2019;. <i>Studies in Comparative International Development</i> 35, 3 (2000): 3&#x2013;31.</bibItem></p></note>
+</noteGroup>
+</div1>
+<div1 id="oso-9780198878230-chapter-6-div1-2" doi="10.1093/oso/9780198878230.003.0006.021.0002">
+<titleGroup id="oso-9780198878230-chapter-6-titleGroup-2"><title id="C6S1"><p><enumerator>6.1</enumerator> Developments in Non-IDA-Sponsored Sectors</p></title></titleGroup>
+<p id="C6P13">The adoption of the new export-oriented FDI regime was the economic policy change of most significance over the period 1948&#x2013;1961. Its emergence is frequently conflated with the publication of the Whitaker report <i>Economic Development</i> in 1958 and the trade liberalization of the following decade. These were separate developments. <i>Economic Deve</i><i>lopment</i> would provide a framework for broad economic policy in the 1960s and help prepare the country psychologically for the reduction in tariff barriers that began in earnest only in 1963. Discussion of the document and its consequences is for these reasons largely left to <xrefGrp>Chapter&#x00A0;<xref ref="oso-9780198878230-chapter-7">7</xref></xrefGrp>.</p>
+<p id="C6P14">Before turning to the emergence of the new regime, several other processes that impacted on industrial structure over the period are identified. The 1948 Anglo-Irish Trade Agreement played a role in the birth of Irish beef and footwear exports. Developments in other sectors were more a consequence of post-war conditions than of trade or industry policy per se. The following account tracks the consequences of these various processes up to European Economic Community (EEC) accession.</p>
+<p id="C6P15">Sixty per cent of the population had no access to electricity when rural electrification commenced in 1946. By 1965, when the first phase ended, some 80 per cent of rural areas had been connected. Agricultural production processes were transformed as electric water pumps, milking machines, grain dryers, <page id="123" chapter=""/>and infrared lamps came into common usage. The market for electrical goods increased almost seven-fold. While most electrical machinery continued to be imported, domestic production of other electrical items, which had been negligible before the war, accounted for half of Irish sales in 1961 and 65 per cent of sales in 1969.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-21"><sup>21</sup></xref></xrefGrp> The most significant new firm to emerge in the electrical equipment sector was Unidare, which was established in 1949 to produce equipment for the state-owned Electricity Supply Board.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-22"><sup>22</sup></xref></xrefGrp> By 1960, Unidare had a workforce of 1,500 and a substantial export trade (<xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-6-tableGroup-1">6.1</xref></xrefGrp>).<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-23"><sup>23</sup></xref></xrefGrp></p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-6-tableGroup-1"?></p>
+<p id="C6P16">Other electrical equipment producers included US company Irish Driver-Harris, which had been producing electric wires and cables in New Ross since the 1930s, UK company Ward &#x0026; Goldstone, which opened the first of several Irish factories in 1949, and Belgian company ACEC, which commenced operations in Waterford in 1952. UK firm Plessey opened the first of its Dublin factories in 1948 to make components for the Department of Posts and Telegraphs and the Irish radio trade.</p>
+<p id="C6P17"><page id="124" chapter=""/>Sales of consumer products surged. The first wave of purchases included cookers, radios, kettles, lights, irons, fires, and clocks. Television sets, refrigerators, washing machines, and vacuum cleaners followed later. Pye, a branch of the Cambridge electronics firm controlled by the same Irish-emigrant industrialist as Unidare, had been assembling radio sets in Ireland since 1936. It began to produce TVs and record players in the 1950s. Another UK producer of radios and TVs, Bush, commenced production in Ireland in 1952. Both firms employed close to 500 people in 1972, by which time Bush had become part of the Smurfit Group. Dutch firm Philips began producing for the domestic market in 1957 and already employed 500 by 1962. It would initiate a separate export-oriented operation later in the decade.</p>
+<p id="C6P18">The largest producer of domestic appliances at EEC accession was Electrical Industries of Ireland. Established as Aibhleisi &#x00C9;ireannacha Teoranta (AET) at Dunleer in County Louth in 1937, it was acquired by the British General Electric Company (GEC) in 1959. It employed almost 500 in 1960 and 850 in 1972. The British company also took a substantial share in Solus, a domestic firm that been producing electrical lights and bulbs in Bray since 1935. Solus was also a substantial employer by 1972.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-24"><sup>24</sup></xref></xrefGrp></p>
+<p id="C6P19">Post-war shortages of milk and sugar in the United Kingdom led to the emergence of a substantial new Irish export industry beyond the major urban centres. The large British confectionery firms that had been servicing the Irish market from Dublin since the tariffs of the 1920s and 1930s established plants in the dairying regions of the country to produce chocolate crumb and other related ingredients, most of which went to supply their UK confectionery operations. These were the first substantial <i>export-oriented</i> foreign ventures since Ford opened in Cork in 1919. Rowntree initiated production at the Ballyclough cooperative creamery site in Mallow in 1946, Cadbury opened a factory in Rathmore, County Kerry in 1948, and Miloko was established as a joint venture between other British producers and several dozen local cooperatives in Carrick-on-Suir in 1950. UK company John Terry participated in a joint venture in Dungarvan and Nestl&#x00E9; opened a plant in Letterkenny.</p>
+<p id="C6P20">Though less labour-intensive than confectionery, chocolate crumb generated substantial export earnings and used vast quantities of local milk. Ireland was referred to by the Chairman of Fry&#x2013;Cadbury in 1960 as &#x2018;the largest exporter of chocolate products by tonnage in the world&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-25"><sup>25</sup></xref></xrefGrp> High-season employment at Rathmore grew from around 100 in the late 1940s to almost <page id="125" chapter=""/>200 in 1960 and 300 in 1972. The Rowntree operation in Mallow employed more than 400 in 1973.</p>
+<p id="C6P21">The confectionery producers themselves expanded massively over this period. Cadbury terminated its outsourcing arrangement with Clarnico-Murray when it opened a major new factory in Coolock in 1957, from which it now began to export confectionery. Rowntree&#x2019;s production, other than of chocolate crumb, remained focused on the domestic market. By 1973, Cadbury&#x2019;s workforce had grown to exceed that of Rowntree&#x2013;Mackintosh by a substantial margin (<xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-6-tableGroup-2">6.2</xref></xrefGrp>).</p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-6-tableGroup-2"?></p>
+<p id="C6P22">Chocolate crumb was just one example of the diversification that would prove of major long-term significance for the structure of the cooperative creamery sector. The number of cooperatives fell by one-fifth over the course of the 1950s and 1960s as all of the early innovators expanded by acquisition as well as organically.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-26"><sup>26</sup></xref></xrefGrp> Some of the diversification was into cheese, for which there was a ready market in post-war Britain. By the 1950s, Mitchelstown was exporting one-third of its cheese output and, as noted earlier, had also diversified into bacon. Galtee, the Mitchelstown brand, became the most popular bacon on the Irish market in the 1960s. Most of the long-established private bacon curers would fade from the scene over the coming decades. Employment at Mitchelstown trebled between 1939 and 1948 and trebled again to 1,600 by 1973.</p>
+<p id="C6P23">Linkages with UK firms proved beneficial to all of the most successful creamery cooperatives of the era. Besides Mitchelstown, these included Waterford, Ballyclough, and Golden Vale (<xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-6-tableGroup-3">6.3</xref></xrefGrp>). All four participated in a joint venture with Unigate in 1959 to promote the marketing of Irish milk powder in Britain. Dungarvan Co-operative had won a contract from <page id="126" chapter=""/>Unigate&#x2019;s progenitor Cow &#x0026; Gate to supply milk powder for sale in Britain in the late 1930s. Employment at Waterford, into which Dungarvan merged in 1964, would double between 1969 and 1973 as a result of the enhanced export opportunities afforded by the Anglo-Irish Free Trade Area Agreement (AIFTA).</p>
+<p id="C6P24">Cow &#x0026; Gate opened a factory in Mallow in 1946, shortly after Rowntree. Borden, a major US milk processor, established a factory nearby in 1961. Ballyclough supplied milk powder to all three and opened a cheese factory in a joint venture with Manx Creameries in 1962. Its success has been credited explicitly to its diversification into &#x2018;the best paying product lines&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-27"><sup>27</sup></xref></xrefGrp> Its workforce grew from 65 in 1939 to 300 in 1960 and would expand to 600 by 1973. The other major cooperative of the era, Golden Vale, had been established in 1947 to market the cheese output of a number of local creameries. Its 1965 agreement with British cheese producer Express Dairies provided it with enhanced access to the UK market.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-28"><sup>28</sup></xref></xrefGrp> Golden Vale&#x2019;s workforce had expanded to 600 by the early 1970s.</p>
+<p id="C6P25">An unrelated event that would ultimately secure a significant premium for primary producers was the development of the Kerrygold brand by the state Milk Marketing Board (Bord Bainne). Kerrygold was launched on the export market in 1962, at a time when there were at least sixty Irish butter brands competing on the home market.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-29"><sup>29</sup></xref></xrefGrp> The highly successful Danish Lurbrand had been launched some sixty&#x00A0;years earlier.</p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-6-tableGroup-3"?></p>
+<p id="C6P26"><page id="127" chapter=""/>The buoyancy of the post-war recovery in overseas markets facilitated export-led growth in a range of other income-elastic items. The 1957/58 report of the Irish Export Board referred to the dollar earnings generated by the &#x2018;outstandingly successful export performance of the cordage, ropes and sisal carpeting industry&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-30"><sup>30</sup></xref></xrefGrp> The firm alluded to was Newbridge-based Irish Ropes. Other Irish firms went on to achieve export success in wool carpeting, particularly in the United Kingdom. By the early 1970s, Ireland had a strong revealed comparative advantage in the export category &#x2018;carpets and floor coverings&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-31"><sup>31</sup></xref></xrefGrp> Employment at Youghal Carpets numbered in the thousands even prior to its acquisition of Navan Carpets in 1972 (<xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-6-tableGroup-4">6.4</xref></xrefGrp>).</p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-6-tableGroup-4"?></p>
+<p id="C6P27">Irish Mist liqueur and Waterford Glass achieved particular success in the United States over this period. Irish Mist was born of an idea to use up the large stocks of whiskey that had accumulated during the war and was brought to the market by the D. E. Williams Group, producers of Tullamore Dew, in 1947, around the time that wartime restrictions on distillery exports were eased.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-32"><sup>32</sup></xref></xrefGrp> Sales grew by more than 15 per cent per annum into the 1960s, by which time it accounted for half or more of the dollar earnings of all southern Irish distilleries. Powers, the most innovative of the major distillery companies, took over production of the whiskey component in 1965 and spearheaded the formation of Irish Distillers the following year.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-33"><sup>33</sup></xref></xrefGrp> Prior to the merger, &#x2018;there had been fierce competition between Jameson, Powers and Cork Distillers for dominance of the home market, and none of the three <page id="128" chapter=""/>had any time, effort, energy or manpower left over for developing exports&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-34"><sup>34</sup></xref></xrefGrp> Though Irish Distillers was miniscule in comparison to Scotland&#x2019;s Distillers Company Ltd (DCL), the merger initiated a resurgence in the industry from this point.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-35"><sup>35</sup></xref></xrefGrp></p>
+<p id="C6P28">1947 also witnessed the revival of an old tradition of crystal-glass making in Waterford. One of the partners in the project was Charles Bacik, who had fled Czechoslovakia following the confiscation of his glass factories by the new post-war Communist regime. After a faltering start, it was rescued by the Glass Bottle Company in 1950 and bought back in 1966. Employment at Waterford Glass grew to more than 500 by 1957 and would expand massively over the period to 1972.</p>
+<p id="C6P29">The Irish beef-processing industry also dates only from the immediate post-war years. Live animals (predominantly cattle) had comprised 50 per cent of Irish exports in 1938. By the early 1970s, beef exports equalled or exceeded live cattle exports in value. Ireland had secured enhanced access to the UK market in 1948 alongside a favourable price arrangement covering the period up to the end of British food rationing in 1954. Competitiveness was boosted by the 30&#x2009;per cent devaluation of sterling (and hence also of the Irish pound) in 1949, and lucrative contracts were received to supply the US armed forces stationed in Turkey and Western Europe. These contracts gave Ireland the necessary veterinary clearance to benefit when access to the US market was liberalized in 1951.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-36"><sup>36</sup></xref></xrefGrp> Beef exports expanded dramatically from this time (<xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-6-tableGroup-5">6.5</xref></xrefGrp>).</p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-6-tableGroup-5"?></p>
+<p id="C6P30">Employment in beef processing doubled between the early 1950s and the early 1960s and doubled again to almost 4,000 by 1972.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-37"><sup>37</sup></xref></xrefGrp> Though a number of traditional bacon curers entered the industry, newer entrants dominated. The major beef processors by the early 1960s were the Dublin-based International Meat Company, Irish Meat Packers of Leixlip, Clover Meats of Waterford, and Roscrea Meat Products (<xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-6-tableGroup-6">6.6</xref></xrefGrp>). The Dublin and Leixlip firms would merge to form International Meat Packers (IMP) in 1967, and IMP would merge with Cork Marts in 1968. Cork Marts&#x2013;IMP and Clover Meats together <page id="129" chapter=""/>accounted for more than half of Irish beef production at the time of EEC accession.</p>
+<p id="C6P31">Clover&#x2019;s workforce would reach 1,800 by 1972, by which time it had acquired a number of older bacon curers including Shaws of Limerick, Donnellys of Dublin, and Lunham Bros of Cork. The market share of all of the traditional bacon producers was in inexorable decline. E. M. Denny, the UK parent of the 150-year old Henry Denny &#x0026; Sons, would be sold along with its Irish and Northern Irish operations to an Australian concern in 1973.</p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-6-tableGroup-6"?></p>
+<p id="C6P32">The 1948 Anglo-Irish Trade Agreement also had a substantial impact on the Irish footwear sector. Dundalk firm Halliday had been producing some of the Clarks range for the Irish market since 1938. Following the 1948 trade agreement, which granted Ireland a substantial quota for British imports of women&#x2019;s shoes, Clarks commissioned Halliday to produce one of its women&#x2019;s brands for the UK market. Irish footwear exports had been almost non-existent prior to 1948. By 1960, exports accounted for 25 per cent of output. <page id="130" chapter=""/>Over the following decade, Halliday acquired Padmore &#x0026; Barnes of Kilkenny and Stedfast Shoes of Carrickmacross before being fully bought out by Clarks in 1971. The Halliday operation in Dundalk had employed 800 in 1960: the Clarks Group employed a workforce of 1,700 in Ireland on the eve of EEC accession.</p>
+<noteGroup>
+<note id="oso-9780198878230-chapter-6-note-21" type="footnote"><p><enumerator><sup>21</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-21" class="book" author="Committee on Industrial Organisation" date="1964" title="Report of Survey of Electrical Equipment and Apparatus Industry" page="18" place="Dublin" publisher="Stationery Office" purpose="display"><nameGrp nameType="nonPersonal" mainName="Committee on Industrial Organisation">Committee on Industrial Organisation</nameGrp>, Report of Survey of Electrical Equipment and Apparatus Industry (Dublin: Stationery Office, 1964), 18.</bibItem>; <bibItem id="oso-9780198878230-chapter-6-bibItem-22" class="book" author="Committee on Industrial Progress" date="1971" title="Report on Electrical Machinery, Apparatus and Appliances Industry" page="13" place="Dublin" purpose="display"><nameGrp nameType="nonPersonal" mainName="Committee on Industrial Progress">Committee on Industrial Progress</nameGrp>, Report on Electrical Machinery, Apparatus and Appliances Industry (Dublin: Stationery Office, 1971), 13.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-22" type="footnote"><p><enumerator><sup>22</sup></enumerator> Unidare was initially known as Aberdare Electric. The name was changed to avoid confusion with the Welsh firm Aberdare Cables from which some of its technical knowledge derived.</p></note>
+<note id="oso-9780198878230-chapter-6-note-23" type="footnote"><p><enumerator><sup>23</sup></enumerator> Unidare was Irish-owned until 1964 when it was taken over by Pye. Ownership later passed to the Dutch company Philips.</p></note>
+<note id="oso-9780198878230-chapter-6-note-24" type="footnote"><p><enumerator><sup>24</sup></enumerator> That Solus had an export&#x2013;output ratio of 70 per cent in 1972 suggests that there were different motivating factors behind the two acquisitions: <i>Irish Times</i>, 28 December 1972.</p></note>
+<note id="oso-9780198878230-chapter-6-note-25" type="footnote"><p><enumerator><sup>25</sup></enumerator> <i>Irish Times</i>, 25 May 1960.</p></note>
+<note id="oso-9780198878230-chapter-6-note-26" type="footnote"><p><enumerator><sup>26</sup></enumerator> Employment across the entire creamery sector expanded by only 550 between 1948 and 1961, but the product diversification and increase in concentration over the period laid the groundwork for subsequent developments. This supports Kennedy and Dowling&#x2019;s thesis that the &#x2018;learning-by-doing&#x2019; of the 1950s was crucial to the stronger growth performance of the following decade: <bibItem id="oso-9780198878230-chapter-6-bibItem-23" class="book" author="Kennedy, Kieran|Dowling, Brendan" date="1975" title="Economic Growth in Ireland: The Experience since 1947" place="Dublin" publisher="Gill and Macmillan" purpose="display"><nameGrp foreNames="Kieran" mainName="Kennedy" role="author">Kieran Kennedy</nameGrp> and <nameGrp foreNames="Brendan" mainName="Dowling" role="author">Brendan Dowling</nameGrp>, <i>Economic Growth in Ireland: The Experience since 1947</i> (Dublin: Gill and Macmillan, 1975).</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-27" type="footnote"><p><enumerator><sup>27</sup></enumerator> <i>Irish Farmers Journal</i>, 22 May 1971.</p></note>
+<note id="oso-9780198878230-chapter-6-note-28" type="footnote"><p><enumerator><sup>28</sup></enumerator> Marketing had long been a problem for the Irish creamery sector, as noted in all of the reports on the industry in the 1960s. One-third of all dairy exports (broadly-defined as including chocolate crumb) was estimated to be sold under foreign brand names in 1971: <i>Irish Independent</i>, 25 August 1971.</p></note>
+<note id="oso-9780198878230-chapter-6-note-29" type="footnote"><p><enumerator><sup>29</sup></enumerator> Butter exports were heavily subsidized by the state as a corollary of the agricultural price supports of the time. As was pithily observed in 1963, &#x2018;like all dairy boards throughout the world, [Bord Bainne&#x2019;s] success must lie in cutting losses: the glow of profit-making can never be theirs&#x2019;: <i>Irish Times</i>, 3 January 1963.</p></note>
+<note id="oso-9780198878230-chapter-6-note-30" type="footnote"><p><enumerator><sup>30</sup></enumerator> <i>C&#x00F3;ras Tr&#x00E1;cht&#x00E1;la</i>, Sixth Annual Report 1957&#x2013;58, (Dublin: <i>C&#x00F3;ras Tr&#x00E1;cht&#x00E1;la</i>, 1958), 18, 25.</p></note>
+<note id="oso-9780198878230-chapter-6-note-31" type="footnote"><p><enumerator><sup>31</sup></enumerator> The revealed comparative advantage index is generally considered to provide an indication of the change in production structure that might be expected post-trade liberalization: <bibItem id="oso-9780198878230-chapter-6-bibItem-24" class="journalArticle" author="Thornhill, Don" date="1986" title="The Revealed Comparative Advantage of Irish Exports of Manufactures 1969&#x2013;1982" journalName="Journal of the Statistical and Social Inquiry Society of Ireland" vol="25" page="91" pageLast="146" purpose="display"><nameGrp foreNames="Don" mainName="Thornhill" role="author">Don Thornhill</nameGrp>, &#x2018;The Revealed Comparative Advantage of Irish Exports of Manufactures 1969&#x2013;1982&#x2019;. <i>Journal of the Statistical and Social Inquiry Society of Ireland</i> 25 (1986/87): 91&#x2013;146.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-32" type="footnote"><p><enumerator><sup>32</sup></enumerator> The distilleries blamed the restrictions on &#x2018;the enormous [government] revenue which is derived from whiskey consumed on the home market&#x2019;: cited in <bibItem id="oso-9780198878230-chapter-6-bibItem-25" class="journalArticle" author="Humphreys, Madeleine" date="1994" journalIssue="1" title="The Decline of the Irish Whiskey Trade in Independent Ireland, 1922&#x2013;1952" journalName="Journal of European Economic History" vol="23" page="93" pageLast="103" purpose="display"><nameGrp foreNames="Madeleine" mainName="Humphreys" role="author">Madeleine Humphreys</nameGrp>, &#x2018;The Decline of the Irish Whiskey Trade in Independent Ireland, 1922&#x2013;1952&#x2019;. <i>Journal of European Economic History</i> 23, 1 (1994): 93&#x2013;103.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-33" type="footnote"><p><enumerator><sup>33</sup></enumerator> Irish Distillers was initially called United Distillers of Ireland. The name was changed to avoid association with Rhodesia&#x2019;s Unilateral Declaration of Independence (UDI).</p></note>
+<note id="oso-9780198878230-chapter-6-note-34" type="footnote"><p><enumerator><sup>34</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-26" class="bookChapter" partAuthor="Ryan, J." partTitle="Foreword" editor="Townsend, Brian" date="1997" title="The Lost Distilleries of Ireland" place="Glasgow" publisher="Neil Wilson Publishing" purpose="display"><nameGrp foreNames="J." mainName="Ryan" role="partAuthor">J. Ryan</nameGrp>, &#x2018;Foreword&#x2019;. In <i>The Lost Distilleries of Ireland</i>, ed. <nameGrp foreNames="Brian" mainName="Townsend" role="editor">Brian Townsend</nameGrp> (Glasgow: Neil Wilson Publishing, 1997), 1&#x2013;2.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-35" type="footnote"><p><enumerator><sup>35</sup></enumerator> Irish Distillers had a workforce of almost 1,000 and exports of &#x00A3;6 million in 1972 (<i>Irish Times</i>, 28 December 1972). Scotland&#x2019;s Distillers Company Ltd (DCL) had a UK workforce of 18,700 and exports of around &#x00A3;100 million in 1973. Lionel F. Gray and Jonathan Love, <i>Jane&#x2019;s Major Companies of Europe</i>, (London: Samson, Low, Marsden and Co., 1973), B238.</p></note>
+<note id="oso-9780198878230-chapter-6-note-36" type="footnote"><p><enumerator><sup>36</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-27" class="book" author="Baker, Terence J.|Robert, O&#x2019;Connor|Dunne, Rory" date="1973" title="A Study of the Irish Cattle and Beef Industries" page="75" pageLast="77" place="Dublin" publisher="Economic and Social Research Institute" purpose="display"><nameGrp foreNames="Terence J." mainName="Baker" role="author">Terence J. Baker</nameGrp>, <nameGrp foreNames="O&#x2019;Connor" mainName="Robert" role="author">Robert O&#x2019;Connor</nameGrp>, and <nameGrp foreNames="Rory" mainName="Dunne" role="author">Rory Dunne</nameGrp>, <i>A Study of the Irish Cattle and Beef Industries</i> (Dublin: Economic and Social Research Institute,1973), 75&#x2013;77.</bibItem> I am grateful to Declan O&#x2019;Brien, author of a recent Ph.D. thesis on the origins of the beef industry, for helpful discussions on this topic.</p></note>
+<note id="oso-9780198878230-chapter-6-note-37" type="footnote"><p><enumerator><sup>37</sup></enumerator> These numbers refer to the Census of Industrial Production category &#x2018;Slaughtering, preserving etc. of meat other than by bacon factories&#x2019;.</p></note>
+</noteGroup>
+<floatGroup id="oso-9780198878230-chapter-6-floatGroup-1">
+<tableGroup id="oso-9780198878230-chapter-6-tableGroup-1" doi="10.1093/oso/9780198878230.003.0006.007.0001" placement="float">
+<table id="oso-9780198878230-chapter-6-table-1" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-6-titleGroup-3"><title id="C6T1"><p><enumerator>Table 6.1</enumerator> Employment in selected appliance and equipment producers</p></title></titleGroup>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>Unidare</p></entry>
+<entry colname="col2" align="left"><p>1,500 (1960), 1,883 in Ireland + 300 in UK (1971)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Pye</p></entry>
+<entry colname="col2" align="left"><p>139 (1948), 650 (1960), 480 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Irish Driver Harris</p></entry>
+<entry colname="col2" align="left"><p>78 (1948), 137 (1960)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Ward &#x0026; Goldstone (including General Plastics)</p></entry>
+<entry colname="col2" align="left"><p>200 (1963), 300 (1973)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Bush</p></entry>
+<entry colname="col2" align="left"><p>80 (1953), 450 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Solus</p></entry>
+<entry colname="col2" align="left"><p>177 (1948), 220 (1960), 650 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>ACEC</p></entry>
+<entry colname="col2" align="left"><p>250 (1962), 350 (1970)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Electrical Industries of Ireland/AET/British GEC</p></entry>
+<entry colname="col2" align="left"><p>57 (1948), 450 (1960), 850 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Plessey (Ireland)</p></entry>
+<entry colname="col2" align="left"><p>50 (1948), 150 (1955), 400 (1971)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Philips (Ireland)</p></entry>
+<entry colname="col2" align="left"><p>500 (1962), 820 (1970)</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Source</i>: author.</p></source>
+</table>
+</tableGroup>
+<tableGroup id="oso-9780198878230-chapter-6-tableGroup-2" doi="10.1093/oso/9780198878230.003.0006.007.0002" placement="float">
+<table id="oso-9780198878230-chapter-6-table-2" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-6-titleGroup-4"><title id="C6T2"><p><enumerator>Table 6.2</enumerator> Employment in selected confectionery and chocolate crumb producers</p></title></titleGroup>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<thead>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>1948</p></entry>
+<entry colname="col3" align="left"><p>1960</p></entry>
+<entry colname="col4" align="left"><p>1973</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>Cadbury</p></entry>
+<entry colname="col2" align="left"><p><i>c</i>. 300</p></entry>
+<entry colname="col3" align="left"><p>c.900</p></entry>
+<entry colname="col4" align="left"><p>2,050</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Rowntree</p></entry>
+<entry colname="col2" align="left"><p><i>c</i>. 800</p></entry>
+<entry colname="col3" align="left"><p>1,150</p></entry>
+<entry colname="col4" align="left"><p>1,210</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Urney</p></entry>
+<entry colname="col2" align="left"><p>300</p></entry>
+<entry colname="col3" align="left"><p>600</p></entry>
+<entry colname="col4" align="left"><p>350 (as part of Unilever)</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Source</i>: author.</p></source>
+</table>
+</tableGroup>
+<tableGroup id="oso-9780198878230-chapter-6-tableGroup-3" doi="10.1093/oso/9780198878230.003.0006.007.0003" placement="float">
+<table id="oso-9780198878230-chapter-6-table-3" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-6-titleGroup-5"><title id="C6T3"><p><enumerator>Table 6.3</enumerator> Employment in selected cooperative creameries</p></title></titleGroup>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<thead>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Employment</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>Ballyclough</p></entry>
+<entry colname="col2" align="left"><p>65 (1939), 300 (1960), 600 (1973)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Mitchelstown</p></entry>
+<entry colname="col2" align="left"><p>162 (1939), 500 (1948, 1959), 800 (1966), 1,600 (1973)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Golden Vale</p></entry>
+<entry colname="col2" align="left"><p>20 (1948), 120 (1962), 600 (1971)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Waterford Co-op <i>of which</i>: Dungarvan Co-op</p></entry>
+<entry colname="col2" align="left"><p>500 (1969), 1,000 (1973)</p>
+<p>62 (1936), 100 (1960)</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Source</i>: author.</p></source>
+</table>
+</tableGroup>
+<tableGroup id="oso-9780198878230-chapter-6-tableGroup-4" doi="10.1093/oso/9780198878230.003.0006.007.0004" placement="float">
+<table id="oso-9780198878230-chapter-6-table-4" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-6-titleGroup-6"><title id="C6T4"><p><enumerator>Table 6.4</enumerator> Employment in major carpet producers</p></title></titleGroup>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>Irish Ropes</p></entry>
+<entry colname="col2" align="left"><p>255 (1948), 530 (1960), 812 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Youghal Carpets</p></entry>
+<entry colname="col2" align="left"><p>20 (1954), 350 (1962), 2,656 (1972), of whom <i>c</i>. 1,500 in Ireland</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Navan Carpets</p></entry>
+<entry colname="col2" align="left"><p>59 (1948), 450 (1963), 810 (1972)</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Note</i>: The figure for Navan Carpets for 1963 includes Celbridge Spinning, which was acquired in 1958.</p>
+<p><i>Source</i>: author.</p></source>
+</table>
+</tableGroup>
+<tableGroup id="oso-9780198878230-chapter-6-tableGroup-5" doi="10.1093/oso/9780198878230.003.0006.007.0005" placement="float">
+<table id="oso-9780198878230-chapter-6-table-5" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-6-titleGroup-7"><title id="C6T5"><p><enumerator>Table 6.5</enumerator> Carcase and boneless beef exports (tons), 1950&#x2013;1970</p></title></titleGroup>
+<tgroup cols="7">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<colspec colnum="6" colname="col6"/>
+<colspec colnum="7" colname="col7"/>
+<tbody>
+<row rowsep="1">
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Total</p></entry>
+<entry namest="col3" nameend="col7" align="left"><p><i>Of which:</i></p></entry>
+</row>
+<row rowsep="1">
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"/>
+<entry colname="col3" align="left"><p><i>UK</i></p></entry>
+<entry colname="col4" align="left"><p><i>Rest of EEC9</i></p></entry>
+<entry colname="col5" align="left"><p><i>US and Canadian forces in Europe</i></p></entry>
+<entry colname="col6" align="left"><p><i>US and Canada</i></p></entry>
+<entry colname="col7" align="left"><p><i>Rest of world</i></p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1950</p></entry>
+<entry colname="col2" align="left"><p>6,400</p></entry>
+<entry colname="col3" align="left"><p>3,123</p></entry>
+<entry colname="col4" align="left"><p>*</p></entry>
+<entry colname="col5" align="left"><p>*</p></entry>
+<entry colname="col6" align="left"><p>419</p></entry>
+<entry colname="col7" align="left"><p>2,858</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1960</p></entry>
+<entry colname="col2" align="left"><p>51,001</p></entry>
+<entry colname="col3" align="left"><p>15,266</p></entry>
+<entry colname="col4" align="left"><p>2,803</p></entry>
+<entry colname="col5" align="left"><p>3,493</p></entry>
+<entry colname="col6" align="left"><p>28,795</p></entry>
+<entry colname="col7" align="left"><p>644</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>1970</p></entry>
+<entry colname="col2" align="left"><p>142,840</p></entry>
+<entry colname="col3" align="left"><p>101,627</p></entry>
+<entry colname="col4" align="left"><p>4,386</p></entry>
+<entry colname="col5" align="left"><p>1,446</p></entry>
+<entry colname="col6" align="left"><p>33,647</p></entry>
+<entry colname="col7" align="left"><p>1,734</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Note</i>: <sup>*</sup>: Included in &#x2018;Rest of World&#x2018;.</p>
+<p><i>Source</i>: Terence J. Baker, Robert O&#x2019;Connor, and Rory Dunne, <i>A Study of the Irish Cattle and Beef Industries</i> (Dublin: Economic and Social Research Institute, 1973), 78.</p></source>
+</table>
+</tableGroup>
+<tableGroup id="oso-9780198878230-chapter-6-tableGroup-6" doi="10.1093/oso/9780198878230.003.0006.007.0006" placement="float">
+<table id="oso-9780198878230-chapter-6-table-6" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-6-titleGroup-8"><title id="C6T6"><p><enumerator>Table 6.6</enumerator> Employment in major meat-processing firms</p></title></titleGroup>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>Denny (primarily bacon)</p></entry>
+<entry colname="col2" align="left"><p><i>c</i>. 500 (1960), <i>c</i>. 400 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Clover Meats (beef and bacon)</p></entry>
+<entry colname="col2" align="left"><p>150 (1936), 350 (1941), 500 (1960), 1,800 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Cork Marts&#x2013;IMP (beef)</p>
+<p><i>of which</i>: International Meat Company</p>
+<p>Irish Meat Packers</p></entry>
+<entry colname="col2" align="left"><p>2,000 (1973)</p>
+<p>350 (1960),</p>
+<p>300 (1960)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Roscrea Meats (beef)</p></entry>
+<entry colname="col2" align="left"><p>75 (1936), 420 (1941), 325 (1960), 400 (1970)</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Source</i>: author.</p></source>
+</table>
+</tableGroup>
+</floatGroup>
+</div1>
+<div1 id="oso-9780198878230-chapter-6-div1-3" doi="10.1093/oso/9780198878230.003.0006.021.0003">
+<titleGroup id="oso-9780198878230-chapter-6-titleGroup-9"><title id="C6S2"><p><enumerator>6.2</enumerator> Emergence of the New FDI Regime</p></title></titleGroup>
+<p id="C6P33">Notwithstanding the export successes seen in some sectors and among some firms, the balance-of-payments position deteriorated sharply between the end of the war and the mid-1950s.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-38"><sup>38</sup></xref></xrefGrp> In O&#x2019;Malley&#x2019;s words, the difficulties</p>
+<p><displayText id="oso-9780198878230-chapter-6-displayText-2" class="prosequote">
+<p>arose partly from the near exhaustion of the &#x2018;easy&#x2019; stage of import-substituting industrialisation, which meant that there was relatively little further replacement of imports by new domestic production. At the same time, imports of goods which had not been replaced by domestic production, including many capital goods and material inputs, had to continue to grow as long as the economy was growing.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-39"><sup>39</sup></xref></xrefGrp></p>
+</displayText></p>
+<p fullOut="Y" id="C6P34">The &#x2018;easy&#x2019; first stage relates to the replacement of imported consumer goods by domestically produced foodstuffs, textiles, clothing, and footwear. The second stage requires replacing imported intermediate inputs, capital goods, and consumer durables. These require complex clusters of specialized industries and production on a scale unsuited to smaller, less advanced countries.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-40"><sup>40</sup></xref></xrefGrp> As early as 1950, the Department of Industry and Commerce had recognized that Irish Steel would be unable to compete with overseas mills whose weekly output exceeded the Irish company&#x2019;s entire annual production.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-41"><sup>41</sup></xref></xrefGrp> Ireland&#x2019;s chemicals and metals and engineering industries were particularly underdeveloped.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-42"><sup>42</sup></xref></xrefGrp></p>
+<p id="C6P35">The pan-European dollar shortages of the immediate post-war period added further to these difficulties. The share of imports coming from the <page id="131" chapter=""/>United States had doubled to 22 per cent between 1938 and 1947. The limiting of sterling convertibility in August 1947 meant that payments for items such as wheat, maize, motor vehicle parts, and tobacco&#x2014;which largely came from the dollar area&#x2014;could no longer be made through sterling.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-43"><sup>43</sup></xref></xrefGrp></p>
+<p id="C6P36">Relaxation of the balance-of-payments constraint over the longer term required an increase in exports.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-44"><sup>44</sup></xref></xrefGrp> The short-run response typically involved austerity. There were two particularly harsh budgetary episodes in the 1950s&#x2014;in 1952, under Fianna F&#x00E1;il, and in 1956 under the second Inter-Party government. These episodes bear recounting as factors in the birth of the Whitaker Report and the introduction of export profits tax relief.</p>
+<p id="C6P37">The separation of the government budget into its current and capital components by the first Inter-Party government in 1950 signalled a relaxation in attitudes towards public-sector borrowing. Aggregate government spending more than doubled over the space of a single year.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-45"><sup>45</sup></xref></xrefGrp> As one government advisor of the time would later remark, &#x2018;Keynes had come to Kinnegad&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-46"><sup>46</sup></xref></xrefGrp> The Central Bank was trenchant in its criticism of the threat to the balance of payments posed by the expansion in both government and private-sector spending. &#x2018;Seldom since the Communist Manifesto&#x2019;, Moynihan remarks of the Central Bank report for 1950&#x2013;1951, &#x2018;has a slim volume produced such a medley of heat and noise.&#x2019;<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-47"><sup>47</sup></xref></xrefGrp></p>
+<p id="C6P38">Denunciation of the Bank from across the political spectrum led Joseph Brennan to step down as Central Bank Governor in 1953, to be replaced by J. J. McElligott, who had succeeded him as Secretary of the Department of Finance in 1927. T. K. Whitaker took over the Department of Finance position three&#x00A0;years later. Even before Brennan&#x2019;s departure from the Central Bank, Fianna F&#x00E1;il Finance Minister Se&#x00E1;n McEntee had introduced a severely contractionary budget. By 1955, with the second Inter-Party government now in power, the economy was recovering, but the balance of payments position was again deteriorating. The austerity measures the new government imposed restored the external balance but at the cost of another severe recession.</p>
+<p id="C6P39"><page id="132" chapter=""/>One camp within the bureaucracy&#x2014;centred in the Department of Industry and Commerce and supported by the recently established Industrial Development Authority&#x2014;advocated the adoption of financial and tax incentives to increase exports. The other&#x2014;centred in the Department of Finance&#x2014;advocated trade liberalization. The victory of the former in the mid-to-late 1950s initiated the strategy of &#x2018;industrialization by invitation&#x2019;.</p>
+<p alignment="centre"></p>
+<p fullOut="Y" id="C6P40">By 1948, &#x00C9;amon de Valera had been Taoiseach for sixteen years, making him one of the longest-serving heads of government in Europe. Though nine new D&#x00E1;il seats had been added in a redrawing of constituencies prior to the 1948 general election, Fianna F&#x00E1;il exited the election with eight fewer seats. It lost ground in both rural and urban areas. To Fianna F&#x00E1;il&#x2019;s sixty-eight seats, the five other parties represented in the D&#x00E1;il&#x2014;Fine Gael, Labour, Clann na Poblachta, Clann na Talmhan, and National Labour&#x2014;had a total of sixty-seven. Though they had little in common other than a shared antipathy to Fianna F&#x00E1;il, they came together with the support of a number of independents to form the first Inter-Party government, the most significant institutional achievement of which was the establishment of the Industrial Development Authority (IDA). The IDA would evolve over time to become one of the most powerful governmental agencies in the state.</p>
+<p id="C6P41">Some commentators have represented the IDA Act of 1950 as the Inter-Party government&#x2019;s version of a Prices and Industrial Efficiency bill that Lemass had been preparing in 1947. The two pieces of legislation contrasted sharply in their underlying philosophies however. The Lemass bill was symptomatic of the &#x2018;command-and-control&#x2019; approach typically associated with protectionism.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-48"><sup>48</sup></xref></xrefGrp> Horgan describes it as &#x2018;a legislative statement of his determination to compel industry where he could not cajole it&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-49"><sup>49</sup></xref></xrefGrp> Having been forced to recognize the inadequacies of protected industry during his tenure as Minister for Supplies during the war, he proposed to establish an agency to identify inefficiencies and penalize recalcitrant proprietors and managers. This would have required even more intrusive government intervention. High prices and inefficiency are in any case natural concomitants of protectionism, particularly in smaller economies where competition is lacking and the requisite economies of scale cannot be achieved.</p>
+<p id="C6P42">The IDA, upon its establishment in 1949, was allocated the tasks of reviewing existing tariffs and initiating proposals for the development of new <page id="133" chapter=""/>industries, responsibilities that had been until then within the remit of the Department of Industry and Commerce. It was to be operated by a non-civil service board supported by a staff of civil servants. As government advisor Alexis FitzGerald would later explain, the &#x2018;complete regearing of industrial policy [would have been] difficult for a department which had been going along a particular line&#x2014;the protection of industry&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-50"><sup>50</sup></xref></xrefGrp> The Department of Industry and Commerce resented the diminution of its responsibilities. Fianna F&#x00E1;il interpreted the move as an attack on Lemass and promised to abolish the new body at the earliest possible opportunity. The Department of Finance feared that the IDA&#x2019;s board of non-civil service personnel might be &#x2018;a gang of crack-pot socialist planners&#x2019;, warning that &#x2018;it should definitely not be within their scope or function to themselves run or plan industry or any branch thereof&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-51"><sup>51</sup></xref></xrefGrp></p>
+<p id="C6P43">Of the tasks with which the IDA was entrusted, the tariff review functions would have appeared to be of most significance at the time. There was an awareness within Fine Gael of the damaging knock-on effects of tariffs on agriculture and downstream industries and of their impact on consumer prices, and the Taoiseach told the D&#x00E1;il that these effects were to be of fundamental importance to the new body.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-52"><sup>52</sup></xref></xrefGrp></p>
+<p id="C6P44">The establishment of the original Tariff Commission in the 1920s has been seen as a way of depoliticizing what would have been a contentious issue within Cumann na nGaedheal.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-53"><sup>53</sup></xref></xrefGrp> Tariff policy would have been at least as contentious within the Inter-Party government. Se&#x00E1;n MacBride, the Minister for External Affairs, was as deeply committed to protectionism as Lemass, while James Dillon, the Minister for Agriculture, was fiercely opposed to &#x2018;the whole crazy structure of tariff industries&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-54"><sup>54</sup></xref></xrefGrp> The IDA&#x2019;s independence would prove crucial to the direction in which it would evolve over the next several years.</p>
+<p id="C6P45">Other bodies established by the Inter-Party government included the Dollar Exports Advisory Committee and what would later become the Irish Export Board (C&#x00F3;ras Tr&#x00E1;cht&#x00E1;la Teoranta). All threw their weight behind the campaign for export profits tax relief. The Department of Industry and Commerce had first floated the idea&#x2014;to apply to exports to non-UK <page id="134" chapter=""/>destinations&#x2014;in 1945, but the proposal had been blocked by the Department of Finance, which described it as &#x2018;objectionable in principle&#x2019;. While accepting that financial assistance from public funds might be necessary to stimulate exports, &#x2018;this assistance should take the form either of a direct subsidy which can be effectively measured or of loans and grants analogous to those in operation in Northern Ireland&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-55"><sup>55</sup></xref></xrefGrp></p>
+<p id="C6P46">The first interim report of the IDA in late 1949 suggested that financial inducements such as a &#x2018;tax remission on profits of export trade, a bonus on currencies arising from exports, or a guarantee against the risk of defaulting debtors&#x2019; were needed &#x2018;to attract products to the export pool&#x2019;. The second report of the Dollar Exports Advisory Committee, issued in mid-1950, recommended the granting of a tax concession for exports to the dollar area. The Department of Finance and the Revenue Commissioners reiterated their opposition, suggesting that such measures would open the door to other demands for special treatment and might run the risk of a countervailing US duty. The Department of Finance doubted that &#x2018;income taxation provided the most suitable channel for concessions of this nature&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-56"><sup>56</sup></xref></xrefGrp></p>
+<p id="C6P47">The proposals initially advanced were geared towards domestic industry. The IDA appears to have been aware, from the beginning, that the scheme might prove attractive to foreign investors. Among the parties with which it had been in discussion in advance of its 1949 report were &#x2018;Irish-American businessmen, a US agency with connections to leading American industrialists, officials of the Organisation for European Economic Cooperation and a Czechoslovak resident of Ireland who had knowledge of the successful export organisation that had been established in his home country prior to the war&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-57"><sup>57</sup></xref></xrefGrp></p>
+<p id="C6P48">The first explicit mention of export-oriented foreign investment in connection with the proposed tax relief came in an exchange of memos between the Department of Industry and Commerce and the Department of Finance in 1950. Noting the predominance of agricultural products in existing exports to North America, the Department of Finance suggested that &#x2018;it is in this field rather than amongst our newer, protected industries that one should look for dollar export potentialities&#x2019;. The rejoinder from the Department of Industry and Commerce remarked that &#x2018;it is possible that the granting of the concession <i>may induce foreign enterprise to establish in this country industries capable of exporting goods to the dollar area</i>&#x2019; (italics added).<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-58"><sup>58</sup></xref></xrefGrp></p>
+<p id="C6P49"><page id="135" chapter=""/>The US authorities believed at this stage that &#x2018;Ireland&#x2019;s main contribution to European recovery will take place through the production of more food for export.&#x2019;<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-59"><sup>59</sup></xref></xrefGrp> Irish criticism of US proposals for how the country&#x2019;s small endowment of Marshall Aid funding should be allocated led to a tiny fraction being redirected to industrial development.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-60"><sup>60</sup></xref></xrefGrp> The 1952 &#x2018;Stacy May&#x2019; Report (named for its lead author) was commissioned from a New York consultancy firm from this small tranche of funds before aid was terminated following Ireland&#x2019;s refusal to participate in the North Atlantic Treaty Organization (NATO).</p>
+<p id="C6P50">The broad thrust of the 100-page report was dismissed by the powerful Departments of Agriculture and Finance. One short passage, however, which drew attention to the case of Puerto Rico, would prove of significance. Puerto Rico had reconfigured its tax system to attract light manufacturing enterprises from the United States with apparently dramatic results. Real per capita incomes on the island were reported to have risen by 70 per cent over the decade to 1950. Though the report made &#x2018;no suggestion that the particular formula adopted by Puerto Rico is relevant to Ireland&#x2019;, the parallels between the two cases would have been obvious to those within the Irish bureaucracy who were already thinking along these lines. Indeed, the guardedness with which the view is expressed suggests that it may have been inserted at the behest of the IDA, which had furnished comments on an earlier draft.</p>
+<p id="C6P51">The report referred to the US protectorate as having exploited its <sup>&#x2018;</sup>favoured position&#x2019; of being &#x2018;within the US trading market but outside the US tax system&#x2019;. Under the terms of the 1938 and 1948 Anglo-Irish Trade Agreements, most Irish industrial products had duty-free entry to the British market while, in cases where they were dutiable, they generally enjoyed preferential rates equivalent to those accorded to Commonwealth countries. Ireland also enjoyed preferential access to varying degrees in Commonwealth markets, though it had left the Commonwealth upon becoming a republic in 1949. Puerto Rico&#x2019;s favourable tax concessions would appear prominently in the 1956 IDA report on its recent visit to the United States, which noted that many US firms had enquired whether any such concessions were available in Ireland.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-61"><sup>61</sup></xref></xrefGrp></p>
+<p id="C6P52">Lemass was still clearly wedded to import substitution when Fianna F&#x00E1;il returned to power in 1951. He furnished the IDA with a long list of imported <page id="136" chapter=""/>goods and entrusted it &#x2018;with the sole and specific task of endeavouring to formulate proposals for the manufacture of these commodities&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-62"><sup>62</sup></xref></xrefGrp> The Undeveloped Areas Act of 1952, however, signified a shift away from the &#x2018;command-and-control&#x2019; approach by offering financial inducements to businesses to locate in certain designated &#x2018;undeveloped areas&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-63"><sup>63</sup></xref></xrefGrp> There were several foreign-owned operations among the grant recipients. Though none employed a workforce of more than fifty or so, German firm Sligo Models was unusual in that its output was oriented towards the export market.</p>
+<p id="C6P53">Unlike the Department of Industry and Commerce, the IDA did not have a legacy client base whose interests it would have to take into consideration. By 1954, it had come to focus primarily on attracting export-oriented FDI. As J. P. Beddy, its first Chairman, noted several&#x00A0;years later &#x2018;the quickest and most advantageous course was to interest foreign industrialists in the establishment of manufacturing units in Ireland&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-64"><sup>64</sup></xref></xrefGrp> Norton, the Minister for Industry and Commerce in the second Inter-Party government, told the Seanad in 1956 that he had asked the body in the previous two&#x00A0;years to review the operation of all tariffs but:</p>
+<p><displayText id="oso-9780198878230-chapter-6-displayText-3" class="prosequote">
+<p>[They] have not been able to devote as much time to it as I originally intended they should, due to the fact that they have had to spend a very considerable amount of time in endeavouring to enlist the co-operation and interest of foreign industrialists to come here to Ireland.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-65"><sup>65</sup></xref></xrefGrp></p>
+</displayText></p>
+<p fullOut="Y" id="C6P54">IDA missions had been undertaken to the United Kingdom, the United States, and Continental Europe over these two&#x00A0;years and several foreign export-oriented firms&#x2014;including Faber-Castell in Fermoy and Dutch firm Couper Works in Wicklow&#x2014;were established even prior to the introduction of the new incentives.</p>
+<p id="C6P55">In October 1956, after more than a decade of debate, Department of Finance objections were set aside and Inter-Party Taoiseach John A. Costello announced the introduction of export profits tax relief and the nationwide extension of the &#x2018;undeveloped areas&#x2019; industrial grants scheme. His speech&#x2014;as emigration reached levels last witnessed in the closing decades of the nineteenth century&#x2014;was one of the most significant economic policy speeches in the history of the state. It was carefully crafted both to minimize political controversy and avoid raising the ire of protectionist industrial interests.</p>
+<p id="C6P56"><page id="137" chapter=""/>Draft notes for the speech &#x2018;visualise that many <i>English</i> manufacturing concerns&#x2019; (italics added) would find it worth their while to open export businesses to benefit from the favourable tax rate.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-66"><sup>66</sup></xref></xrefGrp> The speech as delivered made no mention of British FDI. Indeed, there was no explicit linkage between the tax relief and inward FDI of any type, though some perceptive observers recognized that the relief was likely to be of greater significance to foreign investors.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-67"><sup>67</sup></xref></xrefGrp></p>
+<p id="C6P57">Fianna F&#x00E1;il had yet to come to an agreed position on the welcome to be extended to new foreign capital. Lemass&#x2019;s 1953 trip to the United States had been partly aimed at attracting US investment yet his D&#x00E1;il speeches in the summer of 1955 criticized the coalition government&#x2019;s efforts towards this same end. Another senior Fianna F&#x00E1;il figure, Erskine Childers, criticized the Minister for giving &#x2018;the idea that he looks forward to foreign capital investment as a major contribution to further industrial effort here&#x2019;. &#x2018;We can only adopt a highly critical attitude&#x2019;, he argued, in view of the fact that &#x2018;exported interest and profits [.&#x00A0;.&#x00A0;.] are of no benefit to us in our efforts to pay for imports&#x2019; and that &#x2018;certain types of capital investments here are likely to be of a fugitive character&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-68"><sup>68</sup></xref></xrefGrp> De Valera railed against the government&#x2019;s handing over Irish resources to foreigners &#x2018;festooned with tax reliefs&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-69"><sup>69</sup></xref></xrefGrp></p>
+<p id="C6P58">A 1956 US diplomatic despatch to Washington noted:</p>
+<p><displayText id="oso-9780198878230-chapter-6-displayText-4" class="prosequote">
+<p>Although obviously speaking partly for political purposes, these comments [.&#x00A0;.&#x00A0;.] are indicative of the fact this party does not fully share the present Coalition Government&#x2019;s policy of actively seeking foreign investment in Ireland. [The] present favorable attitude toward foreign investment in Ireland may be altered if a change of Government occurs.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-70"><sup>70</sup></xref></xrefGrp></p>
+</displayText></p>
+<p fullOut="Y" id="C6P59"><i>The Statist</i>, a leading British news magazine, carried a similar report, and at least one US investment project appears to have been jettisoned as a consequence of such concerns.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-71"><sup>71</sup></xref></xrefGrp></p>
+<p id="C6P60">The Department of Finance was taken aback by Costello&#x2019;s announcement. Whitaker complained to Sweetman, the Minister for Finance, that the export tax relief would further postpone the day &#x2018;when we can bring farming profits within the income tax net&#x2019;. He argued that &#x2018;it is production which should <page id="138" chapter=""/>be aided rather than exports&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-72"><sup>72</sup></xref></xrefGrp> Following the speech, Sweetman wrote to a cabinet colleague that it had left him &#x2018;with a sense of disappointment&#x2019;:</p>
+<p><displayText id="oso-9780198878230-chapter-6-displayText-5" class="prosequote">
+<p>The Taoiseach&#x2019;s speech, with its great variety of new bodies, with its promises of large grants, striking reliefs from taxation and further assistance [.&#x00A0;.&#x00A0;.] foreshadows further expansion of the already inflated administrative machinery of the state and new large outlays from public funds and losses of revenue through widespread tax concessions.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-73"><sup>73</sup></xref></xrefGrp></p>
+</displayText></p>
+<p fullOut="Y" id="C6P61">The following month, upon being informed that &#x2018;legislation must be prepared by the Revenue Commissioners forthwith&#x2019;, Whitaker complained that the bill was being rushed and responded in uncharacteristically tetchy language to the Secretary of Industry and Commerce on the matter:</p>
+<p><displayText id="oso-9780198878230-chapter-6-displayText-6" class="prosequote">
+<p>I will make only two points on your letter: (i)&#x00A0;Even though you got the [C&#x00F3;ras Tr&#x00E1;cht&#x00E1;la] report only on 12 November, it would have made a considerable difference if it were sent to us then, rather than nine days later [.&#x00A0;.&#x00A0;.] (ii) I might add that we did not and indeed could not have sent to Revenue on 21 November a communication which reached us only on the 22nd. <i>I do not know why you assume that we have invented a new time machine</i> (italics added).<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-74"><sup>74</sup></xref></xrefGrp></p>
+</displayText></p>
+<p fullOut="Y" id="C6P62">Though many believe export profits tax relief to have received the imprimatur of the Whitaker Report of 1958, the relevant sections in fact merely record the measures then in place.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-75"><sup>75</sup></xref></xrefGrp> As discussed in <xrefGrp>Chapter&#x00A0;<xref ref="oso-9780198878230-chapter-7">7</xref></xrefGrp>, the defeat inflicted on the Department of Finance is understood to have been one of the motivating factors behind the production of the report.</p>
+<p id="C6P63">The need to placate domestic industry presented further challenges. While the section of the Taoiseach&#x2019;s speech on &#x2018;Tax Incentives for Exporters&#x2019; excluded any mention of foreign industry, the later section on &#x2018;External Capital&#x2019; signals that the Control of Manufactures Acts of the 1930s are to be retained. It notes that foreign industries &#x2018;will undertake here to manufacture goods which our own manufacturers are not yet equipped to produce&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-76"><sup>76</sup></xref></xrefGrp> While many across the policymaking system&#x2014;including the Taoiseach&#x2014;favoured repeal of the acts, the Department of Industry and Commerce warned that this &#x2018;would permit of the unfettered investment of outside capital <page id="139" chapter=""/>in unsuitable as well as suitable cases&#x2019; and would be seen as &#x2018;a breach of faith towards those who had set up factories on the basis of [their] existence&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-77"><sup>77</sup></xref></xrefGrp></p>
+<p id="C6P64">Though admitting that the provision of the Acts might look formidable to an outsider, the Department advised that it be brought home to potential foreign investors that they were not operated in a restrictive manner. William Taft, the US Ambassador, was sceptical since &#x2018;such a law remains on the books&#x2019;. He complained that &#x2018;we would be promoting the Irish tariff economy rather than liberalization of trade&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-78"><sup>78</sup></xref></xrefGrp> A US consultancy report of 1960 commissioned by the new Shannon authority would describe the continuing restrictions as &#x2018;most detrimental&#x2019; and &#x2018;difficult to understand in light of Ireland&#x2019;s drive for US investments&#x2019;. Echoing the US Ambassador, it interpreted the acts as representing a form of continued protectionism, while efficiency, it argued, required further competition&#x2014;including from new foreign companies.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-79"><sup>79</sup></xref></xrefGrp> The Organisation for European Economic Co-operation (OEEC)&#x2014;forerunner of today&#x2019;s Organisation for Economic Co-operation and Development (OECD)&#x2014;also criticized retention of the foreign-ownership restrictions, which fully ceased to operate only in 1968.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-80"><sup>80</sup></xref></xrefGrp></p>
+<p id="C6P65">Though their remaining on the statute books complicated the job of the IDA (which differed from the Department of Industry and Commerce in favouring repeal), retention of the restrictions was necessary to avoid triggering the opposition of protectionist interests. A similar motivation dictated how the new industrial grants scheme was operated. A convention was adopted &#x2018;which had always been accepted by the grant-giving bodies although it is not expressed in any of the legislation, [that] grants were only to be given to new firms which would not compete in the home market with existing firms&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-81"><sup>81</sup></xref></xrefGrp></p>
+<p id="C6P66">Minister for External Affairs Liam Cosgrave had been concerned, as was Whitaker, that export profits tax relief would be in breach of an agreement entered into with the OEEC in 1955 that member countries would discontinue artificial aids to exporters. Special opt-outs had been granted to France, Greece, and Turkey however, and there was a clause in the agreement that allowed it to be waived &#x2018;for reasons of national importance&#x2019;. In the event, the <page id="140" chapter=""/>OEEC reacted with approval to the evidence of a shift towards outward orientation. The Deputy Secretary General of the organization stated in December 1956 that though Ireland could not fundamentally be considered an underdeveloped country, he accepted that significant industrialization was required and that this might warrant special treatment.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-82"><sup>82</sup></xref></xrefGrp> The 1957 OEEC report on Ireland, having recorded without critical comment the export tax measures adopted, continued:</p>
+<p><displayText id="oso-9780198878230-chapter-6-displayText-7" class="prosequote">
+<p>It is extremely important to avoid stimulating new industrial development by measures which, like tariff increases&#x2014;and to some extent the import levies&#x2014;tend to a more permanent system of protection against outside competition. The main criterion for encouraging the establishment and development of industries should [be] their capacity to make use of available domestic resources to the best advantage and, in most cases, to contribute towards external earnings.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-83"><sup>83</sup></xref></xrefGrp></p>
+</displayText></p>
+<p fullOut="Y" id="C6P67">With the logjam broken, Fianna F&#x00E1;il threw itself wholeheartedly behind the new strategy upon returning to power. In 1958, it expanded the tax remission to 100 per cent and increased the exemption period. Though the draft notes for the Costello speech had speculated that &#x2018;we would get a lot of extra tax&#x2019;, abolishing the tax entirely for the period of the exemption had been advocated by an influential academic commentator, Professor Charles Carter of Queen&#x2019;s University Belfast. Carter had suggested in 1957 that the best way to get &#x2018;good management, technical knowledge and capital all at once is from subsidiaries of large foreign companies; and it would be worth very large inducements indeed, <i>including complete exemption from taxes for a period</i>, to get more of them&#x2019; (italics added).<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-84"><sup>84</sup></xref></xrefGrp> Whitaker, unsurprisingly, disagreed.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-85"><sup>85</sup></xref></xrefGrp></p>
+<p id="C6P68">UK and Continental European firms, constrained by labour shortages at home, responded enthusiastically to the new incentives. It would take somewhat longer for US firms to follow suit. The Shannon Free Zone was targeted particularly towards them. Shannon Airport was located within relatively easy reach of the US east coast&#x2014;it had been a major refuelling station for transatlantic flights in the era before jet travel&#x2014;and Irish labour costs were low not just by US, UK, and advanced Western European economy standards <page id="141" chapter=""/>but relative even to those of Puerto Rico.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-86"><sup>86</sup></xref></xrefGrp> Barry and O&#x2019;Mahony characterize the plan as Fianna F&#x00E1;il&#x2019;s response to the Inter-Party government&#x2019;s initiative.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-87"><sup>87</sup></xref></xrefGrp> The idea was first mentioned in a 1953 Department of Industry and Commerce minute. Following a discussion of the possibility of developing manufacturing industry at the airport, which had been duty-free since 1947, the Irish embassy in London had been requested to seek details from the Panamanian authorities of a similar recent initiative.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-88"><sup>88</sup></xref></xrefGrp> Two&#x00A0;years later, US Commerce Department officials would also advise that consideration be given to &#x2018;the establishment of a free port or bonded zone where manufacturing, assembling and processing operations could be carried out without payment of import duties on materials or parts and with a minimum of customs formalities&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-89"><sup>89</sup></xref></xrefGrp></p>
+<p id="C6P69">The Shannon export processing zone was established by legislation in 1958, with a twenty-five-year tax exemption for qualifying companies (at a time when the national exemption was for ten years).<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-90"><sup>90</sup></xref></xrefGrp> Though identified by the World Bank as one of the world&#x2019;s earliest and most influential such zones, it was based, as seen above, on Latin American prototypes.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-91"><sup>91</sup></xref></xrefGrp> Study visits had been made to Panama and Puerto Rico as well as to the Hamburg Free Zone, and the laws relating to the Col&#x00F3;n Free Zone had been translated and studied. Air-freightable manufacturing soon became the main focus of the endeavour. The managing authority was formally established as the Shannon Free Airport Development Company (SFADCo) in January 1959.</p>
+<p id="C6P70">The results achieved by the IDA in attracting US investment had been disappointing up to this point.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-92"><sup>92</sup></xref></xrefGrp> The competition for US FDI was intense. Though the formal inducements on offer in the Irish case were generous by European standards and were matched or surpassed only by those available in the South of Italy and the port city of Trieste, many competitors were suspected of offering secret tax deals and agreeing &#x2018;to extend their delimitation of &#x201C;undeveloped areas&#x201D; whenever convenient&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-93"><sup>93</sup></xref></xrefGrp> Ireland was not a participant <page id="142" chapter=""/>in either of the European trading blocs, and many of the major US corporations already had production facilities in the United Kingdom, which negated much of the value of what Ireland had to offer.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-94"><sup>94</sup></xref></xrefGrp> The Netherlands, a member of the Common Market, was perceived as a particularly successful competitor.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-95"><sup>95</sup></xref></xrefGrp></p>
+<p id="C6P71">There also appears to have been a widespread perception in the United States at this time that Ireland was culturally unsuited to the requirements of modern industry.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-96"><sup>96</sup></xref></xrefGrp> Groutel quotes from an internal report by the US Ambassador in 1953 that the Irish had a preference for &#x2018;rest, relaxation, sport, or some other non-remunerative pursuit rather than for a higher standard of living&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-97"><sup>97</sup></xref></xrefGrp> Teeling comments, with reference to attitudes among the Irish-American business community, that &#x2018;these potential investors were not uncertain about an Irish project, they were certain that it would be a disaster&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-98"><sup>98</sup></xref></xrefGrp></p>
+<p id="C6P72">One of SFADCo&#x2019;s first acts was to commission US consultancy firm Business International to advise on changes to Irish practices and tax and company law that might facilitate the attraction of US businesses. On the cultural issue, the report recommended initiating a campaign &#x2018;playing up Ireland&#x2019;s close relationship with Protestant countries&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-99"><sup>99</sup></xref></xrefGrp> The main policy advice offered was that Ireland should consider replicating some of the legal, tax, and regulatory aspects of the Swiss regime.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-100"><sup>100</sup></xref></xrefGrp> The Washington administration was growing increasingly concerned by the aggressive tax planning practices of US corporations however, and President Kennedy had explicitly mentioned the &#x2018;unjustifiable use of tax havens such as Switzerland&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-101"><sup>101</sup></xref></xrefGrp> The consultants&#x2019; recommendations were rejected, both to avoid the stigma of being considered a tax haven and because having to make the case for <page id="143" chapter=""/>special &#x2018;underdevelopment concessions&#x2019; (if the changes to US tax laws then under discussion were to proceed) could complicate possible future negotiations with the EEC. It was determined, furthermore, that adoption of the Swiss regime would not necessarily maximize employment creation, which remained the primary goal of Irish policy.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-102"><sup>102</sup></xref></xrefGrp></p>
+<p id="C6P73">The cultural concerns of earlier&#x00A0;years would dissipate with the passage of time. The <i>Wall Street Journal</i> carried a report on recent industrial progress in 1960 under the title &#x2018;Why Irish Eyes are Smiling&#x2019;. <i>Time Magazine</i> featured Lemass on its front cover three&#x00A0;years later under the heading &#x2018;New Spirit in the Ould Sod&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-103"><sup>103</sup></xref></xrefGrp> Many of the new foreign firms reported in the 1960s that their original expectations of the efficiency and capabilities of the Irish workforce had been set far too low.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-104"><sup>104</sup></xref></xrefGrp> By the 1970s, the IDA officials whom Teeling interviewed believed that cultural ties with the United States were responsible for many of the projects undertaken.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-105"><sup>105</sup></xref></xrefGrp></p>
+<noteGroup>
+<note id="oso-9780198878230-chapter-6-note-38" type="footnote"><p><enumerator><sup>38</sup></enumerator> The deficits of the period 1947&#x2013;1956 more than offset the surpluses that had accumulated during the war, when imports had been curtailed while exports of food and cattle continued: <bibItem id="oso-9780198878230-chapter-6-bibItem-28" class="book" author="Department of Finance" date="1958" title="Economic Development" page="15" place="Dublin" publisher="Stationery Office" purpose="display"><nameGrp nameType="nonPersonal" mainName="Department of Finance">Department of Finance</nameGrp>, <i>Economic Development</i> (Dublin: Stationery Office, 1958), 15.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-39" type="footnote"><p><enumerator><sup>39</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-29" class="book" author="Eoin, O&#x2019;Malley" date="1989" title="Industry and Economic Development: The Challenge for the Latecomer" page="65" place="Dublin" publisher="Gill and Macmillan" purpose="display"><nameGrp foreNames="O&#x2019;Malley" mainName="Eoin" role="author">Eoin O&#x2019;Malley</nameGrp>, <i>Industry and Economic Development: The Challenge for the Latecomer</i> (Dublin: Gill and Macmillan, 1989), 65.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-40" type="footnote"><p><enumerator><sup>40</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-30" class="journalArticle" author="Balassa, Bela" date="1980" title="The Process of Industrial Development and Alternative Development Strategies" journalName="Essays in International Finance" vol="141" page="10" pageLast="11" purpose="display"><nameGrp foreNames="Bela" mainName="Balassa" role="author">Bela Balassa</nameGrp>, &#x2018;The Process of Industrial Development and Alternative Development Strategies&#x2019;. <i>Essays in International Finance</i> 141 (1980): 10&#x2013;11.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-41" type="footnote"><p><enumerator><sup>41</sup></enumerator> NAI: TAOIS 3/S11603, Department of Industry and Commerce Memorandum for the Government: Irish Steel Industry, 20 April 1950.</p></note>
+<note id="oso-9780198878230-chapter-6-note-42" type="footnote"><p><enumerator><sup>42</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-31" class="journalArticle" author="Barry, Frank|Barry, Linda|Menton, Aisling" date="2016" journalIssue="4" title="Tariff&#x2010;Jumping Foreign Direct Investment in Protectionist Era Ireland" journalName="Economic History Review" vol="69" page="1285" purpose="display"><nameGrp foreNames="Frank" mainName="Barry" role="author">Frank Barry</nameGrp>, <nameGrp foreNames="Linda" mainName="Barry" role="author">Linda Barry</nameGrp>, and <nameGrp foreNames="Aisling" mainName="Menton" role="author">Aisling Menton</nameGrp>, &#x2018;Tariff&#x2010;Jumping Foreign Direct Investment in Protectionist Era Ireland&#x2019;. <i>Economic History Review</i> 69, 4 (2016): 1285&#x2013;248.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-43" type="footnote"><p><enumerator><sup>43</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-32" class="book" author="Fanning, Ronan" date="1978" title="The Irish Department of Finance, 1922&#x2013;58" place="Dublin" publisher="Institute of Public Administration" purpose="display"><nameGrp foreNames="Ronan" mainName="Fanning" role="author">Ronan Fanning</nameGrp>, <i>The Irish Department of Finance, 1922&#x2013;58</i> (Dublin: Institute of Public Administration, 1978), 391, 428.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-44" type="footnote"><p><enumerator><sup>44</sup></enumerator> The volume of exports had fallen substantially since the late 1920s as a consequence of the Great Depression, protectionism, the economic war, and the difficult trading conditions of the Second World War era. The 1929 level of exports would be surpassed only in 1960: <i>Statistical Abstract</i> (Dublin: Stationery Office, 1974&#x2013;1975), 147.</p></note>
+<note id="oso-9780198878230-chapter-6-note-45" type="footnote"><p><enumerator><sup>45</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-33" class="journalArticle" author="FitzGerald, John|Kenny, Se&#x00E1;n" date="2018" title="Managing a Century of Debt" journalName="Journal of the Statistical and Social Inquiry Society of Ireland" vol="48" page="1" pageLast="40" purpose="display"><nameGrp foreNames="John" mainName="Fitzgerald" role="author">John FitzGerald</nameGrp> and <nameGrp foreNames="Se&#x00E1;N" mainName="Kenny" role="author">Se&#x00E1;n Kenny</nameGrp>, &#x2018;Managing a Century of Debt&#x2019;. <i>Journal of the Statistical and Social Inquiry Society of Ireland</i> 48 (2018): 1&#x2013;40.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-46" type="footnote"><p><enumerator><sup>46</sup></enumerator> Patrick Lynch, cited in <bibItem id="oso-9780198878230-chapter-6-bibItem-34" class="journalArticle" author="Gr&#x00E1;da, Cormac &#x00D3;|Kevin Hjortsh&#x00F8;j, O&#x2019;Rourke" date="2022" journalIssue="2" title="The Irish Economy during the Century after Partition" journalName="Economic History Review" vol="75" page="336" pageLast="370" purpose="display"><nameGrp foreNames="Cormac &#x00D3;" mainName="Gr&#x00e1;da" role="author">Cormac &#x00D3; Gr&#x00E1;da</nameGrp> and <nameGrp foreNames="O&#x2019;Rourke" mainName="Kevin Hjortsh&#x00f8;j" role="author">Kevin Hjortsh&#x00F8;j O&#x2019;Rourke</nameGrp>, &#x2018;The Irish Economy during the Century after Partition&#x2019;. <i>Economic History Review</i> 75, 2 (2022): 336&#x2013;70.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-47" type="footnote"><p><enumerator><sup>47</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-35" class="book" author="Moynihan, Maurice" date="1975" title="Currency and Central Banking in Ireland, 1922&#x2013;1960" page="375" place="Dublin" publisher="Gill and Macmillan and Central Bank of Ireland" purpose="display"><nameGrp foreNames="Maurice" mainName="Moynihan" role="author">Maurice Moynihan</nameGrp>, <i>Currency and Central Banking in Ireland, 1922&#x2013;1960</i> (Dublin: Gill and Macmillan and Central Bank of Ireland, 1975), 375.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-48" type="footnote"><p><enumerator><sup>48</sup></enumerator> Waterbury, &#x2018;The Long Gestation and Brief Triumph of Import-Substituting Industrialization&#x2019;.</p></note>
+<note id="oso-9780198878230-chapter-6-note-49" type="footnote"><p><enumerator><sup>49</sup></enumerator> Horgan, <i>Se&#x00E1;n Lemass, The Enigmatic Patriot</i>, 133&#x2013;34.</p></note>
+<note id="oso-9780198878230-chapter-6-note-50" type="footnote"><p><enumerator><sup>50</sup></enumerator> Cited in <bibItem id="oso-9780198878230-chapter-6-bibItem-36" class="journalArticle" author="Barry, Frank|Fathartaigh, M&#x00ED;che&#x00E1;l &#x00D3;" date="2015" journalIssue="155" title="The Industrial Development Authority, 1949&#x2013;58: Establishment, Evolution and Expansion of Influence" journalName="Irish Historical Studies" vol="39" page="460" pageLast="478" purpose="display"><span role="replace-ibid"><nameGrp foreNames="Frank" mainName="Barry" role="author">Frank Barry</nameGrp> and <nameGrp foreNames="M&#x00ED;Che&#x00E1;L &#x00D3;" mainName="Fathartaigh" role="author">M&#x00ED;che&#x00E1;l &#x00D3; Fathartaigh</nameGrp>, &#x2018;The Industrial Development Authority, 1949&#x2013;58: Establishment, Evolution and Expansion of Influence&#x2019;. <i>Irish Historical Studies</i> 39, 155 (2015): 460&#x2013;78.</span></bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-51" type="footnote"><p><enumerator><sup>51</sup></enumerator> Cited in <bibItem id="oso-9780198878230-chapter-6-bibItem-37" class="journalArticle" author="Barry, Frank|Fathartaigh, M&#x00ED;che&#x00E1;l &#x00D3;" date="2015" journalIssue="155" title="The Industrial Development Authority, 1949&#x2013;58: Establishment, Evolution and Expansion of Influence" journalName="Irish Historical Studies" vol="39" page="460" pageLast="478" purpose="display"><xrefGrp><xref ref="oso-9780198878230-chapter-6-bibItem-36">ibid</xref></xrefGrp></bibItem>.</p></note>
+<note id="oso-9780198878230-chapter-6-note-52" type="footnote"><p><enumerator><sup>52</sup></enumerator> <i>Irish Press</i>, 21 July 1949.</p></note>
+<note id="oso-9780198878230-chapter-6-note-53" type="footnote"><p><enumerator><sup>53</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-38" class="book" author="Daly, Mary E." date="1992" title="Industrial Development and Irish National Identity, 1922&#x2013;1939" page="29" place="New York" publisher="Syracuse University Press" purpose="display"><nameGrp foreNames="Mary E." mainName="Daly" role="author">Mary E. Daly</nameGrp>, <i>Industrial Development and Irish National Identity, 1922&#x2013;1939</i> (New York: Syracuse University Press, 1992), 29.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-54" type="footnote"><p><enumerator><sup>54</sup></enumerator> Cited in Barry and &#x00D3; Fathartaigh, &#x2018;The Industrial Development Authority, 1949&#x2013;58&#x2019;.</p></note>
+<note id="oso-9780198878230-chapter-6-note-55" type="footnote"><p><enumerator><sup>55</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-39" class="journalArticle" author="Barry, Frank" date="2011" title="Foreign Investment and the Politics of Export Profits Tax Relief 1956" journalName="Irish Economic and Social History" vol="38" page="54" pageLast="73" purpose="display"><span role="replace-ibid"><nameGrp foreNames="Frank" mainName="Barry" role="author">Frank Barry</nameGrp>, &#x2018;Foreign Investment and the Politics of Export Profits Tax Relief 1956&#x2019;. <i>Irish Economic and Social History</i> 38 (2011): 54&#x2013;73.</span></bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-56" type="footnote"><p><enumerator><sup>56</sup></enumerator> Cited in <bibItem id="oso-9780198878230-chapter-6-bibItem-40" class="journalArticle" author="Barry, Frank" date="2011" title="Foreign Investment and the Politics of Export Profits Tax Relief 1956" journalName="Irish Economic and Social History" vol="38" page="54" pageLast="73" purpose="display"><xrefGrp><xref ref="oso-9780198878230-chapter-6-bibItem-39">ibid</xref></xrefGrp></bibItem>.</p></note>
+<note id="oso-9780198878230-chapter-6-note-57" type="footnote"><p><enumerator><sup>57</sup></enumerator> Cited in <bibItem id="oso-9780198878230-chapter-6-bibItem-41" class="journalArticle" author="Barry, Frank" date="2011" title="Foreign Investment and the Politics of Export Profits Tax Relief 1956" journalName="Irish Economic and Social History" vol="38" page="54" pageLast="73" purpose="display"><xrefGrp><xref ref="oso-9780198878230-chapter-6-bibItem-39">ibid</xref></xrefGrp></bibItem>.</p></note>
+<note id="oso-9780198878230-chapter-6-note-58" type="footnote"><p><enumerator><sup>58</sup></enumerator> Cited in Barry and &#x00D3; Fathartaigh, &#x2018;The Industrial Development Authority, 1949&#x2013;58&#x2019;.</p></note>
+<note id="oso-9780198878230-chapter-6-note-59" type="footnote"><p><enumerator><sup>59</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-42" class="book" date="1948" title="European Recovery Program" page="8792" place="Washington, DC" publisher="US Department of State" purpose="display"><i>European Recovery Program</i> (Washington, DC: US Department of State, 1948), 8792.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-60" type="footnote"><p><enumerator><sup>60</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-43" class="book" author="Murray, Peter" date="2009" title="Facilitating the Future: US Aid, European Integration and Irish Industrial Viability: 1948&#x2013;73" page="20" pageLast="21" place="Dublin" publisher="University College Dublin Press" purpose="display"><nameGrp foreNames="Peter" mainName="Murray" role="author">Peter Murray</nameGrp>, <i>Facilitating the Future: US Aid, European Integration and Irish Industrial Viability: 1948&#x2013;73</i> (Dublin: University College Dublin Press, 2009), 20&#x2013;21.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-61" type="footnote"><p><enumerator><sup>61</sup></enumerator> The US authorities were also advising in 1955 that financial inducements such as tax remission and import duty exemptions might be necessary to attract US FDI: <bibItem id="oso-9780198878230-chapter-6-bibItem-44" class="journalArticle" author="Groutel, Anne" date="2016" journalIssue="1" title="American Janus-Faced Economic Diplomacy towards Ireland in the Mid-1950s" journalName="Irish Economic and Social History" vol="43" page="3" pageLast="20" purpose="display"><nameGrp foreNames="Anne" mainName="Groutel" role="author">Anne Groutel</nameGrp>, &#x2018;American Janus-Faced Economic Diplomacy towards Ireland in the Mid-1950s&#x2019;. <i>Irish Economic and Social History</i> 43, 1 (2016): 3&#x2013;20.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-62" type="footnote"><p><enumerator><sup>62</sup></enumerator> Barry and &#x00D3; Fathartaigh, &#x2018;The Industrial Development Authority, 1949&#x2013;58&#x2019;.</p></note>
+<note id="oso-9780198878230-chapter-6-note-63" type="footnote"><p><enumerator><sup>63</sup></enumerator> The undeveloped areas were Donegal, Kerry, West Cork, West Clare, and all of Connacht. Other areas were added subsequently.</p></note>
+<note id="oso-9780198878230-chapter-6-note-64" type="footnote"><p><enumerator><sup>64</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-45" class="journalArticle" author="Beddy, J. P." date="1962" journalIssue="4" title="Industrial Promotion 1" journalName="Administration" vol="10" page="327" purpose="display"><nameGrp foreNames="J. P." mainName="Beddy" role="author">J. P. Beddy</nameGrp>, &#x2018;Industrial Promotion 1&#x2019;. <i>Administration</i> 10, 4 (1962): 327.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-65" type="footnote"><p><enumerator><sup>65</sup></enumerator> <i>PDSE</i>, 22 March 1956.</p></note>
+<note id="oso-9780198878230-chapter-6-note-66" type="footnote"><p><enumerator><sup>66</sup></enumerator> UCD archives, Costello Papers, P190/713(8), italics added.</p></note>
+<note id="oso-9780198878230-chapter-6-note-67" type="footnote"><p><enumerator><sup>67</sup></enumerator> See, e.g. <bibItem id="oso-9780198878230-chapter-6-bibItem-46" class="journalArticle" author="FitzGerald, Garret" date="1959" journalIssue="190" title="Mr Whitaker and Industry" journalName="Studies: An Irish Quarterly Review" vol="48" page="138" pageLast="150" purpose="display"><nameGrp foreNames="Garret" mainName="Fitzgerald" role="author">Garret FitzGerald</nameGrp>, &#x2018;Mr Whitaker and Industry&#x2019;. <i>Studies: An Irish Quarterly Review</i> 48, 190 (1959): 138&#x2013;50.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-68" type="footnote"><p><enumerator><sup>68</sup></enumerator> <i>PDDE</i>, 7 March 1956.</p></note>
+<note id="oso-9780198878230-chapter-6-note-69" type="footnote"><p><enumerator><sup>69</sup></enumerator> Barry, &#x2018;Foreign Investment and the Politics of Export Profits Tax Relief&#x2019;.</p></note>
+<note id="oso-9780198878230-chapter-6-note-70" type="footnote"><p><enumerator><sup>70</sup></enumerator> Groutel, &#x2018;American Janus-Faced Economic Diplomacy towards Ireland in the Mid-1950s&#x2019;.</p></note>
+<note id="oso-9780198878230-chapter-6-note-71" type="footnote"><p><enumerator><sup>71</sup></enumerator> Bew and Patterson, <i>Se&#x00E1;n Lemass and the Making of Modern Ireland</i>, 89; Groutel, &#x2018;American Janus-Faced Economic Diplomacy towards Ireland in the Mid-1950s&#x2019;.</p></note>
+<note id="oso-9780198878230-chapter-6-note-72" type="footnote"><p><enumerator><sup>72</sup></enumerator> NAI: Fin/F200/10/56.</p></note>
+<note id="oso-9780198878230-chapter-6-note-73" type="footnote"><p><enumerator><sup>73</sup></enumerator> NAI: Fin/F200/13/56.</p></note>
+<note id="oso-9780198878230-chapter-6-note-74" type="footnote"><p><enumerator><sup>74</sup></enumerator> NAI: Fin/F200/10/56.</p></note>
+<note id="oso-9780198878230-chapter-6-note-75" type="footnote"><p><enumerator><sup>75</sup></enumerator> Department of Finance, <i>Economic Development</i>, 42, 232.</p></note>
+<note id="oso-9780198878230-chapter-6-note-76" type="footnote"><p><enumerator><sup>76</sup></enumerator> UCDA, Costello Papers, 1956, P190/781.</p></note>
+<note id="oso-9780198878230-chapter-6-note-77" type="footnote"><p><enumerator><sup>77</sup></enumerator> UCDA, Costello Papers, 1954, P190/787/(2); <bibItem id="oso-9780198878230-chapter-6-bibItem-47" class="book" author="McCullagh, David" date="2010" title="The Reluctant Taoiseach: A Biography of John A. Costello" page="293" place="Dublin" publisher="Gill and Macmillan" purpose="display"><nameGrp foreNames="David" mainName="Mccullagh" role="author">David McCullagh</nameGrp>, <i>The Reluctant Taoiseach: A Biography of John A. Costello</i> (Dublin: Gill and Macmillan, 2010), 293.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-78" type="footnote"><p><enumerator><sup>78</sup></enumerator> US archives cited in Groutel, &#x2018;American Janus-Faced Economic Diplomacy towards Ireland in the Mid-1950s&#x2019;, 11.</p></note>
+<note id="oso-9780198878230-chapter-6-note-79" type="footnote"><p><enumerator><sup>79</sup></enumerator> NAI: DT S 2850G/94.</p></note>
+<note id="oso-9780198878230-chapter-6-note-80" type="footnote"><p><enumerator><sup>80</sup></enumerator> 1958 OEEC report on Ireland: NAI, DT S 16446. The restrictions were relaxed in 1958 and 1964 and removed entirely in 1968: <i>Irish Times</i>, 19 October 1964; <bibItem id="oso-9780198878230-chapter-6-bibItem-48" class="book" author="Meenan, James" date="1970" title="The Irish Economy since 1922" page="151" pageLast="152" place="Liverpool" publisher="Liverpool University Press" purpose="display"><nameGrp foreNames="James" mainName="Meenan" role="author">James Meenan</nameGrp>, <i>The Irish Economy since 1922</i> (Liverpool: &#x0060;Liverpool University Press, 1970), 151&#x2013;52.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-81" type="footnote"><p><enumerator><sup>81</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-49" class="bookChapter" partAuthor="Brock, Catherine" partTitle="Public Policy and Private Industrial Development" editor="Bristow, John A.|Tait, Alan A." date="1968" title="Economic Policy in Ireland" page="160" place="Dublin" publisher="Institute of Public Administration" purpose="display"><nameGrp foreNames="Catherine" mainName="Brock" role="partAuthor">Catherine Brock</nameGrp>, &#x2018;Public Policy and Private Industrial Development&#x2019;, in <i>Economic Policy in Ireland</i> ed. <nameGrp foreNames="John A." mainName="Bristow" role="editor">John A. Bristow</nameGrp> and <nameGrp foreNames="Alan A." mainName="Tait" role="editor">Alan A. Tait</nameGrp> (Dublin: Institute of Public Administration, 1968), 160.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-82" type="footnote"><p><enumerator><sup>82</sup></enumerator> Cited in Barry, &#x2018;Foreign Investment and the Politics of Export Profits Tax Relief&#x2019;. As will be seen again on other occasions, Ireland had to continually balance the advantages and disadvantages of being characterized as &#x2018;under-industrialized&#x2019; in international negotiations: <bibItem id="oso-9780198878230-chapter-6-bibItem-50" class="book" author="Maher, Denis J." date="1986" title="The Tortuous Path: The Course of Ireland&#x2019;s Entry into the EEC, 1948&#x2013;73" page="57" place="Dublin" publisher="Institute of Public Administration" purpose="display"><nameGrp foreNames="Denis J." mainName="Maher" role="author">Denis J. Maher</nameGrp>, <i>The Tortuous Path: The Course of Ireland&#x2019;s Entry into the EEC, 1948&#x2013;73</i> (Dublin: Institute of Public Administration, 1986), 57, 82&#x2013;84, 126.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-83" type="footnote"><p><enumerator><sup>83</sup></enumerator> Cited in Barry, &#x2018;Foreign Investment and the Politics of Export Profits Tax Relief&#x2019;.</p></note>
+<note id="oso-9780198878230-chapter-6-note-84" type="footnote"><p><enumerator><sup>84</sup></enumerator> NAI, DT S 16211: March 1957 address by Professor Charles Carter of Queen&#x2019;s University, Belfast, circulated to government by (Fianna F&#x00E1;il) Minister for Finance.</p></note>
+<note id="oso-9780198878230-chapter-6-note-85" type="footnote"><p><enumerator><sup>85</sup></enumerator> NAI, Fin/F049/012/58.</p></note>
+<note id="oso-9780198878230-chapter-6-note-86" type="footnote"><p><enumerator><sup>86</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-51" class="unclassified" author="Teeling, John" date="1975" purpose="display"><nameGrp foreNames="John" mainName="Teeling" role="author">John Teeling</nameGrp>, &#x2018;The Evolution of Offshore Investment&#x2019;. DBA thesis, Harvard University, 1975</bibItem>, exhibits 1.2 and 1.3.</p></note>
+<note id="oso-9780198878230-chapter-6-note-87" type="footnote"><p><enumerator><sup>87</sup></enumerator> <span role="replace-ibid">Barry and O&#x2019;Mahony, &#x2018;Regime Change in 1950s Ireland&#x2019;</span>.</p></note>
+<note id="oso-9780198878230-chapter-6-note-88" type="footnote"><p><enumerator><sup>88</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-52" class="unclassified" author="Teeling, John" date="1975" purpose="display"><xrefGrp><xref ref="oso-9780198878230-chapter-6-bibItem-51">Ibid</xref></xrefGrp></bibItem>.</p></note>
+<note id="oso-9780198878230-chapter-6-note-89" type="footnote"><p><enumerator><sup>89</sup></enumerator> Groutel, &#x2018;American Janus-Faced Economic Diplomacy towards Ireland in the Mid-1950s&#x2019;.</p></note>
+<note id="oso-9780198878230-chapter-6-note-90" type="footnote"><p><enumerator><sup>90</sup></enumerator> Many of the incentives offered by other countries were dependent on annual budgetary rounds. Tax holidays provided greater certainty for businesses and were an important component of the Irish regime.</p></note>
+<note id="oso-9780198878230-chapter-6-note-91" type="footnote"><p><enumerator><sup>91</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-53" class="book" author="Bank, World" date="1992" title="Export Processing Zones (Washington" place="DC" publisher=": World Bank" purpose="display"><nameGrp foreNames="World" mainName="Bank" role="author">World Bank</nameGrp>, <i>Export Processing Zones</i> (Washington, DC: World Bank, 1992</bibItem>). Jiang Zemin, president of China from 1993 to 2002, was reportedly strongly influenced by a study visit to Shannon in which he had participated in 1980: <bibItem id="oso-9780198878230-chapter-6-bibItem-54" class="book" author="Lin, Justin Yifu|Monga, C&#x00E9;lestin" date="2017" title="Beating the Odds: Jump-Starting Developing Countries" place="Princeton, NJ" publisher="Princeton University Press" purpose="display"><nameGrp foreNames="Justin Yifu" mainName="Lin" role="author">Justin Yifu Lin</nameGrp> and <nameGrp foreNames="C&#x00E9;Lestin" mainName="Monga" role="author">C&#x00E9;lestin Monga</nameGrp>, <i>Beating the Odds: Jump-Starting Developing Countries</i> (Princeton, NJ: Princeton University Press, 2017).</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-92" type="footnote"><p><enumerator><sup>92</sup></enumerator> NAI, DT S 2850 G/94, Memo from Department of Industry and Commerce: &#x2018;Attracting External Investment in Ireland&#x2019;, 7 September 1960.</p></note>
+<note id="oso-9780198878230-chapter-6-note-93" type="footnote"><p><enumerator><sup>93</sup></enumerator> NAI, DT 2001/3/122, Economic Development Branch (Department of Finance), Inducements to Industrialists, July 1960. Other examples of suspected or alleged flexibilities being shown by European tax authorities are provided in the 1960 Business International consultancy report referred to below: NAI, DT S 2850 G/94.</p></note>
+<note id="oso-9780198878230-chapter-6-note-94" type="footnote"><p><enumerator><sup>94</sup></enumerator> NAI, DT S 2850 G/94, Department of Industry and Commerce: Attracting External Investment in Ireland, 7 Sep 1960; NAI, FIN 2001/3/121, Industrial Development Authority letter to Whitaker, 25 January 1960.</p></note>
+<note id="oso-9780198878230-chapter-6-note-95" type="footnote"><p><enumerator><sup>95</sup></enumerator> NAI, DT S 2850 G/94, Memo from Department of Industry and Commerce: &#x2018;Attracting External Investment in Ireland&#x2019;.</p></note>
+<note id="oso-9780198878230-chapter-6-note-96" type="footnote"><p><enumerator><sup>96</sup></enumerator> In Germany, by contrast, Ireland&#x2019;s under-industrialization was perceived as an advantage in that it ensured the availability of a plentiful supply of labour: Barry and O&#x2019;Mahony, &#x2018;Regime Change in 1950s Ireland&#x2019;; <bibItem id="oso-9780198878230-chapter-6-bibItem-55" class="book" date="1967" title="Survey of Grant-Aided Industry: Survey Team&#x2019;s Report" place="Dublin" publisher="Stationery Office" purpose="display"><i>Survey of Grant-Aided Industry: Survey Team&#x2019;s Report</i>, (Dublin: Stationery Office, 1967), 57.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-97" type="footnote"><p><enumerator><sup>97</sup></enumerator> Groutel, &#x2018;American Janus-Faced Economic Diplomacy towards Ireland in the Mid-1950s&#x2019;, 16.</p></note>
+<note id="oso-9780198878230-chapter-6-note-98" type="footnote"><p><enumerator><sup>98</sup></enumerator> Teeling, &#x2018;The Evolution of Offshore Investment&#x2019;, 58, 67.</p></note>
+<note id="oso-9780198878230-chapter-6-note-99" type="footnote"><p><enumerator><sup>99</sup></enumerator> NAI, DT S/2850G/94. On a similar note, Boston consultancy company Arthur D. Little advised the Northern Ireland authorities to emphasize &#x2018;the historical and ethnic differences&#x2019; between Northern Ireland and the Republic: PRONI Cab/9/F/188/15, &#x2018;A Program to Attract American Industry to Northern Ireland&#x2019;, 15 October 1959.</p></note>
+<note id="oso-9780198878230-chapter-6-note-100" type="footnote"><p><enumerator><sup>100</sup></enumerator> NAI, DT S 2850G/94.</p></note>
+<note id="oso-9780198878230-chapter-6-note-101" type="footnote"><p><enumerator><sup>101</sup></enumerator> Cited in Joint Committee on Internal Revenue Taxation, &#x2018;Tax Effects of Conducting Foreign Business through Foreign Corporations&#x2019; (Washington, DC: 1961), 19.</p></note>
+<note id="oso-9780198878230-chapter-6-note-102" type="footnote"><p><enumerator><sup>102</sup></enumerator> Frank Barry, &#x2018;Shannon Connections: Aggressive tax planning by US MNCs in the pre-Kennedy era&#x2019;. Presentation to Central Bank of Ireland Economic History Workshop, December 16, 2016.</p></note>
+<note id="oso-9780198878230-chapter-6-note-103" type="footnote"><p><enumerator><sup>103</sup></enumerator> <i>Time Magazine</i> cover story, 12 July 1963; <i>Wall Street Journal</i>, 1 November 1960, clipping contained in NAI, DT S/2850G/94.</p></note>
+<note id="oso-9780198878230-chapter-6-note-104" type="footnote"><p><enumerator><sup>104</sup></enumerator> <i>Survey of Grant-Aided Industry: Survey Team&#x2019;s Report</i>, 90.</p></note>
+<note id="oso-9780198878230-chapter-6-note-105" type="footnote"><p><enumerator><sup>105</sup></enumerator> Teeling, &#x2018;The Evolution of Offshore Investment&#x2019;, 58.</p></note>
+</noteGroup>
+</div1>
+<div1 id="oso-9780198878230-chapter-6-div1-4" doi="10.1093/oso/9780198878230.003.0006.021.0004">
+<titleGroup id="oso-9780198878230-chapter-6-titleGroup-10"><title id="C6S3"><p><enumerator>6.3</enumerator> Developments in &#x2018;New&#x2019; Foreign Industry</p></title></titleGroup>
+<p id="C6P74">Manufactured exports increased strongly in 1957 and more than doubled&#x2014;though from a very low base&#x2014;between 1956 and 1960. The annual reports of the Irish Export Board ascribe the expansion largely to the new financial and tax incentives that had been introduced. Though the new industries established were substantially more import-intensive in their production processes than existing export industries, the parallel expansion in imports over the coming&#x00A0;years was largely a consequence of the relaxation of the balance-of-payments constraint. A visiting US academic would report in 1974 that the directors of the Central Statistics Office, the Economic and Social Research Institute, and the Research and Planning Division of the IDA had all agreed in correspondence that new industry&#x2014;the bulk of it foreign&#x2014;was &#x2018;the primary causative force in reducing emigration between 1958 and 1971&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-106"><sup>106</sup></xref></xrefGrp></p>
+<p id="C6P75">Available estimates suggest that there were around 7,000 jobs in &#x2018;new&#x2019; (post-1955) internationally competitive foreign industrial projects in 1962, <page id="144" chapter=""/>including 1,000 or so at the Shannon Industrial Estate.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-107"><sup>107</sup></xref></xrefGrp> This was less than half of the overall increase in manufacturing employment over these years. Other drivers of the more general expansion included the normal cyclical recovery from the severe recession of the mid-1950s, a pick-up in economic growth in the United Kingdom, and the bolder approach to aggregate demand management policy adopted from this time.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-108"><sup>108</sup></xref></xrefGrp> As Kennedy and Dowling observe however, a bolder approach could be taken precisely because the balance-of-payments constraint had been relaxed.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-109"><sup>109</sup></xref></xrefGrp> From the mid-1960s through to EEC accession, almost all of the increase in manufacturing employment would be in &#x2018;new&#x2019; foreign industry.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-110"><sup>110</sup></xref></xrefGrp></p>
+<p id="C6P76">Most of the foreign-owned grant-aided projects initiated over the period 1955&#x2013;1961, though larger on average than Irish-owned projects, employed a workforce of no more than fifty. The largest included the atypical cases of Verolme Dockyard and the Whitegate oil refinery: Verolme (discussed further later) was a brownfield rather than a greenfield project, while Whitegate was a non-manufacturing operation.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-111"><sup>111</sup></xref></xrefGrp> Others included Liebherr, Wavin Pipes, Kire Manufacturing, and the Fortune 500 company Standard Pressed Steel (SPS) of Pennsylvania (<xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-6-tableGroup-7">6.7</xref></xrefGrp>).<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-112"><sup>112</sup></xref></xrefGrp> SPS accounted for almost half of the jobs in the early&#x00A0;years of the Shannon Free Zone.</p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-6-tableGroup-7"?></p>
+<p id="C6P77">Other early arrivals at Shannon included Lana-Knit, Shannon Diamond &#x0026; Carbide (later De Beers), and Sony. Sony&#x2019;s establishment in 1959 has been described as &#x2018;the first post-war direct manufacturing investment in Europe by any major Japanese corporation&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-113"><sup>113</sup></xref></xrefGrp> The operation aroused controversy in Britain, as some of the early German investments in Ireland would also do. The Japanese manager of the plant admitted that the &#x2018;Made in Ireland&#x2019; label would prove advantageous as some European countries still looked <page id="145" chapter=""/>unfavourably on imports from Japan.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-114"><sup>114</sup></xref></xrefGrp> The plant employed fewer than 100 and closed in 1964 when Britain imposed an emergency surcharge on manufactured imports in response to balance-of-payments difficulties it was itself experiencing at this time.</p>
+<p id="C6P78">The exports of the earliest grant-aided foreign investors&#x2014;among which British firms predominated&#x2014;were directed more towards the United Kingdom than to Continental Europe. Shannon, with its strong North American market orientation, was a special case.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-115"><sup>115</sup></xref></xrefGrp> The EEC became a more significant destination as the share of US and Continental European firms establishing in Ireland expanded over the course of the 1960s.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-116"><sup>116</sup></xref></xrefGrp></p>
+<p id="C6P79">Irish exports had declined as a share of national income since the 1930s. The trend would be reversed from this point.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-117"><sup>117</sup></xref></xrefGrp> <xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-6-tableGroup-8">6.8</xref></xrefGrp> depicts the related shifts in export composition and export destinations.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-118"><sup>118</sup></xref></xrefGrp> Dermot McAleese would note in 1975 that &#x2018;it has been fairly clearly established that most of the last 15 years&#x2019; export growth, and the attendant diversification of export markets, is attributable to [.&#x00A0;.&#x00A0;.] new grant-aided enterprises. Thus nearly half <page id="146" chapter=""/>of Ireland&#x2019;s manufactured exports in 1970 are estimated to have come from firms which were established since 1959.&#x2019;<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-119"><sup>119</sup></xref></xrefGrp></p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-6-tableGroup-8"?></p>
+<noteGroup>
+<note id="oso-9780198878230-chapter-6-note-106" type="footnote"><p><enumerator><sup>106</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-56" class="journalArticle" author="Kearns, Kevin. A." date="1974" journalIssue="3" title="Industrialization and Regional Development in Ireland, 1958&#x2013;72" journalName="American Journal of Economics and Sociology" vol="33" page="299" pageLast="316" purpose="display"><nameGrp foreNames="Kevin. A." mainName="Kearns" role="author">Kevin. A. Kearns</nameGrp>, &#x2018;Industrialization and Regional Development in Ireland, 1958&#x2013;72&#x2019;. <i>American Journal of Economics and Sociology</i> 33, 3 (1974): 299&#x2013;316.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-107" type="footnote"><p><enumerator><sup>107</sup></enumerator> See <xrefGrp>Chapter&#x00A0;<xref ref="oso-9780198878230-chapter-7">7</xref></xrefGrp>.</p></note>
+<note id="oso-9780198878230-chapter-6-note-108" type="footnote"><p><enumerator><sup>108</sup></enumerator> Kennedy and Dowling, <i>Economic Growth in Ireland: The Experience since 1947</i>, 232; <bibItem id="oso-9780198878230-chapter-6-bibItem-57" class="book" author="Kennedy, Liam" date="1989" title="The Modern Industrialisation of Ireland, 1940&#x2013;1988" page="15" place="Dundalk" publisher="Dundalgan Press" purpose="display"><nameGrp foreNames="Liam" mainName="Kennedy" role="author">Liam Kennedy</nameGrp>, <i>The Modern Industrialisation of Ireland, 1940&#x2013;1988</i> (Dundalk: Dundalgan Press, 1989), 15.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-109" type="footnote"><p><enumerator><sup>109</sup></enumerator> Kennedy and Dowling, <i>Economic Growth in Ireland: The Experience since 1947</i>, 232.</p></note>
+<note id="oso-9780198878230-chapter-6-note-110" type="footnote"><p><enumerator><sup>110</sup></enumerator> CIP (various years); <bibItem id="oso-9780198878230-chapter-6-bibItem-58" class="journalArticle" author="Denis, O&#x2019;Hearn" date="1987" journalIssue="3" title="Estimates of New Foreign Manufacturing Employment in Ireland 1956&#x2013;1972" journalName="Economic and Social Review" vol="18" page="173" pageLast="188" purpose="display"><nameGrp foreNames="O&#x2019;Hearn" mainName="Denis" role="author">Denis O&#x2019;Hearn</nameGrp>, &#x2018;Estimates of New Foreign Manufacturing Employment in Ireland 1956&#x2013;1972&#x2019;. <i>Economic and Social Review</i> 18, 3 (1987): 173&#x2013;88.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-111" type="footnote"><p><enumerator><sup>111</sup></enumerator> Eligibility for New Industry grants formally required that plants be internationally competitive rather than export-oriented per se, though most were export-oriented. The 1967 <i>Survey of Grant-Aided Industry</i> (which excluded Shannon) found that while non-grant-aided firms had an export-output ratio of 18 per cent, the ratio for grant-aided firms was 74 per cent. New <i>foreign</i> industries exported 88&#x2009;per cent of their gross output in 1973: <bibItem id="oso-9780198878230-chapter-6-bibItem-59" class="book" author="McAleese, Dermot" date="1977" title="A Profile of Grant-Aided Industry in Ireland" place="Dublin" publisher="Industrial Development Authority" purpose="display"><nameGrp foreNames="Dermot" mainName="Mcaleese" role="author">Dermot McAleese</nameGrp>, <i>A Profile of Grant-Aided Industry in Ireland</i> (Dublin: Industrial Development Authority, 1977), 30</bibItem>, table 4.2; <bibItem id="oso-9780198878230-chapter-6-bibItem-60" class="bookChapter" partAuthor="McAleese, Dermot" partTitle="Ireland in the Enlarged EEC: Economic Consequences and Prospects" editor="Vaizey, John" date="1975" title="Economic Sovereignty and Regional Policy: A Symposium on Regional Problems in Britain and Ireland" page="138" place="Dublin" publisher="Gill and Macmillan" purpose="display"><nameGrp foreNames="Dermot" mainName="Mcaleese" role="partAuthor">Dermot McAleese</nameGrp>, &#x2018;Ireland in the Enlarged EEC: Economic Consequences and Prospects&#x2019;, in <i>Economic Sovereignty and Regional Policy: A Symposium on Regional Problems in Britain and Ireland</i>, ed. <nameGrp foreNames="John" mainName="Vaizey" role="editor">John Vaizey</nameGrp> (Dublin: Gill and Macmillan, 1975), 138.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-112" type="footnote"><p><enumerator><sup>112</sup></enumerator> Kire Manufacturing had established in Kinsale in 1960 and by 1971 had other factories in Bandon, Fermoy, and Newmarket. Employment peaked at 400. Its 1,500 workers in West Virginia had gone on strike over concerns that production was being outsourced to Ireland.</p></note>
+<note id="oso-9780198878230-chapter-6-note-113" type="footnote"><p><enumerator><sup>113</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-61" class="journalArticle" author="Mason, Mark" date="1992" journalIssue="3" title="The Origins and Evolution of Japanese Direct Investment in Europe" journalName="Business History Review" vol="66" page="435" pageLast="474" purpose="display"><nameGrp foreNames="Mark" mainName="Mason" role="author">Mark Mason</nameGrp>, &#x2018;The Origins and Evolution of Japanese Direct Investment in Europe&#x2019;. <i>Business History Review</i> 66, 3 (1992): 435&#x2013;74.</bibItem> A&#x00A0;year after it established at Shannon, Sony opened a regional office in Zug, Switzerland, &#x2018;to support the company&#x2019;s European efforts and take advantage of local tax laws&#x2019;.</p></note>
+<note id="oso-9780198878230-chapter-6-note-114" type="footnote"><p><enumerator><sup>114</sup></enumerator> <i>Irish Times</i>, 8 July 1960.</p></note>
+<note id="oso-9780198878230-chapter-6-note-115" type="footnote"><p><enumerator><sup>115</sup></enumerator> The 1967 <i>Survey of Grant-Aided Industry</i> found that &#x2018;for grant-aided industries operating in 1966 [&#x2026;] Britain is by far the most important market&#x2019; (paragraph 2.64). (Shannon enterprises were not included.) On Shannon, see Barry and O&#x2019;Mahony, &#x2018;Regime Change in 1950s Ireland&#x2019;.</p></note>
+<note id="oso-9780198878230-chapter-6-note-116" type="footnote"><p><enumerator><sup>116</sup></enumerator> Buckley shows that US and Continental European-owned projects were much more heavily oriented towards the EEC market than UK-owned projects: <bibItem id="oso-9780198878230-chapter-6-bibItem-62" class="unclassified" author="Buckley, Peter" date="1975" purpose="display"><nameGrp foreNames="Peter" mainName="Buckley" role="author">Peter Buckley</nameGrp>, &#x2018;The Effect of Foreign Direct Investment on the Economy of the Irish Republic&#x2019;, Ph.D. thesis, Lancaster University, 1975, 148&#x2013;149.</bibItem> See also Teeling, &#x2018;The Evolution of Offshore Investment&#x2019;, 30&#x2013;32, tables 2.2&#x2013;2.4.</p></note>
+<note id="oso-9780198878230-chapter-6-note-117" type="footnote"><p><enumerator><sup>117</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-63" class="book" author="Kennedy, Kieran|Giblin, Thomas|McHugh, Deirdre" date="1988" title="The Economic Development of Ireland in the Twentieth Century" page="194" place="London" publisher="Routledge" purpose="display"><nameGrp foreNames="Kieran" mainName="Kennedy" role="author">Kieran Kennedy</nameGrp>, <nameGrp foreNames="Thomas" mainName="Giblin" role="author">Thomas Giblin</nameGrp>, and <nameGrp foreNames="Deirdre" mainName="Mchugh" role="author">Deirdre McHugh</nameGrp>, <i>The Economic Development of Ireland in the Twentieth Century</i> (London: Routledge, 1988), 194.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-118" type="footnote"><p><enumerator><sup>118</sup></enumerator> The first detailed breakdown by destination for Shannon is for 1973, when North America accounted for a higher share of exports than the entire EEC, including the United Kingdom.</p></note>
+<note id="oso-9780198878230-chapter-6-note-119" type="footnote"><p><enumerator><sup>119</sup></enumerator> McAleese, &#x2018;Ireland in the Enlarged EEC: Economic Consequences and Prospects&#x2019;, 138. For a detailed analysis of the period 1966&#x2013;1973 see <bibItem id="oso-9780198878230-chapter-6-bibItem-64" class="book" author="Blackwell, John|Danaher, Gerard|O&#x2019;Malley, Eoin" date="1983" title="An Analysis of Job Losses in Irish Manufacturing Industry" place="Dublin" publisher="National Economic and Social Council" purpose="display"><nameGrp foreNames="John" mainName="Blackwell" role="author">John Blackwell</nameGrp>, <nameGrp foreNames="Gerard" mainName="Danaher" role="author">Gerard Danaher</nameGrp>, and <nameGrp foreNames="Eoin" mainName="O&#x2019;malley" role="author">Eoin O&#x2019;Malley</nameGrp>, <i>An Analysis of Job Losses in Irish Manufacturing Industry</i> (Dublin: National Economic and Social Council, 1983).</bibItem></p></note>
+</noteGroup>
+<floatGroup id="oso-9780198878230-chapter-6-floatGroup-2">
+<tableGroup id="oso-9780198878230-chapter-6-tableGroup-7" doi="10.1093/oso/9780198878230.003.0006.007.0007" placement="float">
+<table id="oso-9780198878230-chapter-6-table-7" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-6-titleGroup-11"><title id="C6T7"><p><enumerator>Table 6.7</enumerator> Major &#x2018;new foreign industry&#x2019; employers, <i>c</i>. 1961</p></title></titleGroup>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<thead>
+<row>
+<entry colname="col1" align="left"><p>Firm</p></entry>
+<entry colname="col2" align="left"><p>Sector</p></entry>
+<entry colname="col3" align="left"><p>Nationality</p></entry>
+<entry colname="col4" align="left"><p>Date established</p></entry>
+<entry colname="col5" align="left"><p>Employment, <i>c</i>. 1961</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>Verolme</p></entry>
+<entry colname="col2" align="left"><p>Dockyard</p></entry>
+<entry colname="col3" align="left"><p>Dutch</p></entry>
+<entry colname="col4" align="left"><p>1959</p></entry>
+<entry colname="col5" align="left"><p>700</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Irish Refining</p></entry>
+<entry colname="col2" align="left"><p>Oil refining</p></entry>
+<entry colname="col3" align="left"><p>Anglo-American</p></entry>
+<entry colname="col4" align="left"><p>1959</p></entry>
+<entry colname="col5" align="left"><p>300</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Liebherr</p></entry>
+<entry colname="col2" align="left"><p>Crane construction</p></entry>
+<entry colname="col3" align="left"><p>German</p></entry>
+<entry colname="col4" align="left"><p>1958</p></entry>
+<entry colname="col5" align="left"><p>330</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Wavin Pipes</p></entry>
+<entry colname="col2" align="left"><p>Plastic pipes</p></entry>
+<entry colname="col3" align="left"><p>Dutch</p></entry>
+<entry colname="col4" align="left"><p>1957</p></entry>
+<entry colname="col5" align="left"><p>150</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Kire Manufacturing</p></entry>
+<entry colname="col2" align="left"><p>Women&#x2019;s clothing</p></entry>
+<entry colname="col3" align="left"><p>United States</p></entry>
+<entry colname="col4" align="left"><p>1960</p></entry>
+<entry colname="col5" align="left"><p>300</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>SPS, Shannon</p></entry>
+<entry colname="col2" align="left"><p>Steel tools</p></entry>
+<entry colname="col3" align="left"><p>United States</p></entry>
+<entry colname="col4" align="left"><p>1959</p></entry>
+<entry colname="col5" align="left"><p>400</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Source</i>: author.</p></source>
+</table>
+</tableGroup>
+<tableGroup id="oso-9780198878230-chapter-6-tableGroup-8" doi="10.1093/oso/9780198878230.003.0006.007.0008" placement="float">
+<table id="oso-9780198878230-chapter-6-table-8" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-6-titleGroup-12"><title id="C6T8"><p><enumerator>Table 6.8</enumerator> Manufactured exports (excluding Shannon), 1956&#x2013;1972</p></title></titleGroup>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<thead>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>1956</p></entry>
+<entry colname="col3" align="left"><p>1961</p></entry>
+<entry colname="col4" align="left"><p>1972</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>Manufactured exports as share of total exports</p></entry>
+<entry colname="col2" align="left"><p>12</p></entry>
+<entry colname="col3" align="left"><p>18</p></entry>
+<entry colname="col4" align="left"><p>40</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>UK-market share of manufactured exports</p></entry>
+<entry colname="col2" align="left"><p>81</p></entry>
+<entry colname="col3" align="left"><p>80</p></entry>
+<entry colname="col4" align="left"><p>59</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>EEC6 market share of manufactured exports</p></entry>
+<entry colname="col2" align="left"><p>4</p></entry>
+<entry colname="col3" align="left"><p>9</p></entry>
+<entry colname="col4" align="left"><p>17</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Note</i>: Manufactured exports exclude food and drink.</p>
+<p><i>Sources</i>: Irish Export Board (CTT) annual reports.</p></source>
+</table>
+</tableGroup>
+</floatGroup>
+</div1>
+<div1 id="oso-9780198878230-chapter-6-div1-5" doi="10.1093/oso/9780198878230.003.0006.021.0005">
+<titleGroup id="oso-9780198878230-chapter-6-titleGroup-13"><title id="C6S4"><p><enumerator>6.4</enumerator> The Largest Manufacturing Employers of the Early 1960s</p></title></titleGroup>
+<p id="C6P80">Details of the largest manufacturing employers at key junctures in the past have been provided in <xrefGrp>Chapters&#x00A0;<xref ref="oso-9780198878230-chapter-2">2</xref></xrefGrp>, <xrefGrp><xref ref="oso-9780198878230-chapter-4">4</xref></xrefGrp>, and <xrefGrp><xref ref="oso-9780198878230-chapter-5">5</xref></xrefGrp>. <xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-6-tableGroup-9">6.9</xref></xrefGrp> identifies the largest manufacturing employers of the early 1960s.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-120"><sup>120</sup></xref></xrefGrp> Unsurprisingly, the expansion in employment since the late 1940s was accompanied by a substantial increase in the number of relatively large firms (i.e. with workforces of 500+). None of the export-oriented greenfield FDI firms that had entered as a consequence of the new strategy yet met the criterion for inclusion.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-121"><sup>121</sup></xref></xrefGrp></p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-6-tableGroup-9"?></p>
+<p id="C6P81">Most of the firms that appeared on the equivalent list for the late 1940s had expanded in the interim. A number of semi-state or state-supported companies&#x2014;Irish Steel Holdings, Verolme Dockyard, and the Industrial Engineering Company&#x2014;also entered this size category for the first time (<xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-6-tableGroup-10">6.10</xref></xrefGrp>). Given its extremely limited capacity, Irish Steel remained dependent on protection and a monopoly on scrap metal purchases. The nearby Rushbrooke Dockyard, which had been reopened in 1941, was acquired by Dutch company Verolme in 1959. Employment, as at the Liffey dockyard, was sporadic: the relatively large workforce recorded in <xrefGrp>Table&#x00A0;<xref ref="oso-9780198878230-chapter-6-tableGroup-9">6.9</xref></xrefGrp> reflected <page id="147" chapter=""/><page id="148" chapter=""/>completion of a ship launched in 1961. Verolme also engaged in heavy general engineering work for the Irish market. It, too, was heavily subsidized, and the government took an almost 50 per cent stake in the company in 1968.</p>
+<p id="C6P82">Industrial Engineering had been formed in 1958 to provide employment for the almost 1,000 workers threatened with redundancy by the closure of the Great Northern rail yards. The largest of its five subsidiaries was Dundalk Engineering Works.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-122"><sup>122</sup></xref></xrefGrp> Goods produced at the site included Heinkel &#x2018;bubble cars&#x2019;, agricultural machinery, steel foundry products, and chassis for heavy-duty road vehicles. Contract work was also carried out for the state transport company CI&#x00C9; in relation to the repair and maintenance of rolling stock. This venture also cost the state large sums of money, both directly and through the Industrial Credit Corporation, and was liquidated in 1966.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-123"><sup>123</sup></xref></xrefGrp></p>
+<p id="C6P83">Two further firm-specific developments of note relate to Guinness and Jacobs, the largest Dublin manufacturers. Guinness opened a brewery in Lagos, Nigeria in the early 1960s. This was the first to have been purpose-built by the company since Park Royal in London. Its brief venture in the post-war United States has been largely forgotten. E. &#x0026; J. Burke, Guinness&#x2019;s early export bottlers, had been brewing stout and ale on Long Island since the end of Prohibition. Hoping to capitalize on the popularity of its product with the US troops who had been stationed in Northern Ireland during the war, Guinness acquired the brewery from Burke in 1949. It was found, however, that <page id="149" chapter=""/>the servicemen, upon repatriation, tended &#x2018;to go back to their favourite home products&#x2019;.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-124"><sup>124</sup></xref></xrefGrp> The New York brewery closed in 1954 and Guinness returned to supplying the US market from St James&#x2019;s Gate.</p>
+<p id="C6P84">Jacobs had ceased exporting from Dublin during the Emergency and its entire overseas trade was sold to the UK sister company in 1949. Senior management blamed the government for refusing to sanction the supply of inputs necessary to maintain the overseas trade in order to satisfy domestic demand.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-125"><sup>125</sup></xref></xrefGrp> The company had been exporting more than two-thirds of its output in the early Free State era. Its export&#x2013;output ratio in 1972 stood at only 15 per cent.<xrefGrp role="footnote"><xref ref="oso-9780198878230-chapter-6-note-126"><sup>126</sup></xref></xrefGrp></p>
+<p><?Insert-Table ID="oso-9780198878230-chapter-6-tableGroup-10"?></p>
+<noteGroup>
+<note id="oso-9780198878230-chapter-6-note-120" type="footnote"><p><enumerator><sup>120</sup></enumerator> Employment at milk distributor Merville Dairies and builders&#x2019; suppliers Dockrells and Brooks Thomas had also expanded to around 500 by this time. Knitwear producer C. Kennedy &#x0026; Sons of Ardara, County Donegal, was one of the largest employers of out-workers, with around 800 home knitters on its books.</p></note>
+<note id="oso-9780198878230-chapter-6-note-121" type="footnote"><p><enumerator><sup>121</sup></enumerator> Philips was something of an intermediate case. The output of its Clonskeagh plant was initially directed towards the home market, but exporting had begun by 1962. It opened a fully export-oriented plant at Finglas several&#x00A0;years later.</p></note>
+<note id="oso-9780198878230-chapter-6-note-122" type="footnote"><p><enumerator><sup>122</sup></enumerator> The others were Heinkel Cabin Scooters, Commercial Road Vehicles, Frank Bonser and Co., and Dealgan Steel Founders.</p></note>
+<note id="oso-9780198878230-chapter-6-note-123" type="footnote"><p><enumerator><sup>123</sup></enumerator> For an analysis of the failed endeavour, see <bibItem id="oso-9780198878230-chapter-6-bibItem-65" class="book" author="Flynn, Charles" date="2000" title="Dundalk 1900&#x2013;1960: An Oral History" page="189" pageLast="190" publisher="National University of Ireland Maynooth" purpose="display"><nameGrp foreNames="Charles" mainName="Flynn" role="author">Charles Flynn</nameGrp>, <i>Dundalk 1900&#x2013;1960: An Oral History</i> (National University of Ireland Maynooth, 2000), 189&#x2013;90.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-124" type="footnote"><p><enumerator><sup>124</sup></enumerator> <i>Irish Times</i>, 9 August 1954; see also <i>Irish Times</i>, 15 June 1949.</p></note>
+<note id="oso-9780198878230-chapter-6-note-125" type="footnote"><p><enumerator><sup>125</sup></enumerator> <bibItem id="oso-9780198878230-chapter-6-bibItem-66" class="book" author="&#x00D3; Maiti&#x00FA;, S&#x00E9;amus" date="2001" title="W. &#x0026; R. Jacob: Celebrating 150&#x00A0;Years of Irish Biscuit Making" page="81" place="Dublin" publisher="Woodfield Press" purpose="display"><nameGrp foreNames="S&#x00E9;Amus" mainName="&#x00d3; Maiti&#x00fa;" role="author">S&#x00E9;amus &#x00D3; Maiti&#x00FA;</nameGrp>, <i>W. &#x0026; R. Jacob: Celebrating 150&#x00A0;Years of Irish Biscuit Making</i> (Dublin: Woodfield Press, 2001), 81.</bibItem></p></note>
+<note id="oso-9780198878230-chapter-6-note-126" type="footnote"><p><enumerator><sup>126</sup></enumerator> Largest Irish Industrial Companies, <i>Irish Times</i> 28 December 1972.</p></note>
+</noteGroup>
+<floatGroup id="oso-9780198878230-chapter-6-floatGroup-3">
+<tableGroup id="oso-9780198878230-chapter-6-tableGroup-9" doi="10.1093/oso/9780198878230.003.0006.007.0009" placement="float">
+<table id="oso-9780198878230-chapter-6-table-9" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-6-titleGroup-14"><title id="C6T9"><p><enumerator>Table 6.9</enumerator> Firms employing 500+ in the early 1960s</p></title></titleGroup>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<thead>
+<row>
+<entry colname="col1" align="left"><p>Industry</p></entry>
+<entry colname="col2" align="left"><p>Firm name</p></entry>
+<entry colname="col3" align="left"><p>Employment, 1960&#x2013;1962</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>Meat</p></entry>
+<entry colname="col2" align="left"><p>Denny (UK)</p></entry>
+<entry colname="col3" align="left"><p>500</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>O&#x2019;Mara</p></entry>
+<entry colname="col3" align="left"><p>500</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Clover Meats</p></entry>
+<entry colname="col3" align="left"><p>500</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Dairy</p></entry>
+<entry colname="col2" align="left"><p>Dairy Disposal Company</p></entry>
+<entry colname="col3" align="left"><p>1,296 (1964)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Mitchelstown Co-operative</p></entry>
+<entry colname="col3" align="left"><p>600</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Milling, bread, and biscuits</p></entry>
+<entry colname="col2" align="left"><p>Ranks Group (UK)</p></entry>
+<entry colname="col3" align="left"><p>1,000</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Jacobs</p></entry>
+<entry colname="col3" align="left"><p>2,400</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Bolands</p></entry>
+<entry colname="col3" align="left"><p>1,000</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Johnston, Mooney &#x0026; O&#x2019;Brien</p></entry>
+<entry colname="col3" align="left"><p>800</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Chocolate, sugar, and confectionery</p></entry>
+<entry colname="col2" align="left"><p>Irish Sugar</p></entry>
+<entry colname="col3" align="left"><p>2,000</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Crosse &#x0026; Blackwell (UK)</p></entry>
+<entry colname="col3" align="left"><p>950</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Rowntree (UK)</p></entry>
+<entry colname="col3" align="left"><p>1,150</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Cadbury (UK)</p></entry>
+<entry colname="col3" align="left"><p>790&#x2013;1,000</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Urney</p></entry>
+<entry colname="col3" align="left"><p>600</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Brewing</p></entry>
+<entry colname="col2" align="left"><p>Guinness (UK)</p></entry>
+<entry colname="col3" align="left"><p>3,700</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Tobacco</p></entry>
+<entry colname="col2" align="left"><p>Players&#x2013;Wills (UK)</p></entry>
+<entry colname="col3" align="left"><p>1,500</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Carrolls</p></entry>
+<entry colname="col3" align="left"><p>500</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Textiles, clothing, and hosiery</p></entry>
+<entry colname="col2" align="left"><p>Goodbody Jute</p></entry>
+<entry colname="col3" align="left"><p>1,200</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Greenmount &#x0026; Boyne</p></entry>
+<entry colname="col3" align="left"><p>800</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>General Textiles</p></entry>
+<entry colname="col3" align="left"><p>830</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Blarney Woollen Mills</p></entry>
+<entry colname="col3" align="left"><p>740</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Sunbeam&#x2013;Wolsey</p></entry>
+<entry colname="col3" align="left"><p>2,500</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Salts (UK)</p></entry>
+<entry colname="col3" align="left"><p>850</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Seafield Fabrics (including Blackwater Cottons)</p></entry>
+<entry colname="col3" align="left"><p>800</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Irish Ropes</p></entry>
+<entry colname="col3" align="left"><p>530</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Footwear</p></entry>
+<entry colname="col2" align="left"><p>Rawson (UK)</p></entry>
+<entry colname="col3" align="left"><p>700</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Halliday/Clarks (UK)</p></entry>
+<entry colname="col3" align="left"><p>800</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Lee Boot &#x0026; Hanover Shoe (Dwyers)</p></entry>
+<entry colname="col3" align="left"><p>500</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Paper and print</p></entry>
+<entry colname="col2" align="left"><p><i>Irish Independent</i></p></entry>
+<entry colname="col3" align="left"><p>900</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Alexander Thom Group</p></entry>
+<entry colname="col3" align="left"><p>1,000</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Browne &#x0026; Nolan</p></entry>
+<entry colname="col3" align="left"><p>530</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Irish Press</p></entry>
+<entry colname="col3" align="left"><p>900</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Clondalkin Paper</p></entry>
+<entry colname="col3" align="left"><p>500</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Killeen Paper</p></entry>
+<entry colname="col3" align="left"><p>670</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Vehicles</p></entry>
+<entry colname="col2" align="left"><p>Ford (US)</p></entry>
+<entry colname="col3" align="left"><p>800</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Lincoln &#x0026; Nolan</p></entry>
+<entry colname="col3" align="left"><p>500</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Other metals and engineering</p></entry>
+<entry colname="col2" align="left"><p>Liffey Dockyard</p></entry>
+<entry colname="col3" align="left"><p>600</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Verolme Dockyard (Netherlands)</p></entry>
+<entry colname="col3" align="left"><p>1,000</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Industrial Engineering Company, Dundalk</p></entry>
+<entry colname="col3" align="left"><p>800</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Irish Steel</p></entry>
+<entry colname="col3" align="left"><p>650</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Philips (Netherlands)</p></entry>
+<entry colname="col3" align="left"><p>500</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Pye (UK)</p></entry>
+<entry colname="col3" align="left"><p>650</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Unidare</p></entry>
+<entry colname="col3" align="left"><p>1,500</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Hammond Lane Group</p></entry>
+<entry colname="col3" align="left"><p>800</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Clay, glass, and cement</p></entry>
+<entry colname="col2" align="left"><p>Cement Ltd</p></entry>
+<entry colname="col3" align="left"><p>900</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Arklow Pottery</p></entry>
+<entry colname="col3" align="left"><p>520</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Waterford Glass</p></entry>
+<entry colname="col3" align="left"><p>600</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Irish Glass Bottle</p></entry>
+<entry colname="col3" align="left"><p>800</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Fertilizer</p></entry>
+<entry colname="col2" align="left"><p>Gouldings</p>
+<p>Gouldings Group</p></entry>
+<entry namest="col3" nameend="col3" align="left"><p>600</p>
+<p>1,200</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Miscellaneous</p></entry>
+<entry colname="col2" align="left"><p>Irish Dunlop (UK)</p></entry>
+<entry colname="col3" align="left"><p>2,100</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Source</i>: author.</p></source>
+</table>
+</tableGroup>
+<tableGroup id="oso-9780198878230-chapter-6-tableGroup-10" doi="10.1093/oso/9780198878230.003.0006.007.0010" placement="float">
+<table id="oso-9780198878230-chapter-6-table-10" frame="topbot">
+<titleGroup id="oso-9780198878230-chapter-6-titleGroup-15"><title id="C6T10"><p><enumerator>Table 6.10</enumerator> Employment in Verolme, Irish Steel, and Dundalk Industrial Engineering</p></title></titleGroup>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<thead>
+<row>
+<entry colname="col1" align="left"/>
+<entry colname="col2" align="left"><p>Employment</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1" align="left"><p>Verolme Dockyard</p></entry>
+<entry colname="col2" align="left"><p>200 (1960), 700 (1961), 800 (1966), 870 (1969), 1,100 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Irish Steel (Irish Steel Holdings from 1947)</p></entry>
+<entry colname="col2" align="left"><p>120 (1938), 250 (1946), 450 (1950, 1960), 650 (1961), 800 (1968), 847 (1972)</p></entry>
+</row>
+<row>
+<entry colname="col1" align="left"><p>Industrial Engineering Company, Dundalk</p></entry>
+<entry colname="col2" align="left"><p>800 (1962), liquidated 1966</p></entry>
+</row>
+</tbody>
+</tgroup>
+<source><p><i>Source</i>: author.</p></source>
+</table>
+</tableGroup>
+</floatGroup>
+</div1>
+</textMatter>
+</chapter>
+</mainText>
+</book>
